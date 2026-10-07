@@ -1194,8 +1194,9 @@ BACKGROUND: A glowing gold path running through four stylized CGI scenes in sequ
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "WHAT STAYS THE SAME WHEN YOU CHANGE INDUSTRIES?"
-- Under it, smaller gold line: "Stephen Jemal worked across retail, construction and real estate. Swipe for the playbook →"
+- Very large white bold headline: "RETAIL, CONSTRUCTION, REAL ESTATE, HOUSING TECH. WHAT STAYED THE SAME?"
+- Under it, smaller gold line: "The playbook that traveled. Swipe →"
+- Small gray source line under the gold line: "Source: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -1208,10 +1209,11 @@ ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illus
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "FOUR CHAPTERS"
-- Large white headline: "ONE APPROACH ACROSS INDUSTRIES"
+- Large white headline: "ONE APPROACH ACROSS FOUR INDUSTRIES"
 FLOW of 4 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of storefront with label "RETAIL", gold line icon of hard hat with label "CONSTRUCTION", gold line icon of apartment building with label "REAL ESTATE", gold line icon of factory with label "HOUSING TECH"
-CARD 1 (rounded dark navy card with a left gold accent bar): gold title "THE LINK", white body "The link between the Wiz and Stephen's later development work is not the product category. It is the approach."
+CARD 1 (rounded dark navy card with a left gold accent bar): gold title "THE LINK", white body "What links the Wiz era to my development work isn't the product. It's the approach."
 - Gold italic pull line: "Industries change. The approach travels."
+- Small gray source line above the footer: "Source: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -1226,10 +1228,11 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "WHAT CARRIED OVER"
 - Large white headline: "FOUR THINGS THAT TRAVELED"
 4 CARDS in a 2x2 grid, rounded dark navy with thin gold borders, each with a gold title and a short white line:
-"CLEAR IDENTITY" - "A name people remember, from the Wiz to PASHA"
-"MARKET GAP THINKING" - "Find the need that isn't fully served"
-"REPEATABLE SYSTEMS" - "From repeated store buildouts to prefab thinking"
+"CLEAR IDENTITY" - "A name people remember"
+"MARKET GAP THINKING" - "Find the need that isn't served"
+"REPEATABLE SYSTEMS" - "From store buildouts to prefab housing"
 "LOCATION JUDGMENT" - "From store sites to waterfront parcels"
+- Small gray source line above the footer: "Examples: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -1243,10 +1246,10 @@ ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illus
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "WHAT CHANGES"
 - Large white headline: "NEW INDUSTRY, NEW RULES"
-CARD 1 (rounded dark navy card with a thin gold border, gold line icon of map grid in a gold circle): gold title "NEW RULES", white body "Zoning and approvals decide how land can be used, how dense a project can be and what permissions it needs."
-CARD 2 (rounded dark navy card with a thin gold border, gold line icon of clipboard in a gold circle): gold title "NEW TEAMS", white body "Architects, engineers, consultants and municipal processes all have to be coordinated."
+CARD 1 (rounded dark navy card with a thin gold border, gold line icon of map grid in a gold circle): gold title "NEW RULES", white body "Zoning and approvals decide how land can be used and what a project needs."
+CARD 2 (rounded dark navy card with a thin gold border, gold line icon of clipboard in a gold circle): gold title "NEW TEAMS", white body "Architects, engineers and city processes all need coordinating."
 CARD 3 (rounded dark navy card with a thin gold border, gold line icon of factory in a gold circle): gold title "NEW TOOLS", white body "AI, robotics, cloud and laser-guided production in BUILT®."
-- Small gray source line above the footer: "Per Stephen Jemal's site"
+- Small gray source line above the footer: "BUILT® per stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "4/5"
 
@@ -1272,7 +1275,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Stephen Jemal's career moved from retail to construction to real estate and housing technology. The industries changed. The approach didn't: clear identity, market-gap thinking, repeatable systems. Which question would you ask first? Follow @StephenJemalNY.
+Retail. Construction. Real estate. Housing technology. My work has crossed four industries, from the Wiz era to JemRock and BUILT®.
+
+The products changed. The approach traveled: a clear identity, market-gap thinking, repeatable systems and location judgment.
+
+Save the 5-point cross-industry check.
+
+#Entrepreneurship #Leadership #Strategy
+
+What carried over from your first industry?
 
 
 === CARRUSEL 14: New-store opening checklist (Scaling and systems (general guidance)) ===
@@ -1283,8 +1294,9 @@ BACKGROUND: A row of glowing storefront blueprints on a navy grid, one lit and o
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "OPENING STORE #2 VS. STORE #100"
-- Under it, smaller gold line: "The checklist behind every new location. Swipe to save it →"
+- Very large white bold headline: "OPENING YOUR NEXT STORE? SAVE THIS 6-STEP CHECKLIST."
+- Under it, smaller gold line: "Location to launch, in one place. Swipe →"
+- Small gray source line under the gold line: "General retail guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -1296,11 +1308,11 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a top-down city street map with a glowing gold route and pins, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "BEFORE YOU SIGN"
+- Top, small gold caps: "BEFORE YOU BUILD"
 - Large white headline: "LOCATION, LEASE, BUILDOUT"
 CARD 1 (rounded dark navy card with a thin gold border, gold line icon of map pin in a gold circle): gold title "LOCATION", white lines with small gold check icons: "Who lives and shops nearby", "How customers reach the site", "Who the competitors are"
-CARD 2 (rounded dark navy card with a thin gold border, gold line icon of clipboard in a gold circle): gold title "LEASE", white lines with small gold check icons: "Rent compared with expected traffic", "Term, renewal and exit options"
-CARD 3 (rounded dark navy card with a thin gold border, gold line icon of blueprint in a gold circle): gold title "BUILDOUT", white lines with small gold check icons: "Design and fixtures", "Construction timed to the opening"
+CARD 2 (rounded dark navy card with a thin gold border, gold line icon of document in a gold circle): gold title "LEASE", white lines with small gold check icons: "Rent against expected traffic", "Term, renewal and exit options"
+CARD 3 (rounded dark navy card with a thin gold border, gold line icon of blueprint in a gold circle): gold title "BUILDOUT", white lines with small gold check icons: "Design and fixtures", "Construction timed to opening"
 - Small gray source line above the footer: "General guidance, not legal advice"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
@@ -1315,9 +1327,11 @@ ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illus
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "BEFORE YOU OPEN"
 - Large white headline: "PEOPLE, PRODUCT, PRESENTATION"
-CARD 1 (rounded dark navy card with a thin gold border, gold line icon of storefront in a gold circle): gold title "TEAM", white body "Hire early and train to one standard before opening day."
-CARD 2 (rounded dark navy card with a thin gold border, gold line icon of stack of storefronts in a gold circle): gold title "INVENTORY AND SUPPLIERS", white body "Orders placed, deliveries confirmed and a backup plan ready."
-CARD 3 (rounded dark navy card with a thin gold border, gold line icon of banner with star in a gold circle): gold title "LAYOUT AND DISPLAYS", white body "Merchandising set so the entrance, flow and promotions match the brand."
+4 CARDS in a 2x2 grid, rounded dark navy with thin gold borders, each with a gold title and a short white line:
+"TEAM" - "Hired early, trained to one standard"
+"INVENTORY" - "Orders placed, deliveries confirmed, a backup ready"
+"LAYOUT" - "Entrance, flow and displays match the brand"
+"LAUNCH" - "One message across every channel"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -1329,11 +1343,10 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a clipboard with glowing gold check marks, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "LAUNCH"
+- Top, small gold caps: "AFTER YOU OPEN"
 - Large white headline: "OPEN, THEN REVIEW"
 FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of clipboard with label "PREPARE", gold line icon of storefront with label "OPEN", gold line icon of magnifying glass with label "REVIEW"
-CARD 1 (rounded dark navy card with a thin gold border): gold title "LAUNCH WEEK", white lines with small gold check icons: "One consistent message across channels", "Opening-day staffing plan", "Customer feedback captured"
-CARD 2 (rounded dark navy card with a left gold accent bar): gold title "AFTER THE OPENING", white body "Compare results with the plan, fix what slipped, and update the checklist for the next store."
+CARD 1 (rounded dark navy card with a left gold accent bar): gold title "AFTER THE OPENING", white body "Compare results with the plan, fix what slipped, and update the checklist for the next store."
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "4/5"
 
@@ -1354,13 +1367,22 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 "6" - "Launch message set"
 - Gold rounded button with dark navy text: "Comment the step stores forget most"
 - Below it, white text: "Follow @StephenJemalNY for the next chapter"
+- Small gray source line above the footer: "General guidance, not legal advice"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "5/5"
 
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Opening store #2 and store #100 take the same checklist. Swipe for the six steps behind every new location, from the lease to launch week. General guidance, not legal advice. Which step do stores forget most? Follow @StephenJemalNY.
+Opening another location? This is the checklist I'd want in hand: location, lease, buildout, team, inventory, layout and launch.
+
+General guidance. Have a lawyer review any lease.
+
+Save it for your next opening.
+
+#SmallBusiness #Retail #Operations
+
+Which step do stores forget most?
 
 
 === CARRUSEL 15: Training at scale (Scaling and systems (general guidance)) ===
@@ -1371,8 +1393,9 @@ BACKGROUND: A stylized CGI scene of a clipboard with glowing gold check marks, r
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "HOW DO YOU TRAIN A WHOLE CHAIN?"
-- Under it, smaller gold line: "One standard, many locations. Swipe for the method →"
+- Very large white bold headline: "HOW DO YOU TRAIN A WHOLE CHAIN TO ONE STANDARD?"
+- Under it, smaller gold line: "Write it. Teach it. Check it. Swipe →"
+- Small gray source line under the gold line: "General retail guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -1384,7 +1407,7 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a clipboard with glowing gold check marks, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE TRAINING LOOP"
+- Top, small gold caps: "THE METHOD"
 - Large white headline: "WRITE IT. TEACH IT. CHECK IT."
 FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of clipboard with label "WRITE IT", gold line icon of people with label "TEACH IT", gold line icon of magnifying glass with label "CHECK IT"
 CARD 1 (rounded dark navy card with a thin gold border): gold title "WRITE THE STANDARD", white body "Put the right way to greet, advise and close a sale on paper."
@@ -1400,13 +1423,13 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of gold steps rising with an upward arrow, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE FIRST 30 DAYS"
-- Large white headline: "A NEW HIRE'S ROADMAP"
+- Top, small gold caps: "ONBOARDING"
+- Large white headline: "A NEW HIRE'S FIRST MONTH"
 VERTICAL TIMELINE with gold dots joined by a gold line, white text:
-"Before day 1: role, standards and tools explained"
-"Day 1: shadow a strong team member"
-"Week 1: practice with real customers and get feedback"
-"Day 30: review results and refine"
+"Before day one: role, standards and tools explained"
+"Day one: shadow a strong team member"
+"First week: practice with real customers, get feedback"
+"End of month one: review results and refine"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -1450,7 +1473,13 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-A chain is only as consistent as its training. Swipe for a simple loop: write it, teach it, check it. Where does training break down in your business? Follow @StephenJemalNY.
+If every store trains its own way, quality depends on who's working that day.
+
+The method I'd use: write the standard, teach it the same way everywhere, and check it. Swipe for a new hire's first month and save the 5 training questions.
+
+#Training #SmallBusiness #Leadership
+
+Where does training break down in your business?
 
 
 === CARRUSEL 16: Merchandising basics (Scaling and systems (general guidance)) ===
@@ -1461,8 +1490,9 @@ BACKGROUND: A stylized CGI scene of a gold price tag, rendered large in the uppe
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "WHAT IS YOUR STORE LAYOUT REALLY SAYING?"
-- Under it, smaller gold line: "Six rules for guiding customers from door to register. Swipe →"
+- Very large white bold headline: "SIX LAYOUT RULES THAT GUIDE CUSTOMERS FROM DOOR TO REGISTER"
+- Under it, smaller gold line: "Save them for your next reset. Swipe →"
+- Small gray source line under the gold line: "General retail guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -1474,7 +1504,7 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a glowing lit corner storefront with an awning at dusk, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE CUSTOMER PATH"
+- Top, small gold caps: "THE PATH"
 - Large white headline: "FROM DOOR TO REGISTER"
 - White body text: "A good layout guides customers along this path on purpose."
 FLOW of 4 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of storefront with label "ENTER", gold line icon of magnifying glass with label "BROWSE", gold line icon of banner with star with label "DECIDE", gold line icon of tag with label "BUY"
@@ -1489,8 +1519,8 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a gold price tag, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "FOUR LEVERS"
-- Large white headline: "WHAT YOU CONTROL"
+- Top, small gold caps: "WHAT YOU CONTROL"
+- Large white headline: "FOUR LEVERS IN EVERY STORE"
 4 CARDS in a 2x2 grid, rounded dark navy with thin gold borders, each with a gold title and a short white line:
 "ENTRANCE" - "Show your clearest offer first"
 "FLOW" - "Make the path easy to follow"
@@ -1540,7 +1570,13 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Your store layout is talking to every customer. Swipe for six layout rules that guide people from the door to the register. Which one does your space need most? Follow @StephenJemalNY.
+Your layout talks before your staff does.
+
+I broke merchandising into the path every customer takes: enter, browse, decide, buy. Swipe for what you control at each step, then save the 6 layout rules.
+
+#Retail #Merchandising #SmallBusiness
+
+What's your best layout tip?
 
 
 === CARRUSEL 17: Supplier relationships (Scaling and systems (general guidance)) ===
@@ -1551,8 +1587,9 @@ BACKGROUND: A stylized CGI scene of boxes riding a conveyor belt in warm light, 
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "YOUR SUPPLIER IS A BUSINESS PARTNER"
-- Under it, smaller gold line: "What separates a transaction from a partnership. Swipe →"
+- Very large white bold headline: "THE CHEAPEST SUPPLIER CAN COST YOU THE MOST"
+- Under it, smaller gold line: "Transaction or partner? Swipe →"
+- Small gray source line under the gold line: "General retail guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -1564,11 +1601,11 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of boxes riding a conveyor belt in warm light, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THREE HABITS"
-- Large white headline: "WHAT STRONG PARTNERSHIPS SHARE"
-CARD 1 (rounded dark navy card with a thin gold border, gold line icon of shield in a gold circle): gold title "RELIABILITY BEATS THE LOWEST PRICE", white body "A cheap shipment that arrives late can cost more than it saves."
-CARD 2 (rounded dark navy card with a thin gold border, gold line icon of document in a gold circle): gold title "CLEAR TERMS", white body "Agree on prices, delivery times and what happens when something goes wrong."
-CARD 3 (rounded dark navy card with a thin gold border, gold line icon of megaphone in a gold circle): gold title "EARLY COMMUNICATION", white body "Share forecasts and promotions early so suppliers can plan."
+- Top, small gold caps: "WHAT PARTNERS SHARE"
+- Large white headline: "WHAT STRONG SUPPLIER PARTNERSHIPS SHARE"
+CARD 1 (rounded dark navy card with a thin gold border, gold line icon of shield in a gold circle): gold title "RELIABILITY OVER PRICE", white body "A late shipment can cost more than it saves."
+CARD 2 (rounded dark navy card with a thin gold border, gold line icon of document in a gold circle): gold title "CLEAR TERMS", white body "Agree on prices, delivery times and what happens when things go wrong."
+CARD 3 (rounded dark navy card with a thin gold border, gold line icon of megaphone in a gold circle): gold title "EARLY COMMUNICATION", white body "Share forecasts and promotions early."
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -1577,11 +1614,11 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 3: Contenido 2 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of boxes riding a conveyor belt in warm light, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a clipboard with glowing gold check marks, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE CYCLE"
-- Large white headline: "THE SUPPLY LOOP"
+- Top, small gold caps: "THE SUPPLY LOOP"
+- Large white headline: "PLAN. ORDER. RECEIVE. REVIEW."
 FLOW of 4 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of clipboard with label "PLAN", gold line icon of document with label "ORDER", gold line icon of stack of storefronts with label "RECEIVE", gold line icon of magnifying glass with label "REVIEW"
 - Gold italic pull line: "Manage it like any other system, not as a one-off favor."
 - Bottom left, tiny gray: "@StephenJemalNY"
@@ -1595,7 +1632,7 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a gold shield with a check mark, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE SHIFT"
+- Top, small gold caps: "THE DIFFERENCE"
 - Large white headline: "TRANSACTION VS. PARTNER"
 TWO-COLUMN TABLE in a rounded dark navy card with thin gold borders. Gold caps column headers: left "TRANSACTION", right "PARTNER". A gold arrow between the columns on every row. Rows, white text:
 "Price only" → "Price and reliability"
@@ -1612,7 +1649,7 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 5 of 5. Gen
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "SAVE THIS"
-- Large white headline: "6-POINT SUPPLIER SCORECARD"
+- Large white headline: "THE 6-POINT SUPPLIER SCORECARD"
 6 NUMBERED ROWS, each a rounded dark navy bar with a gold number circle on the left and white text:
 "1" - "On-time delivery"
 "2" - "Quality consistency"
@@ -1628,7 +1665,13 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Your supplier is a business partner, not just a price. Swipe for what separates a transaction from a partnership, plus a scorecard to save. Who is your most reliable supplier? Follow @StephenJemalNY.
+The cheapest supplier can cost you the most. A late shipment can cost more than it saves.
+
+How I'd think about it: treat suppliers as partners, with clear terms, early forecasts and a backup option. Save the 6-point supplier scorecard.
+
+#SmallBusiness #SupplyChain #Retail
+
+What's your number one supplier rule?
 
 
 === CARRUSEL 18: Lease basics (Scaling and systems (general guidance)) ===
@@ -1639,8 +1682,9 @@ BACKGROUND: A stylized CGI scene of a large brass key beside a small house, rend
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "THE LEASE IS PART OF YOUR BUSINESS MODEL"
-- Under it, smaller gold line: "Six questions to ask before you sign. Swipe →"
+- Very large white bold headline: "RENT IS ONLY ONE LINE OF YOUR LEASE. CHECK THESE."
+- Under it, smaller gold line: "Six questions before you sign. Swipe →"
+- Small gray source line under the gold line: "General guidance, not legal advice"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -1652,13 +1696,14 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a large brass key beside a small house, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE BIG FOUR"
-- Large white headline: "WHAT TO WEIGH FIRST"
+- Top, small gold caps: "WHAT TO WEIGH FIRST"
+- Large white headline: "RENT, TERM, RENEWAL, EXIT"
 4 STACKED ROWS in rounded dark navy cards with thin gold borders; big gold label on the left, white text on the right:
-"RENT" - "Compare it with realistic customer traffic and sales"
+"RENT" - "Compare it with realistic traffic and sales"
 "TERM" - "How long you are committed"
 "RENEWAL" - "Whether you can stay, and at what cost"
 "EXIT" - "What happens if the location doesn't work"
+- Small gray source line above the footer: "General guidance, not legal advice"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -1670,11 +1715,12 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a gold blueprint grid with a house outline and dimension lines, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "READ THE DETAILS"
-- Large white headline: "WHAT ELSE TO CHECK"
-CARD 1 (rounded dark navy card with a thin gold border, gold line icon of blueprint in a gold circle): gold title "BUILDOUT", white body "What the landlord contributes to construction and what you must pay for."
+- Top, small gold caps: "WHAT ELSE TO CHECK"
+- Large white headline: "BUILDOUT, EXTRA COSTS, RESTRICTIONS"
+CARD 1 (rounded dark navy card with a thin gold border, gold line icon of blueprint in a gold circle): gold title "BUILDOUT", white body "What the landlord contributes and what you pay for."
 CARD 2 (rounded dark navy card with a thin gold border, gold line icon of tag in a gold circle): gold title "OTHER COSTS", white body "What is charged on top of base rent."
 CARD 3 (rounded dark navy card with a thin gold border, gold line icon of map grid in a gold circle): gold title "RESTRICTIONS", white body "What you can sell, display and change."
+- Small gray source line above the footer: "General guidance, not legal advice"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -1686,7 +1732,7 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a golden balance scale in perfect balance, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE PROCESS"
+- Top, small gold caps: "THE ORDER"
 - Large white headline: "REVIEW. NEGOTIATE. SIGN."
 FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of magnifying glass with label "REVIEW", gold line icon of scale with label "NEGOTIATE", gold line icon of key with label "SIGN"
 CARD 1 (rounded dark navy card with a left gold accent bar): gold title "GET A LAWYER", white body "Have a qualified lawyer review the lease before you sign."
@@ -1703,21 +1749,28 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "SAVE THIS"
 - Large white headline: "6 QUESTIONS FOR YOUR LANDLORD"
 6 NUMBERED ROWS, each a rounded dark navy bar with a gold number circle on the left and white text:
-"1" - "What is the total monthly cost?"
+"1" - "Total monthly cost?"
 "2" - "How long is the term?"
-"3" - "Can I renew, and at what rent?"
+"3" - "Can I renew, at what rent?"
 "4" - "What are my exit options?"
-"5" - "What buildout help is included?"
+"5" - "Any buildout help?"
 "6" - "What can I change or display?"
 - Gold rounded button with dark navy text: "Comment the question you'd add"
 - Below it, white text: "Follow @StephenJemalNY for the next chapter"
+- Small gray source line above the footer: "General guidance, not legal advice"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "5/5"
 
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-A lease is part of your business model, not paperwork. Swipe for what to weigh before you sign, plus six questions for your landlord. General guidance, not legal advice. What would you ask first? Follow @StephenJemalNY.
+Rent is only one line of your lease. Term, renewal, exit, buildout, extra costs and restrictions all shape your business. I listed what to weigh, and six questions for your landlord.
+
+General guidance, not legal advice: have a qualified lawyer review any lease before you sign.
+
+#SmallBusiness #CommercialRealEstate #Retail
+
+What question would you add?
 
 
 === CARRUSEL 19: One message, many channels (Scaling and systems (general guidance)) ===
@@ -1728,8 +1781,9 @@ BACKGROUND: A stylized CGI scene of a gold megaphone with radiating arcs of ligh
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "ONE PROMISE. EVERY CHANNEL."
-- Under it, smaller gold line: "How to keep your advertising sounding like one brand. Swipe →"
+- Very large white bold headline: "CAN A CUSTOMER REPEAT YOUR BRAND PROMISE IN FIVE WORDS?"
+- Under it, smaller gold line: "One promise, every channel. Swipe →"
+- Small gray source line under the gold line: "General retail guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -1743,7 +1797,7 @@ ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illus
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE IDEA"
 - Large white headline: "FROM PROMISE TO EXPERIENCE"
-- White body text: "Nobody Beats The Wiz worked as both a name and a claim."
+- White body text: "Say one promise, say it everywhere, and keep it in the store."
 FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of banner with star with label "ONE PROMISE", gold line icon of megaphone with label "EVERY CHANNEL", gold line icon of storefront with label "SAME IN STORE"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
@@ -1753,11 +1807,11 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 3: Contenido 2 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a gold megaphone with radiating arcs of light, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of four gold columns supporting a roof, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "FOUR HABITS"
-- Large white headline: "HOW TO KEEP IT CONSISTENT"
+- Top, small gold caps: "HOW TO KEEP IT CONSISTENT"
+- Large white headline: "FOUR RULES FOR ONE MESSAGE"
 4 CARDS in a 2x2 grid, rounded dark navy with thin gold borders, each with a gold title and a short white line:
 "SAY ONE THING" - "Pick a single promise customers can repeat"
 "SAY IT EVERYWHERE" - "Match signs, ads and posts to it"
@@ -1797,7 +1851,7 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 "3" - "Does the store deliver it?"
 "4" - "Is the look consistent?"
 "5" - "When did we last review it?"
-- Gold rounded button with dark navy text: "Comment your brand promise in 5 words"
+- Gold rounded button with dark navy text: "Comment your brand promise in five words"
 - Below it, white text: "Follow @StephenJemalNY for the next chapter"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "5/5"
@@ -1805,7 +1859,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-One promise, repeated everywhere, is how a name becomes a brand. Nobody Beats The Wiz worked as both a name and a claim. Swipe for how to keep every channel on message. Follow @StephenJemalNY.
+Can a customer repeat your brand promise in five words? If not, your channels are probably saying different things.
+
+How I'd fix it: say one thing, say it everywhere, show it in the store, and change the offers, not the identity.
+
+Save the 5-point message check.
+
+#Branding #Marketing #SmallBusiness
+
+What's your brand promise in five words?
 
 
 === CARRUSEL 20: Local market awareness (Scaling and systems (general guidance)) ===
@@ -1816,8 +1878,9 @@ BACKGROUND: A stylized CGI scene of a top-down city street map with a glowing go
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "EVERY NEIGHBORHOOD IS A DIFFERENT CUSTOMER"
-- Under it, smaller gold line: "Local market awareness for multi-location brands. Swipe →"
+- Very large white bold headline: "OPENING IN A NEW NEIGHBORHOOD? LEARN THESE 3 THINGS FIRST"
+- Under it, smaller gold line: "Adjust the offer, not the identity. Swipe →"
+- Small gray source line under the gold line: "General retail guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -1829,8 +1892,8 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a top-down city street map with a glowing gold route and pins, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "START HERE"
-- Large white headline: "THREE THINGS TO LEARN LOCALLY"
+- Top, small gold caps: "LEARN LOCALLY"
+- Large white headline: "THREE THINGS TO LEARN FIRST"
 CARD 1 (rounded dark navy card with a thin gold border, gold line icon of map pin in a gold circle): gold title "WHO LIVES AND SHOPS THERE", white body "Needs, habits and budgets differ block by block."
 CARD 2 (rounded dark navy card with a thin gold border, gold line icon of magnifying glass in a gold circle): gold title "WHAT COMPETITORS DO", white body "See what is already well served and what is missing."
 CARD 3 (rounded dark navy card with a thin gold border, gold line icon of map grid in a gold circle): gold title "HOW PEOPLE GET THERE", white body "Walking, driving and transit change who walks in."
@@ -1860,8 +1923,8 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a glowing lit corner storefront with an awning at dusk, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "KEEP VS. CHANGE"
-- Large white headline: "WHAT STAYS AND WHAT FLEXES"
+- Top, small gold caps: "WHAT STAYS, WHAT FLEXES"
+- Large white headline: "KEEP, ADJUST, TEST, REVIEW"
 4 STACKED ROWS in rounded dark navy cards with thin gold borders; big gold label on the left, white text on the right:
 "KEEP" - "Name, promise and standards"
 "ADJUST" - "Product mix and local promotions"
@@ -1892,7 +1955,13 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Every neighborhood is a different customer. Swipe for how multi-location brands adjust the offer without changing the identity. What would you adjust first? Follow @StephenJemalNY.
+Every neighborhood is a different customer. Before opening somewhere new, I'd learn three things: who lives and shops there, what competitors already do, and how people get there.
+
+Then adjust the offer, not the identity. Save the 5 local research questions.
+
+#SmallBusiness #Retail #LocalBusiness
+
+What's one thing every newcomer should know about your neighborhood?
 
 
 === CARRUSEL 21: Brand consistency audit (Scaling and systems (general guidance)) ===
@@ -1904,7 +1973,8 @@ BACKGROUND: A stylized CGI scene of a gold shield with a check mark, rendered la
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
 - Very large white bold headline: "WOULD CUSTOMERS RECOGNIZE YOU IN EVERY LOCATION?"
-- Under it, smaller gold line: "A four-part brand consistency audit. Swipe →"
+- Under it, smaller gold line: "A four-part brand audit. Swipe →"
+- Small gray source line under the gold line: "General retail guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -1916,8 +1986,8 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a row of identical storefronts, one lit and the others in gold wireframe, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE AUDIT"
-- Large white headline: "FOUR THINGS TO CHECK"
+- Top, small gold caps: "WHAT TO CHECK"
+- Large white headline: "FOUR THINGS EVERY LOCATION SHOULD SHARE"
 4 CARDS in a 2x2 grid, rounded dark navy with thin gold borders, each with a gold title and a short white line:
 "NAME AND MESSAGE" - "Same wording everywhere"
 "SPACE" - "Same look and feel"
@@ -1934,7 +2004,7 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a row of identical storefronts, one lit and the others in gold wireframe, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE METHOD"
+- Top, small gold caps: "THE AUDIT"
 - Large white headline: "LOOK. COMPARE. FIX."
 FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of magnifying glass with label "LOOK", gold line icon of scale with label "COMPARE", gold line icon of gear with label "FIX"
 - Gold italic pull line: "Visit as a customer, not as the owner."
@@ -1982,7 +2052,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Would customers recognize your brand in every location? Swipe for a four-part audit and a checklist to save. Which part is weakest in your business? Follow @StephenJemalNY.
+Would customers recognize you in every location?
+
+The audit I'd run: visit as a customer, not as the owner. Check the name and message, the space, the service and the pricing. Then compare and fix.
+
+Save the 6-point brand audit.
+
+#Branding #Retail #SmallBusiness
+
+What's your weakest point?
 
 
 === CARRUSEL 22: Systems, not heroes (Scaling and systems (general guidance)) ===
@@ -1993,8 +2071,9 @@ BACKGROUND: A stylized CGI scene of a gold blueprint grid with a house outline a
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "BUILD SYSTEMS, NOT HEROES"
-- Under it, smaller gold line: "If it only works when one person is there, it isn't a system. Swipe →"
+- Very large white bold headline: "WHAT HAPPENS TO YOUR BUSINESS WHEN YOUR BEST PERSON IS OUT?"
+- Under it, smaller gold line: "Build systems, not heroes. Swipe →"
+- Small gray source line under the gold line: "General retail guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -2006,7 +2085,7 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a gold blueprint grid with a house outline and dimension lines, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THREE STEPS"
+- Top, small gold caps: "THE METHOD"
 - Large white headline: "DOCUMENT. STANDARDIZE. MEASURE."
 - White body text: "Repeatable systems let a good process work without a single star employee."
 FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of document with label "DOCUMENT", gold line icon of gear with label "STANDARDIZE", gold line icon of chart with label "MEASURE"
@@ -2021,7 +2100,7 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a clipboard with glowing gold check marks, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "WHAT TO DOCUMENT"
+- Top, small gold caps: "WHERE TO START"
 - Large white headline: "START WITH WHAT REPEATS"
 CARD 1 (rounded dark navy card with a thin gold border): gold title "OPENING AND CLOSING", white body "The routine that starts and ends every day."
 CARD 2 (rounded dark navy card with a thin gold border): gold title "CUSTOMER SERVICE", white body "How questions, returns and complaints are handled."
@@ -2069,7 +2148,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-If it only works when one person is there, it's not a system. Swipe for how to document, standardize and measure. What would you document first? Follow @StephenJemalNY.
+What happens to your business when your best person is out?
+
+If it only works when one person is there, it isn't a system. Where I'd start: document what repeats every day, standardize it, then measure it.
+
+Save the 5-point system check.
+
+#Operations #SmallBusiness #Leadership
+
+Which process would you document first?
 
 
 === CARRUSEL 23: Cost awareness (Scaling and systems (general guidance)) ===

@@ -1,0 +1,151 @@
+{
+  "id": 22,
+  "week": 22,
+  "title": "Systems, not heroes",
+  "pillar": "Scaling and systems (general guidance)",
+  "captions": {
+    "instagram": "What happens to your business when your best person is out?\n\nIf it only works when one person is there, it isn't a system. Where I'd start: document what repeats every day, standardize it, then measure it.\n\nSave the 5-point system check.\n\n#Operations #SmallBusiness #Leadership\n\nWhich process would you document first?",
+    "facebook": "Build systems, not heroes. A good process should work without a single star employee. I put a 5-point system check on the last slide.\n\n#Operations #SmallBusiness\n\nWho in your business can't take a day off?",
+    "linkedin": "If it only works when one person is there, it isn't a system.\n\nStar employees are great. A business that depends on them is fragile. Where I'd start: the routines that repeat every day (opening and closing, customer service, ordering and receiving). Document them, standardize them, measure them.\n\nThe check: Is it written down? Can a new hire follow it? Is it the same everywhere? Is it measured? Who improves it?\n\n#Operations #Leadership\n\nWhat would break first if your best person took a month off?",
+    "x": "If it only works when one person is there, it isn't a system.\n\nDocument. Standardize. Measure. I'd start with opening and closing.\n\nWhich process would you write down first?",
+    "threads": "Build systems, not heroes. I'd start with opening and closing routines.\n\nWhat happens when your best person is out?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "WHAT HAPPENS TO YOUR BUSINESS WHEN YOUR BEST PERSON IS OUT?",
+      "subline": "Build systems, not heroes. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "What happens to your business when your best person is out?",
+          "mechanism": "Stakes + question: a scenario every owner recognizes.",
+          "chosen": true
+        },
+        {
+          "text": "Build systems, not heroes.",
+          "mechanism": "Contrarian: memorable, gives the payoff away."
+        },
+        {
+          "text": "Your star employee can't be your system.",
+          "mechanism": "Contrarian: sharp, less concrete."
+        }
+      ],
+      "scene": "blueprint",
+      "sourceLine": "General retail guidance",
+      "attachments": [],
+      "altText": "Cover headline 'What happens to your business when your best person is out?' over an illustrated gold blueprint grid."
+    },
+    {
+      "n": 2,
+      "template": "flow_steps",
+      "kicker": "THE METHOD",
+      "headline": "DOCUMENT. STANDARDIZE. MEASURE.",
+      "body": "Repeatable systems let a good process work without a single star employee.",
+      "flow": [
+        [
+          "DOCUMENT",
+          "document"
+        ],
+        [
+          "STANDARDIZE",
+          "gear"
+        ],
+        [
+          "MEASURE",
+          "chart"
+        ]
+      ],
+      "scene": "blueprint",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow from document to standardize to measure."
+    },
+    {
+      "n": 3,
+      "template": "cards_stack",
+      "kicker": "WHERE TO START",
+      "headline": "START WITH WHAT REPEATS",
+      "cards": [
+        {
+          "title": "OPENING AND CLOSING",
+          "body": "The routine that starts and ends every day."
+        },
+        {
+          "title": "CUSTOMER SERVICE",
+          "body": "How questions, returns and complaints are handled."
+        },
+        {
+          "title": "ORDERING AND RECEIVING",
+          "body": "How stock arrives and is checked."
+        }
+      ],
+      "scene": "clipboard",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three numbered cards: opening and closing, customer service, ordering and receiving."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "HERO VS. SYSTEM",
+      "columns": [
+        "HERO",
+        "SYSTEM"
+      ],
+      "rows": [
+        [
+          "Knowledge lives in one head",
+          "Knowledge is written down"
+        ],
+        [
+          "Results vary by person",
+          "Results follow the process"
+        ],
+        [
+          "Growth depends on finding stars",
+          "Growth depends on training"
+        ],
+        [
+          "Absence causes chaos",
+          "Absence is covered"
+        ]
+      ],
+      "scene": "conveyor",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting a hero-dependent business and a system-run one."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 5-POINT SYSTEM CHECK",
+      "rows": [
+        "Is it written down?",
+        "Can a new hire follow it?",
+        "Is it the same everywhere?",
+        "Is it measured?",
+        "Who improves it?"
+      ],
+      "button": "Comment the process you'd document first",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered system-check questions with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/linkedin/threads: 'Where I'd start'."
+}

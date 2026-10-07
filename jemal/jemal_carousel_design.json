@@ -2063,23 +2063,45 @@
    "week": 13,
    "title": "The cross-industry playbook",
    "pillar": "Founder lessons",
-   "caption": "Stephen Jemal's career moved from retail to construction to real estate and housing technology. The industries changed. The approach didn't: clear identity, market-gap thinking, repeatable systems. Which question would you ask first? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Retail. Construction. Real estate. Housing technology. My work has crossed four industries, from the Wiz era to JemRock and BUILT®.\n\nThe products changed. The approach traveled: a clear identity, market-gap thinking, repeatable systems and location judgment.\n\nSave the 5-point cross-industry check.\n\n#Entrepreneurship #Leadership #Strategy\n\nWhat carried over from your first industry?",
+    "facebook": "My work has run through retail, construction, real estate and now housing technology with BUILT®. Swipe for what traveled across all four, and what had to change.\n\n#Entrepreneurship #Leadership\n\nHave you switched industries? What surprised you?",
+    "linkedin": "Industries change. The approach travels.\n\nMy work has crossed retail, construction, real estate and housing technology. As the Wiz chain grew, I built an in-house construction and fixture company. After the Wiz, I moved into waterfront revitalization and real estate. Today I lead JemRock Organization and BUILT®.\n\nWhat traveled: a clear identity, market-gap thinking, repeatable systems and location judgment. What changed: the rules (zoning and approvals), the teams and the tools.\n\nFive questions for any new industry: What is the brand promise? What need isn't being served? What can be repeated? Who has to approve it? Which tools make it faster?\n\n#Leadership #Strategy\n\nWhich of these do you find hardest in a new field?",
+    "x": "Retail → construction → real estate → housing tech.\n\nIn my work, the products changed. The approach traveled.\n\nWhat carried over from your first industry into your current one?",
+    "threads": "Four industries in my career. What stayed the same: clear identity, market gaps, repeatable systems, location judgment.\n\nWhat carried over for you?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHAT STAYS THE SAME WHEN YOU CHANGE INDUSTRIES?",
-     "subline": "Stephen Jemal worked across retail, construction and real estate. Swipe for the playbook →",
+     "headline": "RETAIL, CONSTRUCTION, REAL ESTATE, HOUSING TECH. WHAT STAYED THE SAME?",
+     "subline": "The playbook that traveled. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Retail, construction, real estate, housing tech. What stayed the same?",
+       "mechanism": "Specificity + curiosity gap: four real chapters, one open question.",
+       "chosen": true
+      },
+      {
+       "text": "What stays the same when you change industries?",
+       "mechanism": "Question: clear, less specific."
+      },
+      {
+       "text": "The products changed. The approach traveled.",
+       "mechanism": "Contrast: strong, but gives the payoff away."
+      }
+     ],
      "background": "A glowing gold path running through four stylized CGI scenes in sequence: a storefront, a construction site, an apartment tower and a modern prefab factory, on a dark navy blueprint grid.",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [],
-     "scene": "pillars"
+     "altText": "Cover headline listing retail, construction, real estate and housing tech, asking what stayed the same, over a gold path through four scenes."
     },
     {
      "n": 2,
      "template": "flow_steps",
      "kicker": "FOUR CHAPTERS",
-     "headline": "ONE APPROACH ACROSS INDUSTRIES",
+     "headline": "ONE APPROACH ACROSS FOUR INDUSTRIES",
      "flow": [
       [
        "RETAIL",
@@ -2102,14 +2124,18 @@
       {
        "accent": "left-border",
        "title": "THE LINK",
-       "body": "The link between the Wiz and Stephen's later development work is not the product category. It is the approach."
+       "body": "What links the Wiz era to my development work isn't the product. It's the approach."
       }
      ],
      "pullLine": "Industries change. The approach travels.",
+     "scene": "stairs",
+     "sourceLine": "Source: stephenjemal.com",
+     "needsApproval": true,
+     "approvalNote": "The 'link' card and pull line are framing in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "scene": "stairs"
+     "altText": "A four-step path from retail to construction, real estate and housing tech, with a card on what links them."
     },
     {
      "n": 3,
@@ -2119,25 +2145,29 @@
      "cards": [
       [
        "CLEAR IDENTITY",
-       "A name people remember, from the Wiz to PASHA"
+       "A name people remember"
       ],
       [
        "MARKET GAP THINKING",
-       "Find the need that isn't fully served"
+       "Find the need that isn't served"
       ],
       [
        "REPEATABLE SYSTEMS",
-       "From repeated store buildouts to prefab thinking"
+       "From store buildouts to prefab housing"
       ],
       [
        "LOCATION JUDGMENT",
        "From store sites to waterfront parcels"
       ]
      ],
+     "scene": "pillars",
+     "sourceLine": "Examples: stephenjemal.com",
+     "needsApproval": true,
+     "approvalNote": "Which skills 'carried over' is framing; the examples are confirmed facts.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "scene": "pillars"
+     "altText": "A 2x2 grid: clear identity, market gap thinking, repeatable systems, location judgment."
     },
     {
      "n": 4,
@@ -2148,12 +2178,12 @@
       {
        "icon": "map-grid",
        "title": "NEW RULES",
-       "body": "Zoning and approvals decide how land can be used, how dense a project can be and what permissions it needs."
+       "body": "Zoning and approvals decide how land can be used and what a project needs."
       },
       {
        "icon": "clipboard",
        "title": "NEW TEAMS",
-       "body": "Architects, engineers, consultants and municipal processes all have to be coordinated."
+       "body": "Architects, engineers and city processes all need coordinating."
       },
       {
        "icon": "factory",
@@ -2161,11 +2191,12 @@
        "body": "AI, robotics, cloud and laser-guided production in BUILT®."
       }
      ],
-     "sourceLine": "Per Stephen Jemal's site",
+     "scene": "blueprint",
+     "sourceLine": "BUILT® per stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "scene": "blueprint"
+     "altText": "Three cards: new rules from zoning and approvals, new teams to coordinate, and new tools in BUILT."
     },
     {
      "n": 5,
@@ -2181,33 +2212,62 @@
      ],
      "button": "Comment the question you'd ask first",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered questions for entering a new industry, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin: opening lesson line; all: 'the approach traveled' framing.",
+   "caption": "Retail. Construction. Real estate. Housing technology. My work has crossed four industries, from the Wiz era to JemRock and BUILT®.\n\nThe products changed. The approach traveled: a clear identity, market-gap thinking, repeatable systems and location judgment.\n\nSave the 5-point cross-industry check.\n\n#Entrepreneurship #Leadership #Strategy\n\nWhat carried over from your first industry?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 14,
    "week": 14,
    "title": "New-store opening checklist",
    "pillar": "Scaling and systems (general guidance)",
-   "caption": "Opening store #2 and store #100 take the same checklist. Swipe for the six steps behind every new location, from the lease to launch week. General guidance, not legal advice. Which step do stores forget most? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Opening another location? This is the checklist I'd want in hand: location, lease, buildout, team, inventory, layout and launch.\n\nGeneral guidance. Have a lawyer review any lease.\n\nSave it for your next opening.\n\n#SmallBusiness #Retail #Operations\n\nWhich step do stores forget most?",
+    "facebook": "Every new location runs on the same checklist. I put it in one carousel: location, lease, buildout, people, product and launch.\n\n#SmallBusiness #Retail\n\nWhat would you add to the list?",
+    "linkedin": "An opening is a project you'll repeat, so write the checklist once and improve it every time.\n\nThe checklist I'd use: location (who shops nearby, how they get there, who competes), lease (rent against expected traffic, term and exit), buildout (design, fixtures, timing), team (hired and trained to one standard), inventory (orders and a backup), layout and one launch message.\n\nAfter opening: compare results with the plan and update the checklist.\n\nGeneral guidance, not legal advice.\n\n#Retail #Operations\n\nWhat's on your opening checklist that most people miss?",
+    "x": "Opening another location? My checklist:\n\nLocation. Lease (with a lawyer). Buildout. Team. Inventory. Layout. Launch message.\n\nThen review and update it.\n\nWhich step gets skipped most?",
+    "threads": "Every new store needs the same checklist. I'd start with location, lease and buildout.\n\nWhich step do you think gets rushed?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "OPENING STORE #2 VS. STORE #100",
-     "subline": "The checklist behind every new location. Swipe to save it →",
+     "headline": "OPENING YOUR NEXT STORE? SAVE THIS 6-STEP CHECKLIST.",
+     "subline": "Location to launch, in one place. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Opening your next store? Save this 6-step checklist.",
+       "mechanism": "Identity + promise: speaks to owners, delivers a save-worthy list.",
+       "chosen": true
+      },
+      {
+       "text": "What do new stores forget before opening day?",
+       "mechanism": "Curiosity gap: good for comments."
+      },
+      {
+       "text": "Opening your second store? Don't skip these 6 steps.",
+       "mechanism": "Stakes: narrower audience."
+      }
+     ],
      "background": "A row of glowing storefront blueprints on a navy grid, one lit and open, with a gold checklist floating above it.",
+     "sourceLine": "General retail guidance",
      "attachments": [],
-     "scene": "storefront"
+     "altText": "Cover headline 'Opening your next store? Save this 6-step checklist.' over glowing storefront blueprints with a gold checklist."
     },
     {
      "n": 2,
      "template": "cards_stack",
-     "kicker": "BEFORE YOU SIGN",
+     "kicker": "BEFORE YOU BUILD",
      "headline": "LOCATION, LEASE, BUILDOUT",
      "cards": [
       {
@@ -2220,10 +2280,10 @@
        ]
       },
       {
-       "icon": "clipboard",
+       "icon": "document",
        "title": "LEASE",
        "checklist": [
-        "Rent compared with expected traffic",
+        "Rent against expected traffic",
         "Term, renewal and exit options"
        ]
       },
@@ -2232,47 +2292,50 @@
        "title": "BUILDOUT",
        "checklist": [
         "Design and fixtures",
-        "Construction timed to the opening"
+        "Construction timed to opening"
        ]
       }
      ],
+     "scene": "map",
      "sourceLine": "General guidance, not legal advice",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "scene": "map"
+     "altText": "Three checklist cards for location, lease and buildout."
     },
     {
      "n": 3,
-     "template": "cards_stack",
+     "template": "stats_grid",
      "kicker": "BEFORE YOU OPEN",
      "headline": "PEOPLE, PRODUCT, PRESENTATION",
      "cards": [
-      {
-       "icon": "storefront",
-       "title": "TEAM",
-       "body": "Hire early and train to one standard before opening day."
-      },
-      {
-       "icon": "stack-of-storefronts",
-       "title": "INVENTORY AND SUPPLIERS",
-       "body": "Orders placed, deliveries confirmed and a backup plan ready."
-      },
-      {
-       "icon": "banner-with-star",
-       "title": "LAYOUT AND DISPLAYS",
-       "body": "Merchandising set so the entrance, flow and promotions match the brand."
-      }
+      [
+       "TEAM",
+       "Hired early, trained to one standard"
+      ],
+      [
+       "INVENTORY",
+       "Orders placed, deliveries confirmed, a backup ready"
+      ],
+      [
+       "LAYOUT",
+       "Entrance, flow and displays match the brand"
+      ],
+      [
+       "LAUNCH",
+       "One message across every channel"
+      ]
      ],
+     "scene": "storefront",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "scene": "storefront"
+     "altText": "A 2x2 grid: team, inventory, layout and launch, each with a short checklist line."
     },
     {
      "n": 4,
      "template": "flow_steps",
-     "kicker": "LAUNCH",
+     "kicker": "AFTER YOU OPEN",
      "headline": "OPEN, THEN REVIEW",
      "flow": [
       [
@@ -2290,23 +2353,16 @@
      ],
      "cards": [
       {
-       "title": "LAUNCH WEEK",
-       "checklist": [
-        "One consistent message across channels",
-        "Opening-day staffing plan",
-        "Customer feedback captured"
-       ]
-      },
-      {
        "accent": "left-border",
        "title": "AFTER THE OPENING",
        "body": "Compare results with the plan, fix what slipped, and update the checklist for the next store."
       }
      ],
+     "scene": "clipboard",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "scene": "clipboard"
+     "altText": "A three-step flow from prepare to open to review, with a card on updating the checklist after opening."
     },
     {
      "n": 5,
@@ -2323,32 +2379,63 @@
      ],
      "button": "Comment the step stores forget most",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "sourceLine": "General guidance, not legal advice",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A six-step numbered opening checklist with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/linkedin/x/threads: 'the checklist I'd want / I'd use' attributes the checklist to Stephen.",
+   "caption": "Opening another location? This is the checklist I'd want in hand: location, lease, buildout, team, inventory, layout and launch.\n\nGeneral guidance. Have a lawyer review any lease.\n\nSave it for your next opening.\n\n#SmallBusiness #Retail #Operations\n\nWhich step do stores forget most?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 15,
    "week": 15,
    "title": "Training at scale",
    "pillar": "Scaling and systems (general guidance)",
-   "caption": "A chain is only as consistent as its training. Swipe for a simple loop: write it, teach it, check it. Where does training break down in your business? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "If every store trains its own way, quality depends on who's working that day.\n\nThe method I'd use: write the standard, teach it the same way everywhere, and check it. Swipe for a new hire's first month and save the 5 training questions.\n\n#Training #SmallBusiness #Leadership\n\nWhere does training break down in your business?",
+    "facebook": "How do you train a whole chain to one standard? Write it, teach it, check it. I laid out a new hire's first month in this carousel.\n\n#Training #SmallBusiness\n\nHow long did your best onboarding take?",
+    "linkedin": "Quality should depend on the system, not on who's working that day.\n\nMy approach to training across locations: write the standard down, teach it with the same material in the same order everywhere, then check it.\n\nA new hire's first month: before day one, explain the role, standards and tools. Day one, shadow a strong team member. First week, practice with real customers and get feedback. End of month one, review and refine.\n\n#Training #Operations\n\nWho trains your trainers?",
+    "x": "Training a team across locations, the way I'd do it:\n\nWrite it.\nTeach it the same way.\nCheck it.\n\nWhere does your training break down?",
+    "threads": "Write it. Teach it. Check it. That's how I'd train a team across locations.\n\nWhat's the hardest part for you?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "HOW DO YOU TRAIN A WHOLE CHAIN?",
-     "subline": "One standard, many locations. Swipe for the method →",
+     "headline": "HOW DO YOU TRAIN A WHOLE CHAIN TO ONE STANDARD?",
+     "subline": "Write it. Teach it. Check it. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "How do you train a whole chain to one standard?",
+       "mechanism": "Question + promise: names the problem, the subline previews the method.",
+       "chosen": true
+      },
+      {
+       "text": "If every store trains its own way, you don't have a brand.",
+       "mechanism": "Contrarian: strong, but opinion."
+      },
+      {
+       "text": "Write it. Teach it. Check it.",
+       "mechanism": "Pattern: memorable, gives the answer away."
+      }
+     ],
      "scene": "clipboard",
-     "attachments": []
+     "sourceLine": "General retail guidance",
+     "attachments": [],
+     "altText": "Cover headline 'How do you train a whole chain to one standard?' over an illustrated clipboard with gold check marks."
     },
     {
      "n": 2,
      "template": "flow_steps",
-     "kicker": "THE TRAINING LOOP",
+     "kicker": "THE METHOD",
      "headline": "WRITE IT. TEACH IT. CHECK IT.",
      "flow": [
       [
@@ -2364,10 +2451,6 @@
        "magnifying-glass"
       ]
      ],
-     "scene": "clipboard",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
      "cards": [
       {
        "title": "WRITE THE STANDARD",
@@ -2377,23 +2460,31 @@
        "title": "TEACH IT THE SAME WAY",
        "body": "Same material, same order, every location."
       }
-     ]
+     ],
+     "scene": "clipboard",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A three-step flow, write, teach, check, with two cards on writing the standard and teaching it the same way."
     },
     {
      "n": 3,
      "template": "timeline_vertical",
-     "kicker": "THE FIRST 30 DAYS",
-     "headline": "A NEW HIRE'S ROADMAP",
+     "kicker": "ONBOARDING",
+     "headline": "A NEW HIRE'S FIRST MONTH",
      "points": [
-      "Before day 1: role, standards and tools explained",
-      "Day 1: shadow a strong team member",
-      "Week 1: practice with real customers and get feedback",
-      "Day 30: review results and refine"
+      "Before day one: role, standards and tools explained",
+      "Day one: shadow a strong team member",
+      "First week: practice with real customers, get feedback",
+      "End of month one: review results and refine"
      ],
      "scene": "stairs",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A gold timeline of a new hire's first month, from before day one to an end-of-month review."
     },
     {
      "n": 4,
@@ -2423,9 +2514,12 @@
       ]
      ],
      "scene": "shield",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting training without a standard and with one."
     },
     {
      "n": 5,
@@ -2441,33 +2535,64 @@
      ],
      "button": "Comment where training breaks down",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered training questions with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/linkedin/threads: 'The method I'd use / My approach' attributes the method to Stephen.",
+   "caption": "If every store trains its own way, quality depends on who's working that day.\n\nThe method I'd use: write the standard, teach it the same way everywhere, and check it. Swipe for a new hire's first month and save the 5 training questions.\n\n#Training #SmallBusiness #Leadership\n\nWhere does training break down in your business?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 16,
    "week": 16,
    "title": "Merchandising basics",
    "pillar": "Scaling and systems (general guidance)",
-   "caption": "Your store layout is talking to every customer. Swipe for six layout rules that guide people from the door to the register. Which one does your space need most? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Your layout talks before your staff does.\n\nI broke merchandising into the path every customer takes: enter, browse, decide, buy. Swipe for what you control at each step, then save the 6 layout rules.\n\n#Retail #Merchandising #SmallBusiness\n\nWhat's your best layout tip?",
+    "facebook": "Cluttered or clear? A store layout guides customers from the door to the register, on purpose or by accident. I put 6 layout rules on the last slide.\n\n#Retail #SmallBusiness\n\nWhat's the first thing you notice when you walk into a store?",
+    "linkedin": "A layout should guide customers on purpose, not by accident.\n\nEvery customer follows the same path: enter, browse, decide, buy. You control four things along it: the entrance (show your clearest offer first), the flow (make the path easy), the grouping (related products together) and the signage (prices and promotions easy to read).\n\nMy six layout rules: strong entrance, clear path, related items together, visible prices, planned promotions, clean and consistent displays.\n\n#Retail #Merchandising\n\nWhich rule does your store break most often?",
+    "x": "6 layout rules I'd start with:\n\n1. Strong entrance\n2. Clear path\n3. Related items together\n4. Visible prices\n5. Planned promotions\n6. Clean, consistent displays\n\nWhich one does your store break?",
+    "threads": "Your layout talks before your staff does. I put six rules for it in one carousel.\n\nWhich one matters most to you as a shopper?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHAT IS YOUR STORE LAYOUT REALLY SAYING?",
-     "subline": "Six rules for guiding customers from door to register. Swipe →",
+     "headline": "SIX LAYOUT RULES THAT GUIDE CUSTOMERS FROM DOOR TO REGISTER",
+     "subline": "Save them for your next reset. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Six layout rules that guide customers from door to register",
+       "mechanism": "Specificity + promise: a countable, save-worthy list.",
+       "chosen": true
+      },
+      {
+       "text": "What is your store layout really saying?",
+       "mechanism": "Curiosity gap: invites reflection."
+      },
+      {
+       "text": "Cluttered or clear? Your layout answers before you do.",
+       "mechanism": "Contrast: punchy, less concrete."
+      }
+     ],
      "scene": "tag",
-     "attachments": []
+     "sourceLine": "General retail guidance",
+     "attachments": [],
+     "altText": "Cover headline 'Six layout rules that guide customers from door to register' over an illustrated gold price tag."
     },
     {
      "n": 2,
      "template": "flow_steps",
-     "kicker": "THE CUSTOMER PATH",
+     "kicker": "THE PATH",
      "headline": "FROM DOOR TO REGISTER",
+     "body": "A good layout guides customers along this path on purpose.",
      "flow": [
       [
        "ENTER",
@@ -2490,17 +2615,13 @@
      "attachments": [
       "Image 1 as style reference"
      ],
-     "body": "A good layout guides customers along this path on purpose."
+     "altText": "A four-step flow from enter to browse to decide to buy."
     },
     {
      "n": 3,
      "template": "stats_grid",
-     "kicker": "FOUR LEVERS",
-     "headline": "WHAT YOU CONTROL",
-     "scene": "tag",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
+     "kicker": "WHAT YOU CONTROL",
+     "headline": "FOUR LEVERS IN EVERY STORE",
      "cards": [
       [
        "ENTRANCE",
@@ -2518,7 +2639,12 @@
        "SIGNAGE",
        "Make prices and promotions easy to read"
       ]
-     ]
+     ],
+     "scene": "tag",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A 2x2 grid: entrance, flow, grouping and signage, each with a short rule."
     },
     {
      "n": 4,
@@ -2550,7 +2676,8 @@
      "scene": "storefront",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting a cluttered layout and a clear one."
     },
     {
      "n": 5,
@@ -2567,60 +2694,95 @@
      ],
      "button": "Comment your best layout tip",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Six numbered layout rules with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/linkedin: 'I broke merchandising into...', 'My six layout rules'.",
+   "caption": "Your layout talks before your staff does.\n\nI broke merchandising into the path every customer takes: enter, browse, decide, buy. Swipe for what you control at each step, then save the 6 layout rules.\n\n#Retail #Merchandising #SmallBusiness\n\nWhat's your best layout tip?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 17,
    "week": 17,
    "title": "Supplier relationships",
    "pillar": "Scaling and systems (general guidance)",
-   "caption": "Your supplier is a business partner, not just a price. Swipe for what separates a transaction from a partnership, plus a scorecard to save. Who is your most reliable supplier? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "The cheapest supplier can cost you the most. A late shipment can cost more than it saves.\n\nHow I'd think about it: treat suppliers as partners, with clear terms, early forecasts and a backup option. Save the 6-point supplier scorecard.\n\n#SmallBusiness #SupplyChain #Retail\n\nWhat's your number one supplier rule?",
+    "facebook": "Is your supplier a transaction or a partner? I put the difference in one table, plus a 6-point scorecard to rate any supplier.\n\n#SmallBusiness #SupplyChain\n\nHave you ever been burned by a late shipment?",
+    "linkedin": "Reliability beats the lowest price.\n\nA shipment that arrives late can cost more than it saves. The suppliers worth keeping are partners: clear terms on price and delivery, early communication on forecasts and promotions, and problems raised early.\n\nMy scorecard for any supplier: on-time delivery, quality consistency, price compared with value, communication, how problems are handled, and whether you have a backup.\n\n#SupplyChain #Operations\n\nWhich of these do you weigh most?",
+    "x": "Supplier scorecard:\n\n1. On-time delivery\n2. Quality consistency\n3. Price vs. value\n4. Communication\n5. How problems are handled\n6. Backup options\n\nI'd put reliability first. What would you put first?",
+    "threads": "The cheapest supplier can end up costing the most. I'd score them on reliability first.\n\nWhat's your rule?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "YOUR SUPPLIER IS A BUSINESS PARTNER",
-     "subline": "What separates a transaction from a partnership. Swipe →",
+     "headline": "THE CHEAPEST SUPPLIER CAN COST YOU THE MOST",
+     "subline": "Transaction or partner? Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "The cheapest supplier can cost you the most",
+       "mechanism": "Contrarian + stakes: challenges price-first buying.",
+       "chosen": true
+      },
+      {
+       "text": "Is your supplier a transaction or a partner?",
+       "mechanism": "Question: frames the comparison."
+      },
+      {
+       "text": "Score your suppliers on these 6 points.",
+       "mechanism": "Promise: save-worthy, less tension."
+      }
+     ],
      "scene": "conveyor",
-     "attachments": []
+     "sourceLine": "General retail guidance",
+     "needsApproval": true,
+     "approvalNote": "Opinion headline in Stephen's voice.",
+     "attachments": [],
+     "altText": "Cover headline 'The cheapest supplier can cost you the most' over an illustrated conveyor belt with boxes."
     },
     {
      "n": 2,
      "template": "cards_stack",
-     "kicker": "THREE HABITS",
-     "headline": "WHAT STRONG PARTNERSHIPS SHARE",
+     "kicker": "WHAT PARTNERS SHARE",
+     "headline": "WHAT STRONG SUPPLIER PARTNERSHIPS SHARE",
      "cards": [
       {
        "icon": "shield",
-       "title": "RELIABILITY BEATS THE LOWEST PRICE",
-       "body": "A cheap shipment that arrives late can cost more than it saves."
+       "title": "RELIABILITY OVER PRICE",
+       "body": "A late shipment can cost more than it saves."
       },
       {
        "icon": "document",
        "title": "CLEAR TERMS",
-       "body": "Agree on prices, delivery times and what happens when something goes wrong."
+       "body": "Agree on prices, delivery times and what happens when things go wrong."
       },
       {
        "icon": "megaphone",
        "title": "EARLY COMMUNICATION",
-       "body": "Share forecasts and promotions early so suppliers can plan."
+       "body": "Share forecasts and promotions early."
       }
      ],
      "scene": "conveyor",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three cards: reliability over lowest price, clear terms and early communication."
     },
     {
      "n": 3,
      "template": "flow_steps",
-     "kicker": "THE CYCLE",
-     "headline": "THE SUPPLY LOOP",
+     "kicker": "THE SUPPLY LOOP",
+     "headline": "PLAN. ORDER. RECEIVE. REVIEW.",
      "flow": [
       [
        "PLAN",
@@ -2639,16 +2801,19 @@
        "magnifying-glass"
       ]
      ],
-     "scene": "conveyor",
+     "pullLine": "Manage it like any other system, not as a one-off favor.",
+     "scene": "clipboard",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "Manage it like any other system, not as a one-off favor."
+     "altText": "A four-step supply loop from plan to order to receive to review."
     },
     {
      "n": 4,
      "template": "table_compare",
-     "kicker": "THE SHIFT",
+     "kicker": "THE DIFFERENCE",
      "headline": "TRANSACTION VS. PARTNER",
      "columns": [
       "TRANSACTION",
@@ -2675,13 +2840,14 @@
      "scene": "shield",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting a transactional supplier and a partner."
     },
     {
      "n": 5,
      "template": "numbered_cta",
      "kicker": "SAVE THIS",
-     "headline": "6-POINT SUPPLIER SCORECARD",
+     "headline": "THE 6-POINT SUPPLIER SCORECARD",
      "rows": [
       "On-time delivery",
       "Quality consistency",
@@ -2692,37 +2858,67 @@
      ],
      "button": "Comment your top supplier rule",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A six-point numbered supplier scorecard with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/linkedin/x/threads: 'How I'd think about it', 'My scorecard', 'I'd put reliability first'.",
+   "caption": "The cheapest supplier can cost you the most. A late shipment can cost more than it saves.\n\nHow I'd think about it: treat suppliers as partners, with clear terms, early forecasts and a backup option. Save the 6-point supplier scorecard.\n\n#SmallBusiness #SupplyChain #Retail\n\nWhat's your number one supplier rule?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 18,
    "week": 18,
    "title": "Lease basics",
    "pillar": "Scaling and systems (general guidance)",
-   "caption": "A lease is part of your business model, not paperwork. Swipe for what to weigh before you sign, plus six questions for your landlord. General guidance, not legal advice. What would you ask first? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Rent is only one line of your lease. Term, renewal, exit, buildout, extra costs and restrictions all shape your business. I listed what to weigh, and six questions for your landlord.\n\nGeneral guidance, not legal advice: have a qualified lawyer review any lease before you sign.\n\n#SmallBusiness #CommercialRealEstate #Retail\n\nWhat question would you add?",
+    "facebook": "Before you sign a lease, look past the rent. I listed what to weigh and six questions to ask your landlord.\n\nGeneral guidance, not legal advice. Always have a lawyer review the lease.\n\n#SmallBusiness #CommercialRealEstate\n\nWhat's one lease term you wish you'd negotiated?",
+    "linkedin": "The lease is part of your business model, not a formality.\n\nWhat I'd weigh first: rent against realistic traffic and sales, the term, renewal rights and cost, and what happens if the location doesn't work. Then check buildout contributions, costs on top of base rent, and restrictions on what you can sell, display or change.\n\nReview, negotiate, sign, in that order, with a qualified lawyer.\n\nGeneral guidance, not legal advice.\n\n#CommercialRealEstate #SmallBusiness\n\nWhich lease term matters most to you?",
+    "x": "Rent is only one line of your lease.\n\nAlso check: term, renewal, exit, buildout help, extra costs, restrictions.\n\nGeneral guidance, not legal advice. Get a lawyer.\n\nWhat would you add to my list?",
+    "threads": "Rent is only one line of the lease. I'd read the exit terms just as carefully.\n\nGeneral guidance, not legal advice. What would you check first?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "THE LEASE IS PART OF YOUR BUSINESS MODEL",
-     "subline": "Six questions to ask before you sign. Swipe →",
+     "headline": "RENT IS ONLY ONE LINE OF YOUR LEASE. CHECK THESE.",
+     "subline": "Six questions before you sign. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Rent is only one line of your lease. Check these.",
+       "mechanism": "Curiosity gap + promise: most people stop at rent.",
+       "chosen": true
+      },
+      {
+       "text": "The lease is part of your business model.",
+       "mechanism": "Contrarian reframe: strong, less specific."
+      },
+      {
+       "text": "Six questions to ask your landlord before you sign.",
+       "mechanism": "Promise: save-worthy, overlaps with C7's cover."
+      }
+     ],
      "scene": "keys",
-     "attachments": []
+     "sourceLine": "General guidance, not legal advice",
+     "attachments": [],
+     "altText": "Cover headline 'Rent is only one line of your lease. Check these.' over an illustrated brass key beside a small house."
     },
     {
      "n": 2,
      "template": "stats_rows",
-     "kicker": "THE BIG FOUR",
-     "headline": "WHAT TO WEIGH FIRST",
+     "kicker": "WHAT TO WEIGH FIRST",
+     "headline": "RENT, TERM, RENEWAL, EXIT",
      "rows": [
       [
        "RENT",
-       "Compare it with realistic customer traffic and sales"
+       "Compare it with realistic traffic and sales"
       ],
       [
        "TERM",
@@ -2738,20 +2934,22 @@
       ]
      ],
      "scene": "keys",
+     "sourceLine": "General guidance, not legal advice",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four rows: rent, term, renewal and exit, each with what to weigh."
     },
     {
      "n": 3,
      "template": "cards_stack",
-     "kicker": "READ THE DETAILS",
-     "headline": "WHAT ELSE TO CHECK",
+     "kicker": "WHAT ELSE TO CHECK",
+     "headline": "BUILDOUT, EXTRA COSTS, RESTRICTIONS",
      "cards": [
       {
        "icon": "blueprint",
        "title": "BUILDOUT",
-       "body": "What the landlord contributes to construction and what you must pay for."
+       "body": "What the landlord contributes and what you pay for."
       },
       {
        "icon": "tag",
@@ -2765,14 +2963,16 @@
       }
      ],
      "scene": "blueprint",
+     "sourceLine": "General guidance, not legal advice",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three cards: buildout contributions, costs beyond base rent, and restrictions."
     },
     {
      "n": 4,
      "template": "flow_steps",
-     "kicker": "THE PROCESS",
+     "kicker": "THE ORDER",
      "headline": "REVIEW. NEGOTIATE. SIGN.",
      "flow": [
       [
@@ -2788,10 +2988,6 @@
        "key"
       ]
      ],
-     "scene": "scale",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
      "cards": [
       {
        "accent": "left-border",
@@ -2799,7 +2995,12 @@
        "body": "Have a qualified lawyer review the lease before you sign."
       }
      ],
-     "sourceLine": "General guidance, not legal advice"
+     "scene": "scale",
+     "sourceLine": "General guidance, not legal advice",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A three-step flow from review to negotiate to sign, with a card advising a lawyer's review."
     },
     {
      "n": 5,
@@ -2807,42 +3008,74 @@
      "kicker": "SAVE THIS",
      "headline": "6 QUESTIONS FOR YOUR LANDLORD",
      "rows": [
-      "What is the total monthly cost?",
+      "Total monthly cost?",
       "How long is the term?",
-      "Can I renew, and at what rent?",
+      "Can I renew, at what rent?",
       "What are my exit options?",
-      "What buildout help is included?",
+      "Any buildout help?",
       "What can I change or display?"
      ],
      "button": "Comment the question you'd add",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "sourceLine": "General guidance, not legal advice",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Six numbered questions to ask a landlord, with a gold comment button and a general-guidance note."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin/threads: 'What I'd weigh first', 'I'd read the exit terms'.",
+   "caption": "Rent is only one line of your lease. Term, renewal, exit, buildout, extra costs and restrictions all shape your business. I listed what to weigh, and six questions for your landlord.\n\nGeneral guidance, not legal advice: have a qualified lawyer review any lease before you sign.\n\n#SmallBusiness #CommercialRealEstate #Retail\n\nWhat question would you add?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 19,
    "week": 19,
    "title": "One message, many channels",
    "pillar": "Scaling and systems (general guidance)",
-   "caption": "One promise, repeated everywhere, is how a name becomes a brand. Nobody Beats The Wiz worked as both a name and a claim. Swipe for how to keep every channel on message. Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Can a customer repeat your brand promise in five words? If not, your channels are probably saying different things.\n\nHow I'd fix it: say one thing, say it everywhere, show it in the store, and change the offers, not the identity.\n\nSave the 5-point message check.\n\n#Branding #Marketing #SmallBusiness\n\nWhat's your brand promise in five words?",
+    "facebook": "One promise. Every channel. I put together a 5-point check to see whether your ads, signs, posts and store all say the same thing.\n\n#Branding #SmallBusiness\n\nCould your customers repeat your promise?",
+    "linkedin": "If customers can't summarize you, your channels are probably saying different things.\n\nMy rule for consistency: pick one promise customers can repeat, match every sign, ad and post to it, make the in-store experience deliver it, and change offers without changing identity.\n\nThe check I'd run: Can a customer repeat our promise? Do all channels use it? Does the store deliver it? Is the look consistent? When did we last review it?\n\n#Branding #Marketing\n\nWhen did you last audit your message?",
+    "x": "One promise. Every channel.\n\nI'd say one thing, say it everywhere, show it in store, and change offers, not identity.\n\nCan your customers repeat your promise in five words?",
+    "threads": "Can a customer repeat your promise in five words? That's the test I'd start with.\n\nWhat's yours?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "ONE PROMISE. EVERY CHANNEL.",
-     "subline": "How to keep your advertising sounding like one brand. Swipe →",
+     "headline": "CAN A CUSTOMER REPEAT YOUR BRAND PROMISE IN FIVE WORDS?",
+     "subline": "One promise, every channel. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Can a customer repeat your brand promise in five words?",
+       "mechanism": "Question + specificity: a test the reader runs in their head.",
+       "chosen": true
+      },
+      {
+       "text": "One promise. Every channel.",
+       "mechanism": "Pattern: clean, low tension."
+      },
+      {
+       "text": "If customers can't repeat your promise, your ads aren't working.",
+       "mechanism": "Stakes: strong, but an unsourced claim."
+      }
+     ],
      "scene": "megaphone",
-     "attachments": []
+     "sourceLine": "General retail guidance",
+     "attachments": [],
+     "altText": "Cover headline 'Can a customer repeat your brand promise in five words?' over an illustrated gold megaphone."
     },
     {
      "n": 2,
      "template": "flow_steps",
      "kicker": "THE IDEA",
      "headline": "FROM PROMISE TO EXPERIENCE",
+     "body": "Say one promise, say it everywhere, and keep it in the store.",
      "flow": [
       [
        "ONE PROMISE",
@@ -2861,17 +3094,13 @@
      "attachments": [
       "Image 1 as style reference"
      ],
-     "body": "Nobody Beats The Wiz worked as both a name and a claim."
+     "altText": "A three-step flow from one promise to every channel to the same in store."
     },
     {
      "n": 3,
      "template": "stats_grid",
-     "kicker": "FOUR HABITS",
-     "headline": "HOW TO KEEP IT CONSISTENT",
-     "scene": "megaphone",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
+     "kicker": "HOW TO KEEP IT CONSISTENT",
+     "headline": "FOUR RULES FOR ONE MESSAGE",
      "cards": [
       [
        "SAY ONE THING",
@@ -2889,7 +3118,14 @@
        "KEEP IT FRESH",
        "Change offers, not identity"
       ]
-     ]
+     ],
+     "scene": "pillars",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A 2x2 grid: say one thing, say it everywhere, show it in store, keep it fresh."
     },
     {
      "n": 4,
@@ -2917,7 +3153,8 @@
      "scene": "tag",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting mixed messages with one consistent message."
     },
     {
      "n": 5,
@@ -2931,35 +3168,65 @@
       "Is the look consistent?",
       "When did we last review it?"
      ],
-     "button": "Comment your brand promise in 5 words",
+     "button": "Comment your brand promise in five words",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered message-check questions with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/linkedin/threads: 'How I'd fix it', 'My rule', 'the test I'd start with'.",
+   "caption": "Can a customer repeat your brand promise in five words? If not, your channels are probably saying different things.\n\nHow I'd fix it: say one thing, say it everywhere, show it in the store, and change the offers, not the identity.\n\nSave the 5-point message check.\n\n#Branding #Marketing #SmallBusiness\n\nWhat's your brand promise in five words?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 20,
    "week": 20,
    "title": "Local market awareness",
    "pillar": "Scaling and systems (general guidance)",
-   "caption": "Every neighborhood is a different customer. Swipe for how multi-location brands adjust the offer without changing the identity. What would you adjust first? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Every neighborhood is a different customer. Before opening somewhere new, I'd learn three things: who lives and shops there, what competitors already do, and how people get there.\n\nThen adjust the offer, not the identity. Save the 5 local research questions.\n\n#SmallBusiness #Retail #LocalBusiness\n\nWhat's one thing every newcomer should know about your neighborhood?",
+    "facebook": "Opening in a new neighborhood? Learn who's there, who already serves them and how they arrive. Keep your name and promise; adjust the mix. I put 5 research questions on the last slide.\n\n#LocalBusiness #SmallBusiness\n\nWhat makes your neighborhood different?",
+    "linkedin": "Adjust the offer, not the identity.\n\nFor multi-location brands, every neighborhood is a different customer. Before opening, I'd learn who lives and shops nearby, what competitors already serve well, and how people get there.\n\nWhat stays: name, promise and standards. What flexes: product mix and local promotions. Test small changes before big ones, and review results location by location.\n\n#Retail #Strategy\n\nWhat did a new location teach you about your customers?",
+    "x": "Opening in a new neighborhood? Learn three things first:\n\n1. Who lives and shops there\n2. What competitors already do\n3. How people get there\n\nThen I'd adjust the offer, not the identity. Agree?",
+    "threads": "Every neighborhood is a different customer. I'd keep the brand and adjust the mix.\n\nWhat's special about yours?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "EVERY NEIGHBORHOOD IS A DIFFERENT CUSTOMER",
-     "subline": "Local market awareness for multi-location brands. Swipe →",
+     "headline": "OPENING IN A NEW NEIGHBORHOOD? LEARN THESE 3 THINGS FIRST",
+     "subline": "Adjust the offer, not the identity. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Opening in a new neighborhood? Learn these 3 things first",
+       "mechanism": "Identity + promise: speaks to expanding owners.",
+       "chosen": true
+      },
+      {
+       "text": "Every neighborhood is a different customer.",
+       "mechanism": "Insight: memorable, less specific."
+      },
+      {
+       "text": "Adjust the offer, not the identity.",
+       "mechanism": "Rule: punchy, gives the payoff away."
+      }
+     ],
      "scene": "map",
-     "attachments": []
+     "sourceLine": "General retail guidance",
+     "attachments": [],
+     "altText": "Cover headline 'Opening in a new neighborhood? Learn these 3 things first' over an illustrated street map with a gold route."
     },
     {
      "n": 2,
      "template": "cards_stack",
-     "kicker": "START HERE",
-     "headline": "THREE THINGS TO LEARN LOCALLY",
+     "kicker": "LEARN LOCALLY",
+     "headline": "THREE THINGS TO LEARN FIRST",
      "cards": [
       {
        "icon": "map-pin",
@@ -2980,7 +3247,8 @@
      "scene": "map",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three cards: who lives and shops there, what competitors do, how people get there."
     },
     {
      "n": 3,
@@ -3001,23 +3269,26 @@
        "shield"
       ]
      ],
-     "scene": "map",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
      "cards": [
       {
        "accent": "left-border",
        "title": "THE RULE",
        "body": "Adjust the offer, not the identity."
       }
-     ]
+     ],
+     "scene": "map",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A three-step flow, learn, adjust, stay on brand, with a rule card."
     },
     {
      "n": 4,
      "template": "stats_rows",
-     "kicker": "KEEP VS. CHANGE",
-     "headline": "WHAT STAYS AND WHAT FLEXES",
+     "kicker": "WHAT STAYS, WHAT FLEXES",
+     "headline": "KEEP, ADJUST, TEST, REVIEW",
      "rows": [
       [
        "KEEP",
@@ -3039,7 +3310,8 @@
      "scene": "storefront",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four rows: keep name and standards, adjust product mix, test small changes, review results by location."
     },
     {
      "n": 5,
@@ -3055,37 +3327,63 @@
      ],
      "button": "Comment your neighborhood tip",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered local research questions with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/linkedin/x/threads: 'I'd learn', 'I'd adjust/keep'.",
+   "caption": "Every neighborhood is a different customer. Before opening somewhere new, I'd learn three things: who lives and shops there, what competitors already do, and how people get there.\n\nThen adjust the offer, not the identity. Save the 5 local research questions.\n\n#SmallBusiness #Retail #LocalBusiness\n\nWhat's one thing every newcomer should know about your neighborhood?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 21,
    "week": 21,
    "title": "Brand consistency audit",
    "pillar": "Scaling and systems (general guidance)",
-   "caption": "Would customers recognize your brand in every location? Swipe for a four-part audit and a checklist to save. Which part is weakest in your business? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Would customers recognize you in every location?\n\nThe audit I'd run: visit as a customer, not as the owner. Check the name and message, the space, the service and the pricing. Then compare and fix.\n\nSave the 6-point brand audit.\n\n#Branding #Retail #SmallBusiness\n\nWhat's your weakest point?",
+    "facebook": "Visit your own store as a customer. Would you recognize the brand from the one across town? I made a 6-point audit to check.\n\n#Branding #SmallBusiness\n\nWhen did you last visit your store as a customer?",
+    "linkedin": "Visit as a customer, not as the owner.\n\nA brand with more than one location lives or dies on whether every store feels familiar. My audit checks four things: name and message, the space, the service standard, and pricing and promotions. Look, compare, fix.\n\nThe six points: name used the same way, message matches in all channels, signage matches, service standard followed, pricing logic consistent, customer feedback reviewed.\n\n#Branding #Operations\n\nWhich point would your locations fail first?",
+    "x": "A 6-point brand audit:\n\n1. Name used the same way\n2. Message matches everywhere\n3. Signage matches\n4. Service standard followed\n5. Pricing logic consistent\n6. Feedback reviewed\n\nI'd start with signage. Which would your stores fail?",
+    "threads": "Visit your own store as a customer. That's the first step of the audit I'd run.\n\nWhat would you notice?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
      "headline": "WOULD CUSTOMERS RECOGNIZE YOU IN EVERY LOCATION?",
-     "subline": "A four-part brand consistency audit. Swipe →",
+     "subline": "A four-part brand audit. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Would customers recognize you in every location?",
+       "mechanism": "Question + stakes: a test every multi-location owner fears failing.",
+       "chosen": true
+      },
+      {
+       "text": "Visit your own store as a customer. What do you see?",
+       "mechanism": "Story / instruction: vivid, slower."
+      },
+      {
+       "text": "A 4-part audit for brands with more than one location.",
+       "mechanism": "Promise: clear, low tension."
+      }
+     ],
      "scene": "shield",
-     "attachments": []
+     "sourceLine": "General retail guidance",
+     "attachments": [],
+     "altText": "Cover headline 'Would customers recognize you in every location?' over an illustrated gold shield with a check mark."
     },
     {
      "n": 2,
      "template": "stats_grid",
-     "kicker": "THE AUDIT",
-     "headline": "FOUR THINGS TO CHECK",
-     "scene": "row",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
+     "kicker": "WHAT TO CHECK",
+     "headline": "FOUR THINGS EVERY LOCATION SHOULD SHARE",
      "cards": [
       [
        "NAME AND MESSAGE",
@@ -3103,12 +3401,17 @@
        "PRICING",
        "Same promotions and pricing logic"
       ]
-     ]
+     ],
+     "scene": "row",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A 2x2 grid: name and message, space, service, pricing."
     },
     {
      "n": 3,
      "template": "flow_steps",
-     "kicker": "THE METHOD",
+     "kicker": "THE AUDIT",
      "headline": "LOOK. COMPARE. FIX.",
      "flow": [
       [
@@ -3124,11 +3427,14 @@
        "gear"
       ]
      ],
+     "pullLine": "Visit as a customer, not as the owner.",
      "scene": "row",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "Visit as a customer, not as the owner."
+     "altText": "A three-step flow, look, compare, fix, with a pull line about visiting as a customer."
     },
     {
      "n": 4,
@@ -3160,7 +3466,8 @@
      "scene": "shield",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting inconsistent and consistent locations."
     },
     {
      "n": 5,
@@ -3177,33 +3484,64 @@
      ],
      "button": "Comment your weakest point",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A six-point numbered brand audit with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/linkedin/x/threads: 'The audit I'd run', 'My audit'.",
+   "caption": "Would customers recognize you in every location?\n\nThe audit I'd run: visit as a customer, not as the owner. Check the name and message, the space, the service and the pricing. Then compare and fix.\n\nSave the 6-point brand audit.\n\n#Branding #Retail #SmallBusiness\n\nWhat's your weakest point?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 22,
    "week": 22,
    "title": "Systems, not heroes",
    "pillar": "Scaling and systems (general guidance)",
-   "caption": "If it only works when one person is there, it's not a system. Swipe for how to document, standardize and measure. What would you document first? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "What happens to your business when your best person is out?\n\nIf it only works when one person is there, it isn't a system. Where I'd start: document what repeats every day, standardize it, then measure it.\n\nSave the 5-point system check.\n\n#Operations #SmallBusiness #Leadership\n\nWhich process would you document first?",
+    "facebook": "Build systems, not heroes. A good process should work without a single star employee. I put a 5-point system check on the last slide.\n\n#Operations #SmallBusiness\n\nWho in your business can't take a day off?",
+    "linkedin": "If it only works when one person is there, it isn't a system.\n\nStar employees are great. A business that depends on them is fragile. Where I'd start: the routines that repeat every day (opening and closing, customer service, ordering and receiving). Document them, standardize them, measure them.\n\nThe check: Is it written down? Can a new hire follow it? Is it the same everywhere? Is it measured? Who improves it?\n\n#Operations #Leadership\n\nWhat would break first if your best person took a month off?",
+    "x": "If it only works when one person is there, it isn't a system.\n\nDocument. Standardize. Measure. I'd start with opening and closing.\n\nWhich process would you write down first?",
+    "threads": "Build systems, not heroes. I'd start with opening and closing routines.\n\nWhat happens when your best person is out?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "BUILD SYSTEMS, NOT HEROES",
-     "subline": "If it only works when one person is there, it isn't a system. Swipe →",
+     "headline": "WHAT HAPPENS TO YOUR BUSINESS WHEN YOUR BEST PERSON IS OUT?",
+     "subline": "Build systems, not heroes. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "What happens to your business when your best person is out?",
+       "mechanism": "Stakes + question: a scenario every owner recognizes.",
+       "chosen": true
+      },
+      {
+       "text": "Build systems, not heroes.",
+       "mechanism": "Contrarian: memorable, gives the payoff away."
+      },
+      {
+       "text": "Your star employee can't be your system.",
+       "mechanism": "Contrarian: sharp, less concrete."
+      }
+     ],
      "scene": "blueprint",
-     "attachments": []
+     "sourceLine": "General retail guidance",
+     "attachments": [],
+     "altText": "Cover headline 'What happens to your business when your best person is out?' over an illustrated gold blueprint grid."
     },
     {
      "n": 2,
      "template": "flow_steps",
-     "kicker": "THREE STEPS",
+     "kicker": "THE METHOD",
      "headline": "DOCUMENT. STANDARDIZE. MEASURE.",
+     "body": "Repeatable systems let a good process work without a single star employee.",
      "flow": [
       [
        "DOCUMENT",
@@ -3219,15 +3557,17 @@
       ]
      ],
      "scene": "blueprint",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "body": "Repeatable systems let a good process work without a single star employee."
+     "altText": "A three-step flow from document to standardize to measure."
     },
     {
      "n": 3,
      "template": "cards_stack",
-     "kicker": "WHAT TO DOCUMENT",
+     "kicker": "WHERE TO START",
      "headline": "START WITH WHAT REPEATS",
      "cards": [
       {
@@ -3246,7 +3586,8 @@
      "scene": "clipboard",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three numbered cards: opening and closing, customer service, ordering and receiving."
     },
     {
      "n": 4,
@@ -3276,9 +3617,12 @@
       ]
      ],
      "scene": "conveyor",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting a hero-dependent business and a system-run one."
     },
     {
      "n": 5,
@@ -3294,11 +3638,18 @@
      ],
      "button": "Comment the process you'd document first",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered system-check questions with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/linkedin/threads: 'Where I'd start'.",
+   "caption": "What happens to your business when your best person is out?\n\nIf it only works when one person is there, it isn't a system. Where I'd start: document what repeats every day, standardize it, then measure it.\n\nSave the 5-point system check.\n\n#Operations #SmallBusiness #Leadership\n\nWhich process would you document first?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 23,

@@ -4,7 +4,11 @@
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
-import crossSpawn from "cross-spawn";
+import { spawnSync } from "node:child_process";
+
+// cross-spawn lives in node_modules, which may not exist yet on a fresh
+// clone. It's loaded in main() after the bootstrap `npm install`.
+let crossSpawn;
 
 const ROOT = process.cwd();
 
@@ -143,7 +147,16 @@ async function main() {
   log(
     "📦 Installing dependencies (this may take a moment — Puppeteer downloads Chromium ~300MB)..."
   );
-  runSync("npm", ["install"]);
+  // Plain spawnSync here: cross-spawn isn't installed yet. shell is needed
+  // on Windows to resolve npm.cmd.
+  const install = spawnSync("npm", ["install"], {
+    stdio: "inherit",
+    shell: process.platform === "win32",
+  });
+  if (install.status !== 0) {
+    throw new Error(`npm install exited with ${install.status}`);
+  }
+  crossSpawn = (await import("cross-spawn")).default;
   log("");
 
   log("📁 Creating data directories...");

@@ -53,3 +53,17 @@
 - **C28 The four pillars**: the pillars are confirmed BUILT® facts. What each technology does is explained in general terms and labeled that way, not as BUILT® specifications.
 - **C29 AI in construction planning, C30 Robots in prefab, C32 Cloud project management**: the "Per Stephen Jemal's site" claims, which aren't on the verified list, are now general explanations. Each ties back to the confirmed BUILT® pillar.
 - **C31 Laser-guided precision**: "sub-millimeter, under 1 mm" (confirmed) next to the 0.76 mm credit card (ISO/IEC 7810). Neither is presented as a measured BUILT® result.
+
+## Batch 4: carousels 33, 34, 36-43
+
+- **C33 One mother factory**: unverified claims removed ("machines made in the U.S.", "vertically integrated", "dignified housing"). The model and its design goals use confirmed facts only, plus a framed "why local" table.
+- **C34 What makes housing adequate?**: the hook pairs UN-Habitat's 2.8 billion with the UN definition. All seven elements are on slides 2-3, and the 7-row closing list became 3 questions (6-item limit).
+- **C36 Why prefab?**: the hook is McKinsey's 20-50%, with the fine print (up to 10% losses) on the slide.
+- **C37 Less waste**: "dramatically reduce" became the confirmed "less material waste".
+- **C38 How fast is fast?**: the unverified "up to 50% cost savings (JemRock states)" is removed. The 50%+ figure always reads "design target, not a result".
+- **C39 Site-built vs. system-built**: the "per site" challenges are now a general explanation.
+- **C40 Brand-led development**: PASHA, CENTRAL, H.O.M.E. and the unverified "per site" pillars are removed. It now applies the confirmed Wiz marketing pillars to buildings (flagged as framing).
+- **C41 Assembling underused land** (replaces "Inside PASHA"): the confirmed parcels across five areas, plus a general explanation of land assemblage.
+- **C42 Waterfront revitalization** (replaces "Two brands, two markets"): the confirmed waterfront work, plus a general explanation of revitalization.
+- **C43 Urban residential focus**: the "per site" claims are now general guidance.
+- **Validator**: skips the internal `captionsNeedApproval` note when scanning for unconfirmed facts.

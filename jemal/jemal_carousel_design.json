@@ -5163,29 +5163,53 @@
    "week": 33,
    "title": "One mother factory",
    "pillar": "BUILT technology",
-   "caption": "One mother factory in the United States, hundreds of pilot factories where housing is needed most. Swipe for the JemRock model in three steps. Which country would you deploy first? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Why one mother factory and hundreds of pilot factories?\n\nThe BUILT® model: one mother factory in the United States, and hundreds of custom pilot factories in the countries that need housing, designed for local jobs and government partnerships.\n\nSave the 4 questions I'd ask of any housing factory model.\n\n#BUILT #Housing #ModularConstruction\n\nWhere would you want a pilot factory?",
+    "facebook": "Our BUILT® model puts one mother factory in the United States and hundreds of custom pilot factories where housing is needed. Swipe for how the pieces fit.\n\n#Housing #ModularConstruction\n\nWhich country do you think needs one first?",
+    "linkedin": "Housing is needed locally, so production should happen close to the need.\n\nThat's the thinking behind the BUILT® model: one mother factory in the United States, and hundreds of custom pilot factories in the countries that need housing. Each pilot factory is designed for local jobs and government partnerships.\n\nFour questions I'd ask of any housing factory model: Where is it built? Who gets the jobs? Who are the partners? How is it adapted locally?\n\n#Housing #ConstructionTech\n\nWhich question matters most to you?",
+    "x": "The BUILT® model:\n\n1 mother factory in the US.\nHundreds of custom pilot factories where housing is needed.\nLocal jobs. Government partnerships.\n\nWhere would you put our first pilot factory?",
+    "threads": "One mother factory in the US. Hundreds of custom pilot factories where housing is needed. That's our BUILT® model.\n\nWhere would you start?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "ONE MOTHER FACTORY. HUNDREDS OF PILOT FACTORIES.",
-     "subline": "The JemRock model, in three steps. Swipe →",
+     "headline": "WHY ONE MOTHER FACTORY AND HUNDREDS OF PILOT FACTORIES?",
+     "subline": "The BUILT® model, explained. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Why one mother factory and hundreds of pilot factories?",
+       "mechanism": "Curiosity gap + specificity: an unusual structure, explained.",
+       "chosen": true
+      },
+      {
+       "text": "Build the system here. Build the homes there.",
+       "mechanism": "Contrast: punchy, a little vague."
+      },
+      {
+       "text": "What does a housing factory network look like?",
+       "mechanism": "Question: abstract."
+      }
+     ],
      "scene": "globe",
-     "attachments": []
+     "sourceLine": "Source: stephenjemal.com",
+     "attachments": [],
+     "altText": "Cover headline 'Why one mother factory and hundreds of pilot factories?' over an illustrated glowing globe."
     },
     {
      "n": 2,
      "template": "flow_steps",
      "kicker": "THE MODEL",
-     "headline": "BUILD HERE. DEPLOY THERE.",
+     "headline": "ONE CENTER, MANY LOCAL FACTORIES",
+     "body": "One mother factory in the United States. Hundreds of custom pilot factories in the countries that need housing.",
      "flow": [
       [
-       "MOTHER FACTORY",
+       "MOTHER FACTORY, US",
        "factory"
       ],
       [
-       "PILOT FACTORIES",
+       "CUSTOM PILOT FACTORIES",
        "globe"
       ],
       [
@@ -5194,90 +5218,136 @@
       ]
      ],
      "scene": "factory",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "body": "Manufacture AI-robotics machines in the United States, then deploy custom pilot factories directly inside the countries that need housing most."
+     "altText": "A three-step flow from a US mother factory to custom pilot factories to local homes."
     },
     {
      "n": 3,
-     "template": "stats_grid",
-     "kicker": "FOUR FEATURES",
-     "headline": "WHAT THE MODEL IS DESIGNED TO DELIVER",
+     "template": "cards_stack",
+     "kicker": "DESIGNED FOR",
+     "headline": "LOCAL JOBS, PARTNERS, FIT",
+     "cards": [
+      {
+       "icon": "people",
+       "title": "LOCAL JOBS",
+       "body": "Pilot factories are designed to create jobs where they stand."
+      },
+      {
+       "icon": "shield",
+       "title": "GOVERNMENT PARTNERSHIPS",
+       "body": "The model is designed to work with governments."
+      },
+      {
+       "icon": "gear",
+       "title": "CUSTOM",
+       "body": "Each pilot factory is built for the country it serves."
+      }
+     ],
      "scene": "globe",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "cards": [
-      [
-       "VERTICALLY INTEGRATED",
-       "From machines to factories"
-      ],
-      [
-       "LOCAL JOBS",
-       "Created where the factory stands"
-      ],
-      [
-       "DIGNIFIED HOUSING",
-       "High-quality homes"
-      ],
-      [
-       "PARTNERSHIPS",
-       "Designed to work with governments"
-      ]
-     ],
-     "sourceLine": "Per JemRock"
+     "altText": "Three cards: local jobs, government partnerships, and pilot factories customized for each country."
     },
     {
      "n": 4,
-     "template": "timeline_vertical",
-     "kicker": "HOW IT SCALES",
-     "headline": "FROM ONE FACTORY TO MANY",
-     "points": [
-      "Build the AI-robotics machines in the U.S.",
-      "Customize a pilot factory for each country",
-      "Create local jobs",
-      "Deliver dignified housing",
-      "Build capacity where it matters"
+     "template": "table_compare",
+     "kicker": "WHY LOCAL",
+     "headline": "SHIPPING HOMES VS. BUILDING LOCALLY",
+     "columns": [
+      "SHIP HOMES",
+      "BUILD LOCALLY"
      ],
-     "scene": "globe",
+     "rows": [
+      [
+       "Long transport for every unit",
+       "Production near the need"
+      ],
+      [
+       "Jobs stay where homes are made",
+       "Jobs where the factory stands"
+      ],
+      [
+       "One design for everyone",
+       "Custom to each country"
+      ]
+     ],
+     "scene": "map",
+     "needsApproval": true,
+     "approvalNote": "Comparison is framing for why the model is local.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting shipping finished homes with producing them locally."
     },
     {
      "n": 5,
      "template": "numbered_cta",
      "kicker": "SAVE THIS",
-     "headline": "THE 3-STEP MODEL",
+     "headline": "4 QUESTIONS FOR ANY HOUSING FACTORY MODEL",
      "rows": [
-      "Make the machines at the mother factory",
-      "Deploy custom pilot factories in-country",
-      "Build homes and local capacity"
+      "Where is it built?",
+      "Who gets the jobs?",
+      "Who are the partners?",
+      "How is it adapted locally?"
      ],
-     "button": "Comment where you'd deploy first",
+     "button": "Comment where you'd want a pilot factory",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered questions about housing factory models, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin: opening lesson ('production should happen close to the need') and 'questions I'd ask'.",
+   "caption": "Why one mother factory and hundreds of pilot factories?\n\nThe BUILT® model: one mother factory in the United States, and hundreds of custom pilot factories in the countries that need housing, designed for local jobs and government partnerships.\n\nSave the 4 questions I'd ask of any housing factory model.\n\n#BUILT #Housing #ModularConstruction\n\nWhere would you want a pilot factory?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 34,
    "week": 34,
    "title": "What makes housing adequate?",
    "pillar": "Housing and authority",
-   "caption": "Adequate housing is more than four walls. The UN lists seven elements. Swipe to save the checklist. Which one is hardest to get right where you live? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "UN-Habitat counts 2.8 billion people without adequate housing. So what does \"adequate\" mean?\n\nThe UN Committee on Economic, Social and Cultural Rights lists seven elements: security of tenure, services and infrastructure, affordability, habitability, accessibility, location and cultural adequacy.\n\nI keep this list close. Save it.\n\n#Housing #AffordableHousing #HumanRights\n\nWhich element is hardest where you live?",
+    "facebook": "A roof isn't enough. The UN defines adequate housing with seven elements, from security of tenure to cultural adequacy. I put them all in one carousel.\n\n#Housing #AffordableHousing\n\nWhich element would you add first to your city's checklist?",
+    "linkedin": "Before we talk about how many homes the world needs, we should agree on what counts as a home.\n\nThe UN Committee on Economic, Social and Cultural Rights lists seven elements of adequate housing: security of tenure, services and infrastructure, affordability, habitability, accessibility, location and cultural adequacy.\n\nBy that standard, UN-Habitat counts 2.8 billion people without adequate housing, 1.1 billion living in slums or informal settlements, and more than 300 million who are homeless.\n\n#Housing #HumanRights\n\nWhich element do new projects most often miss?",
+    "x": "2.8 billion people lack adequate housing (UN-Habitat).\n\nThe UN's 7 elements of adequate: tenure, services, affordability, habitability, accessibility, location, cultural adequacy.\n\nWhich one do I hear about least? Which do you?",
+    "threads": "Seven elements make housing adequate, per the UN. Affordability is only one of them. I keep the full list close.\n\nWhich one would you have forgotten?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHAT MAKES HOUSING \"ADEQUATE\"?",
-     "subline": "The seven elements the UN uses. Swipe →",
+     "headline": "2.8 BILLION PEOPLE LACK ADEQUATE HOUSING. WHAT DOES ADEQUATE MEAN?",
+     "subline": "The UN's seven elements. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "2.8 billion people lack adequate housing. What does adequate mean?",
+       "mechanism": "Stakes + curiosity: a huge number, then a definition gap.",
+       "chosen": true
+      },
+      {
+       "text": "What makes housing \"adequate\"? The UN lists seven elements.",
+       "mechanism": "Specificity: clear promise, less tension."
+      },
+      {
+       "text": "Seven tests every home should pass.",
+       "mechanism": "Promise: punchy, less sourced."
+      }
+     ],
      "scene": "houses",
-     "attachments": []
+     "sourceLine": "Source: UN-Habitat",
+     "attachments": [],
+     "altText": "Cover headline '2.8 billion people lack adequate housing. What does adequate mean?' over illustrated houses with lit windows."
     },
     {
      "n": 2,
@@ -5298,94 +5368,96 @@
       {
        "icon": "tag",
        "title": "AFFORDABILITY",
-       "body": "Housing costs that don't threaten other needs."
+       "body": "Costs that don't threaten other basic needs."
       }
      ],
      "scene": "houses",
+     "sourceLine": "UN Committee on Economic, Social and Cultural Rights",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "UN Committee on Economic, Social and Cultural Rights"
+     "altText": "Three cards: security of tenure, services and infrastructure, affordability."
     },
     {
      "n": 3,
-     "template": "cards_stack",
+     "template": "stats_grid",
      "kicker": "ELEMENTS 4 TO 7",
      "headline": "SAFE, REACHABLE, WELL-LOCATED",
      "cards": [
-      {
-       "icon": "house",
-       "title": "HABITABILITY",
-       "body": "Safe, with space and protection."
-      },
-      {
-       "icon": "map-pin",
-       "title": "ACCESSIBILITY",
-       "body": "Usable by everyone, including those with disabilities."
-      },
-      {
-       "icon": "map-grid",
-       "title": "LOCATION",
-       "body": "Near jobs, schools and care."
-      },
-      {
-       "icon": "people",
-       "title": "CULTURAL ADEQUACY",
-       "body": "Respects the community's identity."
-      }
+      [
+       "HABITABILITY",
+       "Safe, with space and protection"
+      ],
+      [
+       "ACCESSIBILITY",
+       "Usable by everyone"
+      ],
+      [
+       "LOCATION",
+       "Near jobs, schools and care"
+      ],
+      [
+       "CULTURAL ADEQUACY",
+       "Respects the community's identity"
+      ]
      ],
      "scene": "map",
+     "sourceLine": "UN Committee on Economic, Social and Cultural Rights",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "UN Committee on Economic, Social and Cultural Rights"
+     "altText": "A 2x2 grid: habitability, accessibility, location, cultural adequacy."
     },
     {
      "n": 4,
      "template": "stats_cards",
-     "kicker": "THE SCALE",
-     "headline": "WHERE THE WORLD STANDS",
+     "kicker": "WHERE THE WORLD STANDS",
+     "headline": "MEASURED AGAINST THAT STANDARD",
      "stats": [
       [
-       "2.8 billion",
+       "2.8B",
        "people lack adequate housing"
       ],
       [
-       "1.1 billion",
+       "1.1B",
        "live in slums or informal settlements"
       ],
       [
-       "300 million+",
+       "300M+",
        "are homeless"
       ]
      ],
      "scene": "globe",
+     "sourceLine": "Source: UN-Habitat",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Source: UN-Habitat"
+     "altText": "Three stat cards: 2.8 billion lack adequate housing, 1.1 billion in slums or informal settlements, over 300 million homeless."
     },
     {
      "n": 5,
      "template": "numbered_cta",
      "kicker": "SAVE THIS",
-     "headline": "THE 7-POINT HOUSING CHECK",
+     "headline": "3 QUESTIONS TO ASK OF ANY HOUSING PROJECT",
      "rows": [
-      "Security of tenure",
-      "Services and infrastructure",
-      "Affordability",
-      "Habitability",
-      "Accessibility",
-      "Location",
-      "Cultural adequacy"
+      "Who can afford it?",
+      "Is it safe and secure to live in?",
+      "Is it near jobs, schools and care?"
      ],
-     "button": "Comment the hardest one",
+     "button": "Comment the element that matters most to you",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three numbered questions drawn from the UN elements, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram: 'I keep this list close'; linkedin: opening lesson line.",
+   "caption": "UN-Habitat counts 2.8 billion people without adequate housing. So what does \"adequate\" mean?\n\nThe UN Committee on Economic, Social and Cultural Rights lists seven elements: security of tenure, services and infrastructure, affordability, habitability, accessibility, location and cultural adequacy.\n\nI keep this list close. Save it.\n\n#Housing #AffordableHousing #HumanRights\n\nWhich element is hardest where you live?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 35,
@@ -5546,21 +5618,44 @@
    "week": 36,
    "title": "Why prefab?",
    "pillar": "BUILT technology",
-   "caption": "What does the research say about modular construction? Swipe for the verified ranges, the risks, and four questions to ask. Would you build modular? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Modular construction can be 20-50% faster and save up to 20% on cost, per McKinsey (2019). The fine print: losses of up to 10% if delivery or material costs spike.\n\nI like research that includes the downside. Swipe for the full picture, then save the 4 questions before choosing prefab.\n\n#Prefab #ModularConstruction #ConstructionTech\n\nWhat's your biggest prefab question?",
+    "facebook": "Is prefab really faster and cheaper? McKinsey (2019) says modular can be 20-50% faster with up to 20% cost savings, but warns of losses up to 10% if delivery or material costs spike. I put the numbers side by side.\n\n#Prefab #ConstructionTech\n\nWould you choose prefab?",
+    "linkedin": "Good research includes the downside.\n\nMcKinsey's 2019 report, \"Modular construction: From projects to products\", found that modular construction can be 20-50% faster than traditional building and can save up to 20% on cost. It also warned of potential losses of up to 10% if delivery or material costs spike.\n\nThe difference comes from where the work happens: in a factory, conditions are controlled and processes repeat.\n\nFour questions I'd ask before choosing prefab: What does it save in time? What does it cost? What are the delivery risks? Who is responsible for quality?\n\n#Prefab #ConstructionTech\n\nWhich risk worries you most?",
+    "x": "Modular construction (McKinsey, 2019):\n\n20-50% faster.\nUp to 20% cost savings.\nUp to 10% losses if delivery or material costs spike.\n\nI always read the fine print. What would you ask?",
+    "threads": "Prefab can be 20-50% faster, per McKinsey (2019). It can also lose money if delivery costs spike. I want both sides.\n\nWhat's your take?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHAT DOES THE RESEARCH SAY ABOUT PREFAB?",
-     "subline": "Speed, cost and the fine print. Swipe →",
+     "headline": "PREFAB CAN BE 20-50% FASTER. HERE'S THE FINE PRINT.",
+     "subline": "What the research says. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Prefab can be 20-50% faster. Here's the fine print.",
+       "mechanism": "Specificity + curiosity: a real number and a promised caveat.",
+       "chosen": true
+      },
+      {
+       "text": "What does the research say about prefab?",
+       "mechanism": "Question: credible, less specific."
+      },
+      {
+       "text": "Faster and cheaper? What one major study found.",
+       "mechanism": "Curiosity: vaguer."
+      }
+     ],
      "scene": "factory",
-     "attachments": []
+     "sourceLine": "McKinsey, 2019",
+     "attachments": [],
+     "altText": "Cover headline 'Prefab can be 20-50% faster. Here's the fine print.' over an illustrated factory hall."
     },
     {
      "n": 2,
      "template": "stats_cards",
-     "kicker": "THE EVIDENCE",
+     "kicker": "THE RESEARCH",
      "headline": "MODULAR CONSTRUCTION, BY THE NUMBERS",
      "stats": [
       [
@@ -5568,25 +5663,26 @@
        "faster than traditional construction"
       ],
       [
-       "up to 20%",
+       "Up to 20%",
        "potential cost savings"
       ],
       [
-       "up to 10%",
-       "potential loss if delivery or material costs spike"
+       "Up to 10%",
+       "potential losses if delivery or material costs spike"
       ]
      ],
      "scene": "chart",
+     "sourceLine": "McKinsey, 2019, \"Modular construction: From projects to products\"",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "McKinsey & Company, 2019, \"Modular construction: From projects to products\""
+     "altText": "Three stat cards: 20-50% faster, up to 20% cost savings, up to 10% potential losses if costs spike."
     },
     {
      "n": 3,
      "template": "flow_steps",
-     "kicker": "WHY IT CAN WORK",
-     "headline": "FOUR PREFAB PILLARS",
+     "kicker": "WHY IT CAN BE FASTER",
+     "headline": "FOUR PREFAB PRINCIPLES",
      "flow": [
       [
        "REPEATABLE",
@@ -5605,10 +5701,14 @@
        "shield"
       ]
      ],
+     "body": "Factory work repeats, so it can be planned, timed and checked.",
      "scene": "factory",
+     "needsApproval": true,
+     "approvalNote": "The principles are framing.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A four-step flow of prefab principles: repeatable, cost-aware, fast, consistent."
     },
     {
      "n": 4,
@@ -5636,7 +5736,8 @@
      "scene": "crane",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting site-built and factory-built construction."
     },
     {
      "n": 5,
@@ -5651,18 +5752,31 @@
      ],
      "button": "Comment your prefab question",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered questions to ask before choosing prefab, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/x/threads: 'I like research that includes the downside', 'I always read the fine print'; linkedin: opening lesson and 'questions I'd ask'.",
+   "caption": "Modular construction can be 20-50% faster and save up to 20% on cost, per McKinsey (2019). The fine print: losses of up to 10% if delivery or material costs spike.\n\nI like research that includes the downside. Swipe for the full picture, then save the 4 questions before choosing prefab.\n\n#Prefab #ModularConstruction #ConstructionTech\n\nWhat's your biggest prefab question?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 37,
    "week": 37,
    "title": "Less waste",
    "pillar": "BUILT technology",
-   "caption": "Precision manufacturing is designed to dramatically reduce material waste. Swipe for where construction waste comes from and how to cut it. Where do you see the most waste? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Where does construction waste really come from? Three places: cutting errors, over-ordering and rework.\n\nThe way I see it, precision attacks all three. BUILT® is laser-guided and designed for less material waste.\n\nSave the 5 waste-reduction questions.\n\n#Sustainability #ConstructionTech #Prefab\n\nWhich waste would you cut first?",
+    "facebook": "Parts cut wrong. Material ordered just in case. Mistakes built, then rebuilt. That's where construction waste comes from. Here's how I think precision helps.\n\n#Sustainability #ConstructionTech\n\nHave you seen a dumpster on a job site lately?",
+    "linkedin": "Waste starts long before the dumpster.\n\nIn construction it comes from three places: cutting errors, over-ordering \"just in case,\" and rework. Each one is a measurement or planning problem.\n\nThat's why precision matters to me. BUILT® is laser-guided, designed for millimeter and sub-millimeter precision and less material waste.\n\nFive questions I'd ask on any project: Where do we over-order? Where do we redo work? Which cuts fail most? Who tracks waste? What would we do with offcuts?\n\n#Sustainability #ConstructionTech\n\nWhich is the biggest source of waste you've seen?",
+    "x": "Construction waste comes from:\n\nCutting errors.\nOver-ordering.\nRework.\n\nI think precision attacks all three. That's why BUILT® is designed for less waste. Which would you fix first?",
+    "threads": "Most of the waste I think about is decided in planning, not on site. Measure, cut, fit.\n\nWhere does your industry waste the most?"
+   },
    "slides": [
     {
      "n": 1,
@@ -5670,14 +5784,31 @@
      "kicker": "THE JEMAL BLUEPRINT",
      "headline": "WHERE DOES CONSTRUCTION WASTE REALLY COME FROM?",
      "subline": "Three sources, and how precision helps. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Where does construction waste really come from?",
+       "mechanism": "Curiosity gap: a familiar problem with a hidden answer.",
+       "chosen": true
+      },
+      {
+       "text": "Three sources of construction waste, and how precision helps.",
+       "mechanism": "Specificity: countable, less tension."
+      },
+      {
+       "text": "Order what the plan needs, not what fear needs.",
+       "mechanism": "Contrarian: memorable, opinion."
+      }
+     ],
      "scene": "conveyor",
-     "attachments": []
+     "sourceLine": "General explanation",
+     "attachments": [],
+     "altText": "Cover headline 'Where does construction waste really come from?' over an illustrated conveyor belt with boxes."
     },
     {
      "n": 2,
      "template": "cards_stack",
-     "kicker": "THREE SOURCES",
-     "headline": "WHERE WASTE STARTS",
+     "kicker": "WHERE WASTE STARTS",
+     "headline": "CUTS, ORDERS, REWORK",
      "cards": [
       {
        "title": "CUTTING ERRORS",
@@ -5695,12 +5826,13 @@
      "scene": "conveyor",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three numbered cards: cutting errors, over-ordering and rework."
     },
     {
      "n": 3,
      "template": "flow_steps",
-     "kicker": "THE PRECISION PATH",
+     "kicker": "THE FIX",
      "headline": "MEASURE. CUT. FIT.",
      "flow": [
       [
@@ -5716,12 +5848,13 @@
        "shield"
       ]
      ],
+     "pullLine": "BUILT® is designed for less material waste.",
      "scene": "laser",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "BUILT® is designed to dramatically reduce material waste.",
-     "sourceLine": "Per JemRock"
+     "altText": "A three-step flow, measure, cut, fit, with a line that BUILT is designed for less material waste."
     },
     {
      "n": 4,
@@ -5749,7 +5882,8 @@
      "scene": "blueprint",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting wasteful and precise building practices."
     },
     {
      "n": 5,
@@ -5765,33 +5899,63 @@
      ],
      "button": "Comment the waste you'd cut first",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered waste-reduction questions with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "facebook/linkedin/threads: 'how I think precision helps', 'why precision matters to me', 'Most of the waste I think about'.",
+   "caption": "Where does construction waste really come from? Three places: cutting errors, over-ordering and rework.\n\nThe way I see it, precision attacks all three. BUILT® is laser-guided and designed for less material waste.\n\nSave the 5 waste-reduction questions.\n\n#Sustainability #ConstructionTech #Prefab\n\nWhich waste would you cut first?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 38,
    "week": 38,
    "title": "How fast is fast?",
    "pillar": "BUILT technology",
-   "caption": "Industry research says modular can be 20-50% faster. JemRock's design target is higher. Swipe for the difference between a target and a result. What would you want proven first? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "\"50% faster\": a target or a result?\n\nFor BUILT®, it's a target. Per JemRock research, our design target is more than 50% faster timelines. McKinsey (2019) found modular construction can be 20-50% faster. Those are different kinds of numbers, and I want to be clear about which is which.\n\nSave the 4 questions for any speed claim.\n\n#ConstructionTech #Prefab #Housing\n\nWhich speed claim would you test?",
+    "facebook": "Our BUILT® design target is more than 50% faster timelines (per JemRock research). That's a target, not a result. Approvals, financing and delivery still take time. Swipe for the full picture.\n\n#ConstructionTech #Housing\n\nWhat would convince you a speed claim is real?",
+    "linkedin": "A design target is not a result, and I think founders should say so out loud.\n\nPer JemRock research, our design target for BUILT® is more than 50% faster timelines. Independent research is a different kind of number: McKinsey (2019) found modular construction can be 20-50% faster and save up to 20% on cost.\n\nEven a faster factory meets the same real world: approvals and permits, financing, and delivery to site.\n\nFour questions for any speed claim: Who measured it? Compared with what? On which project? Including approvals?\n\n#ConstructionTech #Leadership\n\nWhich question do you ask most often?",
+    "x": "Our BUILT® design target: 50%+ faster timelines (per JemRock research).\n\nThat's a target, not a result. McKinsey (2019): modular can be 20-50% faster.\n\nHow would you test a speed claim?",
+    "threads": "\"50% faster\" for BUILT® is our design target, not a result. I'd rather say that plainly.\n\nWhat would you want measured?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
      "headline": "\"50% FASTER\": A TARGET OR A RESULT?",
-     "subline": "What the research says, what the target says. Swipe →",
+     "subline": "Research vs. design target. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "\"50% faster\": a target or a result?",
+       "mechanism": "Contrarian honesty + curiosity: questions its own claim.",
+       "chosen": true
+      },
+      {
+       "text": "Which speed claims should you believe?",
+       "mechanism": "Question: broad, less specific."
+      },
+      {
+       "text": "20-50% vs. 50%+: research and a target, side by side.",
+       "mechanism": "Specificity: dense at thumbnail size."
+      }
+     ],
      "scene": "clock",
-     "attachments": []
+     "sourceLine": "Per JemRock research",
+     "attachments": [],
+     "altText": "Cover headline '50% faster: a target or a result?' over an illustrated glowing clock."
     },
     {
      "n": 2,
      "template": "stats_rows",
-     "kicker": "SIDE BY SIDE",
-     "headline": "RESEARCH VS. TARGET",
+     "kicker": "RESEARCH VS. TARGET",
+     "headline": "TWO KINDS OF NUMBERS",
      "rows": [
       [
        "20-50%",
@@ -5799,28 +5963,25 @@
       ],
       [
        "50%+",
-       "faster BUILT® timelines (JemRock design target)"
+       "faster BUILT® timelines: a design target, not a result"
       ],
       [
-       "up to 20%",
+       "Up to 20%",
        "cost savings (McKinsey, 2019)"
-      ],
-      [
-       "up to 50%",
-       "cost savings (JemRock states)"
       ]
      ],
      "scene": "clock",
+     "sourceLine": "McKinsey, 2019. BUILT® target per JemRock research.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Targets and company claims are not independent results"
+     "altText": "Three rows: McKinsey's 20-50% faster, BUILT's 50%+ design target, McKinsey's up to 20% cost savings."
     },
     {
      "n": 3,
      "template": "cards_stack",
-     "kicker": "WHAT STILL HAS TO GO RIGHT",
-     "headline": "FASTER FACTORIES, SAME REAL WORLD",
+     "kicker": "THE REAL WORLD",
+     "headline": "A FASTER FACTORY STILL NEEDS THESE",
      "cards": [
       {
        "icon": "document",
@@ -5833,7 +5994,7 @@
        "body": "Projects still have to be funded."
       },
       {
-       "icon": "stack-of-storefronts",
+       "icon": "conveyor",
        "title": "DELIVERY",
        "body": "Parts must reach the site on time."
       }
@@ -5841,12 +6002,13 @@
      "scene": "keys",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three cards: approvals and permits, financing, delivery."
     },
     {
      "n": 4,
      "template": "flow_steps",
-     "kicker": "FROM TARGET TO PROOF",
+     "kicker": "HOW TARGETS BECOME RESULTS",
      "headline": "DESIGN. PILOT. MEASURE.",
      "flow": [
       [
@@ -5862,11 +6024,14 @@
        "chart"
       ]
      ],
+     "pullLine": "A target isn't a result. Measurement is.",
      "scene": "chart",
+     "needsApproval": true,
+     "approvalNote": "Opinion pull line in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "A target isn't a result. Pilots show what's real."
+     "altText": "A three-step flow from design target to pilot to measured result."
     },
     {
      "n": 5,
@@ -5881,27 +6046,57 @@
      ],
      "button": "Comment the claim you'd test",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered questions to test any speed claim, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/linkedin/threads: 'I want to be clear...', 'founders should say so out loud', 'I'd rather say that plainly'.",
+   "caption": "\"50% faster\": a target or a result?\n\nFor BUILT®, it's a target. Per JemRock research, our design target is more than 50% faster timelines. McKinsey (2019) found modular construction can be 20-50% faster. Those are different kinds of numbers, and I want to be clear about which is which.\n\nSave the 4 questions for any speed claim.\n\n#ConstructionTech #Prefab #Housing\n\nWhich speed claim would you test?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 39,
    "week": 39,
    "title": "Site-built vs. system-built",
    "pillar": "BUILT technology",
-   "caption": "Two ways to build a home, and the trade-offs of each. Swipe for a side-by-side to save. Which would you choose? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Two ways to build a home: on site, or in a system.\n\nOn site, weather and conditions change daily and every build starts fresh. In a system, conditions are controlled and processes repeat. The way I see it: less happens on site, so less can go wrong there.\n\nSave the 5 questions for comparing how to build.\n\n#Construction #Prefab #Housing\n\nWhich would you choose for your home?",
+    "facebook": "Site-built or system-built? I put them side by side, with the real challenges of each.\n\n#Construction #Housing\n\nHave you ever lived through a construction delay?",
+    "linkedin": "Less happens on site, so less can go wrong there.\n\nSite-based building carries more unknowns: weather, changing conditions, custom work every time. Problems cascade through the schedule, and cost control gets harder when conditions shift.\n\nA system-built approach moves the work into a factory: design, build in controlled conditions, deliver, then assemble. That's the logic behind prefabricated modular housing, and behind BUILT®.\n\nFive questions I'd use to compare: What is built where? What is the schedule? What could delay it? How is quality checked? What does it cost overall?\n\n#Construction #Prefab\n\nWhich question tips the decision for you?",
+    "x": "Site-built: conditions change daily.\nSystem-built: conditions are controlled.\n\nLess happens on site, so less can go wrong there. That's how I see it. Agree or disagree?",
+    "threads": "Less happens on site, so less can go wrong there. That's my case for system-built homes.\n\nWhat's yours?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "TWO WAYS TO BUILD A HOME",
-     "subline": "Site-built vs. system-built, side by side. Swipe →",
+     "headline": "TWO WAYS TO BUILD A HOME. WHICH CARRIES MORE RISK?",
+     "subline": "Site-built vs. system-built. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Two ways to build a home. Which carries more risk?",
+       "mechanism": "Stakes + question: frames a real decision.",
+       "chosen": true
+      },
+      {
+       "text": "Site-built or system-built?",
+       "mechanism": "Question: clean, low tension."
+      },
+      {
+       "text": "Less happens on site, so less can go wrong there.",
+       "mechanism": "Contrarian: gives away the answer."
+      }
+     ],
      "scene": "crane",
-     "attachments": []
+     "sourceLine": "General explanation",
+     "attachments": [],
+     "altText": "Cover headline 'Two ways to build a home. Which carries more risk?' over an illustrated construction crane."
     },
     {
      "n": 2,
@@ -5933,17 +6128,18 @@
      "scene": "crane",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting site-based and prefabricated building."
     },
     {
      "n": 3,
      "template": "cards_stack",
-     "kicker": "WHAT SITE-BASED BUILDING FACES",
-     "headline": "THE REAL CHALLENGES",
+     "kicker": "THE CHALLENGES",
+     "headline": "WHAT GOES WRONG ON SITE",
      "cards": [
       {
        "title": "UNCERTAINTY",
-       "body": "Traditional site-based building carries more unknowns."
+       "body": "Site-based building carries more unknowns."
       },
       {
        "title": "DELAYS",
@@ -5954,16 +6150,16 @@
        "body": "Hard to hold when conditions shift."
       }
      ],
-     "scene": "crane",
+     "scene": "clock",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "altText": "Three numbered cards: uncertainty, delays and cost control."
     },
     {
      "n": 4,
      "template": "flow_steps",
-     "kicker": "THE HYBRID",
+     "kicker": "THE SYSTEM",
      "headline": "FACTORY FIRST, SITE LAST",
      "flow": [
       [
@@ -5976,18 +6172,21 @@
       ],
       [
        "DELIVER",
-       "stack-of-storefronts"
+       "conveyor"
       ],
       [
        "ASSEMBLE",
        "house"
       ]
      ],
+     "pullLine": "Less happens on site, so less can go wrong there.",
      "scene": "factory",
+     "needsApproval": true,
+     "approvalNote": "Opinion pull line in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "Less happens on site, so less can go wrong there."
+     "altText": "A four-step flow: design, factory, deliver, assemble."
     },
     {
      "n": 5,
@@ -6001,35 +6200,66 @@
       "How is quality checked?",
       "What does it cost overall?"
      ],
-     "button": "Comment your choice",
+     "button": "Comment which you'd choose and why",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered questions for comparing building methods, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "all: 'The way I see it', 'my case for system-built homes'; linkedin: 'questions I'd use'.",
+   "caption": "Two ways to build a home: on site, or in a system.\n\nOn site, weather and conditions change daily and every build starts fresh. In a system, conditions are controlled and processes repeat. The way I see it: less happens on site, so less can go wrong there.\n\nSave the 5 questions for comparing how to build.\n\n#Construction #Prefab #Housing\n\nWhich would you choose for your home?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 40,
    "week": 40,
    "title": "Brand-led development",
    "pillar": "Real estate and vision",
-   "caption": "A building can have a brand. Swipe for four pillars behind brand-led development, from identity to execution. Which would you start with? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "What if a building had a brand, the way a store does?\n\nThe Wiz marketing pillars were memorable naming, clear positioning, market visibility and brand consistency. Here's how I'd apply them to a building: name it, position it, build it, operate it.\n\nSave the 4-question brand check.\n\n#RealEstate #Branding #UrbanDevelopment\n\nWhich building brand do you remember?",
+    "facebook": "Most buildings are known by their address. A few are known by their name. I think the difference is the same as in retail: a clear identity that the building actually delivers.\n\n#RealEstate #Branding\n\nWhat's a building you know by name?",
+    "linkedin": "A building can be known by its address, or by its identity.\n\nIn retail, the Wiz marketing pillars were memorable naming, clear positioning, market visibility and brand consistency. I think the same four apply to development: a name residents repeat, a clear sense of who the building is for, visibility beyond its block, and a building that keeps its promise every day.\n\nName, position, build, operate. Branding without the built environment to back it up is just a sign.\n\n#RealEstate #Branding\n\nWhat makes a building memorable to you?",
+    "x": "Retail lesson I'd apply to buildings:\n\nMemorable name.\nClear position.\nVisible.\nConsistent.\n\nA building known by its name beats one known by its address. Which one do you know by name?",
+    "threads": "Most buildings are known by address. I'd rather build ones people know by name.\n\nWhich building brand do you remember?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHAT IF A BUILDING HAD A BRAND?",
-     "subline": "Four pillars of brand-led development. Swipe →",
+     "headline": "WHAT IF A BUILDING HAD A BRAND, LIKE A STORE DOES?",
+     "subline": "Brand-led development in four steps. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "What if a building had a brand, like a store does?",
+       "mechanism": "Curiosity + transfer: links retail to real estate.",
+       "chosen": true
+      },
+      {
+       "text": "Buildings are known by address. Brands are known by name.",
+       "mechanism": "Contrast: sharp, opinion."
+      },
+      {
+       "text": "Can a building be as memorable as a store name?",
+       "mechanism": "Question: softer."
+      }
+     ],
      "scene": "tower",
-     "attachments": []
+     "sourceLine": "General explanation",
+     "attachments": [],
+     "altText": "Cover headline 'What if a building had a brand, like a store does?' over an illustrated lit apartment tower."
     },
     {
      "n": 2,
      "template": "flow_steps",
-     "kicker": "THE IDEA",
+     "kicker": "THE SEQUENCE",
      "headline": "NAME. POSITION. BUILD. OPERATE.",
+     "body": "A brand-led building needs more than a name. The space has to deliver the promise.",
      "flow": [
       [
        "NAME",
@@ -6049,39 +6279,44 @@
       ]
      ],
      "scene": "tower",
+     "needsApproval": true,
+     "approvalNote": "Framework in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "body": "Concepts such as PASHA, CENTRAL and H.O.M.E. need more than branding. They need a built environment that supports the intended resident experience."
+     "altText": "A four-step flow: name, position, build, operate."
     },
     {
      "n": 3,
      "template": "stats_grid",
-     "kicker": "FOUR PILLARS",
-     "headline": "BRAND-LED DEVELOPMENT",
-     "scene": "tower",
+     "kicker": "FROM RETAIL TO BUILDINGS",
+     "headline": "FOUR PILLARS, APPLIED TO A BUILDING",
+     "cards": [
+      [
+       "MEMORABLE NAMING",
+       "A name residents repeat"
+      ],
+      [
+       "CLEAR POSITIONING",
+       "Who the building is for"
+      ],
+      [
+       "MARKET VISIBILITY",
+       "Known beyond its block"
+      ],
+      [
+       "BRAND CONSISTENCY",
+       "The building keeps the promise"
+      ]
+     ],
+     "scene": "pillars",
+     "sourceLine": "Pillars: stephenjemal.com",
+     "needsApproval": true,
+     "approvalNote": "Applying the Wiz pillars to buildings is framing.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "cards": [
-      [
-       "BRAND-LED DEVELOPMENT",
-       "A recognizable identity and lifestyle position"
-      ],
-      [
-       "URBAN RESIDENTIAL FOCUS",
-       "Properties repositioned around modern city living"
-      ],
-      [
-       "MARKET GAP STRATEGY",
-       "Demand for concepts that combine location, amenities and value"
-      ],
-      [
-       "OPERATIONAL EXECUTION",
-       "Concept, construction, design and long-term use connected"
-      ]
-     ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "altText": "A 2x2 grid applying the Wiz marketing pillars to buildings: naming, positioning, visibility, consistency."
     },
     {
      "n": 4,
@@ -6106,10 +6341,11 @@
        "Easy to explain"
       ]
      ],
-     "scene": "tower",
+     "scene": "skyline",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting generic and brand-led buildings."
     },
     {
      "n": 5,
@@ -6124,269 +6360,375 @@
      ],
      "button": "Comment a building brand you'd remember",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered brand-check questions for buildings, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "all captions: applying the Wiz pillars to buildings ('I think', 'I'd apply').",
+   "caption": "What if a building had a brand, the way a store does?\n\nThe Wiz marketing pillars were memorable naming, clear positioning, market visibility and brand consistency. Here's how I'd apply them to a building: name it, position it, build it, operate it.\n\nSave the 4-question brand check.\n\n#RealEstate #Branding #UrbanDevelopment\n\nWhich building brand do you remember?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 41,
    "week": 41,
-   "title": "Inside PASHA",
+   "title": "Assembling underused land",
    "pillar": "Real estate and vision",
-   "caption": "PASHA is a multi-building residential concept in central Manhattan, per JemRock. Swipe for what it is, who it's for and how it works. Would you live in a converted office tower? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "After the Wiz, I assembled underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.\n\nAssemblage means combining neighboring lots into one site that can support a bigger plan. It's slower and more complex than buying one lot, and it opens more options.\n\nSave the 5 questions before assembling a site.\n\n#RealEstate #UrbanDevelopment #NYC\n\nWhich question would you ask first?",
+    "facebook": "After the Wiz, I moved into real estate, assembling underutilized parcels across New York City and New Jersey. Here's what land assemblage means, in plain words.\n\n#RealEstate #NYC\n\nHave you seen a block transformed by one project?",
+    "linkedin": "One lot is limited by its size. An assembled site is limited by your patience.\n\nAfter the Wiz, I moved into waterfront revitalization and real estate development, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey. That work led to JemRock Organization.\n\nAssemblage combines neighboring parcels into one site that can support a larger plan: find, acquire, combine, plan. It takes several negotiations instead of one.\n\nFive questions before assembling a site: Who owns each parcel? What does zoning allow combined? What does each piece cost? What happens if one owner says no? What could the full site become?\n\n#RealEstate #UrbanDevelopment\n\nWhich question is hardest to answer?",
+    "x": "After the Wiz, I assembled underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.\n\nAssemblage: combining neighboring lots into one site for a bigger plan.\n\nWhat would you build on a full block?",
+    "threads": "Small lots, one site. That's land assemblage, and it's where my real estate work started after the Wiz.\n\nWhat would you build?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHAT HAPPENS WHEN OFFICE TOWERS BECOME HOMES?",
-     "subline": "Inside PASHA, per JemRock. Swipe →",
-     "scene": "tower",
-     "attachments": []
+     "headline": "AFTER THE WIZ, I ASSEMBLED UNDERUSED LAND ACROSS FIVE AREAS",
+     "subline": "What land assemblage means. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "After the Wiz, I assembled underused land across five areas",
+       "mechanism": "Story + specificity: a real move, a real scope.",
+       "chosen": true
+      },
+      {
+       "text": "Small lots, one site: how land assemblage works.",
+       "mechanism": "Promise: clear explainer."
+      },
+      {
+       "text": "What is parcel assemblage, and why does it matter?",
+       "mechanism": "Question: generic."
+      }
+     ],
+     "scene": "map",
+     "sourceLine": "Source: stephenjemal.com",
+     "attachments": [],
+     "altText": "Cover headline 'After the Wiz, I assembled underused land across five areas' over an illustrated street map with a gold route."
     },
     {
      "n": 2,
-     "template": "cards_stack",
-     "kicker": "THE CONCEPT",
-     "headline": "WHAT PASHA IS",
-     "cards": [
-      {
-       "icon": "apartment-building",
-       "title": "WHAT",
-       "body": "A multi-building residential project in central Manhattan."
-      },
-      {
-       "icon": "building-with-arrow",
-       "title": "HOW",
-       "body": "Converting existing office and hotel buildings into hotels and apartments."
-      },
-      {
-       "icon": "people",
-       "title": "FOR WHOM",
-       "body": "Professionals priced out of Manhattan living."
-      }
+     "template": "stats_rows",
+     "kicker": "WHAT I DID",
+     "headline": "UNDERUTILIZED PARCELS, ASSEMBLED",
+     "rows": [
+      [
+       "WHERE",
+       "Manhattan, Brooklyn, Queens, the Bronx, New Jersey"
+      ],
+      [
+       "WHAT",
+       "Underutilized parcels, assembled"
+      ],
+      [
+       "ALONGSIDE",
+       "Waterfront revitalization and real estate development"
+      ],
+      [
+       "NEXT",
+       "JemRock Organization"
+      ]
      ],
-     "scene": "tower",
+     "scene": "map",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per JemRock materials"
+     "altText": "Four rows: where the parcels were, what was done, the waterfront and development work alongside it, and the step to JemRock."
     },
     {
      "n": 3,
-     "template": "stats_grid",
-     "kicker": "THE AMENITIES",
-     "headline": "WHAT'S INSIDE",
-     "scene": "skyline",
+     "template": "flow_steps",
+     "kicker": "HOW ASSEMBLAGE WORKS",
+     "headline": "FIND. ACQUIRE. COMBINE. PLAN.",
+     "body": "Assemblage combines neighboring parcels into one site that can support a larger plan.",
+     "flow": [
+      [
+       "FIND",
+       "map-pin"
+      ],
+      [
+       "ACQUIRE",
+       "key"
+      ],
+      [
+       "COMBINE",
+       "map-grid"
+      ],
+      [
+       "PLAN",
+       "blueprint"
+      ]
+     ],
+     "scene": "blueprint",
+     "sourceLine": "General explanation",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "cards": [
-      [
-       "CO-WORKING",
-       "Work without the commute"
-      ],
-      [
-       "FITNESS AND YOGA",
-       "Studios on site"
-      ],
-      [
-       "WELLNESS CAFES",
-       "Healthy food and drink"
-      ],
-      [
-       "ROOFTOP SPACES",
-       "Outdoor space in the city"
-      ]
-     ],
-     "sourceLine": "Per JemRock materials"
+     "altText": "A four-step flow of land assemblage: find, acquire, combine, plan."
     },
     {
      "n": 4,
-     "template": "stats_rows",
-     "kicker": "THE MISSION",
-     "headline": "LIVE. VISIT. WORK. BE WELL.",
+     "template": "table_compare",
+     "kicker": "THE TRADE-OFF",
+     "headline": "ONE LOT VS. AN ASSEMBLED SITE",
+     "columns": [
+      "ONE LOT",
+      "ASSEMBLED SITE"
+     ],
      "rows": [
       [
-       "LIVE",
-       "Apartments in central Manhattan"
+       "Limited by its size",
+       "More room to plan"
       ],
       [
-       "VISIT",
-       "Hotel stays"
+       "One negotiation",
+       "Several negotiations"
       ],
       [
-       "WORK",
-       "Resident workspaces"
-      ],
-      [
-       "BE WELL",
-       "Wellness-focused amenities"
+       "Simple to buy",
+       "Complex to assemble"
       ]
      ],
-     "scene": "tower",
+     "scene": "skyline",
+     "sourceLine": "General explanation",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per JemRock materials"
+     "altText": "A two-column table contrasting a single lot with an assembled site."
     },
     {
      "n": 5,
      "template": "numbered_cta",
      "kicker": "SAVE THIS",
-     "headline": "5 QUESTIONS ABOUT ANY URBAN HOME CONCEPT",
+     "headline": "5 QUESTIONS BEFORE ASSEMBLING A SITE",
      "rows": [
-      "Who is it for?",
-      "What gap does it fill?",
-      "What's included?",
-      "How is the building reused?",
-      "How does it serve residents long-term?"
+      "Who owns each parcel?",
+      "What does zoning allow combined?",
+      "What does each piece cost?",
+      "What if one owner says no?",
+      "What could the full site become?"
      ],
-     "button": "Comment what you'd want in a city home",
+     "button": "Comment the question you'd ask first",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered questions to ask before assembling a site, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "Replacement topic for 'Inside PASHA' (unconfirmed); linkedin opening lesson line.",
+   "caption": "After the Wiz, I assembled underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.\n\nAssemblage means combining neighboring lots into one site that can support a bigger plan. It's slower and more complex than buying one lot, and it opens more options.\n\nSave the 5 questions before assembling a site.\n\n#RealEstate #UrbanDevelopment #NYC\n\nWhich question would you ask first?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 42,
    "week": 42,
-   "title": "Two brands, two markets",
+   "title": "Waterfront revitalization",
    "pillar": "Real estate and vision",
-   "caption": "Different housing categories serve different markets. PASHA and CENTRAL are two JemRock concepts. Swipe for the idea behind having more than one brand. Which market is hardest to serve? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "After the Wiz, I turned to waterfront revitalization and real estate development.\n\nRevitalizing a waterfront usually means three things: opening the water's edge to the public, bringing new uses where industry once stood, and rebuilding the infrastructure underneath.\n\nSave the 4 questions for any waterfront site.\n\n#RealEstate #UrbanDevelopment #Waterfront\n\nWhat's your favorite city waterfront?",
+    "facebook": "Waterfront revitalization was my first chapter after the Wiz. Here's what it involves, in plain words: access, new uses and infrastructure.\n\n#Waterfront #UrbanDevelopment\n\nWhich waterfront near you has changed the most?",
+    "linkedin": "A city's edge can become its front door.\n\nAfter the Wiz, I moved into waterfront revitalization and real estate development. In general terms, revitalizing a waterfront means opening the water's edge to the public, bringing housing, work and leisure where industry once stood, and rebuilding the streets, utilities and shoreline protection underneath.\n\nFour questions I'd ask of any waterfront site: Who can reach the water? What can be built here? How is the shoreline protected? What does the neighborhood need?\n\n#UrbanDevelopment #Waterfront\n\nWhat would you want at the water's edge?",
+    "x": "After the Wiz, I turned to waterfront revitalization.\n\nWhat it usually involves:\nPublic access to the water.\nNew uses where industry stood.\nNew infrastructure underneath.\n\nWhat would you build at the water's edge?",
+    "threads": "After the Wiz, my next chapter was the waterfront.\n\nWhat's the best waterfront you've walked?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHY BUILD MORE THAN ONE HOUSING BRAND?",
-     "subline": "PASHA and CENTRAL, per JemRock. Swipe →",
-     "scene": "row",
-     "attachments": []
+     "headline": "AFTER THE WIZ, I TURNED TO THE WATERFRONT. HERE'S WHAT REVITALIZATION MEANS.",
+     "subline": "Access, new uses, infrastructure. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "After the Wiz, I turned to the waterfront. Here's what revitalization means.",
+       "mechanism": "Story + explainer: a real turn, then a clear payoff.",
+       "chosen": true
+      },
+      {
+       "text": "What does it take to revitalize a waterfront?",
+       "mechanism": "Question: clean, generic."
+      },
+      {
+       "text": "Old docks, new neighborhoods: waterfront revitalization explained.",
+       "mechanism": "Transformation: vivid, less personal."
+      }
+     ],
+     "scene": "skyline",
+     "sourceLine": "Source: stephenjemal.com",
+     "attachments": [],
+     "altText": "Cover headline 'After the Wiz, I turned to the waterfront. Here's what revitalization means.' over an illustrated city skyline."
     },
     {
      "n": 2,
-     "template": "table_compare",
-     "kicker": "TWO CONCEPTS",
-     "headline": "PASHA VS. CENTRAL",
-     "columns": [
-      "PASHA",
-      "CENTRAL"
+     "template": "cards_stack",
+     "kicker": "WHAT IT INVOLVES",
+     "headline": "ACCESS, NEW USES, INFRASTRUCTURE",
+     "cards": [
+      {
+       "icon": "anchor-and-wave",
+       "title": "ACCESS",
+       "body": "Opening the water's edge to the public."
+      },
+      {
+       "icon": "apartment-building",
+       "title": "NEW USES",
+       "body": "Housing, work and leisure where industry once stood."
+      },
+      {
+       "icon": "gear",
+       "title": "INFRASTRUCTURE",
+       "body": "Streets, utilities and shoreline protection."
+      }
      ],
-     "rows": [
-      [
-       "Modern urban living",
-       "Well-designed urban housing"
-      ],
-      [
-       "Lifestyle-focused amenities",
-       "Attainable homes"
-      ],
-      [
-       "Professionals priced out of Manhattan",
-       "Wider urban housing needs"
-      ]
-     ],
-     "scene": "tower",
+     "scene": "skyline",
+     "sourceLine": "General explanation",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "Per JemRock materials"
+     "altText": "Three cards: public access to the water, new uses, rebuilt infrastructure."
     },
     {
      "n": 3,
-     "template": "cards_stack",
-     "kicker": "THE LOGIC",
-     "headline": "WHY TWO BRANDS?",
-     "cards": [
-      {
-       "title": "DIFFERENT CATEGORIES",
-       "body": "Each concept suggests a different housing category."
-      },
-      {
-       "title": "DIFFERENT PURPOSES",
-       "body": "Each serves a different market need."
-      },
-      {
-       "accent": "left-border",
-       "title": "ONE PLATFORM",
-       "body": "Shared systems can support more than one brand."
-      }
-     ],
-     "scene": "row",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
-     "sourceLine": "Per Stephen Jemal's site"
-    },
-    {
-     "n": 4,
      "template": "flow_steps",
-     "kicker": "THE METHOD",
-     "headline": "FIND THE GAP. CHOOSE THE CATEGORY. BUILD THE BRAND.",
+     "kicker": "THE PROCESS",
+     "headline": "ASSESS. PLAN. APPROVE. BUILD.",
      "flow": [
       [
-       "FIND THE GAP",
+       "ASSESS",
        "magnifying-glass"
       ],
       [
-       "CHOOSE A CATEGORY",
-       "map-grid"
+       "PLAN",
+       "blueprint"
       ],
       [
-       "BUILD THE BRAND",
-       "banner-with-star"
+       "APPROVE",
+       "document"
+      ],
+      [
+       "BUILD",
+       "crane"
+      ]
+     ],
+     "body": "Every waterfront project moves through the same basic stages.",
+     "scene": "crane",
+     "sourceLine": "General explanation",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A four-step flow: assess, plan, approve, build."
+    },
+    {
+     "n": 4,
+     "template": "table_compare",
+     "kicker": "WHAT CHANGES",
+     "headline": "AT THE WATER'S EDGE",
+     "columns": [
+      "BEFORE",
+      "AFTER"
+     ],
+     "rows": [
+      [
+       "Closed-off industrial edge",
+       "Public access to the water"
+      ],
+      [
+       "Single use",
+       "Mixed uses"
+      ],
+      [
+       "Underused land",
+       "Housing, work and leisure"
       ]
      ],
      "scene": "map",
+     "sourceLine": "General explanation",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting a closed industrial waterfront with a revitalized one."
     },
     {
      "n": 5,
      "template": "numbered_cta",
      "kicker": "SAVE THIS",
-     "headline": "THE 4-QUESTION MARKET CHECK",
+     "headline": "4 QUESTIONS FOR ANY WATERFRONT SITE",
      "rows": [
-      "Who needs this housing?",
-      "What do they value?",
-      "What can they afford?",
-      "What brand fits them?"
+      "Who can reach the water?",
+      "What can be built here?",
+      "How is the shoreline protected?",
+      "What does the neighborhood need?"
      ],
-     "button": "Comment the housing market you'd serve",
+     "button": "Comment your favorite waterfront",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered questions for any waterfront site, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "Replacement topic for 'Two brands, two markets' (unconfirmed PASHA/CENTRAL); linkedin opening lesson and 'questions I'd ask'.",
+   "caption": "After the Wiz, I turned to waterfront revitalization and real estate development.\n\nRevitalizing a waterfront usually means three things: opening the water's edge to the public, bringing new uses where industry once stood, and rebuilding the infrastructure underneath.\n\nSave the 4 questions for any waterfront site.\n\n#RealEstate #UrbanDevelopment #Waterfront\n\nWhat's your favorite city waterfront?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 43,
    "week": 43,
    "title": "Urban residential focus",
    "pillar": "Real estate and vision",
-   "caption": "City living, rethought: repositioning properties around location, amenities and value. Swipe for five things urban residents weigh. Which matters most to you? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "What do city residents really want from a home? Location, amenities and value, and a building in good condition.\n\nI'd judge any city home on five questions. They're on the last slide. Save them for your next search.\n\n#CityLiving #RealEstate #NYC\n\nWhat's your top priority?",
+    "facebook": "Location, amenities, value and building quality: that's what city residents weigh. I made a 5-point check you can use on your next apartment.\n\n#CityLiving #RealEstate\n\nWhat would you trade for a shorter commute?",
+    "linkedin": "Build around how residents actually live.\n\nCity residents weigh four things: location (commute, errands, neighborhood), amenities (space for work, fitness and wellness), value (cost compared with quality) and the building itself (condition and design).\n\nUnderused buildings can become places people want to live when they're repositioned around those needs.\n\nThe check I'd use: Is the location right? Are the amenities useful? Is the value fair? Is the building in good condition? Does it fit my routine?\n\n#RealEstate #UrbanDevelopment\n\nWhich of these would you never compromise on?",
+    "x": "What city residents weigh:\n\nLocation.\nAmenities.\nValue.\nBuilding quality.\n\nI'd add one more: does it fit your routine? What's your top priority?",
+    "threads": "Location, amenities, value. I'd add one more: does it fit your routine?\n\nWhat matters most to you?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHAT DO CITY RESIDENTS REALLY WANT?",
-     "subline": "Location, amenities and value, rethought. Swipe →",
+     "headline": "WHAT DO CITY RESIDENTS REALLY WANT FROM A HOME?",
+     "subline": "Location, amenities, value. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "What do city residents really want from a home?",
+       "mechanism": "Question + identity: speaks to every renter and buyer.",
+       "chosen": true
+      },
+      {
+       "text": "Location, amenities, value: what city residents weigh.",
+       "mechanism": "Specificity: clear, gives away the answer."
+      },
+      {
+       "text": "Your city home checklist in five questions.",
+       "mechanism": "Promise: save-worthy, less tension."
+      }
+     ],
      "scene": "skyline",
-     "attachments": []
+     "sourceLine": "General explanation",
+     "attachments": [],
+     "altText": "Cover headline 'What do city residents really want from a home?' over an illustrated city skyline at golden hour."
     },
     {
      "n": 2,
      "template": "cards_stack",
-     "kicker": "THE FOCUS",
-     "headline": "REPOSITION AROUND RESIDENTS",
+     "kicker": "THE BASICS",
+     "headline": "LOCATION, AMENITIES, VALUE",
      "cards": [
       {
        "icon": "map-pin",
@@ -6404,21 +6746,17 @@
        "body": "A fair deal for what's offered."
       }
      ],
-     "scene": "skyline",
+     "scene": "map",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "altText": "Three cards: location, amenities and value."
     },
     {
      "n": 3,
      "template": "stats_grid",
-     "kicker": "FIVE FACTORS",
-     "headline": "WHAT RESIDENTS WEIGH",
-     "scene": "tower",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
+     "kicker": "WHAT RESIDENTS WEIGH",
+     "headline": "FOUR THINGS EVERY RESIDENT CHECKS",
      "cards": [
       [
        "LOCATION",
@@ -6436,12 +6774,17 @@
        "BUILDING QUALITY",
        "Condition and design"
       ]
-     ]
+     ],
+     "scene": "tower",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A 2x2 grid: location, amenities, value and building quality."
     },
     {
      "n": 4,
      "template": "flow_steps",
-     "kicker": "THE PROCESS",
+     "kicker": "REPOSITIONING",
      "headline": "UNDERUSED PROPERTY TO RESIDENCE",
      "flow": [
       [
@@ -6457,11 +6800,14 @@
        "apartment-building"
       ]
      ],
+     "pullLine": "Build around how residents actually live.",
      "scene": "tower",
+     "needsApproval": true,
+     "approvalNote": "Opinion pull line in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "Transforming underused properties into residential environments."
+     "altText": "A three-step flow from underused property to repositioning to residence."
     },
     {
      "n": 5,
@@ -6477,11 +6823,18 @@
      ],
      "button": "Comment your top priority",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered questions for judging a city home, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/linkedin/x/threads: 'I'd judge', 'The check I'd use', 'I'd add one more'.",
+   "caption": "What do city residents really want from a home? Location, amenities and value, and a building in good condition.\n\nI'd judge any city home on five questions. They're on the last slide. Save them for your next search.\n\n#CityLiving #RealEstate #NYC\n\nWhat's your top priority?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 44,

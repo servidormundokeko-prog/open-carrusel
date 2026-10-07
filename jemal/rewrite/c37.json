@@ -1,0 +1,144 @@
+{
+  "id": 37,
+  "week": 37,
+  "title": "Less waste",
+  "pillar": "BUILT technology",
+  "captions": {
+    "instagram": "Where does construction waste really come from? Three places: cutting errors, over-ordering and rework.\n\nThe way I see it, precision attacks all three. BUILT® is laser-guided and designed for less material waste.\n\nSave the 5 waste-reduction questions.\n\n#Sustainability #ConstructionTech #Prefab\n\nWhich waste would you cut first?",
+    "facebook": "Parts cut wrong. Material ordered just in case. Mistakes built, then rebuilt. That's where construction waste comes from. Here's how I think precision helps.\n\n#Sustainability #ConstructionTech\n\nHave you seen a dumpster on a job site lately?",
+    "linkedin": "Waste starts long before the dumpster.\n\nIn construction it comes from three places: cutting errors, over-ordering \"just in case,\" and rework. Each one is a measurement or planning problem.\n\nThat's why precision matters to me. BUILT® is laser-guided, designed for millimeter and sub-millimeter precision and less material waste.\n\nFive questions I'd ask on any project: Where do we over-order? Where do we redo work? Which cuts fail most? Who tracks waste? What would we do with offcuts?\n\n#Sustainability #ConstructionTech\n\nWhich is the biggest source of waste you've seen?",
+    "x": "Construction waste comes from:\n\nCutting errors.\nOver-ordering.\nRework.\n\nI think precision attacks all three. That's why BUILT® is designed for less waste. Which would you fix first?",
+    "threads": "Most of the waste I think about is decided in planning, not on site. Measure, cut, fit.\n\nWhere does your industry waste the most?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "WHERE DOES CONSTRUCTION WASTE REALLY COME FROM?",
+      "subline": "Three sources, and how precision helps. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Where does construction waste really come from?",
+          "mechanism": "Curiosity gap: a familiar problem with a hidden answer.",
+          "chosen": true
+        },
+        {
+          "text": "Three sources of construction waste, and how precision helps.",
+          "mechanism": "Specificity: countable, less tension."
+        },
+        {
+          "text": "Order what the plan needs, not what fear needs.",
+          "mechanism": "Contrarian: memorable, opinion."
+        }
+      ],
+      "scene": "conveyor",
+      "sourceLine": "General explanation",
+      "attachments": [],
+      "altText": "Cover headline 'Where does construction waste really come from?' over an illustrated conveyor belt with boxes."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "WHERE WASTE STARTS",
+      "headline": "CUTS, ORDERS, REWORK",
+      "cards": [
+        {
+          "title": "CUTTING ERRORS",
+          "body": "Parts cut wrong have to be discarded."
+        },
+        {
+          "title": "OVER-ORDERING",
+          "body": "Extra material is bought just in case."
+        },
+        {
+          "title": "REWORK",
+          "body": "Mistakes get built, then rebuilt."
+        }
+      ],
+      "scene": "conveyor",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three numbered cards: cutting errors, over-ordering and rework."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "THE FIX",
+      "headline": "MEASURE. CUT. FIT.",
+      "flow": [
+        [
+          "MEASURE",
+          "laser"
+        ],
+        [
+          "CUT",
+          "robot-arm"
+        ],
+        [
+          "FIT",
+          "shield"
+        ]
+      ],
+      "pullLine": "BUILT® is designed for less material waste.",
+      "scene": "laser",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow, measure, cut, fit, with a line that BUILT is designed for less material waste."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "WASTEFUL VS. PRECISE",
+      "columns": [
+        "WASTEFUL",
+        "PRECISE"
+      ],
+      "rows": [
+        [
+          "Order extra, just in case",
+          "Order what the plan needs"
+        ],
+        [
+          "Fix mistakes on site",
+          "Catch them in planning"
+        ],
+        [
+          "Offcuts discarded",
+          "Offcuts planned for"
+        ]
+      ],
+      "scene": "blueprint",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting wasteful and precise building practices."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "5 WASTE-REDUCTION QUESTIONS",
+      "rows": [
+        "Where do we over-order?",
+        "Where do we redo work?",
+        "Which cuts fail most?",
+        "Who tracks waste?",
+        "What would we do with offcuts?"
+      ],
+      "button": "Comment the waste you'd cut first",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered waste-reduction questions with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "facebook/linkedin/threads: 'how I think precision helps', 'why precision matters to me', 'Most of the waste I think about'."
+}

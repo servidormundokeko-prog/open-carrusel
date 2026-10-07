@@ -1,6 +1,6 @@
 # Approval checklist: @StephenJemalNY series
 
-Status: **pilot and batches 1-2 approved; batch 3 (carousels 23-32) in review.** This list grows with each batch.
+Status: **pilot and batches 1-3 approved; batch 4 (carousels 33, 34, 36-43) in review.** This list grows with each batch.
 Tick a box to approve. To reject a line, cross it out and add a note; I'll rewrite it.
 
 ## A. Facts that need client confirmation
@@ -148,61 +148,108 @@ Generated from `needsApproval: true` in `rewrite/*.json` by `tools/approvals.py`
 - [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 5-POINT SYSTEM CHECK"; "Is it written down? / Can a new hire follow it? / Is it the same everywhere? / Is it measured? / Who improves it?"
 - [x] Captions: instagram/linkedin/threads: 'Where I'd start'.
 
-### Carousel 23: Cost awareness
-- [ ] Slide 3 (flow_steps): General guidance framed in Stephen's voice. "SPOT. MEASURE. FIX."; "You can't control a cost you haven't measured."; "SPOT → MEASURE → FIX"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "5 LEAK CHECKS"; "Where do we redo work? / Where do we wait? / Where do we waste materials? / Where do we repeat effort? / Where do we lack data?"
-- [ ] Captions: instagram/linkedin/x/threads: 'The habit I'd build', 'I'd start'.
+### Carousel 23: Cost awareness (approved Oct 7)
+- [x] Slide 3 (flow_steps): General guidance framed in Stephen's voice. "SPOT. MEASURE. FIX."; "You can't control a cost you haven't measured."; "SPOT → MEASURE → FIX"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "5 LEAK CHECKS"; "Where do we redo work? / Where do we wait? / Where do we waste materials? / Where do we repeat effort? / Where do we lack data?"
+- [x] Captions: instagram/linkedin/x/threads: 'The habit I'd build', 'I'd start'.
 
-### Carousel 24: Speed vs. quality
-- [ ] Slide 2 (cards_stack): General guidance framed in Stephen's voice. "WHY SPEED AND QUALITY FIGHT"; "Work moves quickly, and mistakes multiply."; "Quality is high, but everything is slow."; "Repeatable methods let work be fast and consistent."
-- [ ] Slide 3 (flow_steps): General guidance framed in Stephen's voice. "STANDARD. SYSTEM. SPEED."; "Speed is the result of a good system, not a shortcut around one."; "STANDARD → SYSTEM → SPEED"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 4-QUESTION SPEED CHECK"; "Is the standard written? / Is the process repeatable? / Where do delays start? / Can we remove a step?"
-- [ ] Captions: all: 'How I see it' / 'I don't think you have to pick'.
+### Carousel 24: Speed vs. quality (approved Oct 7)
+- [x] Slide 2 (cards_stack): General guidance framed in Stephen's voice. "WHY SPEED AND QUALITY FIGHT"; "Work moves quickly, and mistakes multiply."; "Quality is high, but everything is slow."; "Repeatable methods let work be fast and consistent."
+- [x] Slide 3 (flow_steps): General guidance framed in Stephen's voice. "STANDARD. SYSTEM. SPEED."; "Speed is the result of a good system, not a shortcut around one."; "STANDARD → SYSTEM → SPEED"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 4-QUESTION SPEED CHECK"; "Is the standard written? / Is the process repeatable? / Where do delays start? / Can we remove a step?"
+- [x] Captions: all: 'How I see it' / 'I don't think you have to pick'.
 
-### Carousel 25: Ready to scale?
-- [ ] Slide 2 (cards_stack): General guidance framed in Stephen's voice. "THE MODEL WORKS"; "It works in one location, with real customers, repeatedly."; "You can write the playbook down."; "Someone other than you can run it."
-- [ ] Slide 3 (stats_rows): General guidance framed in Stephen's voice. "YOU CAN SUPPORT IT"; "Scaling a weak model only scales the weakness."; "FUNDING → You can pay for a second location / STAFF → You can hire and train for it / FOCUS → The first stays strong while you open the next"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 5-POINT READINESS SCORECARD"; "Model proven in one place / Playbook written / Operator trained / Funding and staff ready / First location stable"
-- [ ] Captions: instagram/linkedin/x/threads: 'The signs I'd look for', 'I'd want all five'.
+### Carousel 25: Ready to scale? (approved Oct 7)
+- [x] Slide 2 (cards_stack): General guidance framed in Stephen's voice. "THE MODEL WORKS"; "It works in one location, with real customers, repeatedly."; "You can write the playbook down."; "Someone other than you can run it."
+- [x] Slide 3 (stats_rows): General guidance framed in Stephen's voice. "YOU CAN SUPPORT IT"; "Scaling a weak model only scales the weakness."; "FUNDING → You can pay for a second location / STAFF → You can hire and train for it / FOCUS → The first stays strong while you open the next"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 5-POINT READINESS SCORECARD"; "Model proven in one place / Playbook written / Operator trained / Funding and staff ready / First location stable"
+- [x] Captions: instagram/linkedin/x/threads: 'The signs I'd look for', 'I'd want all five'.
 
-### Carousel 26: Scaling mistakes
-- [ ] Slide 4 (flow_steps): General guidance framed in Stephen's voice. "FIX THE SYSTEM, NOT THE SYMPTOM"; "Most of these are solved by the same four moves."; "TRAIN → STANDARDIZE → MEASURE → REPEAT"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 6-POINT RED-FLAG CHECK"; "Is training keeping up? / Is the brand consistent? / Do we know each market? / Can we exit a lease? / Are suppliers healthy? / Are we measuring?"
-- [ ] Captions: linkedin/threads: 'The mistakes I'd watch for', 'My fix'.
+### Carousel 26: Scaling mistakes (approved Oct 7)
+- [x] Slide 4 (flow_steps): General guidance framed in Stephen's voice. "FIX THE SYSTEM, NOT THE SYMPTOM"; "Most of these are solved by the same four moves."; "TRAIN → STANDARDIZE → MEASURE → REPEAT"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 6-POINT RED-FLAG CHECK"; "Is training keeping up? / Is the brand consistent? / Do we know each market? / Can we exit a lease? / Are suppliers healthy? / Are we measuring?"
+- [x] Captions: linkedin/threads: 'The mistakes I'd watch for', 'My fix'.
 
-### Carousel 28: The four pillars
-- [ ] Slide 4 (table_compare): Pairing each pillar with a problem is framing. "PILLAR VS. THE PROBLEM IT TAKES ON"; "AI → Planning problems before they get expensive / Robotics → Variation in repetitive work / Cloud → Visibility across projects / Laser → Parts that don't fit"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "4 QUESTIONS ABOUT ANY BUILD SYSTEM"; "How is it planned? / How is it made? / How is it tracked? / How precise is the fit?"
-- [ ] Captions: linkedin: opening lesson and 'That's why we built BUILT® on four pillars' (motive framing); threads: 'how I'd explain'.
+### Carousel 28: The four pillars (approved Oct 7)
+- [x] Slide 4 (table_compare): Pairing each pillar with a problem is framing. "PILLAR VS. THE PROBLEM IT TAKES ON"; "AI → Planning problems before they get expensive / Robotics → Variation in repetitive work / Cloud → Visibility across projects / Laser → Parts that don't fit"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "4 QUESTIONS ABOUT ANY BUILD SYSTEM"; "How is it planned? / How is it made? / How is it tracked? / How precise is the fit?"
+- [x] Captions: linkedin: opening lesson and 'That's why we built BUILT® on four pillars' (motive framing); threads: 'how I'd explain'.
 
-### Carousel 29: AI in construction planning
-- [ ] Slide 4 (flow_steps): Opinion pull line in Stephen's voice. "MODEL. COMPARE. FIX."; "Fix problems on the screen, not on the site."; "MODEL → COMPARE → FIX"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "5 QUESTIONS ABOUT AI IN CONSTRUCTION"; "What decision is it helping? / What data does it use? / Who checks the result? / What does it cost to be wrong? / How is it measured?"
-- [ ] Captions: linkedin/x/threads: opening lesson, 'The questions I'd ask', 'My rule'.
+### Carousel 29: AI in construction planning (approved Oct 7)
+- [x] Slide 4 (flow_steps): Opinion pull line in Stephen's voice. "MODEL. COMPARE. FIX."; "Fix problems on the screen, not on the site."; "MODEL → COMPARE → FIX"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "5 QUESTIONS ABOUT AI IN CONSTRUCTION"; "What decision is it helping? / What data does it use? / Who checks the result? / What does it cost to be wrong? / How is it measured?"
+- [x] Captions: linkedin/x/threads: opening lesson, 'The questions I'd ask', 'My rule'.
 
-### Carousel 30: Robots in prefab
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "4 QUESTIONS ABOUT FACTORY-BUILT HOMES"; "What is made in the factory? / What happens on site? / How is quality checked? / How are parts transported?"
-- [ ] Captions: instagram/x/threads: 'what robotics-driven means to me', 'That's what I want in a home'; linkedin: 'Four questions I'd ask'.
+### Carousel 30: Robots in prefab (approved Oct 7)
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "4 QUESTIONS ABOUT FACTORY-BUILT HOMES"; "What is made in the factory? / What happens on site? / How is quality checked? / How are parts transported?"
+- [x] Captions: instagram/x/threads: 'what robotics-driven means to me', 'That's what I want in a home'; linkedin: 'Four questions I'd ask'.
 
-### Carousel 31: Laser-guided precision
-- [ ] Slide 4 (flow_steps): Opinion pull line in Stephen's voice. "MEASURE. GUIDE. FIT."; "Small errors compound. So does precision."; "MEASURE → GUIDE → FIT"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 4-QUESTION PRECISION CHECK"; "How is it measured? / How tight is the tolerance? / What happens when parts don't fit? / How is waste tracked?"
-- [ ] Captions: linkedin: opening lesson and 'The check I'd run'; x: 'Why I care'.
+### Carousel 31: Laser-guided precision (approved Oct 7)
+- [x] Slide 4 (flow_steps): Opinion pull line in Stephen's voice. "MEASURE. GUIDE. FIT."; "Small errors compound. So does precision."; "MEASURE → GUIDE → FIT"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 4-QUESTION PRECISION CHECK"; "How is it measured? / How tight is the tolerance? / What happens when parts don't fit? / How is waste tracked?"
+- [x] Captions: linkedin: opening lesson and 'The check I'd run'; x: 'Why I care'.
 
-### Carousel 32: Cloud-based project management
-- [ ] Slide 3 (flow_steps): Opinion pull line in Stephen's voice. "DATA. DASHBOARD. DECISION."; "The goal is faster decisions, not more reports."; "DATA → DASHBOARD → DECISION"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "5 QUESTIONS FOR ANY PROJECT DASHBOARD"; "Who can see it? / How current is the data? / What triggers an alert? / Who acts on it? / What gets reviewed weekly?"
-- [ ] Captions: linkedin/x/threads: opening lesson, 'Five questions I'd ask', 'the bar I'd hold it to', 'what I'd want'.
+### Carousel 32: Cloud-based project management (approved Oct 7)
+- [x] Slide 3 (flow_steps): Opinion pull line in Stephen's voice. "DATA. DASHBOARD. DECISION."; "The goal is faster decisions, not more reports."; "DATA → DASHBOARD → DECISION"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "5 QUESTIONS FOR ANY PROJECT DASHBOARD"; "Who can see it? / How current is the data? / What triggers an alert? / Who acts on it? / What gets reviewed weekly?"
+- [x] Captions: linkedin/x/threads: opening lesson, 'Five questions I'd ask', 'the bar I'd hold it to', 'what I'd want'.
+
+### Carousel 33: One mother factory
+- [ ] Slide 4 (table_compare): Comparison is framing for why the model is local. "SHIPPING HOMES VS. BUILDING LOCALLY"; "Long transport for every unit → Production near the need / Jobs stay where homes are made → Jobs where the factory stands / One design for everyone → Custom to each country"
+- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "4 QUESTIONS FOR ANY HOUSING FACTORY MODEL"; "Where is it built? / Who gets the jobs? / Who are the partners? / How is it adapted locally?"
+- [ ] Captions: linkedin: opening lesson ('production should happen close to the need') and 'questions I'd ask'.
+
+### Carousel 34: What makes housing adequate?
+- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "3 QUESTIONS TO ASK OF ANY HOUSING PROJECT"; "Who can afford it? / Is it safe and secure to live in? / Is it near jobs, schools and care?"
+- [ ] Captions: instagram: 'I keep this list close'; linkedin: opening lesson line.
 
 ### Carousel 35: The math of the housing gap (approved Oct 7)
 - [x] Slide 4 (stats_grid): 'That's why our mission...' links the numbers to JemRock's mission; the mission itself is approved, the causal framing is not. "THE GAP IS PROJECTED TO GROW. SPEED MATTERS."; "That's why our mission at JemRock is to change how the world produces housing."
 - [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "4 QUESTIONS TO ASK ANY HOUSING NUMBER"; "Who reported it? / What does it count: people, homes or units? / What year is it for? / Is it a result or a target?"
 - [x] Captions: linkedin: opening lesson line; instagram: 'It's why our mission...' causal framing.
 
+### Carousel 36: Why prefab?
+- [ ] Slide 3 (flow_steps): The principles are framing. "FOUR PREFAB PRINCIPLES"; "Factory work repeats, so it can be planned, timed and checked."; "REPEATABLE → COST-AWARE → FAST → CONSISTENT"
+- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "4 QUESTIONS BEFORE CHOOSING PREFAB"; "What does it save in time? / What does it cost? / What are the delivery risks? / Who is responsible for quality?"
+- [ ] Captions: instagram/x/threads: 'I like research that includes the downside', 'I always read the fine print'; linkedin: opening lesson and 'questions I'd ask'.
+
+### Carousel 37: Less waste
+- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "5 WASTE-REDUCTION QUESTIONS"; "Where do we over-order? / Where do we redo work? / Which cuts fail most? / Who tracks waste? / What would we do with offcuts?"
+- [ ] Captions: facebook/linkedin/threads: 'how I think precision helps', 'why precision matters to me', 'Most of the waste I think about'.
+
+### Carousel 38: How fast is fast?
+- [ ] Slide 4 (flow_steps): Opinion pull line in Stephen's voice. "DESIGN. PILOT. MEASURE."; "A target isn't a result. Measurement is."; "DESIGN TARGET → PILOT → MEASURED RESULT"
+- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "4 QUESTIONS FOR ANY SPEED CLAIM"; "Who measured it? / Compared with what? / On which project? / Including approvals?"
+- [ ] Captions: instagram/linkedin/threads: 'I want to be clear...', 'founders should say so out loud', 'I'd rather say that plainly'.
+
+### Carousel 39: Site-built vs. system-built
+- [ ] Slide 4 (flow_steps): Opinion pull line in Stephen's voice. "FACTORY FIRST, SITE LAST"; "Less happens on site, so less can go wrong there."; "DESIGN → FACTORY → DELIVER → ASSEMBLE"
+- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "5 QUESTIONS WHEN COMPARING HOW TO BUILD"; "What is built where? / What is the schedule? / What could delay it? / How is quality checked? / What does it cost overall?"
+- [ ] Captions: all: 'The way I see it', 'my case for system-built homes'; linkedin: 'questions I'd use'.
+
+### Carousel 40: Brand-led development
+- [ ] Slide 2 (flow_steps): Framework in Stephen's voice. "NAME. POSITION. BUILD. OPERATE."; "A brand-led building needs more than a name. The space has to deliver the promise."; "NAME → POSITION → BUILD → OPERATE"
+- [ ] Slide 3 (stats_grid): Applying the Wiz pillars to buildings is framing. "FOUR PILLARS, APPLIED TO A BUILDING"; "MEMORABLE NAMING → A name residents repeat"; "CLEAR POSITIONING → Who the building is for"; "MARKET VISIBILITY → Known beyond its block"; "BRAND CONSISTENCY → The building keeps the promise"
+- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 4-QUESTION BRAND CHECK"; "What is the identity? / Who is it for? / What gap does it fill? / Can it be built and run well?"
+- [ ] Captions: all captions: applying the Wiz pillars to buildings ('I think', 'I'd apply').
+
+### Carousel 41: Assembling underused land
+- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "5 QUESTIONS BEFORE ASSEMBLING A SITE"; "Who owns each parcel? / What does zoning allow combined? / What does each piece cost? / What if one owner says no? / What could the full site become?"
+- [ ] Captions: Replacement topic for 'Inside PASHA' (unconfirmed); linkedin opening lesson line.
+
+### Carousel 42: Waterfront revitalization
+- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "4 QUESTIONS FOR ANY WATERFRONT SITE"; "Who can reach the water? / What can be built here? / How is the shoreline protected? / What does the neighborhood need?"
+- [ ] Captions: Replacement topic for 'Two brands, two markets' (unconfirmed PASHA/CENTRAL); linkedin opening lesson and 'questions I'd ask'.
+
+### Carousel 43: Urban residential focus
+- [ ] Slide 4 (flow_steps): Opinion pull line in Stephen's voice. "UNDERUSED PROPERTY TO RESIDENCE"; "Build around how residents actually live."; "UNDERUSED → REPOSITION → RESIDENCE"
+- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "YOUR 5-POINT CITY HOME CHECK"; "Is the location right? / Are the amenities useful? / Is the value fair? / Is the building in good condition? / Does it fit my routine?"
+- [ ] Captions: instagram/linkedin/x/threads: 'I'd judge', 'The check I'd use', 'I'd add one more'.
+
 ## D. Carousels affected by the unconfirmed-facts rule (later batches)
 
-- **C41 Inside PASHA** and **C42 Two brands, two markets** are entirely about PASHA/CENTRAL. I'll propose replacement topics built only on confirmed facts when we reach that batch.
-- **C11** became "Two generations of building": the sons/PASHA slide is replaced by a BUILT® slide (done). **C4, C8, C9**: founding and "four sons" wording removed (done). **C13**: PASHA removed (done). **C40, C44, C47**: PASHA, CENTRAL and H.O.M.E. mentions come out in later batches.
+- [ ] **New topics for C41 and C42 need your OK.** C41 "Inside PASHA" became **"Assembling underused land"** and C42 "Two brands, two markets" became **"Waterfront revitalization"**. Both use only confirmed facts plus labeled general explanation.
+- **C11** became "Two generations of building": the sons/PASHA slide is replaced by a BUILT® slide (done). **C4, C8, C9**: founding and "four sons" wording removed (done). **C13**: PASHA removed (done). **C40**: PASHA, CENTRAL and H.O.M.E. removed (done). **C44, C47**: PASHA mentions come out in the last batch.
 - **C4, C6, C7**: checklists the old copy credited to "Stephen Jemal's site" (store openings, training, leases, inventory, staffing, location analysis) are not on the verified list. They're now presented as general frameworks, not as Wiz history.
 
 ## E. Content decisions to confirm

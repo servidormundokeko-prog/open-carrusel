@@ -1,0 +1,153 @@
+{
+  "id": 39,
+  "week": 39,
+  "title": "Site-built vs. system-built",
+  "pillar": "BUILT technology",
+  "captions": {
+    "instagram": "Two ways to build a home: on site, or in a system.\n\nOn site, weather and conditions change daily and every build starts fresh. In a system, conditions are controlled and processes repeat. The way I see it: less happens on site, so less can go wrong there.\n\nSave the 5 questions for comparing how to build.\n\n#Construction #Prefab #Housing\n\nWhich would you choose for your home?",
+    "facebook": "Site-built or system-built? I put them side by side, with the real challenges of each.\n\n#Construction #Housing\n\nHave you ever lived through a construction delay?",
+    "linkedin": "Less happens on site, so less can go wrong there.\n\nSite-based building carries more unknowns: weather, changing conditions, custom work every time. Problems cascade through the schedule, and cost control gets harder when conditions shift.\n\nA system-built approach moves the work into a factory: design, build in controlled conditions, deliver, then assemble. That's the logic behind prefabricated modular housing, and behind BUILT®.\n\nFive questions I'd use to compare: What is built where? What is the schedule? What could delay it? How is quality checked? What does it cost overall?\n\n#Construction #Prefab\n\nWhich question tips the decision for you?",
+    "x": "Site-built: conditions change daily.\nSystem-built: conditions are controlled.\n\nLess happens on site, so less can go wrong there. That's how I see it. Agree or disagree?",
+    "threads": "Less happens on site, so less can go wrong there. That's my case for system-built homes.\n\nWhat's yours?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "TWO WAYS TO BUILD A HOME. WHICH CARRIES MORE RISK?",
+      "subline": "Site-built vs. system-built. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Two ways to build a home. Which carries more risk?",
+          "mechanism": "Stakes + question: frames a real decision.",
+          "chosen": true
+        },
+        {
+          "text": "Site-built or system-built?",
+          "mechanism": "Question: clean, low tension."
+        },
+        {
+          "text": "Less happens on site, so less can go wrong there.",
+          "mechanism": "Contrarian: gives away the answer."
+        }
+      ],
+      "scene": "crane",
+      "sourceLine": "General explanation",
+      "attachments": [],
+      "altText": "Cover headline 'Two ways to build a home. Which carries more risk?' over an illustrated construction crane."
+    },
+    {
+      "n": 2,
+      "template": "table_compare",
+      "kicker": "SIDE BY SIDE",
+      "headline": "SITE-BASED VS. PREFABRICATED",
+      "columns": [
+        "SITE-BASED",
+        "PREFAB"
+      ],
+      "rows": [
+        [
+          "Built on site",
+          "Built in a factory"
+        ],
+        [
+          "More uncertainty",
+          "Less uncertainty"
+        ],
+        [
+          "Custom each time",
+          "Repeatable systems"
+        ],
+        [
+          "Weather and site conditions matter",
+          "Controlled conditions"
+        ]
+      ],
+      "scene": "crane",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting site-based and prefabricated building."
+    },
+    {
+      "n": 3,
+      "template": "cards_stack",
+      "kicker": "THE CHALLENGES",
+      "headline": "WHAT GOES WRONG ON SITE",
+      "cards": [
+        {
+          "title": "UNCERTAINTY",
+          "body": "Site-based building carries more unknowns."
+        },
+        {
+          "title": "DELAYS",
+          "body": "Problems cascade through the schedule."
+        },
+        {
+          "title": "COST CONTROL",
+          "body": "Hard to hold when conditions shift."
+        }
+      ],
+      "scene": "clock",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three numbered cards: uncertainty, delays and cost control."
+    },
+    {
+      "n": 4,
+      "template": "flow_steps",
+      "kicker": "THE SYSTEM",
+      "headline": "FACTORY FIRST, SITE LAST",
+      "flow": [
+        [
+          "DESIGN",
+          "blueprint"
+        ],
+        [
+          "FACTORY",
+          "factory"
+        ],
+        [
+          "DELIVER",
+          "conveyor"
+        ],
+        [
+          "ASSEMBLE",
+          "house"
+        ]
+      ],
+      "pullLine": "Less happens on site, so less can go wrong there.",
+      "scene": "factory",
+      "needsApproval": true,
+      "approvalNote": "Opinion pull line in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow: design, factory, deliver, assemble."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "5 QUESTIONS WHEN COMPARING HOW TO BUILD",
+      "rows": [
+        "What is built where?",
+        "What is the schedule?",
+        "What could delay it?",
+        "How is quality checked?",
+        "What does it cost overall?"
+      ],
+      "button": "Comment which you'd choose and why",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered questions for comparing building methods, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "all: 'The way I see it', 'my case for system-built homes'; linkedin: 'questions I'd use'."
+}

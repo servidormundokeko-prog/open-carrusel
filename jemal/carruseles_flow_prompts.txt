@@ -3134,8 +3134,9 @@ BACKGROUND: A stylized CGI scene of a glowing globe with gold meridians and pinp
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "ONE MOTHER FACTORY. HUNDREDS OF PILOT FACTORIES."
-- Under it, smaller gold line: "The JemRock model, in three steps. Swipe →"
+- Very large white bold headline: "WHY ONE MOTHER FACTORY AND HUNDREDS OF PILOT FACTORIES?"
+- Under it, smaller gold line: "The BUILT® model, explained. Swipe →"
+- Small gray source line under the gold line: "Source: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -3148,9 +3149,10 @@ ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illus
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE MODEL"
-- Large white headline: "BUILD HERE. DEPLOY THERE."
-- White body text: "Manufacture AI-robotics machines in the United States, then deploy custom pilot factories directly inside the countries that need housing most."
-FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of factory with label "MOTHER FACTORY", gold line icon of globe with label "PILOT FACTORIES", gold line icon of house with label "LOCAL HOMES"
+- Large white headline: "ONE CENTER, MANY LOCAL FACTORIES"
+- White body text: "One mother factory in the United States. Hundreds of custom pilot factories in the countries that need housing."
+FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of factory with label "MOTHER FACTORY, US", gold line icon of globe with label "CUSTOM PILOT FACTORIES", gold line icon of house with label "LOCAL HOMES"
+- Small gray source line above the footer: "Source: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -3162,14 +3164,12 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a glowing globe with gold meridians and pinpoint lights, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "FOUR FEATURES"
-- Large white headline: "WHAT THE MODEL IS DESIGNED TO DELIVER"
-4 CARDS in a 2x2 grid, rounded dark navy with thin gold borders, each with a gold title and a short white line:
-"VERTICALLY INTEGRATED" - "From machines to factories"
-"LOCAL JOBS" - "Created where the factory stands"
-"DIGNIFIED HOUSING" - "High-quality homes"
-"PARTNERSHIPS" - "Designed to work with governments"
-- Small gray source line above the footer: "Per JemRock"
+- Top, small gold caps: "DESIGNED FOR"
+- Large white headline: "LOCAL JOBS, PARTNERS, FIT"
+CARD 1 (rounded dark navy card with a thin gold border, gold line icon of people in a gold circle): gold title "LOCAL JOBS", white body "Pilot factories are designed to create jobs where they stand."
+CARD 2 (rounded dark navy card with a thin gold border, gold line icon of shield in a gold circle): gold title "GOVERNMENT PARTNERSHIPS", white body "The model is designed to work with governments."
+CARD 3 (rounded dark navy card with a thin gold border, gold line icon of gear in a gold circle): gold title "CUSTOM", white body "Each pilot factory is built for the country it serves."
+- Small gray source line above the footer: "Source: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -3178,17 +3178,15 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 4: Contenido 3 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a glowing globe with gold meridians and pinpoint lights, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a top-down city street map with a glowing gold route and pins, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "HOW IT SCALES"
-- Large white headline: "FROM ONE FACTORY TO MANY"
-VERTICAL TIMELINE with gold dots joined by a gold line, white text:
-"Build the AI-robotics machines in the U.S."
-"Customize a pilot factory for each country"
-"Create local jobs"
-"Deliver dignified housing"
-"Build capacity where it matters"
+- Top, small gold caps: "WHY LOCAL"
+- Large white headline: "SHIPPING HOMES VS. BUILDING LOCALLY"
+TWO-COLUMN TABLE in a rounded dark navy card with thin gold borders. Gold caps column headers: left "SHIP HOMES", right "BUILD LOCALLY". A gold arrow between the columns on every row. Rows, white text:
+"Long transport for every unit" → "Production near the need"
+"Jobs stay where homes are made" → "Jobs where the factory stands"
+"One design for everyone" → "Custom to each country"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "4/5"
 
@@ -3199,12 +3197,13 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 5 of 5. Gen
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "SAVE THIS"
-- Large white headline: "THE 3-STEP MODEL"
-3 NUMBERED ROWS, each a rounded dark navy bar with a gold number circle on the left and white text:
-"1" - "Make the machines at the mother factory"
-"2" - "Deploy custom pilot factories in-country"
-"3" - "Build homes and local capacity"
-- Gold rounded button with dark navy text: "Comment where you'd deploy first"
+- Large white headline: "4 QUESTIONS FOR ANY HOUSING FACTORY MODEL"
+4 NUMBERED ROWS, each a rounded dark navy bar with a gold number circle on the left and white text:
+"1" - "Where is it built?"
+"2" - "Who gets the jobs?"
+"3" - "Who are the partners?"
+"4" - "How is it adapted locally?"
+- Gold rounded button with dark navy text: "Comment where you'd want a pilot factory"
 - Below it, white text: "Follow @StephenJemalNY for the next chapter"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "5/5"
@@ -3212,7 +3211,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-One mother factory in the United States, hundreds of pilot factories where housing is needed most. Swipe for the JemRock model in three steps. Which country would you deploy first? Follow @StephenJemalNY.
+Why one mother factory and hundreds of pilot factories?
+
+The BUILT® model: one mother factory in the United States, and hundreds of custom pilot factories in the countries that need housing, designed for local jobs and government partnerships.
+
+Save the 4 questions I'd ask of any housing factory model.
+
+#BUILT #Housing #ModularConstruction
+
+Where would you want a pilot factory?
 
 
 === CARRUSEL 34: What makes housing adequate? (Housing and authority) ===
@@ -3223,8 +3230,9 @@ BACKGROUND: A stylized CGI scene of a row of small houses with warm lit windows,
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "WHAT MAKES HOUSING \"ADEQUATE\"?"
-- Under it, smaller gold line: "The seven elements the UN uses. Swipe →"
+- Very large white bold headline: "2.8 BILLION PEOPLE LACK ADEQUATE HOUSING. WHAT DOES ADEQUATE MEAN?"
+- Under it, smaller gold line: "The UN's seven elements. Swipe →"
+- Small gray source line under the gold line: "Source: UN-Habitat"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -3240,7 +3248,7 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Large white headline: "SECURITY, SERVICES, COST"
 CARD 1 (rounded dark navy card with a thin gold border, gold line icon of key in a gold circle): gold title "SECURITY OF TENURE", white body "Legal protection against forced eviction."
 CARD 2 (rounded dark navy card with a thin gold border, gold line icon of gear in a gold circle): gold title "SERVICES AND INFRASTRUCTURE", white body "Water, sanitation, energy and more."
-CARD 3 (rounded dark navy card with a thin gold border, gold line icon of tag in a gold circle): gold title "AFFORDABILITY", white body "Housing costs that don't threaten other needs."
+CARD 3 (rounded dark navy card with a thin gold border, gold line icon of tag in a gold circle): gold title "AFFORDABILITY", white body "Costs that don't threaten other basic needs."
 - Small gray source line above the footer: "UN Committee on Economic, Social and Cultural Rights"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
@@ -3255,10 +3263,11 @@ ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illus
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "ELEMENTS 4 TO 7"
 - Large white headline: "SAFE, REACHABLE, WELL-LOCATED"
-CARD 1 (rounded dark navy card with a thin gold border, gold line icon of house in a gold circle): gold title "HABITABILITY", white body "Safe, with space and protection."
-CARD 2 (rounded dark navy card with a thin gold border, gold line icon of map pin in a gold circle): gold title "ACCESSIBILITY", white body "Usable by everyone, including those with disabilities."
-CARD 3 (rounded dark navy card with a thin gold border, gold line icon of map grid in a gold circle): gold title "LOCATION", white body "Near jobs, schools and care."
-CARD 4 (rounded dark navy card with a thin gold border, gold line icon of people in a gold circle): gold title "CULTURAL ADEQUACY", white body "Respects the community's identity."
+4 CARDS in a 2x2 grid, rounded dark navy with thin gold borders, each with a gold title and a short white line:
+"HABITABILITY" - "Safe, with space and protection"
+"ACCESSIBILITY" - "Usable by everyone"
+"LOCATION" - "Near jobs, schools and care"
+"CULTURAL ADEQUACY" - "Respects the community's identity"
 - Small gray source line above the footer: "UN Committee on Economic, Social and Cultural Rights"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
@@ -3271,12 +3280,12 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a glowing globe with gold meridians and pinpoint lights, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE SCALE"
-- Large white headline: "WHERE THE WORLD STANDS"
+- Top, small gold caps: "WHERE THE WORLD STANDS"
+- Large white headline: "MEASURED AGAINST THAT STANDARD"
 3 LARGE STAT CARDS stacked, each a rounded dark navy card with a thin gold border, a huge gold number and white text:
-"2.8 billion" - "people lack adequate housing"
-"1.1 billion" - "live in slums or informal settlements"
-"300 million+" - "are homeless"
+"2.8B" - "people lack adequate housing"
+"1.1B" - "live in slums or informal settlements"
+"300M+" - "are homeless"
 - Small gray source line above the footer: "Source: UN-Habitat"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "4/5"
@@ -3288,16 +3297,12 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 5 of 5. Gen
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "SAVE THIS"
-- Large white headline: "THE 7-POINT HOUSING CHECK"
-7 NUMBERED ROWS, each a rounded dark navy bar with a gold number circle on the left and white text:
-"1" - "Security of tenure"
-"2" - "Services and infrastructure"
-"3" - "Affordability"
-"4" - "Habitability"
-"5" - "Accessibility"
-"6" - "Location"
-"7" - "Cultural adequacy"
-- Gold rounded button with dark navy text: "Comment the hardest one"
+- Large white headline: "3 QUESTIONS TO ASK OF ANY HOUSING PROJECT"
+3 NUMBERED ROWS, each a rounded dark navy bar with a gold number circle on the left and white text:
+"1" - "Who can afford it?"
+"2" - "Is it safe and secure to live in?"
+"3" - "Is it near jobs, schools and care?"
+- Gold rounded button with dark navy text: "Comment the element that matters most to you"
 - Below it, white text: "Follow @StephenJemalNY for the next chapter"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "5/5"
@@ -3305,7 +3310,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Adequate housing is more than four walls. The UN lists seven elements. Swipe to save the checklist. Which one is hardest to get right where you live? Follow @StephenJemalNY.
+UN-Habitat counts 2.8 billion people without adequate housing. So what does "adequate" mean?
+
+The UN Committee on Economic, Social and Cultural Rights lists seven elements: security of tenure, services and infrastructure, affordability, habitability, accessibility, location and cultural adequacy.
+
+I keep this list close. Save it.
+
+#Housing #AffordableHousing #HumanRights
+
+Which element is hardest where you live?
 
 
 === CARRUSEL 35: The math of the housing gap (Housing and authority) ===
@@ -3419,8 +3432,9 @@ BACKGROUND: A stylized CGI scene of a precision factory hall with a conveyor and
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "WHAT DOES THE RESEARCH SAY ABOUT PREFAB?"
-- Under it, smaller gold line: "Speed, cost and the fine print. Swipe →"
+- Very large white bold headline: "PREFAB CAN BE 20-50% FASTER. HERE'S THE FINE PRINT."
+- Under it, smaller gold line: "What the research says. Swipe →"
+- Small gray source line under the gold line: "McKinsey, 2019"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -3432,13 +3446,13 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of glowing gold bars rising like a skyline with an upward line, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE EVIDENCE"
+- Top, small gold caps: "THE RESEARCH"
 - Large white headline: "MODULAR CONSTRUCTION, BY THE NUMBERS"
 3 LARGE STAT CARDS stacked, each a rounded dark navy card with a thin gold border, a huge gold number and white text:
 "20-50%" - "faster than traditional construction"
-"up to 20%" - "potential cost savings"
-"up to 10%" - "potential loss if delivery or material costs spike"
-- Small gray source line above the footer: "McKinsey & Company, 2019, \"Modular construction: From projects to products\""
+"Up to 20%" - "potential cost savings"
+"Up to 10%" - "potential losses if delivery or material costs spike"
+- Small gray source line above the footer: "McKinsey, 2019, \"Modular construction: From projects to products\""
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -3450,8 +3464,9 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a precision factory hall with a conveyor and glowing machines, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "WHY IT CAN WORK"
-- Large white headline: "FOUR PREFAB PILLARS"
+- Top, small gold caps: "WHY IT CAN BE FASTER"
+- Large white headline: "FOUR PREFAB PRINCIPLES"
+- White body text: "Factory work repeats, so it can be planned, timed and checked."
 FLOW of 4 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of gear with label "REPEATABLE", gold line icon of scale with label "COST-AWARE", gold line icon of clock with label "FAST", gold line icon of shield with label "CONSISTENT"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
@@ -3494,7 +3509,13 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-What does the research say about modular construction? Swipe for the verified ranges, the risks, and four questions to ask. Would you build modular? Follow @StephenJemalNY.
+Modular construction can be 20-50% faster and save up to 20% on cost, per McKinsey (2019). The fine print: losses of up to 10% if delivery or material costs spike.
+
+I like research that includes the downside. Swipe for the full picture, then save the 4 questions before choosing prefab.
+
+#Prefab #ModularConstruction #ConstructionTech
+
+What's your biggest prefab question?
 
 
 === CARRUSEL 37: Less waste (BUILT technology) ===
@@ -3507,6 +3528,7 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
 - Very large white bold headline: "WHERE DOES CONSTRUCTION WASTE REALLY COME FROM?"
 - Under it, smaller gold line: "Three sources, and how precision helps. Swipe →"
+- Small gray source line under the gold line: "General explanation"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -3518,8 +3540,8 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of boxes riding a conveyor belt in warm light, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THREE SOURCES"
-- Large white headline: "WHERE WASTE STARTS"
+- Top, small gold caps: "WHERE WASTE STARTS"
+- Large white headline: "CUTS, ORDERS, REWORK"
 CARD 1 (rounded dark navy card with a thin gold border): gold title "CUTTING ERRORS", white body "Parts cut wrong have to be discarded."
 CARD 2 (rounded dark navy card with a thin gold border): gold title "OVER-ORDERING", white body "Extra material is bought just in case."
 CARD 3 (rounded dark navy card with a thin gold border): gold title "REWORK", white body "Mistakes get built, then rebuilt."
@@ -3534,11 +3556,11 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a laser beam scanning a building panel with fine measurement ticks, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE PRECISION PATH"
+- Top, small gold caps: "THE FIX"
 - Large white headline: "MEASURE. CUT. FIT."
 FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of laser with label "MEASURE", gold line icon of robot arm with label "CUT", gold line icon of shield with label "FIT"
-- Gold italic pull line: "BUILT® is designed to dramatically reduce material waste."
-- Small gray source line above the footer: "Per JemRock"
+- Gold italic pull line: "BUILT® is designed for less material waste."
+- Small gray source line above the footer: "Source: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -3581,7 +3603,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Precision manufacturing is designed to dramatically reduce material waste. Swipe for where construction waste comes from and how to cut it. Where do you see the most waste? Follow @StephenJemalNY.
+Where does construction waste really come from? Three places: cutting errors, over-ordering and rework.
+
+The way I see it, precision attacks all three. BUILT® is laser-guided and designed for less material waste.
+
+Save the 5 waste-reduction questions.
+
+#Sustainability #ConstructionTech #Prefab
+
+Which waste would you cut first?
 
 
 === CARRUSEL 38: How fast is fast? (BUILT technology) ===
@@ -3593,7 +3623,8 @@ BACKGROUND: A stylized CGI scene of a glowing clock with gold gears, rendered la
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
 - Very large white bold headline: "\"50% FASTER\": A TARGET OR A RESULT?"
-- Under it, smaller gold line: "What the research says, what the target says. Swipe →"
+- Under it, smaller gold line: "Research vs. design target. Swipe →"
+- Small gray source line under the gold line: "Per JemRock research"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -3605,14 +3636,13 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a glowing clock with gold gears, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "SIDE BY SIDE"
-- Large white headline: "RESEARCH VS. TARGET"
-4 STACKED ROWS in rounded dark navy cards with thin gold borders; big gold label on the left, white text on the right:
+- Top, small gold caps: "RESEARCH VS. TARGET"
+- Large white headline: "TWO KINDS OF NUMBERS"
+3 STACKED ROWS in rounded dark navy cards with thin gold borders; big gold label on the left, white text on the right:
 "20-50%" - "faster modular construction (McKinsey, 2019)"
-"50%+" - "faster BUILT® timelines (JemRock design target)"
-"up to 20%" - "cost savings (McKinsey, 2019)"
-"up to 50%" - "cost savings (JemRock states)"
-- Small gray source line above the footer: "Targets and company claims are not independent results"
+"50%+" - "faster BUILT® timelines: a design target, not a result"
+"Up to 20%" - "cost savings (McKinsey, 2019)"
+- Small gray source line above the footer: "McKinsey, 2019. BUILT® target per JemRock research."
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -3624,11 +3654,11 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a large brass key beside a small house, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "WHAT STILL HAS TO GO RIGHT"
-- Large white headline: "FASTER FACTORIES, SAME REAL WORLD"
+- Top, small gold caps: "THE REAL WORLD"
+- Large white headline: "A FASTER FACTORY STILL NEEDS THESE"
 CARD 1 (rounded dark navy card with a thin gold border, gold line icon of document in a gold circle): gold title "APPROVALS AND PERMITS", white body "Still need to be obtained."
 CARD 2 (rounded dark navy card with a thin gold border, gold line icon of tag in a gold circle): gold title "FINANCING", white body "Projects still have to be funded."
-CARD 3 (rounded dark navy card with a thin gold border, gold line icon of stack of storefronts in a gold circle): gold title "DELIVERY", white body "Parts must reach the site on time."
+CARD 3 (rounded dark navy card with a thin gold border, gold line icon of conveyor in a gold circle): gold title "DELIVERY", white body "Parts must reach the site on time."
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -3640,10 +3670,10 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of glowing gold bars rising like a skyline with an upward line, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "FROM TARGET TO PROOF"
+- Top, small gold caps: "HOW TARGETS BECOME RESULTS"
 - Large white headline: "DESIGN. PILOT. MEASURE."
 FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of blueprint with label "DESIGN TARGET", gold line icon of factory with label "PILOT", gold line icon of chart with label "MEASURED RESULT"
-- Gold italic pull line: "A target isn't a result. Pilots show what's real."
+- Gold italic pull line: "A target isn't a result. Measurement is."
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "4/5"
 
@@ -3668,7 +3698,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Industry research says modular can be 20-50% faster. JemRock's design target is higher. Swipe for the difference between a target and a result. What would you want proven first? Follow @StephenJemalNY.
+"50% faster": a target or a result?
+
+For BUILT®, it's a target. Per JemRock research, our design target is more than 50% faster timelines. McKinsey (2019) found modular construction can be 20-50% faster. Those are different kinds of numbers, and I want to be clear about which is which.
+
+Save the 4 questions for any speed claim.
+
+#ConstructionTech #Prefab #Housing
+
+Which speed claim would you test?
 
 
 === CARRUSEL 39: Site-built vs. system-built (BUILT technology) ===
@@ -3679,8 +3717,9 @@ BACKGROUND: A stylized CGI scene of a construction crane beside an unfinished bu
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "TWO WAYS TO BUILD A HOME"
-- Under it, smaller gold line: "Site-built vs. system-built, side by side. Swipe →"
+- Very large white bold headline: "TWO WAYS TO BUILD A HOME. WHICH CARRIES MORE RISK?"
+- Under it, smaller gold line: "Site-built vs. system-built. Swipe →"
+- Small gray source line under the gold line: "General explanation"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -3707,15 +3746,14 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 3: Contenido 2 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a construction crane beside an unfinished building frame, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a glowing clock with gold gears, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "WHAT SITE-BASED BUILDING FACES"
-- Large white headline: "THE REAL CHALLENGES"
-CARD 1 (rounded dark navy card with a thin gold border): gold title "UNCERTAINTY", white body "Traditional site-based building carries more unknowns."
+- Top, small gold caps: "THE CHALLENGES"
+- Large white headline: "WHAT GOES WRONG ON SITE"
+CARD 1 (rounded dark navy card with a thin gold border): gold title "UNCERTAINTY", white body "Site-based building carries more unknowns."
 CARD 2 (rounded dark navy card with a thin gold border): gold title "DELAYS", white body "Problems cascade through the schedule."
 CARD 3 (rounded dark navy card with a thin gold border): gold title "COST CONTROL", white body "Hard to hold when conditions shift."
-- Small gray source line above the footer: "Per Stephen Jemal's site"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -3727,9 +3765,9 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a precision factory hall with a conveyor and glowing machines, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE HYBRID"
+- Top, small gold caps: "THE SYSTEM"
 - Large white headline: "FACTORY FIRST, SITE LAST"
-FLOW of 4 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of blueprint with label "DESIGN", gold line icon of factory with label "FACTORY", gold line icon of stack of storefronts with label "DELIVER", gold line icon of house with label "ASSEMBLE"
+FLOW of 4 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of blueprint with label "DESIGN", gold line icon of factory with label "FACTORY", gold line icon of conveyor with label "DELIVER", gold line icon of house with label "ASSEMBLE"
 - Gold italic pull line: "Less happens on site, so less can go wrong there."
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "4/5"
@@ -3748,7 +3786,7 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 "3" - "What could delay it?"
 "4" - "How is quality checked?"
 "5" - "What does it cost overall?"
-- Gold rounded button with dark navy text: "Comment your choice"
+- Gold rounded button with dark navy text: "Comment which you'd choose and why"
 - Below it, white text: "Follow @StephenJemalNY for the next chapter"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "5/5"
@@ -3756,7 +3794,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Two ways to build a home, and the trade-offs of each. Swipe for a side-by-side to save. Which would you choose? Follow @StephenJemalNY.
+Two ways to build a home: on site, or in a system.
+
+On site, weather and conditions change daily and every build starts fresh. In a system, conditions are controlled and processes repeat. The way I see it: less happens on site, so less can go wrong there.
+
+Save the 5 questions for comparing how to build.
+
+#Construction #Prefab #Housing
+
+Which would you choose for your home?
 
 
 === CARRUSEL 40: Brand-led development (Real estate and vision) ===
@@ -3767,8 +3813,9 @@ BACKGROUND: A stylized CGI scene of a lit apartment tower beside smaller buildin
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "WHAT IF A BUILDING HAD A BRAND?"
-- Under it, smaller gold line: "Four pillars of brand-led development. Swipe →"
+- Very large white bold headline: "WHAT IF A BUILDING HAD A BRAND, LIKE A STORE DOES?"
+- Under it, smaller gold line: "Brand-led development in four steps. Swipe →"
+- Small gray source line under the gold line: "General explanation"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -3780,9 +3827,9 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a lit apartment tower beside smaller buildings, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE IDEA"
+- Top, small gold caps: "THE SEQUENCE"
 - Large white headline: "NAME. POSITION. BUILD. OPERATE."
-- White body text: "Concepts such as PASHA, CENTRAL and H.O.M.E. need more than branding. They need a built environment that supports the intended resident experience."
+- White body text: "A brand-led building needs more than a name. The space has to deliver the promise."
 FLOW of 4 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of banner with star with label "NAME", gold line icon of map pin with label "POSITION", gold line icon of crane with label "BUILD", gold line icon of gear with label "OPERATE"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
@@ -3792,17 +3839,17 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 3: Contenido 2 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a lit apartment tower beside smaller buildings, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of four gold columns supporting a roof, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "FOUR PILLARS"
-- Large white headline: "BRAND-LED DEVELOPMENT"
+- Top, small gold caps: "FROM RETAIL TO BUILDINGS"
+- Large white headline: "FOUR PILLARS, APPLIED TO A BUILDING"
 4 CARDS in a 2x2 grid, rounded dark navy with thin gold borders, each with a gold title and a short white line:
-"BRAND-LED DEVELOPMENT" - "A recognizable identity and lifestyle position"
-"URBAN RESIDENTIAL FOCUS" - "Properties repositioned around modern city living"
-"MARKET GAP STRATEGY" - "Demand for concepts that combine location, amenities and value"
-"OPERATIONAL EXECUTION" - "Concept, construction, design and long-term use connected"
-- Small gray source line above the footer: "Per Stephen Jemal's site"
+"MEMORABLE NAMING" - "A name residents repeat"
+"CLEAR POSITIONING" - "Who the building is for"
+"MARKET VISIBILITY" - "Known beyond its block"
+"BRAND CONSISTENCY" - "The building keeps the promise"
+- Small gray source line above the footer: "Pillars: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -3811,7 +3858,7 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 4: Contenido 3 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a lit apartment tower beside smaller buildings, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a dense city skyline at golden hour with lit windows, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE DIFFERENCE"
@@ -3844,19 +3891,28 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-A building can have a brand. Swipe for four pillars behind brand-led development, from identity to execution. Which would you start with? Follow @StephenJemalNY.
+What if a building had a brand, the way a store does?
+
+The Wiz marketing pillars were memorable naming, clear positioning, market visibility and brand consistency. Here's how I'd apply them to a building: name it, position it, build it, operate it.
+
+Save the 4-question brand check.
+
+#RealEstate #Branding #UrbanDevelopment
+
+Which building brand do you remember?
 
 
-=== CARRUSEL 41: Inside PASHA (Real estate and vision) ===
+=== CARRUSEL 41: Assembling underused land (Real estate and vision) ===
 --- Imagen 1: Portada [Sin adjuntos] ---
 Create a 4:5 vertical social media carousel cover image (1080x1350). Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Style: premium cinematic stylized CGI 3D render background with a clean flat graphic text layer on top. Deep navy and warm gold palette, soft volumetric glow. No people, no faces.
 
-BACKGROUND: A stylized CGI scene of a lit apartment tower beside smaller buildings, rendered large in the upper half of the image, darkened and blurred so the text stays readable. Faint gold blueprint grid.
+BACKGROUND: A stylized CGI scene of a top-down city street map with a glowing gold route and pins, rendered large in the upper half of the image, darkened and blurred so the text stays readable. Faint gold blueprint grid.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "WHAT HAPPENS WHEN OFFICE TOWERS BECOME HOMES?"
-- Under it, smaller gold line: "Inside PASHA, per JemRock. Swipe →"
+- Very large white bold headline: "AFTER THE WIZ, I ASSEMBLED UNDERUSED LAND ACROSS FIVE AREAS"
+- Under it, smaller gold line: "What land assemblage means. Swipe →"
+- Small gray source line under the gold line: "Source: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -3865,15 +3921,17 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 2: Contenido 1 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a lit apartment tower beside smaller buildings, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a top-down city street map with a glowing gold route and pins, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE CONCEPT"
-- Large white headline: "WHAT PASHA IS"
-CARD 1 (rounded dark navy card with a thin gold border, gold line icon of apartment building in a gold circle): gold title "WHAT", white body "A multi-building residential project in central Manhattan."
-CARD 2 (rounded dark navy card with a thin gold border, gold line icon of building with arrow in a gold circle): gold title "HOW", white body "Converting existing office and hotel buildings into hotels and apartments."
-CARD 3 (rounded dark navy card with a thin gold border, gold line icon of people in a gold circle): gold title "FOR WHOM", white body "Professionals priced out of Manhattan living."
-- Small gray source line above the footer: "Per JemRock materials"
+- Top, small gold caps: "WHAT I DID"
+- Large white headline: "UNDERUTILIZED PARCELS, ASSEMBLED"
+4 STACKED ROWS in rounded dark navy cards with thin gold borders; big gold label on the left, white text on the right:
+"WHERE" - "Manhattan, Brooklyn, Queens, the Bronx, New Jersey"
+"WHAT" - "Underutilized parcels, assembled"
+"ALONGSIDE" - "Waterfront revitalization and real estate development"
+"NEXT" - "JemRock Organization"
+- Small gray source line above the footer: "Source: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -3882,17 +3940,14 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 3: Contenido 2 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a dense city skyline at golden hour with lit windows, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a gold blueprint grid with a house outline and dimension lines, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE AMENITIES"
-- Large white headline: "WHAT'S INSIDE"
-4 CARDS in a 2x2 grid, rounded dark navy with thin gold borders, each with a gold title and a short white line:
-"CO-WORKING" - "Work without the commute"
-"FITNESS AND YOGA" - "Studios on site"
-"WELLNESS CAFES" - "Healthy food and drink"
-"ROOFTOP SPACES" - "Outdoor space in the city"
-- Small gray source line above the footer: "Per JemRock materials"
+- Top, small gold caps: "HOW ASSEMBLAGE WORKS"
+- Large white headline: "FIND. ACQUIRE. COMBINE. PLAN."
+- White body text: "Assemblage combines neighboring parcels into one site that can support a larger plan."
+FLOW of 4 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of map pin with label "FIND", gold line icon of key with label "ACQUIRE", gold line icon of map grid with label "COMBINE", gold line icon of blueprint with label "PLAN"
+- Small gray source line above the footer: "General explanation"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -3901,17 +3956,16 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 4: Contenido 3 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a lit apartment tower beside smaller buildings, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a dense city skyline at golden hour with lit windows, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE MISSION"
-- Large white headline: "LIVE. VISIT. WORK. BE WELL."
-4 STACKED ROWS in rounded dark navy cards with thin gold borders; big gold label on the left, white text on the right:
-"LIVE" - "Apartments in central Manhattan"
-"VISIT" - "Hotel stays"
-"WORK" - "Resident workspaces"
-"BE WELL" - "Wellness-focused amenities"
-- Small gray source line above the footer: "Per JemRock materials"
+- Top, small gold caps: "THE TRADE-OFF"
+- Large white headline: "ONE LOT VS. AN ASSEMBLED SITE"
+TWO-COLUMN TABLE in a rounded dark navy card with thin gold borders. Gold caps column headers: left "ONE LOT", right "ASSEMBLED SITE". A gold arrow between the columns on every row. Rows, white text:
+"Limited by its size" → "More room to plan"
+"One negotiation" → "Several negotiations"
+"Simple to buy" → "Complex to assemble"
+- Small gray source line above the footer: "General explanation"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "4/5"
 
@@ -3922,14 +3976,14 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 5 of 5. Gen
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "SAVE THIS"
-- Large white headline: "5 QUESTIONS ABOUT ANY URBAN HOME CONCEPT"
+- Large white headline: "5 QUESTIONS BEFORE ASSEMBLING A SITE"
 5 NUMBERED ROWS, each a rounded dark navy bar with a gold number circle on the left and white text:
-"1" - "Who is it for?"
-"2" - "What gap does it fill?"
-"3" - "What's included?"
-"4" - "How is the building reused?"
-"5" - "How does it serve residents long-term?"
-- Gold rounded button with dark navy text: "Comment what you'd want in a city home"
+"1" - "Who owns each parcel?"
+"2" - "What does zoning allow combined?"
+"3" - "What does each piece cost?"
+"4" - "What if one owner says no?"
+"5" - "What could the full site become?"
+- Gold rounded button with dark navy text: "Comment the question you'd ask first"
 - Below it, white text: "Follow @StephenJemalNY for the next chapter"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "5/5"
@@ -3937,19 +3991,28 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-PASHA is a multi-building residential concept in central Manhattan, per JemRock. Swipe for what it is, who it's for and how it works. Would you live in a converted office tower? Follow @StephenJemalNY.
+After the Wiz, I assembled underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.
+
+Assemblage means combining neighboring lots into one site that can support a bigger plan. It's slower and more complex than buying one lot, and it opens more options.
+
+Save the 5 questions before assembling a site.
+
+#RealEstate #UrbanDevelopment #NYC
+
+Which question would you ask first?
 
 
-=== CARRUSEL 42: Two brands, two markets (Real estate and vision) ===
+=== CARRUSEL 42: Waterfront revitalization (Real estate and vision) ===
 --- Imagen 1: Portada [Sin adjuntos] ---
 Create a 4:5 vertical social media carousel cover image (1080x1350). Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Style: premium cinematic stylized CGI 3D render background with a clean flat graphic text layer on top. Deep navy and warm gold palette, soft volumetric glow. No people, no faces.
 
-BACKGROUND: A stylized CGI scene of a row of identical storefronts, one lit and the others in gold wireframe, rendered large in the upper half of the image, darkened and blurred so the text stays readable. Faint gold blueprint grid.
+BACKGROUND: A stylized CGI scene of a dense city skyline at golden hour with lit windows, rendered large in the upper half of the image, darkened and blurred so the text stays readable. Faint gold blueprint grid.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "WHY BUILD MORE THAN ONE HOUSING BRAND?"
-- Under it, smaller gold line: "PASHA and CENTRAL, per JemRock. Swipe →"
+- Very large white bold headline: "AFTER THE WIZ, I TURNED TO THE WATERFRONT. HERE'S WHAT REVITALIZATION MEANS."
+- Under it, smaller gold line: "Access, new uses, infrastructure. Swipe →"
+- Small gray source line under the gold line: "Source: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -3958,16 +4021,15 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 2: Contenido 1 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a lit apartment tower beside smaller buildings, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a dense city skyline at golden hour with lit windows, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "TWO CONCEPTS"
-- Large white headline: "PASHA VS. CENTRAL"
-TWO-COLUMN TABLE in a rounded dark navy card with thin gold borders. Gold caps column headers: left "PASHA", right "CENTRAL". A gold arrow between the columns on every row. Rows, white text:
-"Modern urban living" → "Well-designed urban housing"
-"Lifestyle-focused amenities" → "Attainable homes"
-"Professionals priced out of Manhattan" → "Wider urban housing needs"
-- Gold italic pull line: "Per JemRock materials"
+- Top, small gold caps: "WHAT IT INVOLVES"
+- Large white headline: "ACCESS, NEW USES, INFRASTRUCTURE"
+CARD 1 (rounded dark navy card with a thin gold border, gold line icon of anchor and wave in a gold circle): gold title "ACCESS", white body "Opening the water's edge to the public."
+CARD 2 (rounded dark navy card with a thin gold border, gold line icon of apartment building in a gold circle): gold title "NEW USES", white body "Housing, work and leisure where industry once stood."
+CARD 3 (rounded dark navy card with a thin gold border, gold line icon of gear in a gold circle): gold title "INFRASTRUCTURE", white body "Streets, utilities and shoreline protection."
+- Small gray source line above the footer: "General explanation"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -3976,15 +4038,14 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 3: Contenido 2 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a row of identical storefronts, one lit and the others in gold wireframe, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a construction crane beside an unfinished building frame, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE LOGIC"
-- Large white headline: "WHY TWO BRANDS?"
-CARD 1 (rounded dark navy card with a thin gold border): gold title "DIFFERENT CATEGORIES", white body "Each concept suggests a different housing category."
-CARD 2 (rounded dark navy card with a thin gold border): gold title "DIFFERENT PURPOSES", white body "Each serves a different market need."
-CARD 3 (rounded dark navy card with a left gold accent bar): gold title "ONE PLATFORM", white body "Shared systems can support more than one brand."
-- Small gray source line above the footer: "Per Stephen Jemal's site"
+- Top, small gold caps: "THE PROCESS"
+- Large white headline: "ASSESS. PLAN. APPROVE. BUILD."
+- White body text: "Every waterfront project moves through the same basic stages."
+FLOW of 4 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of magnifying glass with label "ASSESS", gold line icon of blueprint with label "PLAN", gold line icon of document with label "APPROVE", gold line icon of crane with label "BUILD"
+- Small gray source line above the footer: "General explanation"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -3996,9 +4057,13 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a top-down city street map with a glowing gold route and pins, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE METHOD"
-- Large white headline: "FIND THE GAP. CHOOSE THE CATEGORY. BUILD THE BRAND."
-FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of magnifying glass with label "FIND THE GAP", gold line icon of map grid with label "CHOOSE A CATEGORY", gold line icon of banner with star with label "BUILD THE BRAND"
+- Top, small gold caps: "WHAT CHANGES"
+- Large white headline: "AT THE WATER'S EDGE"
+TWO-COLUMN TABLE in a rounded dark navy card with thin gold borders. Gold caps column headers: left "BEFORE", right "AFTER". A gold arrow between the columns on every row. Rows, white text:
+"Closed-off industrial edge" → "Public access to the water"
+"Single use" → "Mixed uses"
+"Underused land" → "Housing, work and leisure"
+- Small gray source line above the footer: "General explanation"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "4/5"
 
@@ -4009,13 +4074,13 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 5 of 5. Gen
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "SAVE THIS"
-- Large white headline: "THE 4-QUESTION MARKET CHECK"
+- Large white headline: "4 QUESTIONS FOR ANY WATERFRONT SITE"
 4 NUMBERED ROWS, each a rounded dark navy bar with a gold number circle on the left and white text:
-"1" - "Who needs this housing?"
-"2" - "What do they value?"
-"3" - "What can they afford?"
-"4" - "What brand fits them?"
-- Gold rounded button with dark navy text: "Comment the housing market you'd serve"
+"1" - "Who can reach the water?"
+"2" - "What can be built here?"
+"3" - "How is the shoreline protected?"
+"4" - "What does the neighborhood need?"
+- Gold rounded button with dark navy text: "Comment your favorite waterfront"
 - Below it, white text: "Follow @StephenJemalNY for the next chapter"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "5/5"
@@ -4023,7 +4088,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Different housing categories serve different markets. PASHA and CENTRAL are two JemRock concepts. Swipe for the idea behind having more than one brand. Which market is hardest to serve? Follow @StephenJemalNY.
+After the Wiz, I turned to waterfront revitalization and real estate development.
+
+Revitalizing a waterfront usually means three things: opening the water's edge to the public, bringing new uses where industry once stood, and rebuilding the infrastructure underneath.
+
+Save the 4 questions for any waterfront site.
+
+#RealEstate #UrbanDevelopment #Waterfront
+
+What's your favorite city waterfront?
 
 
 === CARRUSEL 43: Urban residential focus (Real estate and vision) ===
@@ -4034,8 +4107,9 @@ BACKGROUND: A stylized CGI scene of a dense city skyline at golden hour with lit
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "WHAT DO CITY RESIDENTS REALLY WANT?"
-- Under it, smaller gold line: "Location, amenities and value, rethought. Swipe →"
+- Very large white bold headline: "WHAT DO CITY RESIDENTS REALLY WANT FROM A HOME?"
+- Under it, smaller gold line: "Location, amenities, value. Swipe →"
+- Small gray source line under the gold line: "General explanation"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -4044,15 +4118,14 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 2: Contenido 1 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a dense city skyline at golden hour with lit windows, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a top-down city street map with a glowing gold route and pins, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE FOCUS"
-- Large white headline: "REPOSITION AROUND RESIDENTS"
+- Top, small gold caps: "THE BASICS"
+- Large white headline: "LOCATION, AMENITIES, VALUE"
 CARD 1 (rounded dark navy card with a thin gold border, gold line icon of map pin in a gold circle): gold title "LOCATION", white body "Where daily life actually happens."
 CARD 2 (rounded dark navy card with a thin gold border, gold line icon of key in a gold circle): gold title "AMENITIES", white body "Spaces that serve modern routines."
 CARD 3 (rounded dark navy card with a thin gold border, gold line icon of tag in a gold circle): gold title "VALUE", white body "A fair deal for what's offered."
-- Small gray source line above the footer: "Per Stephen Jemal's site"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -4064,8 +4137,8 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a lit apartment tower beside smaller buildings, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "FIVE FACTORS"
-- Large white headline: "WHAT RESIDENTS WEIGH"
+- Top, small gold caps: "WHAT RESIDENTS WEIGH"
+- Large white headline: "FOUR THINGS EVERY RESIDENT CHECKS"
 4 CARDS in a 2x2 grid, rounded dark navy with thin gold borders, each with a gold title and a short white line:
 "LOCATION" - "Commute, errands, neighborhood"
 "AMENITIES" - "Space for work, fitness, wellness"
@@ -4082,10 +4155,10 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a lit apartment tower beside smaller buildings, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE PROCESS"
+- Top, small gold caps: "REPOSITIONING"
 - Large white headline: "UNDERUSED PROPERTY TO RESIDENCE"
 FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of building with arrow with label "UNDERUSED", gold line icon of blueprint with label "REPOSITION", gold line icon of apartment building with label "RESIDENCE"
-- Gold italic pull line: "Transforming underused properties into residential environments."
+- Gold italic pull line: "Build around how residents actually live."
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "4/5"
 
@@ -4111,7 +4184,13 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-City living, rethought: repositioning properties around location, amenities and value. Swipe for five things urban residents weigh. Which matters most to you? Follow @StephenJemalNY.
+What do city residents really want from a home? Location, amenities and value, and a building in good condition.
+
+I'd judge any city home on five questions. They're on the last slide. Save them for your next search.
+
+#CityLiving #RealEstate #NYC
+
+What's your top priority?
 
 
 === CARRUSEL 44: Market gap strategy (Real estate and vision) ===

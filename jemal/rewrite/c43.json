@@ -1,0 +1,148 @@
+{
+  "id": 43,
+  "week": 43,
+  "title": "Urban residential focus",
+  "pillar": "Real estate and vision",
+  "captions": {
+    "instagram": "What do city residents really want from a home? Location, amenities and value, and a building in good condition.\n\nI'd judge any city home on five questions. They're on the last slide. Save them for your next search.\n\n#CityLiving #RealEstate #NYC\n\nWhat's your top priority?",
+    "facebook": "Location, amenities, value and building quality: that's what city residents weigh. I made a 5-point check you can use on your next apartment.\n\n#CityLiving #RealEstate\n\nWhat would you trade for a shorter commute?",
+    "linkedin": "Build around how residents actually live.\n\nCity residents weigh four things: location (commute, errands, neighborhood), amenities (space for work, fitness and wellness), value (cost compared with quality) and the building itself (condition and design).\n\nUnderused buildings can become places people want to live when they're repositioned around those needs.\n\nThe check I'd use: Is the location right? Are the amenities useful? Is the value fair? Is the building in good condition? Does it fit my routine?\n\n#RealEstate #UrbanDevelopment\n\nWhich of these would you never compromise on?",
+    "x": "What city residents weigh:\n\nLocation.\nAmenities.\nValue.\nBuilding quality.\n\nI'd add one more: does it fit your routine? What's your top priority?",
+    "threads": "Location, amenities, value. I'd add one more: does it fit your routine?\n\nWhat matters most to you?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "WHAT DO CITY RESIDENTS REALLY WANT FROM A HOME?",
+      "subline": "Location, amenities, value. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "What do city residents really want from a home?",
+          "mechanism": "Question + identity: speaks to every renter and buyer.",
+          "chosen": true
+        },
+        {
+          "text": "Location, amenities, value: what city residents weigh.",
+          "mechanism": "Specificity: clear, gives away the answer."
+        },
+        {
+          "text": "Your city home checklist in five questions.",
+          "mechanism": "Promise: save-worthy, less tension."
+        }
+      ],
+      "scene": "skyline",
+      "sourceLine": "General explanation",
+      "attachments": [],
+      "altText": "Cover headline 'What do city residents really want from a home?' over an illustrated city skyline at golden hour."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "THE BASICS",
+      "headline": "LOCATION, AMENITIES, VALUE",
+      "cards": [
+        {
+          "icon": "map-pin",
+          "title": "LOCATION",
+          "body": "Where daily life actually happens."
+        },
+        {
+          "icon": "key",
+          "title": "AMENITIES",
+          "body": "Spaces that serve modern routines."
+        },
+        {
+          "icon": "tag",
+          "title": "VALUE",
+          "body": "A fair deal for what's offered."
+        }
+      ],
+      "scene": "map",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: location, amenities and value."
+    },
+    {
+      "n": 3,
+      "template": "stats_grid",
+      "kicker": "WHAT RESIDENTS WEIGH",
+      "headline": "FOUR THINGS EVERY RESIDENT CHECKS",
+      "cards": [
+        [
+          "LOCATION",
+          "Commute, errands, neighborhood"
+        ],
+        [
+          "AMENITIES",
+          "Space for work, fitness, wellness"
+        ],
+        [
+          "VALUE",
+          "Cost compared with quality"
+        ],
+        [
+          "BUILDING QUALITY",
+          "Condition and design"
+        ]
+      ],
+      "scene": "tower",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid: location, amenities, value and building quality."
+    },
+    {
+      "n": 4,
+      "template": "flow_steps",
+      "kicker": "REPOSITIONING",
+      "headline": "UNDERUSED PROPERTY TO RESIDENCE",
+      "flow": [
+        [
+          "UNDERUSED",
+          "building-with-arrow"
+        ],
+        [
+          "REPOSITION",
+          "blueprint"
+        ],
+        [
+          "RESIDENCE",
+          "apartment-building"
+        ]
+      ],
+      "pullLine": "Build around how residents actually live.",
+      "scene": "tower",
+      "needsApproval": true,
+      "approvalNote": "Opinion pull line in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow from underused property to repositioning to residence."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "YOUR 5-POINT CITY HOME CHECK",
+      "rows": [
+        "Is the location right?",
+        "Are the amenities useful?",
+        "Is the value fair?",
+        "Is the building in good condition?",
+        "Does it fit my routine?"
+      ],
+      "button": "Comment your top priority",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered questions for judging a city home, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/linkedin/x/threads: 'I'd judge', 'The check I'd use', 'I'd add one more'."
+}

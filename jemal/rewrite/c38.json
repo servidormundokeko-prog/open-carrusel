@@ -1,0 +1,144 @@
+{
+  "id": 38,
+  "week": 38,
+  "title": "How fast is fast?",
+  "pillar": "BUILT technology",
+  "captions": {
+    "instagram": "\"50% faster\": a target or a result?\n\nFor BUILT®, it's a target. Per JemRock research, our design target is more than 50% faster timelines. McKinsey (2019) found modular construction can be 20-50% faster. Those are different kinds of numbers, and I want to be clear about which is which.\n\nSave the 4 questions for any speed claim.\n\n#ConstructionTech #Prefab #Housing\n\nWhich speed claim would you test?",
+    "facebook": "Our BUILT® design target is more than 50% faster timelines (per JemRock research). That's a target, not a result. Approvals, financing and delivery still take time. Swipe for the full picture.\n\n#ConstructionTech #Housing\n\nWhat would convince you a speed claim is real?",
+    "linkedin": "A design target is not a result, and I think founders should say so out loud.\n\nPer JemRock research, our design target for BUILT® is more than 50% faster timelines. Independent research is a different kind of number: McKinsey (2019) found modular construction can be 20-50% faster and save up to 20% on cost.\n\nEven a faster factory meets the same real world: approvals and permits, financing, and delivery to site.\n\nFour questions for any speed claim: Who measured it? Compared with what? On which project? Including approvals?\n\n#ConstructionTech #Leadership\n\nWhich question do you ask most often?",
+    "x": "Our BUILT® design target: 50%+ faster timelines (per JemRock research).\n\nThat's a target, not a result. McKinsey (2019): modular can be 20-50% faster.\n\nHow would you test a speed claim?",
+    "threads": "\"50% faster\" for BUILT® is our design target, not a result. I'd rather say that plainly.\n\nWhat would you want measured?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "\"50% FASTER\": A TARGET OR A RESULT?",
+      "subline": "Research vs. design target. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "\"50% faster\": a target or a result?",
+          "mechanism": "Contrarian honesty + curiosity: questions its own claim.",
+          "chosen": true
+        },
+        {
+          "text": "Which speed claims should you believe?",
+          "mechanism": "Question: broad, less specific."
+        },
+        {
+          "text": "20-50% vs. 50%+: research and a target, side by side.",
+          "mechanism": "Specificity: dense at thumbnail size."
+        }
+      ],
+      "scene": "clock",
+      "sourceLine": "Per JemRock research",
+      "attachments": [],
+      "altText": "Cover headline '50% faster: a target or a result?' over an illustrated glowing clock."
+    },
+    {
+      "n": 2,
+      "template": "stats_rows",
+      "kicker": "RESEARCH VS. TARGET",
+      "headline": "TWO KINDS OF NUMBERS",
+      "rows": [
+        [
+          "20-50%",
+          "faster modular construction (McKinsey, 2019)"
+        ],
+        [
+          "50%+",
+          "faster BUILT® timelines: a design target, not a result"
+        ],
+        [
+          "Up to 20%",
+          "cost savings (McKinsey, 2019)"
+        ]
+      ],
+      "scene": "clock",
+      "sourceLine": "McKinsey, 2019. BUILT® target per JemRock research.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three rows: McKinsey's 20-50% faster, BUILT's 50%+ design target, McKinsey's up to 20% cost savings."
+    },
+    {
+      "n": 3,
+      "template": "cards_stack",
+      "kicker": "THE REAL WORLD",
+      "headline": "A FASTER FACTORY STILL NEEDS THESE",
+      "cards": [
+        {
+          "icon": "document",
+          "title": "APPROVALS AND PERMITS",
+          "body": "Still need to be obtained."
+        },
+        {
+          "icon": "tag",
+          "title": "FINANCING",
+          "body": "Projects still have to be funded."
+        },
+        {
+          "icon": "conveyor",
+          "title": "DELIVERY",
+          "body": "Parts must reach the site on time."
+        }
+      ],
+      "scene": "keys",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: approvals and permits, financing, delivery."
+    },
+    {
+      "n": 4,
+      "template": "flow_steps",
+      "kicker": "HOW TARGETS BECOME RESULTS",
+      "headline": "DESIGN. PILOT. MEASURE.",
+      "flow": [
+        [
+          "DESIGN TARGET",
+          "blueprint"
+        ],
+        [
+          "PILOT",
+          "factory"
+        ],
+        [
+          "MEASURED RESULT",
+          "chart"
+        ]
+      ],
+      "pullLine": "A target isn't a result. Measurement is.",
+      "scene": "chart",
+      "needsApproval": true,
+      "approvalNote": "Opinion pull line in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow from design target to pilot to measured result."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "4 QUESTIONS FOR ANY SPEED CLAIM",
+      "rows": [
+        "Who measured it?",
+        "Compared with what?",
+        "On which project?",
+        "Including approvals?"
+      ],
+      "button": "Comment the claim you'd test",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered questions to test any speed claim, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/linkedin/threads: 'I want to be clear...', 'founders should say so out loud', 'I'd rather say that plainly'."
+}

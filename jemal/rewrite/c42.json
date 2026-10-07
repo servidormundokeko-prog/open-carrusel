@@ -1,0 +1,152 @@
+{
+  "id": 42,
+  "week": 42,
+  "title": "Waterfront revitalization",
+  "pillar": "Real estate and vision",
+  "captions": {
+    "instagram": "After the Wiz, I turned to waterfront revitalization and real estate development.\n\nRevitalizing a waterfront usually means three things: opening the water's edge to the public, bringing new uses where industry once stood, and rebuilding the infrastructure underneath.\n\nSave the 4 questions for any waterfront site.\n\n#RealEstate #UrbanDevelopment #Waterfront\n\nWhat's your favorite city waterfront?",
+    "facebook": "Waterfront revitalization was my first chapter after the Wiz. Here's what it involves, in plain words: access, new uses and infrastructure.\n\n#Waterfront #UrbanDevelopment\n\nWhich waterfront near you has changed the most?",
+    "linkedin": "A city's edge can become its front door.\n\nAfter the Wiz, I moved into waterfront revitalization and real estate development. In general terms, revitalizing a waterfront means opening the water's edge to the public, bringing housing, work and leisure where industry once stood, and rebuilding the streets, utilities and shoreline protection underneath.\n\nFour questions I'd ask of any waterfront site: Who can reach the water? What can be built here? How is the shoreline protected? What does the neighborhood need?\n\n#UrbanDevelopment #Waterfront\n\nWhat would you want at the water's edge?",
+    "x": "After the Wiz, I turned to waterfront revitalization.\n\nWhat it usually involves:\nPublic access to the water.\nNew uses where industry stood.\nNew infrastructure underneath.\n\nWhat would you build at the water's edge?",
+    "threads": "After the Wiz, my next chapter was the waterfront.\n\nWhat's the best waterfront you've walked?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "AFTER THE WIZ, I TURNED TO THE WATERFRONT. HERE'S WHAT REVITALIZATION MEANS.",
+      "subline": "Access, new uses, infrastructure. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "After the Wiz, I turned to the waterfront. Here's what revitalization means.",
+          "mechanism": "Story + explainer: a real turn, then a clear payoff.",
+          "chosen": true
+        },
+        {
+          "text": "What does it take to revitalize a waterfront?",
+          "mechanism": "Question: clean, generic."
+        },
+        {
+          "text": "Old docks, new neighborhoods: waterfront revitalization explained.",
+          "mechanism": "Transformation: vivid, less personal."
+        }
+      ],
+      "scene": "skyline",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [],
+      "altText": "Cover headline 'After the Wiz, I turned to the waterfront. Here's what revitalization means.' over an illustrated city skyline."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "WHAT IT INVOLVES",
+      "headline": "ACCESS, NEW USES, INFRASTRUCTURE",
+      "cards": [
+        {
+          "icon": "anchor-and-wave",
+          "title": "ACCESS",
+          "body": "Opening the water's edge to the public."
+        },
+        {
+          "icon": "apartment-building",
+          "title": "NEW USES",
+          "body": "Housing, work and leisure where industry once stood."
+        },
+        {
+          "icon": "gear",
+          "title": "INFRASTRUCTURE",
+          "body": "Streets, utilities and shoreline protection."
+        }
+      ],
+      "scene": "skyline",
+      "sourceLine": "General explanation",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: public access to the water, new uses, rebuilt infrastructure."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "THE PROCESS",
+      "headline": "ASSESS. PLAN. APPROVE. BUILD.",
+      "flow": [
+        [
+          "ASSESS",
+          "magnifying-glass"
+        ],
+        [
+          "PLAN",
+          "blueprint"
+        ],
+        [
+          "APPROVE",
+          "document"
+        ],
+        [
+          "BUILD",
+          "crane"
+        ]
+      ],
+      "body": "Every waterfront project moves through the same basic stages.",
+      "scene": "crane",
+      "sourceLine": "General explanation",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow: assess, plan, approve, build."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "WHAT CHANGES",
+      "headline": "AT THE WATER'S EDGE",
+      "columns": [
+        "BEFORE",
+        "AFTER"
+      ],
+      "rows": [
+        [
+          "Closed-off industrial edge",
+          "Public access to the water"
+        ],
+        [
+          "Single use",
+          "Mixed uses"
+        ],
+        [
+          "Underused land",
+          "Housing, work and leisure"
+        ]
+      ],
+      "scene": "map",
+      "sourceLine": "General explanation",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting a closed industrial waterfront with a revitalized one."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "4 QUESTIONS FOR ANY WATERFRONT SITE",
+      "rows": [
+        "Who can reach the water?",
+        "What can be built here?",
+        "How is the shoreline protected?",
+        "What does the neighborhood need?"
+      ],
+      "button": "Comment your favorite waterfront",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered questions for any waterfront site, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "Replacement topic for 'Two brands, two markets' (unconfirmed PASHA/CENTRAL); linkedin opening lesson and 'questions I'd ask'."
+}

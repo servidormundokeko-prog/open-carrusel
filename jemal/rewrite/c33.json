@@ -1,0 +1,149 @@
+{
+  "id": 33,
+  "week": 33,
+  "title": "One mother factory",
+  "pillar": "BUILT technology",
+  "captions": {
+    "instagram": "Why one mother factory and hundreds of pilot factories?\n\nThe BUILT® model: one mother factory in the United States, and hundreds of custom pilot factories in the countries that need housing, designed for local jobs and government partnerships.\n\nSave the 4 questions I'd ask of any housing factory model.\n\n#BUILT #Housing #ModularConstruction\n\nWhere would you want a pilot factory?",
+    "facebook": "Our BUILT® model puts one mother factory in the United States and hundreds of custom pilot factories where housing is needed. Swipe for how the pieces fit.\n\n#Housing #ModularConstruction\n\nWhich country do you think needs one first?",
+    "linkedin": "Housing is needed locally, so production should happen close to the need.\n\nThat's the thinking behind the BUILT® model: one mother factory in the United States, and hundreds of custom pilot factories in the countries that need housing. Each pilot factory is designed for local jobs and government partnerships.\n\nFour questions I'd ask of any housing factory model: Where is it built? Who gets the jobs? Who are the partners? How is it adapted locally?\n\n#Housing #ConstructionTech\n\nWhich question matters most to you?",
+    "x": "The BUILT® model:\n\n1 mother factory in the US.\nHundreds of custom pilot factories where housing is needed.\nLocal jobs. Government partnerships.\n\nWhere would you put our first pilot factory?",
+    "threads": "One mother factory in the US. Hundreds of custom pilot factories where housing is needed. That's our BUILT® model.\n\nWhere would you start?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "WHY ONE MOTHER FACTORY AND HUNDREDS OF PILOT FACTORIES?",
+      "subline": "The BUILT® model, explained. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Why one mother factory and hundreds of pilot factories?",
+          "mechanism": "Curiosity gap + specificity: an unusual structure, explained.",
+          "chosen": true
+        },
+        {
+          "text": "Build the system here. Build the homes there.",
+          "mechanism": "Contrast: punchy, a little vague."
+        },
+        {
+          "text": "What does a housing factory network look like?",
+          "mechanism": "Question: abstract."
+        }
+      ],
+      "scene": "globe",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [],
+      "altText": "Cover headline 'Why one mother factory and hundreds of pilot factories?' over an illustrated glowing globe."
+    },
+    {
+      "n": 2,
+      "template": "flow_steps",
+      "kicker": "THE MODEL",
+      "headline": "ONE CENTER, MANY LOCAL FACTORIES",
+      "body": "One mother factory in the United States. Hundreds of custom pilot factories in the countries that need housing.",
+      "flow": [
+        [
+          "MOTHER FACTORY, US",
+          "factory"
+        ],
+        [
+          "CUSTOM PILOT FACTORIES",
+          "globe"
+        ],
+        [
+          "LOCAL HOMES",
+          "house"
+        ]
+      ],
+      "scene": "factory",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow from a US mother factory to custom pilot factories to local homes."
+    },
+    {
+      "n": 3,
+      "template": "cards_stack",
+      "kicker": "DESIGNED FOR",
+      "headline": "LOCAL JOBS, PARTNERS, FIT",
+      "cards": [
+        {
+          "icon": "people",
+          "title": "LOCAL JOBS",
+          "body": "Pilot factories are designed to create jobs where they stand."
+        },
+        {
+          "icon": "shield",
+          "title": "GOVERNMENT PARTNERSHIPS",
+          "body": "The model is designed to work with governments."
+        },
+        {
+          "icon": "gear",
+          "title": "CUSTOM",
+          "body": "Each pilot factory is built for the country it serves."
+        }
+      ],
+      "scene": "globe",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: local jobs, government partnerships, and pilot factories customized for each country."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "WHY LOCAL",
+      "headline": "SHIPPING HOMES VS. BUILDING LOCALLY",
+      "columns": [
+        "SHIP HOMES",
+        "BUILD LOCALLY"
+      ],
+      "rows": [
+        [
+          "Long transport for every unit",
+          "Production near the need"
+        ],
+        [
+          "Jobs stay where homes are made",
+          "Jobs where the factory stands"
+        ],
+        [
+          "One design for everyone",
+          "Custom to each country"
+        ]
+      ],
+      "scene": "map",
+      "needsApproval": true,
+      "approvalNote": "Comparison is framing for why the model is local.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting shipping finished homes with producing them locally."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "4 QUESTIONS FOR ANY HOUSING FACTORY MODEL",
+      "rows": [
+        "Where is it built?",
+        "Who gets the jobs?",
+        "Who are the partners?",
+        "How is it adapted locally?"
+      ],
+      "button": "Comment where you'd want a pilot factory",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered questions about housing factory models, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson ('production should happen close to the need') and 'questions I'd ask'."
+}

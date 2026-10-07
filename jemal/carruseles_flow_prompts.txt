@@ -2168,7 +2168,8 @@ BACKGROUND: A stylized CGI scene of a golden balance scale in perfect balance, r
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
 - Very large white bold headline: "WHERE DOES THE MONEY LEAK?"
-- Under it, smaller gold line: "Three places costs hide, and how to find them. Swipe →"
+- Under it, smaller gold line: "Three places costs hide, and 5 checks to find them. Swipe →"
+- Small gray source line under the gold line: "General guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -2180,8 +2181,8 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a golden balance scale in perfect balance, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THREE LEAKS"
-- Large white headline: "WHERE COSTS HIDE"
+- Top, small gold caps: "WHERE COSTS HIDE"
+- Large white headline: "PLANNING, CONSTRUCTION, OPERATIONS"
 CARD 1 (rounded dark navy card with a thin gold border, gold line icon of blueprint in a gold circle): gold title "PLANNING", white body "Rework caused by unclear plans and late changes."
 CARD 2 (rounded dark navy card with a thin gold border, gold line icon of hard hat in a gold circle): gold title "CONSTRUCTION", white body "Delays and wasted materials on the job."
 CARD 3 (rounded dark navy card with a thin gold border, gold line icon of gear in a gold circle): gold title "OPERATIONS", white body "Slow processes and duplicated effort."
@@ -2196,7 +2197,7 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of glowing gold bars rising like a skyline with an upward line, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE METHOD"
+- Top, small gold caps: "THE HABIT"
 - Large white headline: "SPOT. MEASURE. FIX."
 FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of magnifying glass with label "SPOT", gold line icon of chart with label "MEASURE", gold line icon of gear with label "FIX"
 - Gold italic pull line: "You can't control a cost you haven't measured."
@@ -2208,7 +2209,7 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 4: Contenido 3 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a golden balance scale in perfect balance, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a clipboard with glowing gold check marks, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE DIFFERENCE"
@@ -2243,7 +2244,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Reducing inefficiency and improving project control starts with finding the leaks. Swipe for where costs hide and how to spot them. Where do you see the biggest leak? Follow @StephenJemalNY.
+Where does the money leak? Usually in three places: planning, construction and operations.
+
+The habit I'd build: spot it, measure it, fix it. You can't control a cost you haven't measured.
+
+Save the 5 leak checks.
+
+#SmallBusiness #Operations #CostControl
+
+Where's your biggest leak?
 
 
 === CARRUSEL 24: Speed vs. quality (Scaling and systems (general guidance)) ===
@@ -2255,7 +2264,8 @@ BACKGROUND: A stylized CGI scene of a glowing clock with gold gears, rendered la
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
 - Very large white bold headline: "DO YOU HAVE TO CHOOSE BETWEEN SPEED AND QUALITY?"
-- Under it, smaller gold line: "Why systems are the way out of the trade-off. Swipe →"
+- Under it, smaller gold line: "Why systems are the way out. Swipe →"
+- Small gray source line under the gold line: "General guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -2267,8 +2277,8 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a glowing clock with gold gears, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE TRAP"
-- Large white headline: "WHY THE TRADE-OFF EXISTS"
+- Top, small gold caps: "THE TRADE-OFF"
+- Large white headline: "WHY SPEED AND QUALITY FIGHT"
 CARD 1 (rounded dark navy card with a thin gold border): gold title "SPEED WITHOUT STANDARDS", white body "Work moves quickly, and mistakes multiply."
 CARD 2 (rounded dark navy card with a thin gold border): gold title "STANDARDS WITHOUT SYSTEMS", white body "Quality is high, but everything is slow."
 CARD 3 (rounded dark navy card with a left gold accent bar): gold title "STANDARDS PLUS SYSTEMS", white body "Repeatable methods let work be fast and consistent."
@@ -2280,10 +2290,10 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 3: Contenido 2 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a glowing clock with gold gears, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of gold steps rising with an upward arrow, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE PATH"
+- Top, small gold caps: "THE ORDER"
 - Large white headline: "STANDARD. SYSTEM. SPEED."
 FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of clipboard with label "STANDARD", gold line icon of gear with label "SYSTEM", gold line icon of clock with label "SPEED"
 - Gold italic pull line: "Speed is the result of a good system, not a shortcut around one."
@@ -2298,10 +2308,10 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a construction crane beside an unfinished building frame, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "ON THE JOB SITE"
-- Large white headline: "SITE COMPLEXITY VS. STANDARDIZED"
+- Top, small gold caps: "ON SITE VS. STANDARDIZED"
+- Large white headline: "WHERE THE VARIABLES LIVE"
 TWO-COLUMN TABLE in a rounded dark navy card with thin gold borders. Gold caps column headers: left "SITE-BASED", right "STANDARDIZED". A gold arrow between the columns on every row. Rows, white text:
-"More complexity on site" → "Complexity reduced on site"
+"More complexity on site" → "Less complexity on site"
 "Delays from many variables" → "Fewer variables to delay"
 "Results vary" → "Methods are consistent"
 - Bottom left, tiny gray: "@StephenJemalNY"
@@ -2328,7 +2338,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Speed without standards creates mistakes, and standards without systems slow everything down. Swipe for how systems help you get both. Which one is your bottleneck? Follow @StephenJemalNY.
+Do you have to choose between speed and quality?
+
+How I see it: speed without standards multiplies mistakes, and standards without systems are slow. Standards plus systems let work be fast and consistent.
+
+Save the 4-question speed check.
+
+#Operations #Quality #SmallBusiness
+
+Where's your bottleneck?
 
 
 === CARRUSEL 25: Ready to scale? (Scaling and systems (general guidance)) ===
@@ -2339,8 +2357,9 @@ BACKGROUND: A stylized CGI scene of gold steps rising with an upward arrow, rend
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "5 SIGNS YOU'RE READY FOR LOCATION #2"
-- Under it, smaller gold line: "How to tell if your model can travel. Swipe →"
+- Very large white bold headline: "5 SIGNS YOU'RE READY FOR A SECOND LOCATION"
+- Under it, smaller gold line: "Score yourself on the last slide. Swipe →"
+- Small gray source line under the gold line: "General guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -2370,8 +2389,10 @@ ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illus
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "SIGNS 4 AND 5"
 - Large white headline: "YOU CAN SUPPORT IT"
-CARD 1 (rounded dark navy card with a thin gold border, gold numbered circle 1): white body "You can fund and staff a second location."
-CARD 2 (rounded dark navy card with a thin gold border, gold numbered circle 2): white body "You can keep the first one strong while you open the next."
+3 STACKED ROWS in rounded dark navy cards with thin gold borders; big gold label on the left, white text on the right:
+"FUNDING" - "You can pay for a second location"
+"STAFF" - "You can hire and train for it"
+"FOCUS" - "The first stays strong while you open the next"
 - Gold italic pull line: "Scaling a weak model only scales the weakness."
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
@@ -2381,7 +2402,7 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 4: Contenido 3 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of gold steps rising with an upward arrow, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a row of identical storefronts, one lit and the others in gold wireframe, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE DIFFERENCE"
@@ -2408,7 +2429,7 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 "3" - "Operator trained"
 "4" - "Funding and staff ready"
 "5" - "First location stable"
-- Gold rounded button with dark navy text: "Comment your score out of 5"
+- Gold rounded button with dark navy text: "Comment your score out of five"
 - Below it, white text: "Follow @StephenJemalNY for the next chapter"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "5/5"
@@ -2416,7 +2437,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Ready for location #2? Swipe for five signs the model works, plus a scorecard to save. How many can you check off? Follow @StephenJemalNY.
+Five signs you're ready for a second location: the model is proven, the playbook is written, someone else can run it, funding and staff are ready, and the first location stays strong.
+
+Scaling a weak model only scales the weakness.
+
+I'd want all five before opening a second. Score yourself on the last slide.
+
+#SmallBusiness #Scaling #Entrepreneurship
+
+What's your score out of five?
 
 
 === CARRUSEL 26: Scaling mistakes (Scaling and systems (general guidance)) ===
@@ -2427,8 +2456,9 @@ BACKGROUND: A stylized CGI scene of a gold shield with a check mark, rendered la
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "7 WAYS CHAINS BREAK"
-- Under it, smaller gold line: "Common scaling mistakes and how to avoid them. Swipe →"
+- Very large white bold headline: "6 SCALING MISTAKES THAT BREAK A CHAIN"
+- Under it, smaller gold line: "And the four moves that fix most of them. Swipe →"
+- Small gray source line under the gold line: "General guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -2437,15 +2467,15 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 2: Contenido 1 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a gold shield with a check mark, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a row of identical storefronts, one lit and the others in gold wireframe, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "MISTAKES 1 TO 4"
 - Large white headline: "WHERE GROWTH GOES WRONG"
-CARD 1 (rounded dark navy card with a thin gold border, gold numbered circle 1): white body "Growing faster than training."
-CARD 2 (rounded dark navy card with a thin gold border, gold numbered circle 2): white body "Losing brand consistency."
-CARD 3 (rounded dark navy card with a thin gold border, gold numbered circle 3): white body "Ignoring local markets."
-CARD 4 (rounded dark navy card with a thin gold border, gold numbered circle 4): white body "Signing leases without a clear exit."
+CARD 1 (rounded dark navy card with a thin gold border, gold numbered circle 1): white body "Growing faster than training"
+CARD 2 (rounded dark navy card with a thin gold border, gold numbered circle 2): white body "Losing brand consistency"
+CARD 3 (rounded dark navy card with a thin gold border, gold numbered circle 3): white body "Ignoring local markets"
+CARD 4 (rounded dark navy card with a thin gold border, gold numbered circle 4): white body "Signing leases without a clear exit"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -2457,11 +2487,11 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of boxes riding a conveyor belt in warm light, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "MISTAKES 5 TO 7"
+- Top, small gold caps: "MISTAKES 5 AND 6"
 - Large white headline: "THE QUIET ONES"
-CARD 1 (rounded dark navy card with a thin gold border, gold numbered circle 1): white body "Letting supplier relationships slide."
-CARD 2 (rounded dark navy card with a thin gold border, gold numbered circle 2): white body "Skipping measurement."
-CARD 3 (rounded dark navy card with a thin gold border, gold numbered circle 3): white body "Treating each opening as a one-off."
+2 STACKED ROWS in rounded dark navy cards with thin gold borders; big gold label on the left, white text on the right:
+"SUPPLIERS" - "Letting the relationships slide"
+"MEASUREMENT" - "Skipping it, so problems hide"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -2487,15 +2517,14 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 5 of 5. Gen
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "SAVE THIS"
-- Large white headline: "THE 7-POINT RED-FLAG CHECK"
-7 NUMBERED ROWS, each a rounded dark navy bar with a gold number circle on the left and white text:
+- Large white headline: "THE 6-POINT RED-FLAG CHECK"
+6 NUMBERED ROWS, each a rounded dark navy bar with a gold number circle on the left and white text:
 "1" - "Is training keeping up?"
 "2" - "Is the brand consistent?"
 "3" - "Do we know each market?"
 "4" - "Can we exit a lease?"
 "5" - "Are suppliers healthy?"
 "6" - "Are we measuring?"
-"7" - "Is opening a repeatable process?"
 - Gold rounded button with dark navy text: "Comment the mistake you've seen"
 - Below it, white text: "Follow @StephenJemalNY for the next chapter"
 - Bottom left, tiny gray: "@StephenJemalNY"
@@ -2504,10 +2533,18 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Chains rarely fail all at once. Swipe for seven common ways growth breaks things, and the fix for each. Which one have you seen? Follow @StephenJemalNY.
+Six ways chains break: growing faster than training, losing brand consistency, ignoring local markets, signing leases without a clear exit, letting suppliers slide, and skipping measurement.
+
+The way I see it, most come down to the same fix: train, standardize, measure, repeat.
+
+Save the red-flag check.
+
+#Scaling #SmallBusiness #Operations
+
+Which mistake have you seen most?
 
 
-=== CARRUSEL 27: BUILT in 60 seconds (BUILT technology) ===
+=== CARRUSEL 27: BUILT® in 60 seconds (BUILT technology) ===
 --- Imagen 1: Portada [Sin adjuntos] ---
 Create a 4:5 vertical social media carousel cover image (1080x1350). Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Style: premium cinematic stylized CGI 3D render background with a clean flat graphic text layer on top. Deep navy and warm gold palette, soft volumetric glow. No people, no faces.
 
@@ -2515,8 +2552,9 @@ BACKGROUND: A stylized CGI scene of a precision factory hall with a conveyor and
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "WHAT IF HOUSING WAS MADE LIKE PRECISION EQUIPMENT?"
+- Very large white bold headline: "ONE MOTHER FACTORY. HUNDREDS OF PILOT FACTORIES. THAT'S BUILT®."
 - Under it, smaller gold line: "BUILT® in 60 seconds. Swipe →"
+- Small gray source line under the gold line: "Source: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -2525,13 +2563,14 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 2: Contenido 1 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a precision factory hall with a conveyor and glowing machines, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a robotic arm placing a panel on a conveyor in a gleaming factory, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE SYSTEM"
-- Large white headline: "FOUR TECHNOLOGIES, ONE PLATFORM"
-- White body text: "BUILT® fuses all four into one integrated production system for prefabricated modular homes."
-FLOW of 4 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of blueprint with label "AI-POWERED", gold line icon of robot arm with label "ROBOTICS", gold line icon of cloud with label "CLOUD", gold line icon of laser with label "LASER-GUIDED"
+- Top, small gold caps: "FOUR TECHNOLOGIES"
+- Large white headline: "ONE PREFAB HOUSING SYSTEM"
+- White body text: "BUILT® combines all four in one prefabricated modular housing production system."
+FLOW of 4 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of blueprint with label "AI-POWERED", gold line icon of robot arm with label "ROBOTICS-DRIVEN", gold line icon of cloud with label "CLOUD-BASED", gold line icon of laser with label "LASER-GUIDED"
+- Small gray source line above the footer: "Source: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -2543,12 +2582,14 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a laser beam scanning a building panel with fine measurement ticks, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE GOAL"
-- Large white headline: "WHAT IT IS DESIGNED TO DO"
-CARD 1 (rounded dark navy card with a thin gold border, gold line icon of clock in a gold circle): gold title "FASTER, SMARTER", white body "Designed to build at global scale."
-CARD 2 (rounded dark navy card with a thin gold border, gold line icon of laser in a gold circle): gold title "MILLIMETER PRECISION", white body "Exact component fit."
-CARD 3 (rounded dark navy card with a thin gold border, gold line icon of shield in a gold circle): gold title "LESS WASTE", white body "Designed to reduce material waste and cost."
-- Small gray source line above the footer: "Per JemRock"
+- Top, small gold caps: "WHAT IT'S DESIGNED FOR"
+- Large white headline: "PRECISION, LESS WASTE, LOCAL JOBS"
+4 CARDS in a 2x2 grid, rounded dark navy with thin gold borders, each with a gold title and a short white line:
+"PRECISION" - "Millimeter and sub-millimeter"
+"LESS WASTE" - "Less material waste"
+"LOCAL JOBS" - "Pilot factories where housing is needed"
+"PARTNERSHIPS" - "Designed to work with governments"
+- Small gray source line above the footer: "Source: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -2562,8 +2603,12 @@ ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illus
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE MODEL"
 - Large white headline: "ONE MOTHER FACTORY. HUNDREDS OF PILOT FACTORIES."
-FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of factory with label "MOTHER FACTORY", gold line icon of globe with label "PILOT FACTORIES", gold line icon of house with label "LOCAL HOMES"
-- Gold italic pull line: "Machines made in the United States, pilot factories deployed where housing is needed most."
+TWO-COLUMN TABLE in a rounded dark navy card with thin gold borders. Gold caps column headers: left "MOTHER FACTORY", right "PILOT FACTORIES". A gold arrow between the columns on every row. Rows, white text:
+"One" → "Hundreds"
+"In the United States" → "In the countries that need housing"
+"The center of the model" → "Custom-built, local jobs"
+- Gold italic pull line: "Unveiled August 2026. Presented at the United Nations."
+- Small gray source line above the footer: "Source: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "4/5"
 
@@ -2575,20 +2620,31 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 5 of 5. Gen
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "SAVE THIS"
 - Large white headline: "THE BUILT® CHEAT SHEET"
-4 NUMBERED ROWS, each a rounded dark navy bar with a gold number circle on the left and white text:
-"1" - "AI: intelligent design and planning"
-"2" - "Robotics: precision manufacturing"
-"3" - "Cloud: real-time project monitoring"
-"4" - "Laser: sub-millimeter component fit"
-- Gold rounded button with dark navy text: "Comment the pillar you'd explore first"
+6 NUMBERED ROWS, each a rounded dark navy bar with a gold number circle on the left and white text:
+"1" - "AI-powered"
+"2" - "Robotics-driven"
+"3" - "Cloud-based"
+"4" - "Laser-guided"
+"5" - "One mother factory in the US"
+"6" - "Hundreds of custom pilot factories"
+- Gold rounded button with dark navy text: "Comment what you'd ask me about BUILT®"
 - Below it, white text: "Follow @StephenJemalNY for the next chapter"
+- Small gray source line above the footer: "Source: stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "5/5"
 
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-A housing production system designed to build faster, smarter and at global scale: AI-powered, robotics-driven, cloud-based and laser-guided. Swipe for BUILT in 60 seconds. Which pillar interests you most? Follow @StephenJemalNY.
+BUILT® in one swipe: an AI-powered, robotics-driven, cloud-based, laser-guided system for producing prefabricated modular housing.
+
+The model: one mother factory in the United States and hundreds of custom pilot factories in the countries that need housing, designed for local jobs and government partnerships.
+
+We unveiled it in August 2026, and I presented it at the United Nations.
+
+#BUILT #ModularConstruction #Housing
+
+What would you ask me about BUILT®?
 
 
 === CARRUSEL 28: The four pillars (BUILT technology) ===
@@ -2599,8 +2655,9 @@ BACKGROUND: A stylized CGI scene of four gold columns supporting a roof, rendere
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "FOUR TECHNOLOGIES. ONE HOME."
-- Under it, smaller gold line: "What each BUILT® pillar does and what it solves. Swipe →"
+- Very large white bold headline: "AI, ROBOTS, CLOUD, LASERS: WHAT EACH DOES IN BUILDING A HOME"
+- Under it, smaller gold line: "The four pillars of BUILT®. Swipe →"
+- Small gray source line under the gold line: "BUILT® pillars: stephenjemal.com. Uses described are general."
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -2612,10 +2669,11 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a gold blueprint grid with a house outline and dimension lines, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "PILLARS 1 AND 2"
-- Large white headline: "THINK AND MAKE"
-CARD 1 (rounded dark navy card with a thin gold border, gold line icon of blueprint in a gold circle): gold title "AI-POWERED", white body "Intelligent design and planning powered by machine learning."
-CARD 2 (rounded dark navy card with a thin gold border, gold line icon of robot arm in a gold circle): gold title "ROBOTICS-DRIVEN", white body "Industrial-grade automation for precision manufacturing."
+- Top, small gold caps: "PLAN AND MAKE"
+- Large white headline: "AI-POWERED. ROBOTICS-DRIVEN."
+CARD 1 (rounded dark navy card with a thin gold border, gold line icon of blueprint in a gold circle): gold title "AI-POWERED", white body "In construction, AI helps plan layouts and sequence work before anything is built."
+CARD 2 (rounded dark navy card with a thin gold border, gold line icon of robot arm in a gold circle): gold title "ROBOTICS-DRIVEN", white body "Robots repeat precise tasks the same way, every time."
+- Small gray source line above the footer: "BUILT® pillars: stephenjemal.com. Uses described are general."
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -2627,10 +2685,11 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a glowing cloud linked by gold light lines to small buildings, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "PILLARS 3 AND 4"
-- Large white headline: "TRACK AND FIT"
-CARD 1 (rounded dark navy card with a thin gold border, gold line icon of cloud in a gold circle): gold title "CLOUD-BASED", white body "Real-time project management and monitoring at scale."
-CARD 2 (rounded dark navy card with a thin gold border, gold line icon of laser in a gold circle): gold title "LASER-GUIDED", white body "Sub-millimeter precision for exact component fit."
+- Top, small gold caps: "TRACK AND FIT"
+- Large white headline: "PLAN. MAKE. TRACK. FIT."
+- White body text: "Cloud tools give everyone one live view of a project. Laser measurement guides parts to an exact fit."
+FLOW of 4 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of blueprint with label "PLAN: AI", gold line icon of robot arm with label "MAKE: ROBOTICS", gold line icon of cloud with label "TRACK: CLOUD", gold line icon of laser with label "FIT: LASER"
+- Small gray source line above the footer: "BUILT® pillars: stephenjemal.com. Uses described are general."
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -2642,11 +2701,11 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of four gold columns supporting a roof, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE PURPOSE"
-- Large white headline: "PILLAR VS. WHAT IT SOLVES"
-TWO-COLUMN TABLE in a rounded dark navy card with thin gold borders. Gold caps column headers: left "PILLAR", right "SOLVES". A gold arrow between the columns on every row. Rows, white text:
+- Top, small gold caps: "WHAT EACH ADDRESSES"
+- Large white headline: "PILLAR VS. THE PROBLEM IT TAKES ON"
+TWO-COLUMN TABLE in a rounded dark navy card with thin gold borders. Gold caps column headers: left "PILLAR", right "ADDRESSES". A gold arrow between the columns on every row. Rows, white text:
 "AI" → "Planning problems before they get expensive"
-"Robotics" → "Uncertainty of site-based building"
+"Robotics" → "Variation in repetitive work"
 "Cloud" → "Visibility across projects"
 "Laser" → "Parts that don't fit"
 - Bottom left, tiny gray: "@StephenJemalNY"
@@ -2673,7 +2732,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Four technologies, each solving a different building problem. Swipe for what each pillar does and what it solves. Which one would you want to see in action? Follow @StephenJemalNY.
+AI, robots, cloud and lasers: the four pillars of BUILT®. Here's how I explain what each technology does in building a home, in plain words.
+
+Plan. Make. Track. Fit.
+
+Save the 4 questions to ask about any build system.
+
+#BUILT #ConstructionTech #ModularConstruction
+
+Which pillar would you want explained next?
 
 
 === CARRUSEL 29: AI in construction planning (BUILT technology) ===
@@ -2685,7 +2752,8 @@ BACKGROUND: A stylized CGI scene of a glowing cloud linked by gold light lines t
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
 - Very large white bold headline: "WHAT CAN AI DO BEFORE A SINGLE WALL GOES UP?"
-- Under it, smaller gold line: "Five planning uses of AI in construction. Swipe →"
+- Under it, smaller gold line: "Five planning uses, five questions. Swipe →"
+- Small gray source line under the gold line: "General guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -2701,7 +2769,6 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Large white headline: "DESIGN AND MATERIALS"
 CARD 1 (rounded dark navy card with a thin gold border, gold line icon of blueprint in a gold circle): gold title "LAYOUT PLANNING", white body "Model options and compare design choices."
 CARD 2 (rounded dark navy card with a thin gold border, gold line icon of stack of storefronts in a gold circle): gold title "MATERIAL COORDINATION", white body "Organize what is needed, and when."
-- Small gray source line above the footer: "Per Stephen Jemal's site"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -2715,9 +2782,12 @@ ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illus
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "USES 3 TO 5"
 - Large white headline: "TIME, COST AND PROCESS"
-CARD 1 (rounded dark navy card with a thin gold border, gold line icon of clock in a gold circle): gold title "SCHEDULING LOGIC", white body "Organize workflows and sequencing."
-CARD 2 (rounded dark navy card with a thin gold border, gold line icon of chart in a gold circle): gold title "COST PROJECTIONS", white body "See likely costs earlier."
-CARD 3 (rounded dark navy card with a thin gold border, gold line icon of gear in a gold circle): gold title "PROCESS OPTIMIZATION", white body "Spot inefficiencies before they become expensive."
+4 CARDS in a 2x2 grid, rounded dark navy with thin gold borders, each with a gold title and a short white line:
+"SCHEDULING" - "Sequence the work"
+"COST PROJECTIONS" - "See likely costs earlier"
+"PROCESS CHECKS" - "Spot inefficiencies early"
+"IN BUILT®" - "AI-powered is one of four pillars"
+- Small gray source line above the footer: "BUILT® per stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -2758,7 +2828,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-What can AI do before a single wall goes up? Swipe for five planning uses described by JemRock and why they matter. Which would help your projects most? Follow @StephenJemalNY.
+What can AI do before a single wall goes up? In construction planning: layouts, materials, scheduling, cost projections and process checks.
+
+My rule: fix problems on the screen, not on the site. AI-powered planning is one of the four pillars of BUILT®.
+
+Save the 5 questions to ask about AI in construction.
+
+#AI #ConstructionTech #Housing
+
+Where would you use AI first?
 
 
 === CARRUSEL 30: Robots in prefab (BUILT technology) ===
@@ -2770,7 +2848,8 @@ BACKGROUND: A stylized CGI scene of a robotic arm placing a panel on a conveyor 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
 - Very large white bold headline: "WHAT DO ROBOTS ACTUALLY DO IN A FACTORY-BUILT HOME?"
-- Under it, smaller gold line: "Four jobs and why they matter. Swipe →"
+- Under it, smaller gold line: "Four jobs, and why they matter. Swipe →"
+- Small gray source line under the gold line: "General guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -2784,8 +2863,8 @@ ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illus
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "FOUR JOBS"
 - Large white headline: "CUT. ASSEMBLE. MOVE. MEASURE."
-FLOW of 4 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of gear with label "CUT", gold line icon of robot arm with label "ASSEMBLE", gold line icon of stack of storefronts with label "MOVE", gold line icon of laser with label "MEASURE"
-- Small gray source line above the footer: "Per Stephen Jemal's site"
+- White body text: "In prefab construction, robots take on four kinds of work."
+FLOW of 4 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of gear with label "CUT", gold line icon of robot arm with label "ASSEMBLE", gold line icon of conveyor with label "MOVE", gold line icon of laser with label "MEASURE"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -2794,14 +2873,14 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 3: Contenido 2 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a robotic arm placing a panel on a conveyor in a gleaming factory, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a precision factory hall with a conveyor and glowing machines, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "WHY ROBOTS?"
-- Large white headline: "WHAT AUTOMATION ADDS"
+- Top, small gold caps: "WHAT AUTOMATION ADDS"
+- Large white headline: "THE SAME, EVERY TIME"
 CARD 1 (rounded dark navy card with a thin gold border): gold title "SAME EVERY TIME", white body "Repetitive tasks done the same way."
 CARD 2 (rounded dark navy card with a thin gold border): gold title "MORE PRECISE PARTS", white body "Components made to close tolerances."
-CARD 3 (rounded dark navy card with a thin gold border): gold title "LESS UNCERTAINTY", white body "Less than traditional site-based building."
+CARD 3 (rounded dark navy card with a thin gold border): gold title "LESS UNCERTAINTY", white body "Fewer variables than site-based building."
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "3/5"
 
@@ -2810,7 +2889,7 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 4: Contenido 3 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a precision factory hall with a conveyor and glowing machines, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a construction crane beside an unfinished building frame, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE DIFFERENCE"
@@ -2819,6 +2898,8 @@ TWO-COLUMN TABLE in a rounded dark navy card with thin gold borders. Gold caps c
 "Conditions change daily" → "A repeatable setting"
 "Each build starts fresh" → "Processes repeat"
 "Quality varies" → "Quality is standardized"
+- Gold italic pull line: "BUILT® is robotics-driven: one of its four pillars."
+- Small gray source line above the footer: "BUILT® per stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "4/5"
 
@@ -2843,7 +2924,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-In a prefabricated system, robots handle repetitive tasks the same way every time. Swipe for what they do and why it reduces uncertainty. What would you automate first? Follow @StephenJemalNY.
+What do robots actually do in a factory-built home? Four jobs: cut, assemble, move, measure.
+
+What automation adds is repetition: the same task, the same way, every time, in a setting that doesn't change with the weather. That's what robotics-driven means to me, and it's a pillar of BUILT®.
+
+Save the 4 questions about factory-built homes.
+
+#Robotics #Prefab #ConstructionTech
+
+What would you ask first?
 
 
 === CARRUSEL 31: Laser-guided precision (BUILT technology) ===
@@ -2854,8 +2943,9 @@ BACKGROUND: A stylized CGI scene of a laser beam scanning a building panel with 
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "WHY DO MILLIMETERS MATTER IN A HOME?"
-- Under it, smaller gold line: "Sub-millimeter precision, explained. Swipe →"
+- Very large white bold headline: "WHY WOULD A HOME NEED PRECISION UNDER A MILLIMETER?"
+- Under it, smaller gold line: "Sub-millimeter, explained. Swipe →"
+- Small gray source line under the gold line: "BUILT® per stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -2867,12 +2957,12 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a laser beam scanning a building panel with fine measurement ticks, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "HOW SMALL IS SMALL?"
+- Top, small gold caps: "IN PERSPECTIVE"
 - Large white headline: "A MILLIMETER, IN PERSPECTIVE"
 2 LARGE STAT CARDS stacked, each a rounded dark navy card with a thin gold border, a huge gold number and white text:
-"< 1 mm" - "BUILT®'s sub-millimeter fit target (per JemRock)"
+"< 1 mm" - "Sub-millimeter: the precision BUILT® is designed for"
 "0.76 mm" - "The thickness of a standard credit card"
-- Small gray source line above the footer: "Credit card thickness: ISO/IEC 7810"
+- Small gray source line above the footer: "BUILT® per stephenjemal.com. Card thickness: ISO/IEC 7810."
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -2881,11 +2971,11 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 3: Contenido 2 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a laser beam scanning a building panel with fine measurement ticks, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a gold blueprint grid with a house outline and dimension lines, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "WHY IT MATTERS"
-- Large white headline: "WHAT PRECISION BUYS YOU"
+- Top, small gold caps: "WHAT PRECISION BUYS"
+- Large white headline: "EXACT FIT, LESS REWORK, LESS WASTE"
 CARD 1 (rounded dark navy card with a thin gold border, gold line icon of laser in a gold circle): gold title "EXACT FIT", white body "Components that line up when they arrive."
 CARD 2 (rounded dark navy card with a thin gold border, gold line icon of gear in a gold circle): gold title "LESS REWORK", white body "Fewer fixes after the fact."
 CARD 3 (rounded dark navy card with a thin gold border, gold line icon of shield in a gold circle): gold title "LESS WASTE", white body "Fewer cut-and-discard mistakes."
@@ -2897,13 +2987,13 @@ Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No ot
 --- Imagen 4: Contenido 3 [Imagen 1 como referencia de estilo] ---
 Create a 4:5 vertical social media carousel slide (1080x1350), slide 4 of 5. Generate it at 3:4 (1080x1440) and center-crop to 4:5: keep all text and every key element inside the central 1080x1350 area, at least 5% away from every edge of that area. Match the style of the attached reference image: deep navy background, warm gold accents, subtle blueprint grid. No people, no faces.
 
-ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a laser beam scanning a building panel with fine measurement ticks, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
+ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a precision factory hall with a conveyor and glowing machines, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE CHAIN"
+- Top, small gold caps: "THE SEQUENCE"
 - Large white headline: "MEASURE. GUIDE. FIT."
 FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of laser with label "MEASURE", gold line icon of robot arm with label "GUIDE", gold line icon of shield with label "FIT"
-- Gold italic pull line: "Precision at every step compounds into a better home."
+- Gold italic pull line: "Small errors compound. So does precision."
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "4/5"
 
@@ -2928,7 +3018,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-Millimeter precision means parts that fit. Swipe for what the numbers mean and why exact fit matters. How precise does your work need to be? Follow @StephenJemalNY.
+A standard credit card is 0.76 mm thick (ISO/IEC 7810). BUILT® is designed for millimeter and sub-millimeter precision: under 1 mm.
+
+Why I care about that: parts that line up when they arrive, less rework, less waste.
+
+Save the 4-question precision check.
+
+#ConstructionTech #Precision #Housing
+
+Where does precision matter most in a home?
 
 
 === CARRUSEL 32: Cloud-based project management (BUILT technology) ===
@@ -2939,8 +3037,9 @@ BACKGROUND: A stylized CGI scene of a glowing cloud linked by gold light lines t
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 - Top, small gold caps: "THE JEMAL BLUEPRINT"
-- Very large white bold headline: "WHAT IF YOU COULD WATCH THE BUILD IN REAL TIME?"
-- Under it, smaller gold line: "Cloud-based project management at scale. Swipe →"
+- Very large white bold headline: "WHAT IF YOU COULD SEE EVERY BUILD IN REAL TIME?"
+- Under it, smaller gold line: "Cloud project management, explained. Swipe →"
+- Small gray source line under the gold line: "General guidance"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "1/5"
 
@@ -2952,12 +3051,11 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 2 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of a glowing cloud linked by gold light lines to small buildings, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THREE BENEFITS"
-- Large white headline: "WHY THE CLOUD HELPS"
+- Top, small gold caps: "WHY THE CLOUD HELPS"
+- Large white headline: "ONE VIEW OF EVERY PROJECT"
 CARD 1 (rounded dark navy card with a thin gold border, gold line icon of cloud in a gold circle): gold title "MONITORING AT SCALE", white body "Track many projects at once."
 CARD 2 (rounded dark navy card with a thin gold border, gold line icon of document in a gold circle): gold title "ONE VERSION OF THE TRUTH", white body "Everyone sees the same plan and status."
 CARD 3 (rounded dark navy card with a thin gold border, gold line icon of shield in a gold circle): gold title "FEWER SURPRISES", white body "Problems show up earlier."
-- Small gray source line above the footer: "Per Stephen Jemal's site"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "2/5"
 
@@ -2969,7 +3067,7 @@ Create a 4:5 vertical social media carousel slide (1080x1350), slide 3 of 5. Gen
 ILLUSTRATION BANNER: directly under the headline, a wide rounded-rectangle illustration with a thin gold border, about 14% of the slide height: a stylized CGI 3D render of glowing gold bars rising like a skyline with an upward line, in deep navy and warm gold, no people, no text. If space is tight, make the banner shorter rather than shrinking the text.
 
 TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
-- Top, small gold caps: "THE FLOW"
+- Top, small gold caps: "THE CHAIN"
 - Large white headline: "DATA. DASHBOARD. DECISION."
 FLOW of 3 rounded dark navy tiles joined by gold arrows, each with a gold icon and a small white caps label: gold line icon of document with label "DATA", gold line icon of chart with label "DASHBOARD", gold line icon of key with label "DECISION"
 - Gold italic pull line: "The goal is faster decisions, not more reports."
@@ -2990,6 +3088,8 @@ TWO-COLUMN TABLE in a rounded dark navy card with thin gold borders. Gold caps c
 "Updates in many places" → "One shared view"
 "Status found by calling" → "Status visible instantly"
 "Delays found late" → "Delays flagged early"
+- Gold italic pull line: "Cloud-based is one of the four pillars of BUILT®."
+- Small gray source line above the footer: "BUILT® per stephenjemal.com"
 - Bottom left, tiny gray: "@StephenJemalNY"
 - Bottom right, tiny gray: "4/5"
 
@@ -3015,7 +3115,15 @@ TEXT (render exactly as written, perfect spelling, bold modern sans-serif):
 Clean spacing, strong hierarchy, easy to read on a phone. Strong contrast. No other text, no watermarks, no misspellings.
 
 --- Caption ---
-What if you could watch every project in real time? Swipe for how cloud tools reduce surprises. Which update would you want live? Follow @StephenJemalNY.
+What if you could see every build in real time? What I'd want from cloud-based project management: one shared view, problems flagged earlier, faster decisions.
+
+Cloud-based is one of the four pillars of BUILT®.
+
+Save the 5 questions for any project dashboard.
+
+#ConstructionTech #ProjectManagement #Cloud
+
+Which metric would you watch?
 
 
 === CARRUSEL 33: One mother factory (BUILT technology) ===

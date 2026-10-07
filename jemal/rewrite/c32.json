@@ -1,0 +1,150 @@
+{
+  "id": 32,
+  "week": 32,
+  "title": "Cloud-based project management",
+  "pillar": "BUILT technology",
+  "captions": {
+    "instagram": "What if you could see every build in real time? What I'd want from cloud-based project management: one shared view, problems flagged earlier, faster decisions.\n\nCloud-based is one of the four pillars of BUILT®.\n\nSave the 5 questions for any project dashboard.\n\n#ConstructionTech #ProjectManagement #Cloud\n\nWhich metric would you watch?",
+    "facebook": "Scattered updates or one real-time view? I compared the two, and listed five questions for any project dashboard.\n\n#ProjectManagement #ConstructionTech\n\nHow do you track projects today?",
+    "linkedin": "The goal of project software is faster decisions, not more reports.\n\nCloud-based project management gives everyone one version of the truth: the same plan and the same status, with problems showing up earlier. Data becomes a dashboard, and the dashboard drives a decision.\n\nCloud-based is one of the four pillars of BUILT®.\n\nFive questions I'd ask of any dashboard: Who can see it? How current is the data? What triggers an alert? Who acts on it? What gets reviewed weekly?\n\n#ProjectManagement #ConstructionTech\n\nWhich question does your current setup fail?",
+    "x": "Data → dashboard → decision.\n\nThe point of a project dashboard is faster decisions, not more reports. That's the bar I'd hold it to.\n\nWhat would you put on yours?",
+    "threads": "One shared, real-time view of every project. That's what I'd want from the cloud.\n\nHow do you track yours?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "WHAT IF YOU COULD SEE EVERY BUILD IN REAL TIME?",
+      "subline": "Cloud project management, explained. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "What if you could see every build in real time?",
+          "mechanism": "Curiosity + aspiration: a concrete wish.",
+          "chosen": true
+        },
+        {
+          "text": "Faster decisions, not more reports.",
+          "mechanism": "Contrarian rule: punchy, opinion."
+        },
+        {
+          "text": "Scattered updates or one real-time view?",
+          "mechanism": "Contrast: frames the comparison."
+        }
+      ],
+      "scene": "cloud",
+      "sourceLine": "General guidance",
+      "attachments": [],
+      "altText": "Cover headline 'What if you could see every build in real time?' over an illustrated cloud linked to buildings."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "WHY THE CLOUD HELPS",
+      "headline": "ONE VIEW OF EVERY PROJECT",
+      "cards": [
+        {
+          "icon": "cloud",
+          "title": "MONITORING AT SCALE",
+          "body": "Track many projects at once."
+        },
+        {
+          "icon": "document",
+          "title": "ONE VERSION OF THE TRUTH",
+          "body": "Everyone sees the same plan and status."
+        },
+        {
+          "icon": "shield",
+          "title": "FEWER SURPRISES",
+          "body": "Problems show up earlier."
+        }
+      ],
+      "scene": "cloud",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: monitoring many projects, one version of the truth, fewer surprises."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "THE CHAIN",
+      "headline": "DATA. DASHBOARD. DECISION.",
+      "flow": [
+        [
+          "DATA",
+          "document"
+        ],
+        [
+          "DASHBOARD",
+          "chart"
+        ],
+        [
+          "DECISION",
+          "key"
+        ]
+      ],
+      "pullLine": "The goal is faster decisions, not more reports.",
+      "scene": "chart",
+      "needsApproval": true,
+      "approvalNote": "Opinion pull line in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow from data to dashboard to decision."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "SCATTERED UPDATES VS. A REAL-TIME VIEW",
+      "columns": [
+        "SCATTERED",
+        "REAL-TIME"
+      ],
+      "rows": [
+        [
+          "Updates in many places",
+          "One shared view"
+        ],
+        [
+          "Status found by calling",
+          "Status visible instantly"
+        ],
+        [
+          "Delays found late",
+          "Delays flagged early"
+        ]
+      ],
+      "pullLine": "Cloud-based is one of the four pillars of BUILT®.",
+      "scene": "cloud",
+      "sourceLine": "BUILT® per stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting scattered updates with a real-time view, noting cloud-based is a BUILT pillar."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "5 QUESTIONS FOR ANY PROJECT DASHBOARD",
+      "rows": [
+        "Who can see it?",
+        "How current is the data?",
+        "What triggers an alert?",
+        "Who acts on it?",
+        "What gets reviewed weekly?"
+      ],
+      "button": "Comment the metric you'd watch",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered questions for any project dashboard, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "linkedin/x/threads: opening lesson, 'Five questions I'd ask', 'the bar I'd hold it to', 'what I'd want'."
+}

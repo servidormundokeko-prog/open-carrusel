@@ -3656,22 +3656,45 @@
    "week": 23,
    "title": "Cost awareness",
    "pillar": "Scaling and systems (general guidance)",
-   "caption": "Reducing inefficiency and improving project control starts with finding the leaks. Swipe for where costs hide and how to spot them. Where do you see the biggest leak? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Where does the money leak? Usually in three places: planning, construction and operations.\n\nThe habit I'd build: spot it, measure it, fix it. You can't control a cost you haven't measured.\n\nSave the 5 leak checks.\n\n#SmallBusiness #Operations #CostControl\n\nWhere's your biggest leak?",
+    "facebook": "Costs hide in rework, waiting, wasted materials and duplicated effort. I put 5 leak checks on the last slide.\n\n#SmallBusiness #Operations\n\nWhich one costs your business the most?",
+    "linkedin": "You can't control a cost you haven't measured.\n\nCosts hide in three places: planning (rework from unclear plans and late changes), construction (delays and wasted materials) and operations (slow processes and duplicated effort).\n\nThe habit I'd build: spot, measure, fix, and track costs as work happens instead of after the fact.\n\nFive leak checks: Where do we redo work? Where do we wait? Where do we waste materials? Where do we repeat effort? Where do we lack data?\n\n#Operations #CostControl\n\nWhich leak is hardest to see in your business?",
+    "x": "Where does the money leak?\n\nRework. Waiting. Wasted materials. Repeated effort. Missing data.\n\nI'd start by measuring one of them this week. Which one would you pick?",
+    "threads": "You can't control a cost you haven't measured. I'd start with rework.\n\nWhere does your money leak?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
      "headline": "WHERE DOES THE MONEY LEAK?",
-     "subline": "Three places costs hide, and how to find them. Swipe →",
+     "subline": "Three places costs hide, and 5 checks to find them. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Where does the money leak?",
+       "mechanism": "Question + stakes: every owner suspects a leak.",
+       "chosen": true
+      },
+      {
+       "text": "You can't control a cost you haven't measured.",
+       "mechanism": "Contrarian rule: strong, gives the payoff away."
+      },
+      {
+       "text": "Three places costs hide in every project.",
+       "mechanism": "Specificity: countable promise."
+      }
+     ],
      "scene": "scale",
-     "attachments": []
+     "sourceLine": "General guidance",
+     "attachments": [],
+     "altText": "Cover headline 'Where does the money leak?' over an illustrated golden balance scale."
     },
     {
      "n": 2,
      "template": "cards_stack",
-     "kicker": "THREE LEAKS",
-     "headline": "WHERE COSTS HIDE",
+     "kicker": "WHERE COSTS HIDE",
+     "headline": "PLANNING, CONSTRUCTION, OPERATIONS",
      "cards": [
       {
        "icon": "blueprint",
@@ -3692,12 +3715,13 @@
      "scene": "scale",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three cards: planning rework, construction delays and waste, operational duplication."
     },
     {
      "n": 3,
      "template": "flow_steps",
-     "kicker": "THE METHOD",
+     "kicker": "THE HABIT",
      "headline": "SPOT. MEASURE. FIX.",
      "flow": [
       [
@@ -3713,11 +3737,14 @@
        "gear"
       ]
      ],
+     "pullLine": "You can't control a cost you haven't measured.",
      "scene": "chart",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "You can't control a cost you haven't measured."
+     "altText": "A three-step flow, spot, measure, fix, with a pull line about measuring costs."
     },
     {
      "n": 4,
@@ -3746,10 +3773,11 @@
        "Waste is measured"
       ]
      ],
-     "scene": "scale",
+     "scene": "clipboard",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting reactive and cost-aware management."
     },
     {
      "n": 5,
@@ -3765,33 +3793,63 @@
      ],
      "button": "Comment your biggest leak",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered cost-leak questions with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/linkedin/x/threads: 'The habit I'd build', 'I'd start'.",
+   "caption": "Where does the money leak? Usually in three places: planning, construction and operations.\n\nThe habit I'd build: spot it, measure it, fix it. You can't control a cost you haven't measured.\n\nSave the 5 leak checks.\n\n#SmallBusiness #Operations #CostControl\n\nWhere's your biggest leak?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 24,
    "week": 24,
    "title": "Speed vs. quality",
    "pillar": "Scaling and systems (general guidance)",
-   "caption": "Speed without standards creates mistakes, and standards without systems slow everything down. Swipe for how systems help you get both. Which one is your bottleneck? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Do you have to choose between speed and quality?\n\nHow I see it: speed without standards multiplies mistakes, and standards without systems are slow. Standards plus systems let work be fast and consistent.\n\nSave the 4-question speed check.\n\n#Operations #Quality #SmallBusiness\n\nWhere's your bottleneck?",
+    "facebook": "Speed or quality? With a written standard and a repeatable system, I don't think you have to pick. The last slide is a 4-question speed check.\n\n#Operations #SmallBusiness\n\nWhich do you usually sacrifice?",
+    "linkedin": "Speed is the result of a good system, not a shortcut around one.\n\nThe trade-off exists for a reason. Speed without standards multiplies mistakes. Standards without systems keep quality high but slow everything down. Put a written standard inside a repeatable system and work can be fast and consistent.\n\nThe check I'd run: Is the standard written? Is the process repeatable? Where do delays start? Can we remove a step?\n\n#Operations #Quality\n\nWhich step in your process would you remove first?",
+    "x": "Speed without standards = mistakes.\nStandards without systems = slow.\nStandards + systems = fast and consistent.\n\nThat's how I see it. Where's your bottleneck?",
+    "threads": "I don't think speed and quality have to fight. A written standard inside a repeatable system fixes most of it.\n\nAgree?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
      "headline": "DO YOU HAVE TO CHOOSE BETWEEN SPEED AND QUALITY?",
-     "subline": "Why systems are the way out of the trade-off. Swipe →",
+     "subline": "Why systems are the way out. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Do you have to choose between speed and quality?",
+       "mechanism": "Question + tension: a trade-off every operator feels.",
+       "chosen": true
+      },
+      {
+       "text": "Speed is the result of a good system, not a shortcut.",
+       "mechanism": "Contrarian: strong, but opinion."
+      },
+      {
+       "text": "Fast or good? Here's how to get both.",
+       "mechanism": "Promise: risks overpromising."
+      }
+     ],
      "scene": "clock",
-     "attachments": []
+     "sourceLine": "General guidance",
+     "attachments": [],
+     "altText": "Cover headline 'Do you have to choose between speed and quality?' over an illustrated glowing clock."
     },
     {
      "n": 2,
      "template": "cards_stack",
-     "kicker": "THE TRAP",
-     "headline": "WHY THE TRADE-OFF EXISTS",
+     "kicker": "THE TRADE-OFF",
+     "headline": "WHY SPEED AND QUALITY FIGHT",
      "cards": [
       {
        "title": "SPEED WITHOUT STANDARDS",
@@ -3808,14 +3866,17 @@
       }
      ],
      "scene": "clock",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three cards: speed without standards, standards without systems, and standards plus systems."
     },
     {
      "n": 3,
      "template": "flow_steps",
-     "kicker": "THE PATH",
+     "kicker": "THE ORDER",
      "headline": "STANDARD. SYSTEM. SPEED.",
      "flow": [
       [
@@ -3831,17 +3892,20 @@
        "clock"
       ]
      ],
-     "scene": "clock",
+     "pullLine": "Speed is the result of a good system, not a shortcut around one.",
+     "scene": "stairs",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "Speed is the result of a good system, not a shortcut around one."
+     "altText": "A three-step flow from standard to system to speed."
     },
     {
      "n": 4,
      "template": "table_compare",
-     "kicker": "ON THE JOB SITE",
-     "headline": "SITE COMPLEXITY VS. STANDARDIZED",
+     "kicker": "ON SITE VS. STANDARDIZED",
+     "headline": "WHERE THE VARIABLES LIVE",
      "columns": [
       "SITE-BASED",
       "STANDARDIZED"
@@ -3849,7 +3913,7 @@
      "rows": [
       [
        "More complexity on site",
-       "Complexity reduced on site"
+       "Less complexity on site"
       ],
       [
        "Delays from many variables",
@@ -3863,7 +3927,8 @@
      "scene": "crane",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting site-based building with standardized production."
     },
     {
      "n": 5,
@@ -3878,27 +3943,57 @@
      ],
      "button": "Comment your bottleneck",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered speed-check questions with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "all: 'How I see it' / 'I don't think you have to pick'.",
+   "caption": "Do you have to choose between speed and quality?\n\nHow I see it: speed without standards multiplies mistakes, and standards without systems are slow. Standards plus systems let work be fast and consistent.\n\nSave the 4-question speed check.\n\n#Operations #Quality #SmallBusiness\n\nWhere's your bottleneck?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 25,
    "week": 25,
    "title": "Ready to scale?",
    "pillar": "Scaling and systems (general guidance)",
-   "caption": "Ready for location #2? Swipe for five signs the model works, plus a scorecard to save. How many can you check off? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Five signs you're ready for a second location: the model is proven, the playbook is written, someone else can run it, funding and staff are ready, and the first location stays strong.\n\nScaling a weak model only scales the weakness.\n\nI'd want all five before opening a second. Score yourself on the last slide.\n\n#SmallBusiness #Scaling #Entrepreneurship\n\nWhat's your score out of five?",
+    "facebook": "Thinking about a second location? I made a 5-point readiness scorecard. Be honest with it.\n\n#SmallBusiness #Scaling\n\nWhat's holding you back from location two?",
+    "linkedin": "Scaling a weak model only scales the weakness.\n\nThe signs I'd look for before a second location: it works in one place, with real customers, repeatedly. The playbook is written down. Someone other than the founder can run it. Funding and staff are planned. And the first location can stay strong while you open the next.\n\nIf success still depends on you, it isn't ready yet.\n\n#Scaling #Entrepreneurship\n\nWhich sign is hardest to reach?",
+    "x": "Ready for a second location?\n\n1. Model proven\n2. Playbook written\n3. Someone else can run it\n4. Funding and staff ready\n5. First location stable\n\nI'd want all five. How many do you have?",
+    "threads": "Scaling a weak model only scales the weakness. I'd want five signs in place first.\n\nHow many do you have?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "5 SIGNS YOU'RE READY FOR LOCATION #2",
-     "subline": "How to tell if your model can travel. Swipe →",
+     "headline": "5 SIGNS YOU'RE READY FOR A SECOND LOCATION",
+     "subline": "Score yourself on the last slide. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "5 signs you're ready for a second location",
+       "mechanism": "Specificity + identity: speaks to owners weighing expansion.",
+       "chosen": true
+      },
+      {
+       "text": "Scaling a weak model only scales the weakness.",
+       "mechanism": "Contrarian: strong, but opinion."
+      },
+      {
+       "text": "Is your model ready to travel?",
+       "mechanism": "Question: vaguer."
+      }
+     ],
      "scene": "stairs",
-     "attachments": []
+     "sourceLine": "General guidance",
+     "attachments": [],
+     "altText": "Cover headline '5 signs you're ready for a second location' over illustrated gold steps rising."
     },
     {
      "n": 2,
@@ -3917,28 +4012,40 @@
       }
      ],
      "scene": "stairs",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three numbered cards: it works repeatedly in one location, the playbook is written, someone else can run it."
     },
     {
      "n": 3,
-     "template": "cards_stack",
+     "template": "stats_rows",
      "kicker": "SIGNS 4 AND 5",
      "headline": "YOU CAN SUPPORT IT",
-     "cards": [
-      {
-       "body": "You can fund and staff a second location."
-      },
-      {
-       "body": "You can keep the first one strong while you open the next."
-      }
+     "rows": [
+      [
+       "FUNDING",
+       "You can pay for a second location"
+      ],
+      [
+       "STAFF",
+       "You can hire and train for it"
+      ],
+      [
+       "FOCUS",
+       "The first stays strong while you open the next"
+      ]
      ],
+     "pullLine": "Scaling a weak model only scales the weakness.",
      "scene": "chart",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "Scaling a weak model only scales the weakness."
+     "altText": "Three rows: funding, staff and focus on the first location, with a pull line about weak models."
     },
     {
      "n": 4,
@@ -3967,10 +4074,11 @@
        "One location is steady"
       ]
      ],
-     "scene": "stairs",
+     "scene": "row",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting not-yet-ready and ready businesses."
     },
     {
      "n": 5,
@@ -3984,29 +4092,59 @@
       "Funding and staff ready",
       "First location stable"
      ],
-     "button": "Comment your score out of 5",
+     "button": "Comment your score out of five",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A five-point numbered readiness scorecard with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/linkedin/x/threads: 'The signs I'd look for', 'I'd want all five'.",
+   "caption": "Five signs you're ready for a second location: the model is proven, the playbook is written, someone else can run it, funding and staff are ready, and the first location stays strong.\n\nScaling a weak model only scales the weakness.\n\nI'd want all five before opening a second. Score yourself on the last slide.\n\n#SmallBusiness #Scaling #Entrepreneurship\n\nWhat's your score out of five?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 26,
    "week": 26,
    "title": "Scaling mistakes",
    "pillar": "Scaling and systems (general guidance)",
-   "caption": "Chains rarely fail all at once. Swipe for seven common ways growth breaks things, and the fix for each. Which one have you seen? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Six ways chains break: growing faster than training, losing brand consistency, ignoring local markets, signing leases without a clear exit, letting suppliers slide, and skipping measurement.\n\nThe way I see it, most come down to the same fix: train, standardize, measure, repeat.\n\nSave the red-flag check.\n\n#Scaling #SmallBusiness #Operations\n\nWhich mistake have you seen most?",
+    "facebook": "Growth breaks businesses in predictable ways. I listed six and a red-flag check to catch them early.\n\n#Scaling #SmallBusiness\n\nWhich one would you add?",
+    "linkedin": "Fix the system, not the symptom.\n\nThe scaling mistakes I'd watch for: growing faster than training, losing brand consistency, ignoring local markets, signing leases without a clear exit, letting supplier relationships slide, and skipping measurement.\n\nMost are solved by the same four moves: train, standardize, measure, repeat.\n\n#Scaling #Operations\n\nWhich mistake is hardest to see while it's happening?",
+    "x": "6 ways chains break:\n\n1. Growth outpaces training\n2. Brand drifts\n3. Local markets ignored\n4. Leases with no exit\n5. Suppliers neglected\n6. Nothing measured\n\nWhich would I find at your company? Which one is it?",
+    "threads": "Six ways chains break. My fix for most of them: train, standardize, measure, repeat.\n\nWhich one have you lived through?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "7 WAYS CHAINS BREAK",
-     "subline": "Common scaling mistakes and how to avoid them. Swipe →",
+     "headline": "6 SCALING MISTAKES THAT BREAK A CHAIN",
+     "subline": "And the four moves that fix most of them. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "6 scaling mistakes that break a chain",
+       "mechanism": "Mistake + specificity: negativity bias, countable list.",
+       "chosen": true
+      },
+      {
+       "text": "Fix the system, not the symptom.",
+       "mechanism": "Contrarian rule: gives away the payoff."
+      },
+      {
+       "text": "Why do growing chains break?",
+       "mechanism": "Question: open, less specific."
+      }
+     ],
      "scene": "shield",
-     "attachments": []
+     "sourceLine": "General guidance",
+     "attachments": [],
+     "altText": "Cover headline '6 scaling mistakes that break a chain' over an illustrated gold shield."
     },
     {
      "n": 2,
@@ -4015,43 +4153,44 @@
      "headline": "WHERE GROWTH GOES WRONG",
      "cards": [
       {
-       "body": "Growing faster than training."
+       "body": "Growing faster than training"
       },
       {
-       "body": "Losing brand consistency."
+       "body": "Losing brand consistency"
       },
       {
-       "body": "Ignoring local markets."
+       "body": "Ignoring local markets"
       },
       {
-       "body": "Signing leases without a clear exit."
+       "body": "Signing leases without a clear exit"
       }
      ],
-     "scene": "shield",
+     "scene": "row",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered cards: growing faster than training, losing brand consistency, ignoring local markets, leases without an exit."
     },
     {
      "n": 3,
-     "template": "cards_stack",
-     "kicker": "MISTAKES 5 TO 7",
+     "template": "stats_rows",
+     "kicker": "MISTAKES 5 AND 6",
      "headline": "THE QUIET ONES",
-     "cards": [
-      {
-       "body": "Letting supplier relationships slide."
-      },
-      {
-       "body": "Skipping measurement."
-      },
-      {
-       "body": "Treating each opening as a one-off."
-      }
+     "rows": [
+      [
+       "SUPPLIERS",
+       "Letting the relationships slide"
+      ],
+      [
+       "MEASUREMENT",
+       "Skipping it, so problems hide"
+      ]
      ],
      "scene": "conveyor",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Two rows: suppliers left to slide and measurement skipped."
     },
     {
      "n": 4,
@@ -4076,66 +4215,99 @@
        "stack-of-storefronts"
       ]
      ],
+     "pullLine": "Most of these are solved by the same four moves.",
      "scene": "stairs",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "Most of these are solved by the same four moves."
+     "altText": "A four-step flow: train, standardize, measure, repeat."
     },
     {
      "n": 5,
      "template": "numbered_cta",
      "kicker": "SAVE THIS",
-     "headline": "THE 7-POINT RED-FLAG CHECK",
+     "headline": "THE 6-POINT RED-FLAG CHECK",
      "rows": [
       "Is training keeping up?",
       "Is the brand consistent?",
       "Do we know each market?",
       "Can we exit a lease?",
       "Are suppliers healthy?",
-      "Are we measuring?",
-      "Is opening a repeatable process?"
+      "Are we measuring?"
      ],
      "button": "Comment the mistake you've seen",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Six numbered red-flag questions with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin/threads: 'The mistakes I'd watch for', 'My fix'.",
+   "caption": "Six ways chains break: growing faster than training, losing brand consistency, ignoring local markets, signing leases without a clear exit, letting suppliers slide, and skipping measurement.\n\nThe way I see it, most come down to the same fix: train, standardize, measure, repeat.\n\nSave the red-flag check.\n\n#Scaling #SmallBusiness #Operations\n\nWhich mistake have you seen most?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 27,
    "week": 27,
-   "title": "BUILT in 60 seconds",
+   "title": "BUILT® in 60 seconds",
    "pillar": "BUILT technology",
-   "caption": "A housing production system designed to build faster, smarter and at global scale: AI-powered, robotics-driven, cloud-based and laser-guided. Swipe for BUILT in 60 seconds. Which pillar interests you most? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "BUILT® in one swipe: an AI-powered, robotics-driven, cloud-based, laser-guided system for producing prefabricated modular housing.\n\nThe model: one mother factory in the United States and hundreds of custom pilot factories in the countries that need housing, designed for local jobs and government partnerships.\n\nWe unveiled it in August 2026, and I presented it at the United Nations.\n\n#BUILT #ModularConstruction #Housing\n\nWhat would you ask me about BUILT®?",
+    "facebook": "We unveiled BUILT® in August 2026: a prefabricated modular housing production system that is AI-powered, robotics-driven, cloud-based and laser-guided. Swipe for how it works.\n\n#ModularConstruction #Housing\n\nWhich part would you want to see up close?",
+    "linkedin": "Our mission at JemRock is to change how the world produces housing at global scale. BUILT® is how we plan to do it.\n\nBUILT® is an AI-powered, robotics-driven, cloud-based, laser-guided prefabricated modular housing production system. The model is one mother factory in the United States and hundreds of custom pilot factories in the countries that need housing.\n\nIt is designed for local jobs and government partnerships, millimeter and sub-millimeter precision, and less material waste. We unveiled it in August 2026, and I presented it at the United Nations.\n\n#ConstructionTech #Housing\n\nWhat question would you ask first?",
+    "x": "BUILT®, in one line: AI-powered, robotics-driven, cloud-based, laser-guided prefab modular housing production.\n\nOne mother factory in the US. Hundreds of pilot factories where housing is needed.\n\nWe unveiled it in August 2026. What would you ask?",
+    "threads": "One mother factory. Hundreds of pilot factories. That's the BUILT® model we unveiled in August 2026.\n\nWhat do you want to know?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHAT IF HOUSING WAS MADE LIKE PRECISION EQUIPMENT?",
+     "headline": "ONE MOTHER FACTORY. HUNDREDS OF PILOT FACTORIES. THAT'S BUILT®.",
      "subline": "BUILT® in 60 seconds. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "One mother factory. Hundreds of pilot factories. That's BUILT®.",
+       "mechanism": "Specificity: the model in two concrete lines.",
+       "chosen": true
+      },
+      {
+       "text": "What if homes were made like precision equipment?",
+       "mechanism": "Curiosity gap: evocative, less concrete."
+      },
+      {
+       "text": "BUILT® in 60 seconds: four technologies, one housing system.",
+       "mechanism": "Promise: clear, low tension."
+      }
+     ],
      "scene": "factory",
-     "attachments": []
+     "sourceLine": "Source: stephenjemal.com",
+     "attachments": [],
+     "altText": "Cover headline 'One mother factory. Hundreds of pilot factories. That's BUILT.' over an illustrated precision factory hall."
     },
     {
      "n": 2,
      "template": "flow_steps",
-     "kicker": "THE SYSTEM",
-     "headline": "FOUR TECHNOLOGIES, ONE PLATFORM",
+     "kicker": "FOUR TECHNOLOGIES",
+     "headline": "ONE PREFAB HOUSING SYSTEM",
+     "body": "BUILT® combines all four in one prefabricated modular housing production system.",
      "flow": [
       [
        "AI-POWERED",
        "blueprint"
       ],
       [
-       "ROBOTICS",
+       "ROBOTICS-DRIVEN",
        "robot-arm"
       ],
       [
-       "CLOUD",
+       "CLOUD-BASED",
        "cloud"
       ],
       [
@@ -4143,64 +4315,73 @@
        "laser"
       ]
      ],
-     "scene": "factory",
+     "scene": "robot",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "body": "BUILT® fuses all four into one integrated production system for prefabricated modular homes."
+     "altText": "A four-step flow of BUILT's pillars: AI-powered, robotics-driven, cloud-based, laser-guided."
     },
     {
      "n": 3,
-     "template": "cards_stack",
-     "kicker": "THE GOAL",
-     "headline": "WHAT IT IS DESIGNED TO DO",
+     "template": "stats_grid",
+     "kicker": "WHAT IT'S DESIGNED FOR",
+     "headline": "PRECISION, LESS WASTE, LOCAL JOBS",
      "cards": [
-      {
-       "icon": "clock",
-       "title": "FASTER, SMARTER",
-       "body": "Designed to build at global scale."
-      },
-      {
-       "icon": "laser",
-       "title": "MILLIMETER PRECISION",
-       "body": "Exact component fit."
-      },
-      {
-       "icon": "shield",
-       "title": "LESS WASTE",
-       "body": "Designed to reduce material waste and cost."
-      }
+      [
+       "PRECISION",
+       "Millimeter and sub-millimeter"
+      ],
+      [
+       "LESS WASTE",
+       "Less material waste"
+      ],
+      [
+       "LOCAL JOBS",
+       "Pilot factories where housing is needed"
+      ],
+      [
+       "PARTNERSHIPS",
+       "Designed to work with governments"
+      ]
      ],
      "scene": "laser",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per JemRock"
+     "altText": "A 2x2 grid: millimeter precision, less material waste, local jobs, government partnerships."
     },
     {
      "n": 4,
-     "template": "flow_steps",
+     "template": "table_compare",
      "kicker": "THE MODEL",
      "headline": "ONE MOTHER FACTORY. HUNDREDS OF PILOT FACTORIES.",
-     "flow": [
+     "columns": [
+      "MOTHER FACTORY",
+      "PILOT FACTORIES"
+     ],
+     "rows": [
       [
-       "MOTHER FACTORY",
-       "factory"
+       "One",
+       "Hundreds"
       ],
       [
-       "PILOT FACTORIES",
-       "globe"
+       "In the United States",
+       "In the countries that need housing"
       ],
       [
-       "LOCAL HOMES",
-       "house"
+       "The center of the model",
+       "Custom-built, local jobs"
       ]
      ],
+     "pullLine": "Unveiled August 2026. Presented at the United Nations.",
      "scene": "globe",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "Machines made in the United States, pilot factories deployed where housing is needed most."
+     "altText": "A two-column table comparing one US mother factory with hundreds of custom pilot factories, with the 2026 unveiling and UN presentation."
     },
     {
      "n": 5,
@@ -4208,87 +4389,128 @@
      "kicker": "SAVE THIS",
      "headline": "THE BUILT® CHEAT SHEET",
      "rows": [
-      "AI: intelligent design and planning",
-      "Robotics: precision manufacturing",
-      "Cloud: real-time project monitoring",
-      "Laser: sub-millimeter component fit"
+      "AI-powered",
+      "Robotics-driven",
+      "Cloud-based",
+      "Laser-guided",
+      "One mother factory in the US",
+      "Hundreds of custom pilot factories"
      ],
-     "button": "Comment the pillar you'd explore first",
+     "button": "Comment what you'd ask me about BUILT®",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A six-line numbered BUILT fact sheet with a gold comment button."
     }
-   ]
+   ],
+   "caption": "BUILT® in one swipe: an AI-powered, robotics-driven, cloud-based, laser-guided system for producing prefabricated modular housing.\n\nThe model: one mother factory in the United States and hundreds of custom pilot factories in the countries that need housing, designed for local jobs and government partnerships.\n\nWe unveiled it in August 2026, and I presented it at the United Nations.\n\n#BUILT #ModularConstruction #Housing\n\nWhat would you ask me about BUILT®?",
+   "needsApproval": false,
+   "rewritten": true
   },
   {
    "id": 28,
    "week": 28,
    "title": "The four pillars",
    "pillar": "BUILT technology",
-   "caption": "Four technologies, each solving a different building problem. Swipe for what each pillar does and what it solves. Which one would you want to see in action? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "AI, robots, cloud and lasers: the four pillars of BUILT®. Here's how I explain what each technology does in building a home, in plain words.\n\nPlan. Make. Track. Fit.\n\nSave the 4 questions to ask about any build system.\n\n#BUILT #ConstructionTech #ModularConstruction\n\nWhich pillar would you want explained next?",
+    "facebook": "BUILT® rests on four technologies: AI-powered, robotics-driven, cloud-based and laser-guided. I broke down what each one does in building a home.\n\n#ConstructionTech #Housing\n\nWhich one sounds most useful to you?",
+    "linkedin": "Any build system has to answer four questions: how is it planned, how is it made, how is it tracked, and how precise is the fit?\n\nBUILT® answers each with a technology. In construction generally, AI helps plan layouts and sequence work before anything is built. Robots repeat precise tasks the same way every time. Cloud tools give everyone one live view of a project. Laser measurement guides parts to an exact fit.\n\nThat's why we built BUILT® on four pillars: AI-powered, robotics-driven, cloud-based and laser-guided.\n\n#ConstructionTech #Housing\n\nWhich question does your industry answer worst?",
+    "x": "The 4 pillars of BUILT®, as I explain them:\n\nAI → plan\nRobotics → make\nCloud → track\nLaser → fit\n\nWhich would you want me to explain next?",
+    "threads": "Plan, make, track, fit. That's how I'd explain the four pillars of BUILT®.\n\nWhich one do you want to hear more about?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "FOUR TECHNOLOGIES. ONE HOME.",
-     "subline": "What each BUILT® pillar does and what it solves. Swipe →",
+     "headline": "AI, ROBOTS, CLOUD, LASERS: WHAT EACH DOES IN BUILDING A HOME",
+     "subline": "The four pillars of BUILT®. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "AI, robots, cloud, lasers: what each does in building a home",
+       "mechanism": "Specificity + promise: four named technologies, one plain explanation.",
+       "chosen": true
+      },
+      {
+       "text": "Four technologies. One home.",
+       "mechanism": "Pattern: clean, low tension."
+      },
+      {
+       "text": "Which technology matters most in a factory-built home?",
+       "mechanism": "Question: invites debate."
+      }
+     ],
      "scene": "pillars",
-     "attachments": []
+     "sourceLine": "BUILT® pillars: stephenjemal.com. Uses described are general.",
+     "attachments": [],
+     "altText": "Cover headline 'AI, robots, cloud, lasers: what each does in building a home' over four illustrated gold columns."
     },
     {
      "n": 2,
      "template": "cards_stack",
-     "kicker": "PILLARS 1 AND 2",
-     "headline": "THINK AND MAKE",
+     "kicker": "PLAN AND MAKE",
+     "headline": "AI-POWERED. ROBOTICS-DRIVEN.",
      "cards": [
       {
        "icon": "blueprint",
        "title": "AI-POWERED",
-       "body": "Intelligent design and planning powered by machine learning."
+       "body": "In construction, AI helps plan layouts and sequence work before anything is built."
       },
       {
        "icon": "robot-arm",
        "title": "ROBOTICS-DRIVEN",
-       "body": "Industrial-grade automation for precision manufacturing."
+       "body": "Robots repeat precise tasks the same way, every time."
       }
      ],
      "scene": "blueprint",
+     "sourceLine": "BUILT® pillars: stephenjemal.com. Uses described are general.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Two cards explaining what AI and robotics do in construction."
     },
     {
      "n": 3,
-     "template": "cards_stack",
-     "kicker": "PILLARS 3 AND 4",
-     "headline": "TRACK AND FIT",
-     "cards": [
-      {
-       "icon": "cloud",
-       "title": "CLOUD-BASED",
-       "body": "Real-time project management and monitoring at scale."
-      },
-      {
-       "icon": "laser",
-       "title": "LASER-GUIDED",
-       "body": "Sub-millimeter precision for exact component fit."
-      }
+     "template": "flow_steps",
+     "kicker": "TRACK AND FIT",
+     "headline": "PLAN. MAKE. TRACK. FIT.",
+     "body": "Cloud tools give everyone one live view of a project. Laser measurement guides parts to an exact fit.",
+     "flow": [
+      [
+       "PLAN: AI",
+       "blueprint"
+      ],
+      [
+       "MAKE: ROBOTICS",
+       "robot-arm"
+      ],
+      [
+       "TRACK: CLOUD",
+       "cloud"
+      ],
+      [
+       "FIT: LASER",
+       "laser"
+      ]
      ],
      "scene": "cloud",
+     "sourceLine": "BUILT® pillars: stephenjemal.com. Uses described are general.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A four-step flow pairing AI with plan, robotics with make, cloud with track and laser with fit."
     },
     {
      "n": 4,
      "template": "table_compare",
-     "kicker": "THE PURPOSE",
-     "headline": "PILLAR VS. WHAT IT SOLVES",
+     "kicker": "WHAT EACH ADDRESSES",
+     "headline": "PILLAR VS. THE PROBLEM IT TAKES ON",
      "columns": [
       "PILLAR",
-      "SOLVES"
+      "ADDRESSES"
      ],
      "rows": [
       [
@@ -4297,7 +4519,7 @@
       ],
       [
        "Robotics",
-       "Uncertainty of site-based building"
+       "Variation in repetitive work"
       ],
       [
        "Cloud",
@@ -4309,9 +4531,12 @@
       ]
      ],
      "scene": "pillars",
+     "needsApproval": true,
+     "approvalNote": "Pairing each pillar with a problem is framing.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table pairing each BUILT pillar with the problem it addresses."
     },
     {
      "n": 5,
@@ -4326,27 +4551,57 @@
      ],
      "button": "Comment which question matters most",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered questions to ask about any build system, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin: opening lesson and 'That's why we built BUILT® on four pillars' (motive framing); threads: 'how I'd explain'.",
+   "caption": "AI, robots, cloud and lasers: the four pillars of BUILT®. Here's how I explain what each technology does in building a home, in plain words.\n\nPlan. Make. Track. Fit.\n\nSave the 4 questions to ask about any build system.\n\n#BUILT #ConstructionTech #ModularConstruction\n\nWhich pillar would you want explained next?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 29,
    "week": 29,
    "title": "AI in construction planning",
    "pillar": "BUILT technology",
-   "caption": "What can AI do before a single wall goes up? Swipe for five planning uses described by JemRock and why they matter. Which would help your projects most? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "What can AI do before a single wall goes up? In construction planning: layouts, materials, scheduling, cost projections and process checks.\n\nMy rule: fix problems on the screen, not on the site. AI-powered planning is one of the four pillars of BUILT®.\n\nSave the 5 questions to ask about AI in construction.\n\n#AI #ConstructionTech #Housing\n\nWhere would you use AI first?",
+    "facebook": "AI can help a construction project before anything is built: layouts, materials, schedules, costs and process. I listed five uses and five questions to ask.\n\n#AI #ConstructionTech\n\nWould you trust AI with a building schedule?",
+    "linkedin": "The cheapest place to fix a building problem is on the screen.\n\nIn construction planning, AI can help model layout options, coordinate materials, sequence work, project costs earlier and spot inefficiencies before they become expensive. AI-powered planning is one of the four pillars of BUILT®.\n\nThe questions I'd ask of any AI tool: What decision is it helping? What data does it use? Who checks the result? What does it cost to be wrong? How is it measured?\n\n#AI #ConstructionTech\n\nWhich question do vendors answer least clearly?",
+    "x": "What AI can do before a wall goes up:\n\nLayouts. Materials. Scheduling. Cost projections. Process checks.\n\nMy rule: fix problems on the screen, not on the site. Where would you use AI first?",
+    "threads": "Fix problems on the screen, not on the site. That's how I think about AI in construction.\n\nWhere would you use it first?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
      "headline": "WHAT CAN AI DO BEFORE A SINGLE WALL GOES UP?",
-     "subline": "Five planning uses of AI in construction. Swipe →",
+     "subline": "Five planning uses, five questions. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "What can AI do before a single wall goes up?",
+       "mechanism": "Curiosity gap: concrete image, clear payoff.",
+       "chosen": true
+      },
+      {
+       "text": "Fix problems on the screen, not on the site.",
+       "mechanism": "Contrarian rule: memorable, opinion."
+      },
+      {
+       "text": "Five planning jobs AI can do in construction.",
+       "mechanism": "Specificity: countable promise."
+      }
+     ],
      "scene": "cloud",
-     "attachments": []
+     "sourceLine": "General guidance",
+     "attachments": [],
+     "altText": "Cover headline 'What can AI do before a single wall goes up?' over an illustrated glowing cloud linked to buildings."
     },
     {
      "n": 2,
@@ -4369,34 +4624,37 @@
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "altText": "Two cards: layout planning and material coordination."
     },
     {
      "n": 3,
-     "template": "cards_stack",
+     "template": "stats_grid",
      "kicker": "USES 3 TO 5",
      "headline": "TIME, COST AND PROCESS",
      "cards": [
-      {
-       "icon": "clock",
-       "title": "SCHEDULING LOGIC",
-       "body": "Organize workflows and sequencing."
-      },
-      {
-       "icon": "chart",
-       "title": "COST PROJECTIONS",
-       "body": "See likely costs earlier."
-      },
-      {
-       "icon": "gear",
-       "title": "PROCESS OPTIMIZATION",
-       "body": "Spot inefficiencies before they become expensive."
-      }
+      [
+       "SCHEDULING",
+       "Sequence the work"
+      ],
+      [
+       "COST PROJECTIONS",
+       "See likely costs earlier"
+      ],
+      [
+       "PROCESS CHECKS",
+       "Spot inefficiencies early"
+      ],
+      [
+       "IN BUILT®",
+       "AI-powered is one of four pillars"
+      ]
      ],
      "scene": "chart",
+     "sourceLine": "BUILT® per stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A 2x2 grid: scheduling, cost projections, process checks, and AI-powered planning as a BUILT pillar."
     },
     {
      "n": 4,
@@ -4417,11 +4675,14 @@
        "gear"
       ]
      ],
+     "pullLine": "Fix problems on the screen, not on the site.",
      "scene": "blueprint",
+     "needsApproval": true,
+     "approvalNote": "Opinion pull line in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "Fix problems on the screen, not on the site."
+     "altText": "A three-step flow, model, compare, fix, with a pull line about fixing problems on screen."
     },
     {
      "n": 5,
@@ -4437,33 +4698,64 @@
      ],
      "button": "Comment where you'd use AI first",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered questions about AI in construction, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin/x/threads: opening lesson, 'The questions I'd ask', 'My rule'.",
+   "caption": "What can AI do before a single wall goes up? In construction planning: layouts, materials, scheduling, cost projections and process checks.\n\nMy rule: fix problems on the screen, not on the site. AI-powered planning is one of the four pillars of BUILT®.\n\nSave the 5 questions to ask about AI in construction.\n\n#AI #ConstructionTech #Housing\n\nWhere would you use AI first?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 30,
    "week": 30,
    "title": "Robots in prefab",
    "pillar": "BUILT technology",
-   "caption": "In a prefabricated system, robots handle repetitive tasks the same way every time. Swipe for what they do and why it reduces uncertainty. What would you automate first? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "What do robots actually do in a factory-built home? Four jobs: cut, assemble, move, measure.\n\nWhat automation adds is repetition: the same task, the same way, every time, in a setting that doesn't change with the weather. That's what robotics-driven means to me, and it's a pillar of BUILT®.\n\nSave the 4 questions about factory-built homes.\n\n#Robotics #Prefab #ConstructionTech\n\nWhat would you ask first?",
+    "facebook": "Cut, assemble, move, measure. That's what robots do in prefab construction. I compared on-site and factory building in one table.\n\n#Robotics #Prefab\n\nWould you live in a factory-built home?",
+    "linkedin": "On site, conditions change every day. In a factory, the process repeats.\n\nRobots in prefab construction do four jobs: cut, assemble, move and measure. What automation adds is consistency: repetitive tasks done the same way, parts made to close tolerances, and less of the uncertainty that comes with site-based building.\n\nBUILT® is robotics-driven, one of its four pillars.\n\nFour questions I'd ask about any factory-built home: What is made in the factory? What happens on site? How is quality checked? How are parts transported?\n\n#Robotics #ConstructionTech\n\nWhich would you ask first?",
+    "x": "What robots do in prefab construction:\n\nCut. Assemble. Move. Measure.\n\nSame task, same way, every time. That's what robotics-driven means to me in BUILT®. What would you automate first?",
+    "threads": "Cut, assemble, move, measure. Robots repeat the same task the same way every time. That's what I want in a home.\n\nWould you?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
      "headline": "WHAT DO ROBOTS ACTUALLY DO IN A FACTORY-BUILT HOME?",
-     "subline": "Four jobs and why they matter. Swipe →",
+     "subline": "Four jobs, and why they matter. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "What do robots actually do in a factory-built home?",
+       "mechanism": "Curiosity gap: demystifies a buzzword.",
+       "chosen": true
+      },
+      {
+       "text": "Cut. Assemble. Move. Measure.",
+       "mechanism": "Pattern: punchy, gives the payoff away."
+      },
+      {
+       "text": "Four jobs robots do in prefab construction.",
+       "mechanism": "Specificity: countable promise."
+      }
+     ],
      "scene": "robot",
-     "attachments": []
+     "sourceLine": "General guidance",
+     "attachments": [],
+     "altText": "Cover headline 'What do robots actually do in a factory-built home?' over an illustrated robotic arm placing a panel."
     },
     {
      "n": 2,
      "template": "flow_steps",
      "kicker": "FOUR JOBS",
      "headline": "CUT. ASSEMBLE. MOVE. MEASURE.",
+     "body": "In prefab construction, robots take on four kinds of work.",
      "flow": [
       [
        "CUT",
@@ -4475,7 +4767,7 @@
       ],
       [
        "MOVE",
-       "stack-of-storefronts"
+       "conveyor"
       ],
       [
        "MEASURE",
@@ -4486,13 +4778,13 @@
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "altText": "A four-step flow of robot jobs in prefab: cut, assemble, move, measure."
     },
     {
      "n": 3,
      "template": "cards_stack",
-     "kicker": "WHY ROBOTS?",
-     "headline": "WHAT AUTOMATION ADDS",
+     "kicker": "WHAT AUTOMATION ADDS",
+     "headline": "THE SAME, EVERY TIME",
      "cards": [
       {
        "title": "SAME EVERY TIME",
@@ -4504,13 +4796,14 @@
       },
       {
        "title": "LESS UNCERTAINTY",
-       "body": "Less than traditional site-based building."
+       "body": "Fewer variables than site-based building."
       }
      ],
-     "scene": "robot",
+     "scene": "factory",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three numbered cards: repeatable tasks, precise parts, and less uncertainty than site-based building."
     },
     {
      "n": 4,
@@ -4535,10 +4828,13 @@
        "Quality is standardized"
       ]
      ],
-     "scene": "factory",
+     "pullLine": "BUILT® is robotics-driven: one of its four pillars.",
+     "scene": "crane",
+     "sourceLine": "BUILT® per stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting on-site and factory building."
     },
     {
      "n": 5,
@@ -4553,37 +4849,67 @@
      ],
      "button": "Comment what you'd ask first",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered questions about factory-built homes, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/x/threads: 'what robotics-driven means to me', 'That's what I want in a home'; linkedin: 'Four questions I'd ask'.",
+   "caption": "What do robots actually do in a factory-built home? Four jobs: cut, assemble, move, measure.\n\nWhat automation adds is repetition: the same task, the same way, every time, in a setting that doesn't change with the weather. That's what robotics-driven means to me, and it's a pillar of BUILT®.\n\nSave the 4 questions about factory-built homes.\n\n#Robotics #Prefab #ConstructionTech\n\nWhat would you ask first?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 31,
    "week": 31,
    "title": "Laser-guided precision",
    "pillar": "BUILT technology",
-   "caption": "Millimeter precision means parts that fit. Swipe for what the numbers mean and why exact fit matters. How precise does your work need to be? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "A standard credit card is 0.76 mm thick (ISO/IEC 7810). BUILT® is designed for millimeter and sub-millimeter precision: under 1 mm.\n\nWhy I care about that: parts that line up when they arrive, less rework, less waste.\n\nSave the 4-question precision check.\n\n#ConstructionTech #Precision #Housing\n\nWhere does precision matter most in a home?",
+    "facebook": "Why would a home need precision under a millimeter? I think about it simply: parts that fit the first time mean less rework and less waste. BUILT® is laser-guided and designed for sub-millimeter precision.\n\n#ConstructionTech #Housing\n\nHave you ever had a renovation where nothing lined up?",
+    "linkedin": "Small errors compound. Precision at every step is what keeps them from adding up.\n\nBUILT® is laser-guided and designed for millimeter and sub-millimeter precision. For scale: a standard credit card is 0.76 mm thick (ISO/IEC 7810).\n\nWhat precision buys: components that line up when they arrive, fewer fixes after the fact, and fewer cut-and-discard mistakes.\n\nThe check I'd run on any build: How is it measured? How tight is the tolerance? What happens when parts don't fit? How is waste tracked?\n\n#ConstructionTech #Precision\n\nWhere have you seen small errors compound?",
+    "x": "A credit card is 0.76 mm thick (ISO/IEC 7810).\n\nBUILT® is designed for sub-millimeter precision.\n\nWhy I care: parts that fit the first time mean less rework and less waste. Where does precision matter most to you?",
+    "threads": "Under a millimeter. That's the precision we designed BUILT® for. For scale, a credit card is 0.76 mm thick.\n\nDoes that change how you think about homes?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHY DO MILLIMETERS MATTER IN A HOME?",
-     "subline": "Sub-millimeter precision, explained. Swipe →",
+     "headline": "WHY WOULD A HOME NEED PRECISION UNDER A MILLIMETER?",
+     "subline": "Sub-millimeter, explained. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Why would a home need precision under a millimeter?",
+       "mechanism": "Curiosity gap + specificity: an unexpected scale for a house.",
+       "chosen": true
+      },
+      {
+       "text": "Why do millimeters matter in a home?",
+       "mechanism": "Question: simpler, less striking."
+      },
+      {
+       "text": "A credit card is 0.76 mm thick. Here's why that matters.",
+       "mechanism": "Specificity: concrete, but the link is delayed."
+      }
+     ],
      "scene": "laser",
-     "attachments": []
+     "sourceLine": "BUILT® per stephenjemal.com",
+     "attachments": [],
+     "altText": "Cover headline 'Why would a home need precision under a millimeter?' over an illustrated laser scanning a building panel."
     },
     {
      "n": 2,
      "template": "stats_cards",
-     "kicker": "HOW SMALL IS SMALL?",
+     "kicker": "IN PERSPECTIVE",
      "headline": "A MILLIMETER, IN PERSPECTIVE",
      "stats": [
       [
        "< 1 mm",
-       "BUILT®'s sub-millimeter fit target (per JemRock)"
+       "Sub-millimeter: the precision BUILT® is designed for"
       ],
       [
        "0.76 mm",
@@ -4591,16 +4917,17 @@
       ]
      ],
      "scene": "laser",
+     "sourceLine": "BUILT® per stephenjemal.com. Card thickness: ISO/IEC 7810.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Credit card thickness: ISO/IEC 7810"
+     "altText": "Two stat cards: under 1 mm, the sub-millimeter precision BUILT is designed for, and 0.76 mm, a credit card's thickness."
     },
     {
      "n": 3,
      "template": "cards_stack",
-     "kicker": "WHY IT MATTERS",
-     "headline": "WHAT PRECISION BUYS YOU",
+     "kicker": "WHAT PRECISION BUYS",
+     "headline": "EXACT FIT, LESS REWORK, LESS WASTE",
      "cards": [
       {
        "icon": "laser",
@@ -4618,15 +4945,16 @@
        "body": "Fewer cut-and-discard mistakes."
       }
      ],
-     "scene": "laser",
+     "scene": "blueprint",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three cards: exact fit, less rework, less waste."
     },
     {
      "n": 4,
      "template": "flow_steps",
-     "kicker": "THE CHAIN",
+     "kicker": "THE SEQUENCE",
      "headline": "MEASURE. GUIDE. FIT.",
      "flow": [
       [
@@ -4642,11 +4970,14 @@
        "shield"
       ]
      ],
-     "scene": "laser",
+     "pullLine": "Small errors compound. So does precision.",
+     "scene": "factory",
+     "needsApproval": true,
+     "approvalNote": "Opinion pull line in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "Precision at every step compounds into a better home."
+     "altText": "A three-step flow, measure, guide, fit, with a pull line about precision compounding."
     },
     {
      "n": 5,
@@ -4661,33 +4992,63 @@
      ],
      "button": "Comment where precision matters most",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered precision-check questions with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin: opening lesson and 'The check I'd run'; x: 'Why I care'.",
+   "caption": "A standard credit card is 0.76 mm thick (ISO/IEC 7810). BUILT® is designed for millimeter and sub-millimeter precision: under 1 mm.\n\nWhy I care about that: parts that line up when they arrive, less rework, less waste.\n\nSave the 4-question precision check.\n\n#ConstructionTech #Precision #Housing\n\nWhere does precision matter most in a home?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 32,
    "week": 32,
    "title": "Cloud-based project management",
    "pillar": "BUILT technology",
-   "caption": "What if you could watch every project in real time? Swipe for how cloud tools reduce surprises. Which update would you want live? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "What if you could see every build in real time? What I'd want from cloud-based project management: one shared view, problems flagged earlier, faster decisions.\n\nCloud-based is one of the four pillars of BUILT®.\n\nSave the 5 questions for any project dashboard.\n\n#ConstructionTech #ProjectManagement #Cloud\n\nWhich metric would you watch?",
+    "facebook": "Scattered updates or one real-time view? I compared the two, and listed five questions for any project dashboard.\n\n#ProjectManagement #ConstructionTech\n\nHow do you track projects today?",
+    "linkedin": "The goal of project software is faster decisions, not more reports.\n\nCloud-based project management gives everyone one version of the truth: the same plan and the same status, with problems showing up earlier. Data becomes a dashboard, and the dashboard drives a decision.\n\nCloud-based is one of the four pillars of BUILT®.\n\nFive questions I'd ask of any dashboard: Who can see it? How current is the data? What triggers an alert? Who acts on it? What gets reviewed weekly?\n\n#ProjectManagement #ConstructionTech\n\nWhich question does your current setup fail?",
+    "x": "Data → dashboard → decision.\n\nThe point of a project dashboard is faster decisions, not more reports. That's the bar I'd hold it to.\n\nWhat would you put on yours?",
+    "threads": "One shared, real-time view of every project. That's what I'd want from the cloud.\n\nHow do you track yours?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHAT IF YOU COULD WATCH THE BUILD IN REAL TIME?",
-     "subline": "Cloud-based project management at scale. Swipe →",
+     "headline": "WHAT IF YOU COULD SEE EVERY BUILD IN REAL TIME?",
+     "subline": "Cloud project management, explained. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "What if you could see every build in real time?",
+       "mechanism": "Curiosity + aspiration: a concrete wish.",
+       "chosen": true
+      },
+      {
+       "text": "Faster decisions, not more reports.",
+       "mechanism": "Contrarian rule: punchy, opinion."
+      },
+      {
+       "text": "Scattered updates or one real-time view?",
+       "mechanism": "Contrast: frames the comparison."
+      }
+     ],
      "scene": "cloud",
-     "attachments": []
+     "sourceLine": "General guidance",
+     "attachments": [],
+     "altText": "Cover headline 'What if you could see every build in real time?' over an illustrated cloud linked to buildings."
     },
     {
      "n": 2,
      "template": "cards_stack",
-     "kicker": "THREE BENEFITS",
-     "headline": "WHY THE CLOUD HELPS",
+     "kicker": "WHY THE CLOUD HELPS",
+     "headline": "ONE VIEW OF EVERY PROJECT",
      "cards": [
       {
        "icon": "cloud",
@@ -4709,12 +5070,12 @@
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "altText": "Three cards: monitoring many projects, one version of the truth, fewer surprises."
     },
     {
      "n": 3,
      "template": "flow_steps",
-     "kicker": "THE FLOW",
+     "kicker": "THE CHAIN",
      "headline": "DATA. DASHBOARD. DECISION.",
      "flow": [
       [
@@ -4730,11 +5091,14 @@
        "key"
       ]
      ],
+     "pullLine": "The goal is faster decisions, not more reports.",
      "scene": "chart",
+     "needsApproval": true,
+     "approvalNote": "Opinion pull line in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "The goal is faster decisions, not more reports."
+     "altText": "A three-step flow from data to dashboard to decision."
     },
     {
      "n": 4,
@@ -4759,10 +5123,13 @@
        "Delays flagged early"
       ]
      ],
+     "pullLine": "Cloud-based is one of the four pillars of BUILT®.",
      "scene": "cloud",
+     "sourceLine": "BUILT® per stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting scattered updates with a real-time view, noting cloud-based is a BUILT pillar."
     },
     {
      "n": 5,
@@ -4778,11 +5145,18 @@
      ],
      "button": "Comment the metric you'd watch",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered questions for any project dashboard, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin/x/threads: opening lesson, 'Five questions I'd ask', 'the bar I'd hold it to', 'what I'd want'.",
+   "caption": "What if you could see every build in real time? What I'd want from cloud-based project management: one shared view, problems flagged earlier, faster decisions.\n\nCloud-based is one of the four pillars of BUILT®.\n\nSave the 5 questions for any project dashboard.\n\n#ConstructionTech #ProjectManagement #Cloud\n\nWhich metric would you watch?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 33,

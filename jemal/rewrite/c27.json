@@ -1,0 +1,154 @@
+{
+  "id": 27,
+  "week": 27,
+  "title": "BUILT® in 60 seconds",
+  "pillar": "BUILT technology",
+  "captions": {
+    "instagram": "BUILT® in one swipe: an AI-powered, robotics-driven, cloud-based, laser-guided system for producing prefabricated modular housing.\n\nThe model: one mother factory in the United States and hundreds of custom pilot factories in the countries that need housing, designed for local jobs and government partnerships.\n\nWe unveiled it in August 2026, and I presented it at the United Nations.\n\n#BUILT #ModularConstruction #Housing\n\nWhat would you ask me about BUILT®?",
+    "facebook": "We unveiled BUILT® in August 2026: a prefabricated modular housing production system that is AI-powered, robotics-driven, cloud-based and laser-guided. Swipe for how it works.\n\n#ModularConstruction #Housing\n\nWhich part would you want to see up close?",
+    "linkedin": "Our mission at JemRock is to change how the world produces housing at global scale. BUILT® is how we plan to do it.\n\nBUILT® is an AI-powered, robotics-driven, cloud-based, laser-guided prefabricated modular housing production system. The model is one mother factory in the United States and hundreds of custom pilot factories in the countries that need housing.\n\nIt is designed for local jobs and government partnerships, millimeter and sub-millimeter precision, and less material waste. We unveiled it in August 2026, and I presented it at the United Nations.\n\n#ConstructionTech #Housing\n\nWhat question would you ask first?",
+    "x": "BUILT®, in one line: AI-powered, robotics-driven, cloud-based, laser-guided prefab modular housing production.\n\nOne mother factory in the US. Hundreds of pilot factories where housing is needed.\n\nWe unveiled it in August 2026. What would you ask?",
+    "threads": "One mother factory. Hundreds of pilot factories. That's the BUILT® model we unveiled in August 2026.\n\nWhat do you want to know?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "ONE MOTHER FACTORY. HUNDREDS OF PILOT FACTORIES. THAT'S BUILT®.",
+      "subline": "BUILT® in 60 seconds. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "One mother factory. Hundreds of pilot factories. That's BUILT®.",
+          "mechanism": "Specificity: the model in two concrete lines.",
+          "chosen": true
+        },
+        {
+          "text": "What if homes were made like precision equipment?",
+          "mechanism": "Curiosity gap: evocative, less concrete."
+        },
+        {
+          "text": "BUILT® in 60 seconds: four technologies, one housing system.",
+          "mechanism": "Promise: clear, low tension."
+        }
+      ],
+      "scene": "factory",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [],
+      "altText": "Cover headline 'One mother factory. Hundreds of pilot factories. That's BUILT.' over an illustrated precision factory hall."
+    },
+    {
+      "n": 2,
+      "template": "flow_steps",
+      "kicker": "FOUR TECHNOLOGIES",
+      "headline": "ONE PREFAB HOUSING SYSTEM",
+      "body": "BUILT® combines all four in one prefabricated modular housing production system.",
+      "flow": [
+        [
+          "AI-POWERED",
+          "blueprint"
+        ],
+        [
+          "ROBOTICS-DRIVEN",
+          "robot-arm"
+        ],
+        [
+          "CLOUD-BASED",
+          "cloud"
+        ],
+        [
+          "LASER-GUIDED",
+          "laser"
+        ]
+      ],
+      "scene": "robot",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow of BUILT's pillars: AI-powered, robotics-driven, cloud-based, laser-guided."
+    },
+    {
+      "n": 3,
+      "template": "stats_grid",
+      "kicker": "WHAT IT'S DESIGNED FOR",
+      "headline": "PRECISION, LESS WASTE, LOCAL JOBS",
+      "cards": [
+        [
+          "PRECISION",
+          "Millimeter and sub-millimeter"
+        ],
+        [
+          "LESS WASTE",
+          "Less material waste"
+        ],
+        [
+          "LOCAL JOBS",
+          "Pilot factories where housing is needed"
+        ],
+        [
+          "PARTNERSHIPS",
+          "Designed to work with governments"
+        ]
+      ],
+      "scene": "laser",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid: millimeter precision, less material waste, local jobs, government partnerships."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE MODEL",
+      "headline": "ONE MOTHER FACTORY. HUNDREDS OF PILOT FACTORIES.",
+      "columns": [
+        "MOTHER FACTORY",
+        "PILOT FACTORIES"
+      ],
+      "rows": [
+        [
+          "One",
+          "Hundreds"
+        ],
+        [
+          "In the United States",
+          "In the countries that need housing"
+        ],
+        [
+          "The center of the model",
+          "Custom-built, local jobs"
+        ]
+      ],
+      "pullLine": "Unveiled August 2026. Presented at the United Nations.",
+      "scene": "globe",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table comparing one US mother factory with hundreds of custom pilot factories, with the 2026 unveiling and UN presentation."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE BUILT® CHEAT SHEET",
+      "rows": [
+        "AI-powered",
+        "Robotics-driven",
+        "Cloud-based",
+        "Laser-guided",
+        "One mother factory in the US",
+        "Hundreds of custom pilot factories"
+      ],
+      "button": "Comment what you'd ask me about BUILT®",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A six-line numbered BUILT fact sheet with a gold comment button."
+    }
+  ]
+}

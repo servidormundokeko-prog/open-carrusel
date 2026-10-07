@@ -1,0 +1,147 @@
+{
+  "id": 24,
+  "week": 24,
+  "title": "Speed vs. quality",
+  "pillar": "Scaling and systems (general guidance)",
+  "captions": {
+    "instagram": "Do you have to choose between speed and quality?\n\nHow I see it: speed without standards multiplies mistakes, and standards without systems are slow. Standards plus systems let work be fast and consistent.\n\nSave the 4-question speed check.\n\n#Operations #Quality #SmallBusiness\n\nWhere's your bottleneck?",
+    "facebook": "Speed or quality? With a written standard and a repeatable system, I don't think you have to pick. The last slide is a 4-question speed check.\n\n#Operations #SmallBusiness\n\nWhich do you usually sacrifice?",
+    "linkedin": "Speed is the result of a good system, not a shortcut around one.\n\nThe trade-off exists for a reason. Speed without standards multiplies mistakes. Standards without systems keep quality high but slow everything down. Put a written standard inside a repeatable system and work can be fast and consistent.\n\nThe check I'd run: Is the standard written? Is the process repeatable? Where do delays start? Can we remove a step?\n\n#Operations #Quality\n\nWhich step in your process would you remove first?",
+    "x": "Speed without standards = mistakes.\nStandards without systems = slow.\nStandards + systems = fast and consistent.\n\nThat's how I see it. Where's your bottleneck?",
+    "threads": "I don't think speed and quality have to fight. A written standard inside a repeatable system fixes most of it.\n\nAgree?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "DO YOU HAVE TO CHOOSE BETWEEN SPEED AND QUALITY?",
+      "subline": "Why systems are the way out. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Do you have to choose between speed and quality?",
+          "mechanism": "Question + tension: a trade-off every operator feels.",
+          "chosen": true
+        },
+        {
+          "text": "Speed is the result of a good system, not a shortcut.",
+          "mechanism": "Contrarian: strong, but opinion."
+        },
+        {
+          "text": "Fast or good? Here's how to get both.",
+          "mechanism": "Promise: risks overpromising."
+        }
+      ],
+      "scene": "clock",
+      "sourceLine": "General guidance",
+      "attachments": [],
+      "altText": "Cover headline 'Do you have to choose between speed and quality?' over an illustrated glowing clock."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "THE TRADE-OFF",
+      "headline": "WHY SPEED AND QUALITY FIGHT",
+      "cards": [
+        {
+          "title": "SPEED WITHOUT STANDARDS",
+          "body": "Work moves quickly, and mistakes multiply."
+        },
+        {
+          "title": "STANDARDS WITHOUT SYSTEMS",
+          "body": "Quality is high, but everything is slow."
+        },
+        {
+          "accent": "left-border",
+          "title": "STANDARDS PLUS SYSTEMS",
+          "body": "Repeatable methods let work be fast and consistent."
+        }
+      ],
+      "scene": "clock",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: speed without standards, standards without systems, and standards plus systems."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "THE ORDER",
+      "headline": "STANDARD. SYSTEM. SPEED.",
+      "flow": [
+        [
+          "STANDARD",
+          "clipboard"
+        ],
+        [
+          "SYSTEM",
+          "gear"
+        ],
+        [
+          "SPEED",
+          "clock"
+        ]
+      ],
+      "pullLine": "Speed is the result of a good system, not a shortcut around one.",
+      "scene": "stairs",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow from standard to system to speed."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "ON SITE VS. STANDARDIZED",
+      "headline": "WHERE THE VARIABLES LIVE",
+      "columns": [
+        "SITE-BASED",
+        "STANDARDIZED"
+      ],
+      "rows": [
+        [
+          "More complexity on site",
+          "Less complexity on site"
+        ],
+        [
+          "Delays from many variables",
+          "Fewer variables to delay"
+        ],
+        [
+          "Results vary",
+          "Methods are consistent"
+        ]
+      ],
+      "scene": "crane",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting site-based building with standardized production."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 4-QUESTION SPEED CHECK",
+      "rows": [
+        "Is the standard written?",
+        "Is the process repeatable?",
+        "Where do delays start?",
+        "Can we remove a step?"
+      ],
+      "button": "Comment your bottleneck",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered speed-check questions with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "all: 'How I see it' / 'I don't think you have to pick'."
+}

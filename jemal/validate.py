@@ -185,11 +185,11 @@ def check_carousel(c):
             if re.search(pat, joined, re.I) and key not in (s.get("sourceLine") or "").lower().replace("jemrock", "jemrock"):
                 if not (key == "jemrock" and "jemrock" in (s.get("sourceLine") or "").lower()):
                     err(w, f"cites a {label} number but the source line doesn't say so")
-        if re.search(r"\bBUILT(?!®)\b", alltext) and not re.search(r"\b(I|WE|HE)\s+BUILT\b", alltext, re.I):
+        if re.search(r"(?<![-\w])BUILT(?!®)\b", alltext) and not re.search(r"\b(I|WE|HE)\s+BUILT\b", alltext, re.I):
             for t in texts:
-                if re.search(r"\bBUILT(?!®)", t) and t != t.upper():
+                if re.search(r"(?<![-\w])BUILT(?!®)", t) and t != t.upper():
                     err(w, f"BUILT without ®: {t!r}")
-        if re.search(r"\b(PASHA|BUILT)", joined) and re.search(r"\b(first|only)\b", joined, re.I):
+        if re.search(r"(?<![-\w])(PASHA|BUILT)\b", joined) and re.search(r"\b(first|only)\b", joined, re.I):
             warn(w, "'first'/'only' near PASHA or BUILT®: check it is not a claim about them")
         if OPINION.search(joined) and not s.get("needsApproval"):
             warn(w, "opinion/lesson phrasing without needsApproval")
@@ -218,7 +218,7 @@ def check_carousel(c):
             err(W, f"{p} caption must end with a question")
         if len(re.findall(r"#\w+", t)) > 3:
             err(W, f"{p} caption has more than 3 hashtags")
-        if not re.search(r"\b(I|I'm|I've|I'd|my|we|our|My|We|Our)\b", t):
+        if not re.search(r"\b(I|I'm|I've|I'd|me|my|we|our|My|We|Our)\b", t):
             warn(W, f"{p} caption has no first-person word")
         if re.search(r"Stephen", t.replace(HANDLE, "")):
             err(W, f"{p} caption uses third-person 'Stephen'")

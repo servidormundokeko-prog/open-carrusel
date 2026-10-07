@@ -43,3 +43,13 @@
 - **C21 Brand consistency audit**: unchanged structure. The covers now carry "General retail guidance".
 - **C22 Systems, not heroes**: the stakes hook "What happens when your best person is out?" replaces a 14-word headline.
 - **All of 14-22**: no statistics, the cover source line says "General retail guidance", and lines in Stephen's voice ("the checklist I'd use") are flagged.
+
+## Batch 3: carousels 23-32
+
+- **C23 Cost awareness, C24 Speed vs. quality**: tightened general guidance, labeled "General guidance", with the "I'd" lines flagged.
+- **C25 Ready to scale?**: "Location #2" became "a second location". Slide 3 is now stats rows, so slides 2-4 no longer repeat a template.
+- **C26 Scaling mistakes**: 7 mistakes became 6 to meet the 6-item limit, with a matching 6-point check.
+- **C27 BUILT® in 60 seconds**: the hook is "One mother factory. Hundreds of pilot factories." The unverified claims ("machine learning", "reduce cost", "machines made in the US") are removed. Adds the August 2026 unveiling and the UN presentation. The closing slide is a factual cheat sheet.
+- **C28 The four pillars**: the pillars are confirmed BUILT® facts. What each technology does is explained in general terms and labeled that way, not as BUILT® specifications.
+- **C29 AI in construction planning, C30 Robots in prefab, C32 Cloud project management**: the "Per Stephen Jemal's site" claims, which aren't on the verified list, are now general explanations. Each ties back to the confirmed BUILT® pillar.
+- **C31 Laser-guided precision**: "sub-millimeter, under 1 mm" (confirmed) next to the 0.76 mm credit card (ISO/IEC 7810). Neither is presented as a measured BUILT® result.

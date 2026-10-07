@@ -1,0 +1,140 @@
+{
+  "id": 31,
+  "week": 31,
+  "title": "Laser-guided precision",
+  "pillar": "BUILT technology",
+  "captions": {
+    "instagram": "A standard credit card is 0.76 mm thick (ISO/IEC 7810). BUILT® is designed for millimeter and sub-millimeter precision: under 1 mm.\n\nWhy I care about that: parts that line up when they arrive, less rework, less waste.\n\nSave the 4-question precision check.\n\n#ConstructionTech #Precision #Housing\n\nWhere does precision matter most in a home?",
+    "facebook": "Why would a home need precision under a millimeter? I think about it simply: parts that fit the first time mean less rework and less waste. BUILT® is laser-guided and designed for sub-millimeter precision.\n\n#ConstructionTech #Housing\n\nHave you ever had a renovation where nothing lined up?",
+    "linkedin": "Small errors compound. Precision at every step is what keeps them from adding up.\n\nBUILT® is laser-guided and designed for millimeter and sub-millimeter precision. For scale: a standard credit card is 0.76 mm thick (ISO/IEC 7810).\n\nWhat precision buys: components that line up when they arrive, fewer fixes after the fact, and fewer cut-and-discard mistakes.\n\nThe check I'd run on any build: How is it measured? How tight is the tolerance? What happens when parts don't fit? How is waste tracked?\n\n#ConstructionTech #Precision\n\nWhere have you seen small errors compound?",
+    "x": "A credit card is 0.76 mm thick (ISO/IEC 7810).\n\nBUILT® is designed for sub-millimeter precision.\n\nWhy I care: parts that fit the first time mean less rework and less waste. Where does precision matter most to you?",
+    "threads": "Under a millimeter. That's the precision we designed BUILT® for. For scale, a credit card is 0.76 mm thick.\n\nDoes that change how you think about homes?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "WHY WOULD A HOME NEED PRECISION UNDER A MILLIMETER?",
+      "subline": "Sub-millimeter, explained. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Why would a home need precision under a millimeter?",
+          "mechanism": "Curiosity gap + specificity: an unexpected scale for a house.",
+          "chosen": true
+        },
+        {
+          "text": "Why do millimeters matter in a home?",
+          "mechanism": "Question: simpler, less striking."
+        },
+        {
+          "text": "A credit card is 0.76 mm thick. Here's why that matters.",
+          "mechanism": "Specificity: concrete, but the link is delayed."
+        }
+      ],
+      "scene": "laser",
+      "sourceLine": "BUILT® per stephenjemal.com",
+      "attachments": [],
+      "altText": "Cover headline 'Why would a home need precision under a millimeter?' over an illustrated laser scanning a building panel."
+    },
+    {
+      "n": 2,
+      "template": "stats_cards",
+      "kicker": "IN PERSPECTIVE",
+      "headline": "A MILLIMETER, IN PERSPECTIVE",
+      "stats": [
+        [
+          "< 1 mm",
+          "Sub-millimeter: the precision BUILT® is designed for"
+        ],
+        [
+          "0.76 mm",
+          "The thickness of a standard credit card"
+        ]
+      ],
+      "scene": "laser",
+      "sourceLine": "BUILT® per stephenjemal.com. Card thickness: ISO/IEC 7810.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Two stat cards: under 1 mm, the sub-millimeter precision BUILT is designed for, and 0.76 mm, a credit card's thickness."
+    },
+    {
+      "n": 3,
+      "template": "cards_stack",
+      "kicker": "WHAT PRECISION BUYS",
+      "headline": "EXACT FIT, LESS REWORK, LESS WASTE",
+      "cards": [
+        {
+          "icon": "laser",
+          "title": "EXACT FIT",
+          "body": "Components that line up when they arrive."
+        },
+        {
+          "icon": "gear",
+          "title": "LESS REWORK",
+          "body": "Fewer fixes after the fact."
+        },
+        {
+          "icon": "shield",
+          "title": "LESS WASTE",
+          "body": "Fewer cut-and-discard mistakes."
+        }
+      ],
+      "scene": "blueprint",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: exact fit, less rework, less waste."
+    },
+    {
+      "n": 4,
+      "template": "flow_steps",
+      "kicker": "THE SEQUENCE",
+      "headline": "MEASURE. GUIDE. FIT.",
+      "flow": [
+        [
+          "MEASURE",
+          "laser"
+        ],
+        [
+          "GUIDE",
+          "robot-arm"
+        ],
+        [
+          "FIT",
+          "shield"
+        ]
+      ],
+      "pullLine": "Small errors compound. So does precision.",
+      "scene": "factory",
+      "needsApproval": true,
+      "approvalNote": "Opinion pull line in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow, measure, guide, fit, with a pull line about precision compounding."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 4-QUESTION PRECISION CHECK",
+      "rows": [
+        "How is it measured?",
+        "How tight is the tolerance?",
+        "What happens when parts don't fit?",
+        "How is waste tracked?"
+      ],
+      "button": "Comment where precision matters most",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered precision-check questions with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson and 'The check I'd run'; x: 'Why I care'."
+}

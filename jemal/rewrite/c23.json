@@ -1,0 +1,152 @@
+{
+  "id": 23,
+  "week": 23,
+  "title": "Cost awareness",
+  "pillar": "Scaling and systems (general guidance)",
+  "captions": {
+    "instagram": "Where does the money leak? Usually in three places: planning, construction and operations.\n\nThe habit I'd build: spot it, measure it, fix it. You can't control a cost you haven't measured.\n\nSave the 5 leak checks.\n\n#SmallBusiness #Operations #CostControl\n\nWhere's your biggest leak?",
+    "facebook": "Costs hide in rework, waiting, wasted materials and duplicated effort. I put 5 leak checks on the last slide.\n\n#SmallBusiness #Operations\n\nWhich one costs your business the most?",
+    "linkedin": "You can't control a cost you haven't measured.\n\nCosts hide in three places: planning (rework from unclear plans and late changes), construction (delays and wasted materials) and operations (slow processes and duplicated effort).\n\nThe habit I'd build: spot, measure, fix, and track costs as work happens instead of after the fact.\n\nFive leak checks: Where do we redo work? Where do we wait? Where do we waste materials? Where do we repeat effort? Where do we lack data?\n\n#Operations #CostControl\n\nWhich leak is hardest to see in your business?",
+    "x": "Where does the money leak?\n\nRework. Waiting. Wasted materials. Repeated effort. Missing data.\n\nI'd start by measuring one of them this week. Which one would you pick?",
+    "threads": "You can't control a cost you haven't measured. I'd start with rework.\n\nWhere does your money leak?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "WHERE DOES THE MONEY LEAK?",
+      "subline": "Three places costs hide, and 5 checks to find them. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Where does the money leak?",
+          "mechanism": "Question + stakes: every owner suspects a leak.",
+          "chosen": true
+        },
+        {
+          "text": "You can't control a cost you haven't measured.",
+          "mechanism": "Contrarian rule: strong, gives the payoff away."
+        },
+        {
+          "text": "Three places costs hide in every project.",
+          "mechanism": "Specificity: countable promise."
+        }
+      ],
+      "scene": "scale",
+      "sourceLine": "General guidance",
+      "attachments": [],
+      "altText": "Cover headline 'Where does the money leak?' over an illustrated golden balance scale."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "WHERE COSTS HIDE",
+      "headline": "PLANNING, CONSTRUCTION, OPERATIONS",
+      "cards": [
+        {
+          "icon": "blueprint",
+          "title": "PLANNING",
+          "body": "Rework caused by unclear plans and late changes."
+        },
+        {
+          "icon": "hard-hat",
+          "title": "CONSTRUCTION",
+          "body": "Delays and wasted materials on the job."
+        },
+        {
+          "icon": "gear",
+          "title": "OPERATIONS",
+          "body": "Slow processes and duplicated effort."
+        }
+      ],
+      "scene": "scale",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: planning rework, construction delays and waste, operational duplication."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "THE HABIT",
+      "headline": "SPOT. MEASURE. FIX.",
+      "flow": [
+        [
+          "SPOT",
+          "magnifying-glass"
+        ],
+        [
+          "MEASURE",
+          "chart"
+        ],
+        [
+          "FIX",
+          "gear"
+        ]
+      ],
+      "pullLine": "You can't control a cost you haven't measured.",
+      "scene": "chart",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow, spot, measure, fix, with a pull line about measuring costs."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "REACTIVE VS. COST-AWARE",
+      "columns": [
+        "REACTIVE",
+        "COST-AWARE"
+      ],
+      "rows": [
+        [
+          "Notice costs after the fact",
+          "Track costs as work happens"
+        ],
+        [
+          "Fix problems late",
+          "Catch them early"
+        ],
+        [
+          "Plans change midstream",
+          "Plans are tested first"
+        ],
+        [
+          "Waste is accepted",
+          "Waste is measured"
+        ]
+      ],
+      "scene": "clipboard",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting reactive and cost-aware management."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "5 LEAK CHECKS",
+      "rows": [
+        "Where do we redo work?",
+        "Where do we wait?",
+        "Where do we waste materials?",
+        "Where do we repeat effort?",
+        "Where do we lack data?"
+      ],
+      "button": "Comment your biggest leak",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered cost-leak questions with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/linkedin/x/threads: 'The habit I'd build', 'I'd start'."
+}

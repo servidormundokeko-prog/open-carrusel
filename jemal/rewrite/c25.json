@@ -1,0 +1,148 @@
+{
+  "id": 25,
+  "week": 25,
+  "title": "Ready to scale?",
+  "pillar": "Scaling and systems (general guidance)",
+  "captions": {
+    "instagram": "Five signs you're ready for a second location: the model is proven, the playbook is written, someone else can run it, funding and staff are ready, and the first location stays strong.\n\nScaling a weak model only scales the weakness.\n\nI'd want all five before opening a second. Score yourself on the last slide.\n\n#SmallBusiness #Scaling #Entrepreneurship\n\nWhat's your score out of five?",
+    "facebook": "Thinking about a second location? I made a 5-point readiness scorecard. Be honest with it.\n\n#SmallBusiness #Scaling\n\nWhat's holding you back from location two?",
+    "linkedin": "Scaling a weak model only scales the weakness.\n\nThe signs I'd look for before a second location: it works in one place, with real customers, repeatedly. The playbook is written down. Someone other than the founder can run it. Funding and staff are planned. And the first location can stay strong while you open the next.\n\nIf success still depends on you, it isn't ready yet.\n\n#Scaling #Entrepreneurship\n\nWhich sign is hardest to reach?",
+    "x": "Ready for a second location?\n\n1. Model proven\n2. Playbook written\n3. Someone else can run it\n4. Funding and staff ready\n5. First location stable\n\nI'd want all five. How many do you have?",
+    "threads": "Scaling a weak model only scales the weakness. I'd want five signs in place first.\n\nHow many do you have?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "5 SIGNS YOU'RE READY FOR A SECOND LOCATION",
+      "subline": "Score yourself on the last slide. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "5 signs you're ready for a second location",
+          "mechanism": "Specificity + identity: speaks to owners weighing expansion.",
+          "chosen": true
+        },
+        {
+          "text": "Scaling a weak model only scales the weakness.",
+          "mechanism": "Contrarian: strong, but opinion."
+        },
+        {
+          "text": "Is your model ready to travel?",
+          "mechanism": "Question: vaguer."
+        }
+      ],
+      "scene": "stairs",
+      "sourceLine": "General guidance",
+      "attachments": [],
+      "altText": "Cover headline '5 signs you're ready for a second location' over illustrated gold steps rising."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "SIGNS 1 TO 3",
+      "headline": "THE MODEL WORKS",
+      "cards": [
+        {
+          "body": "It works in one location, with real customers, repeatedly."
+        },
+        {
+          "body": "You can write the playbook down."
+        },
+        {
+          "body": "Someone other than you can run it."
+        }
+      ],
+      "scene": "stairs",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three numbered cards: it works repeatedly in one location, the playbook is written, someone else can run it."
+    },
+    {
+      "n": 3,
+      "template": "stats_rows",
+      "kicker": "SIGNS 4 AND 5",
+      "headline": "YOU CAN SUPPORT IT",
+      "rows": [
+        [
+          "FUNDING",
+          "You can pay for a second location"
+        ],
+        [
+          "STAFF",
+          "You can hire and train for it"
+        ],
+        [
+          "FOCUS",
+          "The first stays strong while you open the next"
+        ]
+      ],
+      "pullLine": "Scaling a weak model only scales the weakness.",
+      "scene": "chart",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three rows: funding, staff and focus on the first location, with a pull line about weak models."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "NOT YET VS. READY",
+      "columns": [
+        "NOT YET",
+        "READY"
+      ],
+      "rows": [
+        [
+          "Success depends on you",
+          "Success depends on the system"
+        ],
+        [
+          "No written playbook",
+          "A written playbook"
+        ],
+        [
+          "Cash is tight",
+          "Funding is planned"
+        ],
+        [
+          "One location is shaky",
+          "One location is steady"
+        ]
+      ],
+      "scene": "row",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting not-yet-ready and ready businesses."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 5-POINT READINESS SCORECARD",
+      "rows": [
+        "Model proven in one place",
+        "Playbook written",
+        "Operator trained",
+        "Funding and staff ready",
+        "First location stable"
+      ],
+      "button": "Comment your score out of five",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A five-point numbered readiness scorecard with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/linkedin/x/threads: 'The signs I'd look for', 'I'd want all five'."
+}

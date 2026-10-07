@@ -38,6 +38,12 @@ These don't change the exported PNGs.
 
 Checked by `validate.py`: white on navy 16.5, white on card 14.6, muted on navy 6.6, muted on card 5.8, gold on navy 7.5, gold on card 6.6, navy on gold button 7.5. All pass.
 
-## No new templates or scenes
+## Batch 1 fixes
 
-The pilot needed none.
+- **New `row` illustration in the studio.** The original data used scene `row` on 7 slides, but the studio had no drawing for it, so those banners were blank. The Flow prompt description is unchanged.
+- **`stats_rows` labels widen to fit.** Long labels such as "ADVERTISING" overlapped the text. They now take 250-440px, and the auto-fit shrinks the slide if a label still doesn't fit.
+- **C11 slide 2 uses one illustration.** It had both a banner and a top illustration stacked.
+
+## No new templates
+
+None needed so far. `row` was an existing scene name that lacked a drawing.

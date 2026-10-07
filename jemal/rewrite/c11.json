@@ -1,0 +1,141 @@
+{
+  "id": 11,
+  "week": 11,
+  "title": "Two generations of building",
+  "pillar": "Story",
+  "captions": {
+    "instagram": "My father, Norman N. Jemal, was my mentor. We worked together at our family discount store in Spanish Harlem, and in 1976 he opened the first Wiz on Fulton Street.\n\nToday I lead JemRock Organization and BUILT®, a prefabricated modular housing production system unveiled in August 2026.\n\nTwo generations, one thread: building.\n\n#FamilyBusiness #Brooklyn #Housing\n\nWhat did the generation before you build?",
+    "facebook": "From my father's store to a housing production system. Swipe for two generations of building, and save the 3 questions to ask the generation before you.\n\n#FamilyBusiness #Legacy\n\nWhat's one thing your parents taught you about work?",
+    "linkedin": "Ask the generation before you what they built first. The answers are worth saving.\n\nMy father, Norman N. Jemal, was my mentor. We worked together at our family discount store in Spanish Harlem. In 1976, he opened the first Wiz on Fulton Street in Brooklyn.\n\nMy own path ran from four stores by 16 to construction, waterfront revitalization and real estate, and now JemRock Organization, where I'm President and CEO. We unveiled BUILT® in August 2026: one mother factory in the US, hundreds of custom pilot factories in the countries that need housing.\n\n#FamilyBusiness #Leadership\n\nWhat's the best question you've asked a parent or mentor?",
+    "x": "My father opened the first Wiz on Fulton Street in 1976.\n\nIn 2026, we unveiled BUILT®, a prefab modular housing production system.\n\nTwo generations of building. What did the generation before you build?",
+    "threads": "My father opened the first Wiz in 1976. I'm building housing technology now.\n\nWhat did your parents build?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "MY FATHER OPENED THE FIRST WIZ. I'M BUILDING HOUSING TECH.",
+      "subline": "Two generations of building. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "My father opened the first Wiz. I'm building housing tech.",
+          "mechanism": "Transformation across generations: a clear before and after.",
+          "chosen": true
+        },
+        {
+          "text": "Two generations of building, from Fulton Street to BUILT®.",
+          "mechanism": "Specificity: names both ends."
+        },
+        {
+          "text": "What carries from a father's store to a housing system?",
+          "mechanism": "Curiosity gap: abstract."
+        }
+      ],
+      "background": "Two golden stepping-stone pedestals of increasing height, the first holding a small glowing storefront, the second a modern prefab housing factory, on a dark navy blueprint grid.",
+      "sourceLine": "Per company histories",
+      "attachments": [],
+      "altText": "Cover headline 'My father opened the first Wiz. I'm building housing tech.' over two gold pedestals holding a storefront and a factory."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "GENERATION 1",
+      "headline": "NORMAN N. JEMAL",
+      "subtitle": "My father and mentor",
+      "cards": [
+        {
+          "icon": "storefront",
+          "body": "We worked together at our family discount store in Spanish Harlem"
+        },
+        {
+          "icon": "location-pin",
+          "body": "In 1976, he opened the first Wiz on Fulton Street, Brooklyn"
+        },
+        {
+          "icon": "theater-curtain",
+          "body": "He named it after his favorite Broadway musical"
+        }
+      ],
+      "sourceLine": "Per company histories and stephenjemal.com",
+      "scene": "storefront",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards about Norman N. Jemal: the family store in Spanish Harlem, the first Wiz in 1976, and its Broadway-inspired name."
+    },
+    {
+      "n": 3,
+      "template": "timeline_vertical",
+      "kicker": "GENERATION 2",
+      "headline": "MY PATH: STORES, LAND, HOUSING",
+      "photo": {
+        "description": "a real portrait of Stephen Jemal",
+        "placement": "right side of the upper half, about 35% of the image width and 30% of its height"
+      },
+      "points": [
+        "Born in Brooklyn, the youngest of ten",
+        "By 16, started four electronics and music stores",
+        "As the chain grew, built an in-house construction company",
+        "Moved into waterfront revitalization and real estate",
+        "Today: President and CEO of JemRock Organization"
+      ],
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference",
+        "portrait of Stephen Jemal"
+      ],
+      "altText": "A portrait of Stephen Jemal beside a gold timeline from Brooklyn childhood to four stores, construction, real estate and JemRock."
+    },
+    {
+      "n": 4,
+      "template": "stats_grid",
+      "kicker": "WHAT WE BUILD NOW",
+      "headline": "BUILT®, UNVEILED AUGUST 2026",
+      "cards": [
+        [
+          "ONE MOTHER FACTORY",
+          "In the United States"
+        ],
+        [
+          "PILOT FACTORIES",
+          "Hundreds, in countries that need housing"
+        ],
+        [
+          "LOCAL JOBS",
+          "Designed for government partnerships"
+        ],
+        [
+          "PRECISION",
+          "Millimeter and sub-millimeter, less waste"
+        ]
+      ],
+      "scene": "factory",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid describing BUILT: one mother factory in the US, hundreds of pilot factories, local jobs with government partnerships, millimeter precision with less waste."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "3 QUESTIONS TO ASK THE GENERATION BEFORE YOU",
+      "rows": [
+        "What did you build first?",
+        "What would you do differently?",
+        "What should I never forget?"
+      ],
+      "button": "Comment one thing your family taught you about work",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three numbered questions to ask a parent or mentor, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson line."
+}

@@ -16,3 +16,16 @@
   - Every export also shows the PNGs in an "Exported images" panel to save by hand.
   - Errors now say what failed.
   - It warns when the portrait slot is empty.
+
+## Batch 1: carousels 2-9, 11, 12
+
+- **C2 Four stores at 16**: the hook now gives the real number ("By 16, I'd started four stores"). The path slide is in first person, the advice slides are flagged, and the closing questions are trimmed to fit the word limit.
+- **C3 A name and a claim**: the hook leads with "four words" and the regional brand fact. The unverified "value, confidence, competitive pricing" claim is gone, and the name origin is sourced.
+- **C4 How one storefront becomes a chain**: "four sons" removed. The unverified six-item checklist is replaced with two Wiz positioning pillars.
+- **C5 More than a store**: the cover names the 4 pillars. The "public identity" claim, which isn't on the verified list, is removed. A new flow shows how the pillars connect.
+- **C6 The system behind the store**: the systems are presented as a general framework, not as claims about the Wiz. Adds the confirmed in-house construction company.
+- **C7 Where you open matters**: the hook is now a save-worthy promise ("ask these 5 questions"). Adds the confirmed parcels across five areas. The site checklist is a general framework.
+- **C8 From retail to real estate**: first-person pivot. The zoning slide moved out (C46 covers it), replaced by the JemRock mission flow.
+- **C9 The numbers behind the story**: "four sons" removed. Uses only sourced numbers, adds McKinsey's cost-risk caveat, and the closing slide is a number cheat sheet.
+- **C11 Two generations of building** (was "Three generations"): the sons/PASHA slide is replaced by a BUILT® slide (unconfirmed facts). Uses one illustration per slide.
+- **C12 The buildout advantage**: the hook is the confirmed in-house construction company. The unconfirmed "learning every part of development" line is removed, and a new then-and-now table runs from prefab fixtures to BUILT®.

@@ -327,29 +327,53 @@
    "week": 2,
    "title": "Four stores at 16",
    "pillar": "Founder lessons",
-   "caption": "At 16, Stephen Jemal already had four electronics and music stores of his own, after working beside his father in the family store. Swipe for the path and five questions for your own first venture. What would you start? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "By 16, I'd started four electronics and music specialty stores.\n\nIt started in our family discount store in Spanish Harlem, working beside my father, Norman. In 1976, he opened the first Wiz on Fulton Street in Brooklyn.\n\nSwipe for the path, then save the 5 questions for your own first venture.\n\n#Entrepreneurship #YoungEntrepreneurs #Brooklyn\n\nWhat were you building at 16?",
+    "facebook": "I worked beside my father, Norman, at our family discount store in Spanish Harlem. By 16, I'd started four electronics and music specialty stores of my own.\n\nThe last slide has 5 questions for anyone thinking about a first venture.\n\n#Entrepreneurship #SmallBusiness\n\nWhat was your first job or first business?",
+    "linkedin": "You don't need to feel ready to start. You need someone to learn beside and a small first version.\n\nI worked beside my father, Norman N. Jemal, at our family discount store in Spanish Harlem. By 16, I had started four electronics and music specialty stores.\n\nFive questions I'd ask before a first venture:\n1. What can I already do well?\n2. Who can I learn beside?\n3. What need can I serve?\n4. What's the smallest version I can start?\n5. What will the first try teach me?\n\n#Entrepreneurship #Leadership\n\nWho did you learn your trade beside?",
+    "x": "By 16, I'd started four electronics and music stores.\n\nIt began in our family store in Spanish Harlem, working beside my father.\n\nWhat were you building at 16?",
+    "threads": "Four stores by 16. It started in our family store, working beside my father.\n\nWhat were you building at 16?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHAT WERE YOU BUILDING AT 16?",
-     "subline": "Stephen Jemal already had four stores. Swipe →",
+     "headline": "BY 16, I'D STARTED FOUR STORES. WHAT WERE YOU BUILDING?",
+     "subline": "Swipe for the path and 5 questions →",
+     "hookAlternatives": [
+      {
+       "text": "By 16, I'd started four stores. What were you building?",
+       "mechanism": "Specificity + question: a real number, then a self-relevant ask.",
+       "chosen": true
+      },
+      {
+       "text": "Four stores by 16. It started in our family store.",
+       "mechanism": "Story: names the origin, pays off on slide 2."
+      },
+      {
+       "text": "What can a 16-year-old build? Here's what I built.",
+       "mechanism": "Curiosity gap: slower, less specific."
+      }
+     ],
      "scene": "storefront",
-     "attachments": []
+     "sourceLine": "Source: stephenjemal.com",
+     "attachments": [],
+     "altText": "Cover with the headline about starting four stores by 16, over an illustrated lit storefront at dusk."
     },
     {
      "n": 2,
      "template": "flow_steps",
      "kicker": "THE PATH",
-     "headline": "FROM THE FAMILY STORE TO FOUR OF HIS OWN",
+     "headline": "FROM OUR FAMILY STORE TO FOUR OF MY OWN",
+     "body": "I worked beside my father, Norman, at our family discount store in Spanish Harlem. By 16, I'd started four electronics and music specialty stores.",
      "flow": [
       [
        "FAMILY STORE",
        "storefront"
       ],
       [
-       "FOUR STORES AT 16",
+       "FOUR STORES BY 16",
        "stack-of-storefronts"
       ],
       [
@@ -358,36 +382,35 @@
       ]
      ],
      "scene": "storefront",
+     "sourceLine": "Source: stephenjemal.com. 1976 per company histories.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "body": "He started in the family discount store in Spanish Harlem, started four electronics and music specialty stores by 16, and in 1976 the first Wiz opened on Fulton Street, Brooklyn.",
-     "sourceLine": "Per Stephen Jemal's biography and company histories"
+     "altText": "A three-step path from the family store to four stores by 16 to the first Wiz in 1976."
     },
     {
      "n": 3,
      "template": "cards_stack",
      "kicker": "THE PATTERN",
-     "headline": "HOW AN EARLY START WORKS",
+     "headline": "HOW AN EARLY START CAN WORK",
      "cards": [
       {
-       "title": "WORK BESIDE SOMEONE WHO KNOWS THE TRADE",
-       "body": "Learn how it's really done."
+       "body": "Work beside someone who knows the trade"
       },
       {
-       "title": "TAKE REAL RESPONSIBILITY EARLY",
-       "body": "Own part of the outcome."
+       "body": "Take real responsibility early"
       },
       {
-       "title": "TURN WHAT YOU LEARN INTO YOUR OWN VENTURE",
-       "body": "Start small and build from there."
+       "body": "Turn what you learn into something of your own"
       }
      ],
      "scene": "stairs",
+     "needsApproval": true,
+     "approvalNote": "Advice framework in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Framing, based on Stephen Jemal's biography"
+     "altText": "Three numbered cards: work beside someone who knows the trade, take real responsibility early, turn it into something of your own."
     },
     {
      "n": 4,
@@ -417,9 +440,12 @@
       ]
      ],
      "scene": "stairs",
+     "needsApproval": true,
+     "approvalNote": "Opinion comparison in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting waiting to feel ready with learning by doing."
     },
     {
      "n": 5,
@@ -427,92 +453,123 @@
      "kicker": "SAVE THIS",
      "headline": "5 QUESTIONS FOR YOUR FIRST VENTURE",
      "rows": [
-      "What do I already know how to do?",
+      "What can I already do well?",
       "Who can I learn beside?",
       "What need can I serve?",
-      "What is the smallest version I can start?",
-      "What will I learn from the first try?"
+      "What's the smallest version I can start?",
+      "What will the first try teach me?"
      ],
      "button": "Comment your first venture",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered questions for a first venture, with a gold button asking readers to comment theirs."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin: opening lesson line and 'Five questions I'd ask'.",
+   "caption": "By 16, I'd started four electronics and music specialty stores.\n\nIt started in our family discount store in Spanish Harlem, working beside my father, Norman. In 1976, he opened the first Wiz on Fulton Street in Brooklyn.\n\nSwipe for the path, then save the 5 questions for your own first venture.\n\n#Entrepreneurship #YoungEntrepreneurs #Brooklyn\n\nWhat were you building at 16?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 3,
    "week": 3,
    "title": "A name and a claim",
    "pillar": "Founder lessons",
-   "caption": "Can a name be a promise? Nobody Beats The Wiz worked as both a name and a claim. Per company histories, it was named after founder Norman Jemal's favorite Broadway musical. Swipe for four parts of a brand that sticks. How would you describe your brand in four words? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Nobody Beats The Wiz. Four words, and one of the most memorable electronics brands in the New York region.\n\nMy father named it after his favorite Broadway musical. The marketing pillars behind it: memorable naming, clear positioning, market visibility and brand consistency.\n\nSave the 4-part brand test on the last slide.\n\n#Branding #Marketing #SmallBusiness\n\nCan you describe your brand in four words?",
+    "facebook": "Nobody Beats The Wiz was named after my father's favorite Broadway musical. It became one of the most memorable electronics brands in the New York region.\n\nSwipe for the four marketing pillars behind it.\n\n#Branding #SmallBusiness\n\nWhat's a store name you still remember from when you were young?",
+    "linkedin": "A name can carry a promise if the business keeps it.\n\nNobody Beats The Wiz was named after my father's favorite Broadway musical, and it became one of the most memorable electronics brands in the New York region.\n\nFour marketing pillars sat behind it: memorable naming, clear positioning, market visibility and brand consistency.\n\nThe test I'd run on any brand: Is the name easy to remember? Is the promise clear? Do people see it often? Is it the same everywhere?\n\n#Branding #Marketing\n\nWhich of the four does your brand do best?",
+    "x": "Nobody Beats The Wiz.\n\nFour words. Named after my father's favorite Broadway musical. One of the most memorable electronics brands in the New York region.\n\nCan you describe your brand in four words?",
+    "threads": "Four words: Nobody Beats The Wiz. My father named it after his favorite Broadway musical.\n\nWhat's your brand in four words?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "CAN A NAME BE A PROMISE?",
-     "subline": "How Nobody Beats The Wiz worked as a brand. Swipe →",
-     "scene": "megaphone",
-     "attachments": []
-    },
-    {
-     "n": 2,
-     "template": "cards_stack",
-     "kicker": "WHAT THE NAME DID",
-     "headline": "A NAME AND A CLAIM",
-     "cards": [
+     "headline": "FOUR WORDS. ONE OF NEW YORK'S MOST MEMORABLE ELECTRONICS BRANDS.",
+     "subline": "How a name became a promise. Swipe →",
+     "hookAlternatives": [
       {
-       "icon": "banner-with-star",
-       "title": "AN INSTANT IMPRESSION",
-       "body": "Value, confidence and competitive pricing in four words."
+       "text": "Four words. One of New York's most memorable electronics brands.",
+       "mechanism": "Specificity + authority: a small number, a big result.",
+       "chosen": true
       },
       {
-       "icon": "megaphone",
-       "title": "SIMPLE ENOUGH TO REPEAT",
-       "body": "Easy to remember, easy to say."
+       "text": "Can a store name double as a promise?",
+       "mechanism": "Question: invites comments, less specific."
       },
       {
-       "icon": "shield",
-       "title": "BOLD ENOUGH TO STAND OUT",
-       "body": "A claim, not just a label."
+       "text": "Why a Broadway musical gave a store its name.",
+       "mechanism": "Curiosity gap: pays off on slide 2."
       }
      ],
      "scene": "megaphone",
+     "sourceLine": "Source: stephenjemal.com",
+     "attachments": [],
+     "altText": "Cover headline 'Four words. One of New York's most memorable electronics brands.' over an illustrated gold megaphone."
+    },
+    {
+     "n": 2,
+     "template": "stats_rows",
+     "kicker": "THE NAME",
+     "headline": "NOBODY BEATS THE WIZ",
+     "rows": [
+      [
+       "4 WORDS",
+       "A name and a claim in one line"
+      ],
+      [
+       "BROADWAY",
+       "Named after my father's favorite musical"
+      ],
+      [
+       "NEW YORK",
+       "One of the region's most memorable electronics brands"
+      ]
+     ],
+     "scene": "megaphone",
+     "sourceLine": "Source: stephenjemal.com. Name origin per company histories.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "altText": "Three rows: four words, named after a Broadway musical, one of the most memorable electronics brands in the New York region."
     },
     {
      "n": 3,
      "template": "stats_grid",
-     "kicker": "FOUR PARTS",
-     "headline": "WHAT MAKES A BRAND STICK",
-     "scene": "pillars",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
+     "kicker": "THE WIZ MARKETING PILLARS",
+     "headline": "FOUR PILLARS BEHIND THE BRAND",
      "cards": [
       [
        "MEMORABLE NAMING",
-       "A phrase customers repeat"
+       "A phrase people repeat"
       ],
       [
        "CLEAR POSITIONING",
-       "Value, confidence, customer appeal"
+       "People know what you stand for"
       ],
       [
        "MARKET VISIBILITY",
-       "Stores, advertising and expansion"
+       "Seen often, in the right places"
       ],
       [
        "BRAND CONSISTENCY",
-       "The message matches the experience"
+       "The same promise everywhere"
       ]
      ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "scene": "pillars",
+     "sourceLine": "Pillars: stephenjemal.com",
+     "needsApproval": true,
+     "approvalNote": "Pillar names are from stephenjemal.com; the one-line descriptions are framing.",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A 2x2 grid of the Wiz marketing pillars: memorable naming, clear positioning, market visibility, brand consistency."
     },
     {
      "n": 4,
@@ -533,11 +590,14 @@
        "storefront"
       ]
      ],
+     "pullLine": "The promise only works if the store keeps it.",
      "scene": "storefront",
+     "needsApproval": true,
+     "approvalNote": "Opinion line in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "The promise has to match what customers find in the store."
+     "altText": "A three-step flow from name to promise to store experience."
     },
     {
      "n": 5,
@@ -545,59 +605,90 @@
      "kicker": "SAVE THIS",
      "headline": "THE 4-PART BRAND TEST",
      "rows": [
-      "Is the name memorable?",
+      "Is the name easy to remember?",
       "Is the promise clear?",
-      "Is it visible?",
-      "Is it consistent?"
+      "Do people see it often?",
+      "Is it the same everywhere?"
      ],
      "button": "Comment your brand in four words",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered brand-test questions with a gold button asking readers for their brand in four words."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin: opening lesson line and 'The test I'd run on any brand'.",
+   "caption": "Nobody Beats The Wiz. Four words, and one of the most memorable electronics brands in the New York region.\n\nMy father named it after his favorite Broadway musical. The marketing pillars behind it: memorable naming, clear positioning, market visibility and brand consistency.\n\nSave the 4-part brand test on the last slide.\n\n#Branding #Marketing #SmallBusiness\n\nCan you describe your brand in four words?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 4,
    "week": 4,
    "title": "How one storefront becomes a chain",
    "pillar": "Scaling and systems",
-   "caption": "In 1976 the first Wiz opened on Fulton Street in downtown Brooklyn. Swipe for the difference between a storefront and a chain, and what a chain has to manage. Which part would be hardest for you? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "In 1976, my father opened the first Wiz on Fulton Street in Brooklyn. One storefront, one name: Nobody Beats The Wiz.\n\nA store runs on its owner. A chain runs on systems. Two of the Wiz positioning pillars were a scalable concept and operational support.\n\nSave the 5 questions to ask before you scale.\n\n#Scaling #SmallBusiness #Retail\n\nWhich question is hardest for your business?",
+    "facebook": "One storefront on Fulton Street in 1976. That's where my father opened the first Wiz.\n\nSwipe for the shift from storefront to chain, and save my 5 questions for before you open a second location.\n\n#SmallBusiness #Retail\n\nAre you thinking about a second location?",
+    "linkedin": "A store depends on its owner. A chain depends on systems.\n\nIn 1976, my father opened the first Wiz on Fulton Street in Brooklyn. Two of the Wiz positioning pillars speak directly to growth: a scalable concept and operational support.\n\nBefore you scale, I'd ask:\n1. Does it work in one place?\n2. Can it be written down?\n3. Can someone else run it?\n4. Can you fund the next one?\n5. Will customers recognize it?\n\n#Scaling #Operations\n\nWhich of these is the hardest for your team?",
+    "x": "A store runs on its owner. A chain runs on systems.\n\nThe first Wiz opened on Fulton Street in 1976. My 5 questions before you scale are on the last slide.\n\nWhich one is hardest for you?",
+    "threads": "One storefront in 1976. Then a chain.\n\nThe difference is systems. I put 5 questions before scaling in the carousel.\n\nWhich one would trip you up?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "HOW DOES ONE BROOKLYN STOREFRONT BECOME A CHAIN?",
+     "headline": "ONE STOREFRONT IN 1976. WHAT TURNS IT INTO A CHAIN?",
      "subline": "From the first Wiz on Fulton Street. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "One storefront in 1976. What turns it into a chain?",
+       "mechanism": "Specificity + curiosity gap: a real date, an open question.",
+       "chosen": true
+      },
+      {
+       "text": "A store depends on its owner. A chain depends on systems.",
+       "mechanism": "Contrarian: strong, but opinion."
+      },
+      {
+       "text": "How does one Brooklyn storefront become a chain?",
+       "mechanism": "Question: clear, less specific."
+      }
+     ],
      "scene": "row",
-     "attachments": []
+     "sourceLine": "Per company histories",
+     "attachments": [],
+     "altText": "Cover headline 'One storefront in 1976. What turns it into a chain?' over a row of storefronts, one lit."
     },
     {
      "n": 2,
      "template": "stats_rows",
      "kicker": "THE START",
-     "headline": "ONE STOREFRONT. ONE UNFORGETTABLE NAME.",
+     "headline": "ONE STOREFRONT, ONE NAME",
      "rows": [
       [
        "1976",
-       "The first Wiz opens on Fulton Street, Brooklyn"
+       "My father opens the first Wiz on Fulton Street, Brooklyn"
       ],
       [
-       "FAMILY",
-       "Opened by Norman Jemal, aided by his four sons"
+       "THE NAME",
+       "Nobody Beats The Wiz"
       ],
       [
-       "BRAND",
+       "THE BRAND",
        "One of the most memorable electronics brands in the New York region"
       ]
      ],
      "scene": "storefront",
+     "sourceLine": "Per company histories and stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per company histories and Stephen Jemal's site"
+     "altText": "Three rows: 1976 first Wiz on Fulton Street, the name Nobody Beats The Wiz, one of the region's most memorable electronics brands."
     },
     {
      "n": 3,
@@ -627,41 +718,39 @@
       ]
      ],
      "scene": "row",
+     "needsApproval": true,
+     "approvalNote": "General comparison framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting how a single storefront and a chain operate."
     },
     {
      "n": 4,
      "template": "cards_stack",
-     "kicker": "WHAT A CHAIN MANAGES",
-     "headline": "SIX THINGS THAT HAVE TO REPEAT",
+     "kicker": "TWO PILLARS FOR GROWTH",
+     "headline": "WHAT A CHAIN NEEDS UNDER IT",
      "cards": [
       {
-       "icon": "clipboard",
-       "title": "OPENINGS, PEOPLE, PROMOTION",
-       "checklist": [
-        "Store openings",
-        "Employee training",
-        "Advertising"
-       ]
+       "icon": "stack-of-storefronts",
+       "title": "SCALABLE CONCEPT",
+       "body": "An idea that works in more than one place."
       },
       {
-       "icon": "conveyor",
-       "title": "PRODUCT, SUPPLIERS, SPACE",
-       "checklist": [
-        "Merchandising",
-        "Supplier relationships",
-        "Lease negotiations"
-       ]
+       "icon": "gear",
+       "title": "OPERATIONAL SUPPORT",
+       "body": "Execution that matches the promise in every store."
       }
      ],
+     "pullLine": "Repeating the process is what turns a storefront into a chain.",
      "scene": "clipboard",
+     "sourceLine": "Pillars: stephenjemal.com",
+     "needsApproval": true,
+     "approvalNote": "Pillar names per stephenjemal.com; descriptions and pull line are framing.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "Repeating the process is what turns a storefront into a chain.",
-     "sourceLine": "Per Stephen Jemal's site"
+     "altText": "Two cards for Wiz positioning pillars, scalable concept and operational support, with a gold pull line."
     },
     {
      "n": 5,
@@ -675,84 +764,94 @@
       "Can you fund the next one?",
       "Will customers recognize it?"
      ],
-     "button": "Comment the hardest question",
+     "button": "Comment the hardest one for you",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered questions to ask before scaling, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/x/linkedin/threads: 'A store runs on its owner. A chain runs on systems.' and 'I'd ask'.",
+   "caption": "In 1976, my father opened the first Wiz on Fulton Street in Brooklyn. One storefront, one name: Nobody Beats The Wiz.\n\nA store runs on its owner. A chain runs on systems. Two of the Wiz positioning pillars were a scalable concept and operational support.\n\nSave the 5 questions to ask before you scale.\n\n#Scaling #SmallBusiness #Retail\n\nWhich question is hardest for your business?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 5,
    "week": 5,
    "title": "More than a store",
    "pillar": "Founder lessons",
-   "caption": "Nobody Beats The Wiz was not only a retail operation. It was a public identity. Swipe for four pillars of brand-led growth. Does your brand work as an identity or just a label? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Four positioning pillars sat behind Nobody Beats The Wiz: clear message, competitive identity, operational support and scalable concept.\n\nHow I see it: a store sells products, a brand stands for something. Swipe for the difference, then save my 4-question identity check.\n\n#Branding #Retail #SmallBusiness\n\nWhat does your brand stand for in one sentence?",
+    "facebook": "The Wiz was positioned on four pillars: clear message, competitive identity, operational support and scalable concept.\n\nI turned them into a 4-question identity check on the last slide. Run it on your own business.\n\n#Branding #SmallBusiness\n\nWhich pillar is strongest in your business?",
+    "linkedin": "A store sells products. A brand stands for something, and that is what lets it travel.\n\nThe Wiz was positioned on four pillars: a clear message, a competitive identity, operational support and a scalable concept.\n\nThe identity check I'd use:\n1. What do we stand for?\n2. Can customers repeat it?\n3. Does the store deliver it?\n4. Can it travel to a new location?\n\n#Branding #Strategy\n\nWhich of these questions is hardest for your company?",
+    "x": "My breakdown of the 4 positioning pillars behind Nobody Beats The Wiz:\n\n1. Clear message\n2. Competitive identity\n3. Operational support\n4. Scalable concept\n\nWhich one is your business missing?",
+    "threads": "Clear message. Competitive identity. Operational support. Scalable concept.\n\nThat's how the Wiz was positioned. My question for you: which one would you work on first?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "MORE THAN A STORE",
-     "subline": "How a brand becomes a public identity. Swipe →",
-     "scene": "megaphone",
-     "attachments": []
+     "headline": "THE 4 PILLARS BEHIND NOBODY BEATS THE WIZ",
+     "subline": "A store vs. a brand. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "The 4 pillars behind Nobody Beats The Wiz",
+       "mechanism": "Specificity + authority: a named brand and a countable promise.",
+       "chosen": true
+      },
+      {
+       "text": "Stores sell products. Brands stand for something. Which are you building?",
+       "mechanism": "Contrarian + question: strong, but opinion."
+      },
+      {
+       "text": "What turned a Brooklyn store into a New York name?",
+       "mechanism": "Curiosity gap: implies causation we can't source."
+      }
+     ],
+     "scene": "pillars",
+     "sourceLine": "Source: stephenjemal.com",
+     "attachments": [],
+     "altText": "Cover headline 'The 4 pillars behind Nobody Beats The Wiz' over four illustrated gold columns."
     },
     {
      "n": 2,
-     "template": "cards_stack",
-     "kicker": "THE IDEA",
-     "headline": "BRAND-LED GROWTH",
-     "cards": [
-      {
-       "icon": "banner-with-star",
-       "title": "A PUBLIC IDENTITY",
-       "body": "Nobody Beats The Wiz was not only a retail operation."
-      },
-      {
-       "icon": "magnifying-glass",
-       "title": "EASIER TO UNDERSTAND",
-       "body": "A brand-led strategy helps a business become more understandable."
-      }
-     ],
-     "scene": "megaphone",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
-     "sourceLine": "Per Stephen Jemal's site"
-    },
-    {
-     "n": 3,
      "template": "stats_grid",
-     "kicker": "FOUR PILLARS",
-     "headline": "HOW THE WIZ POSITIONED ITSELF",
-     "scene": "pillars",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
+     "kicker": "THE WIZ POSITIONING PILLARS",
+     "headline": "CLEAR, COMPETITIVE, SUPPORTED, SCALABLE",
      "cards": [
       [
        "CLEAR MESSAGE",
-       "A promise customers can remember"
+       "One promise people remember"
       ],
       [
        "COMPETITIVE IDENTITY",
-       "Confidence, value and retail energy"
+       "A reason to choose you"
       ],
       [
        "OPERATIONAL SUPPORT",
-       "Store execution matched the promise"
+       "Stores that deliver the promise"
       ],
       [
        "SCALABLE CONCEPT",
-       "A position that could grow across locations"
+       "An idea that works in more places"
       ]
      ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "scene": "pillars",
+     "sourceLine": "Pillars: stephenjemal.com",
+     "needsApproval": true,
+     "approvalNote": "Pillar names per stephenjemal.com; descriptions are framing.",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A 2x2 grid of the four Wiz positioning pillars with one-line descriptions."
     },
     {
-     "n": 4,
+     "n": 3,
      "template": "table_compare",
      "kicker": "THE DIFFERENCE",
      "headline": "A STORE VS. A BRAND",
@@ -770,18 +869,53 @@
        "Known by its name"
       ],
       [
-       "Competes on what's on the shelf",
+       "Competes on the shelf",
        "Competes on identity"
       ],
       [
        "Hard to repeat",
-       "Easy to repeat"
+       "Built to repeat"
       ]
      ],
      "scene": "megaphone",
+     "needsApproval": true,
+     "approvalNote": "Opinion comparison in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting a store and a brand."
+    },
+    {
+     "n": 4,
+     "template": "flow_steps",
+     "kicker": "HOW THE PILLARS CONNECT",
+     "headline": "FROM PROMISE TO MORE LOCATIONS",
+     "flow": [
+      [
+       "MESSAGE",
+       "megaphone"
+      ],
+      [
+       "IDENTITY",
+       "banner-with-star"
+      ],
+      [
+       "OPERATIONS",
+       "gear"
+      ],
+      [
+       "MORE LOCATIONS",
+       "stack-of-storefronts"
+      ]
+     ],
+     "pullLine": "Each pillar holds up the next one.",
+     "scene": "stairs",
+     "needsApproval": true,
+     "approvalNote": "Sequence and pull line are framing.",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A four-step flow from message to identity to operations to more locations."
     },
     {
      "n": 5,
@@ -796,27 +930,58 @@
      ],
      "button": "Comment what your brand stands for",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered identity questions with a gold button asking what the reader's brand stands for."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/linkedin: 'A store sells products. A brand stands for something.'; linkedin: 'The identity check I'd use'.",
+   "caption": "Four positioning pillars sat behind Nobody Beats The Wiz: clear message, competitive identity, operational support and scalable concept.\n\nHow I see it: a store sells products, a brand stands for something. Swipe for the difference, then save my 4-question identity check.\n\n#Branding #Retail #SmallBusiness\n\nWhat does your brand stand for in one sentence?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 6,
    "week": 6,
    "title": "The system behind the store",
    "pillar": "Scaling and systems",
-   "caption": "The customer sees the store. Behind it runs a system: inventory flow, staffing, store management and advertising. Swipe for what runs behind a great retail experience. Which part do customers never see but always feel? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Customers see the store. They never see the system behind it: inventory, staffing, store management, advertising, service and construction timing.\n\nAs the Wiz chain grew, I built our own construction and fixture company, so building became part of the system too.\n\nSave the 5-point system check.\n\n#Operations #Retail #SmallBusiness\n\nWhich system would you fix first?",
+    "facebook": "The best store experience depends on systems customers never see. I listed six of them, and the last slide is my 5-point check.\n\n#Operations #SmallBusiness\n\nWhich part of your business runs on one person's memory?",
+    "linkedin": "The experience is only as strong as the system behind it.\n\nCustomers see the store. Behind it sit inventory flow, staffing, store management, advertising, customer service and construction timing.\n\nAs the Wiz chain grew, I built an in-house construction and prefabricated fixture manufacturing company, so the buildout became part of the system.\n\nA 5-point check: Is inventory flowing? Are teams staffed and trained? Is each store run to one standard? Is advertising coordinated? Is the buildout on schedule?\n\n#Operations #Scaling\n\nWhich of these is your weakest link?",
+    "x": "Customers see the store. They never see the system.\n\nInventory. Staffing. Store management. Advertising. Service. Construction timing.\n\nI put a 5-point check in the carousel. Which system would you fix first?",
+    "threads": "Customers never see the system, only the store.\n\nI made a 5-point check for the systems behind it. Which one would you fix first?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "THE CUSTOMER SEES THE STORE. NOT THE SYSTEM.",
-     "subline": "What runs behind a great retail experience. Swipe →",
+     "headline": "CUSTOMERS SEE THE STORE. THEY NEVER SEE THE SYSTEM.",
+     "subline": "Six systems behind a store that works. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Customers see the store. They never see the system.",
+       "mechanism": "Contrast + curiosity gap: promises what's hidden.",
+       "chosen": true
+      },
+      {
+       "text": "Six systems behind every store customers never notice.",
+       "mechanism": "Specificity: a countable promise."
+      },
+      {
+       "text": "What runs behind a store that works every day?",
+       "mechanism": "Question: softer."
+      }
+     ],
      "scene": "conveyor",
-     "attachments": []
+     "needsApproval": true,
+     "approvalNote": "Opinion headline in Stephen's voice.",
+     "attachments": [],
+     "altText": "Cover headline 'Customers see the store. They never see the system.' over an illustrated conveyor belt with boxes."
     },
     {
      "n": 2,
@@ -825,27 +990,27 @@
      "headline": "FOUR SYSTEMS CUSTOMERS NEVER SEE",
      "rows": [
       [
-       "INVENTORY FLOW",
-       "How products move through the chain"
+       "INVENTORY",
+       "How products move to every shelf"
       ],
       [
        "STAFFING",
-       "How teams are organized to run each location"
+       "Teams organized to run each location"
       ],
       [
-       "STORE MANAGEMENT",
-       "The day-to-day running of every store"
+       "MANAGEMENT",
+       "The daily running of every store"
       ],
       [
        "ADVERTISING",
-       "Campaigns coordinated across the chain"
+       "One campaign across every location"
       ]
      ],
      "scene": "conveyor",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per Stephen Jemal's site. Descriptions are framing."
+     "altText": "Four rows: inventory flow, staffing, store management and advertising, each with a short description."
     },
     {
      "n": 3,
@@ -870,17 +1035,20 @@
        "key"
       ]
      ],
-     "scene": "conveyor",
+     "pullLine": "The experience is only as strong as the system behind it.",
+     "scene": "clipboard",
+     "needsApproval": true,
+     "approvalNote": "Opinion pull line in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "The experience is only as strong as the system behind it."
+     "altText": "A four-step flow from inventory to staff to store to customer."
     },
     {
      "n": 4,
      "template": "cards_stack",
      "kicker": "TWO MORE",
-     "headline": "SERVICE AND SCHEDULE",
+     "headline": "SERVICE AND BUILDOUT",
      "cards": [
       {
        "icon": "people",
@@ -891,13 +1059,19 @@
        "icon": "crane",
        "title": "CONSTRUCTION TIMING",
        "body": "New locations ready for opening day."
+      },
+      {
+       "accent": "left-border",
+       "title": "WHAT I DID",
+       "body": "As the chain grew, I built our own construction and fixture company."
       }
      ],
      "scene": "crane",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "altText": "Cards for customer service and construction timing, and a note that an in-house construction and fixture company was built as the Wiz grew."
     },
     {
      "n": 5,
@@ -907,94 +1081,102 @@
      "rows": [
       "Is inventory flowing?",
       "Are teams staffed and trained?",
-      "Is each store managed to one standard?",
+      "Is each store run to one standard?",
       "Is advertising coordinated?",
       "Is the buildout on schedule?"
      ],
      "button": "Comment the system you'd fix first",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered system checks with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin: opening lesson line.",
+   "caption": "Customers see the store. They never see the system behind it: inventory, staffing, store management, advertising, service and construction timing.\n\nAs the Wiz chain grew, I built our own construction and fixture company, so building became part of the system too.\n\nSave the 5-point system check.\n\n#Operations #Retail #SmallBusiness\n\nWhich system would you fix first?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 7,
    "week": 7,
    "title": "Where you open matters",
    "pillar": "Scaling and systems",
-   "caption": "Where you open is a real estate decision. Retail expansion takes location analysis, lease decisions and customer traffic planning, skills that connect naturally to development work. Swipe for five questions before choosing a site. What would you check first? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Where you open is a real estate decision before it's a retail one.\n\nLocation, lease, traffic, buildout. After the Wiz, I took that same eye to land, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.\n\nSave the 5 questions before you sign a lease.\n\n#RealEstate #SmallBusiness #Retail\n\nWhich site factor do you check first?",
+    "facebook": "Before you sign a lease, ask five questions. They're on the last slide.\n\nAfter the Wiz, I moved into real estate, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.\n\n#RealEstate #SmallBusiness\n\nWhat's the one thing you'd check about a location?",
+    "linkedin": "Where you open is a real estate decision, not just a retail one.\n\nEvery new location runs through the same steps: the site, the lease, the buildout, opening day. After the Wiz, I moved into waterfront revitalization and real estate development, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.\n\nFive questions before you sign: Who passes by, and who stops? What does the lease lock in? How will customers get here? What will the buildout take? Can we run the space well?\n\n#RealEstate #Retail\n\nWhich question do you wish you'd asked earlier?",
+    "x": "Before you sign a lease:\n\n1. Who passes by, and who stops?\n2. What does the lease lock in?\n3. How will customers get here?\n4. What will the buildout take?\n5. Can we run the space well?\n\nWhich would you ask first?",
+    "threads": "Every new store is a real estate decision first. I put 5 questions to ask before signing a lease in this carousel.\n\nWhich one do people skip?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHERE YOU OPEN IS A REAL ESTATE DECISION",
-     "subline": "Location, leases and traffic. Swipe →",
+     "headline": "BEFORE YOU SIGN A LEASE, ASK THESE 5 QUESTIONS",
+     "subline": "Location, lease, traffic, buildout. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Before you sign a lease, ask these 5 questions",
+       "mechanism": "Promise + specificity: a save-worthy list, paid off on slide 5.",
+       "chosen": true
+      },
+      {
+       "text": "Where you open is a real estate decision.",
+       "mechanism": "Contrarian: reframes retail as real estate."
+      },
+      {
+       "text": "The best store in the wrong spot still struggles.",
+       "mechanism": "Stakes: strong, but an unsourced claim."
+      }
+     ],
      "scene": "map",
-     "attachments": []
+     "attachments": [],
+     "altText": "Cover headline 'Before you sign a lease, ask these 5 questions' over an illustrated street map with a gold route."
     },
     {
      "n": 2,
      "template": "cards_stack",
      "kicker": "THREE DECISIONS",
-     "headline": "WHAT EXPANSION REQUIRES",
+     "headline": "WHAT A NEW LOCATION TAKES",
      "cards": [
       {
        "icon": "map-pin",
        "title": "LOCATION ANALYSIS",
-       "body": "Understanding the market before opening."
+       "body": "Know the market before you open."
       },
       {
        "icon": "key",
        "title": "LEASE DECISIONS",
-       "body": "Choosing and negotiating the right space."
+       "body": "Choose and negotiate the right space."
       },
       {
        "icon": "map-grid",
-       "title": "CUSTOMER TRAFFIC PLANNING",
-       "body": "How customers reach a location."
+       "title": "CUSTOMER TRAFFIC",
+       "body": "Plan how customers will reach you."
       }
      ],
      "scene": "map",
+     "needsApproval": true,
+     "approvalNote": "Advice framework in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "altText": "Three cards: location analysis, lease decisions and customer traffic planning."
     },
     {
      "n": 3,
-     "template": "cards_stack",
-     "kicker": "TWO MORE",
-     "headline": "BUILD AND MANAGE",
-     "cards": [
-      {
-       "icon": "crane",
-       "title": "CONSTRUCTION AWARENESS",
-       "body": "Every new store needs a buildout."
-      },
-      {
-       "icon": "blueprint",
-       "title": "MANAGING PHYSICAL SPACES",
-       "body": "Skills that connect naturally to development work."
-      }
-     ],
-     "scene": "crane",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
-     "sourceLine": "Per Stephen Jemal's site"
-    },
-    {
-     "n": 4,
      "template": "flow_steps",
-     "kicker": "THE BRIDGE",
-     "headline": "FROM STORE SITES TO DEVELOPMENT SITES",
+     "kicker": "THE SEQUENCE",
+     "headline": "FROM SITE TO OPENING DAY",
      "flow": [
       [
-       "STORE SITE",
-       "storefront"
+       "SITE",
+       "map-pin"
       ],
       [
        "LEASE",
@@ -1005,51 +1187,116 @@
        "crane"
       ],
       [
-       "DEVELOPMENT",
-       "apartment-building"
+       "OPENING",
+       "storefront"
       ]
      ],
-     "scene": "tower",
+     "pullLine": "Every step has a cost and a timeline.",
+     "scene": "crane",
+     "needsApproval": true,
+     "approvalNote": "Opinion pull line in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "The same skills carry from stores to buildings."
+     "altText": "A four-step flow from site to lease to buildout to opening."
+    },
+    {
+     "n": 4,
+     "template": "stats_grid",
+     "kicker": "WHERE I TOOK IT NEXT",
+     "headline": "AFTER THE WIZ, I MOVED INTO LAND",
+     "cards": [
+      [
+       "WATERFRONT",
+       "Revitalization and development"
+      ],
+      [
+       "PARCELS",
+       "Underutilized sites, assembled"
+      ],
+      [
+       "FIVE AREAS",
+       "Manhattan, Brooklyn, Queens, the Bronx, New Jersey"
+      ],
+      [
+       "NEXT",
+       "JemRock Organization"
+      ]
+     ],
+     "scene": "tower",
+     "sourceLine": "Source: stephenjemal.com",
+     "needsApproval": true,
+     "approvalNote": "Framing that site skills carried into real estate.",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A 2x2 grid: waterfront revitalization, underutilized parcels, five areas from Manhattan to New Jersey, and JemRock Organization."
     },
     {
      "n": 5,
      "template": "numbered_cta",
      "kicker": "SAVE THIS",
-     "headline": "5 QUESTIONS BEFORE CHOOSING A SITE",
+     "headline": "5 QUESTIONS BEFORE YOU SIGN A LEASE",
      "rows": [
       "Who passes by, and who stops?",
-      "What does the lease commit us to?",
+      "What does the lease lock in?",
       "How will customers get here?",
       "What will the buildout take?",
-      "Can we manage the space well?"
+      "Can we run the space well?"
      ],
-     "button": "Comment the site factor you'd check first",
+     "button": "Comment your #1 site check",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered questions to ask before signing a lease, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "instagram/linkedin: 'a real estate decision before it's a retail one' and 'I took that same eye to land'.",
+   "caption": "Where you open is a real estate decision before it's a retail one.\n\nLocation, lease, traffic, buildout. After the Wiz, I took that same eye to land, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.\n\nSave the 5 questions before you sign a lease.\n\n#RealEstate #SmallBusiness #Retail\n\nWhich site factor do you check first?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 8,
    "week": 8,
    "title": "From retail to real estate",
    "pillar": "Story and founder lessons",
-   "caption": "After the Wiz years, Stephen Jemal turned to waterfront revitalization and real estate development, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey. Swipe for how the skills carried over, plus six questions to ask before redeveloping any property. Which would you ask first? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "After the Wiz, I moved from stores to land.\n\nI turned to waterfront revitalization and real estate development, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey. That work led to JemRock Organization and our mission: change how the world produces housing.\n\nSave the 5 questions before redeveloping a property.\n\n#RealEstate #UrbanDevelopment #NYC\n\nWhich question would you ask first?",
+    "facebook": "After the Wiz, I moved into waterfront revitalization and real estate development across Manhattan, Brooklyn, Queens, the Bronx and New Jersey. That path led to JemRock Organization.\n\n#RealEstate #NYC\n\nHave you ever changed industries? What carried over?",
+    "linkedin": "The skills that grow a retail chain are site skills.\n\nAfter the Wiz, I moved into waterfront revitalization and real estate development, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey. That work led to JemRock Organization, where our mission is to change how the world produces housing at global scale.\n\nHow I'd map it: location analysis becomes reading a neighborhood, lease decisions become property decisions, traffic planning becomes future demand, buildouts become feasibility.\n\n#RealEstate #Leadership\n\nWhat skill from your first industry still serves you?",
+    "x": "After the Wiz, I moved from stores to land: waterfront revitalization and underutilized parcels across NYC and New Jersey.\n\nThat led to JemRock.\n\nWhat carried over from your first industry?",
+    "threads": "Stores to land. After the Wiz, I moved into waterfront revitalization and real estate.\n\nThat led to JemRock. What did you carry from your first career into your second?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHAT DO YOU DO AFTER BUILDING A RETAIL CHAIN?",
-     "subline": "From retail to real estate. Swipe to see how it carried over →",
+     "headline": "AFTER THE WIZ, I MOVED FROM STORES TO LAND",
+     "subline": "What carried over, and where it led. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "After the Wiz, I moved from stores to land",
+       "mechanism": "Transformation: a clear before and after.",
+       "chosen": true
+      },
+      {
+       "text": "What do you do after building a retail brand?",
+       "mechanism": "Question: open, less specific."
+      },
+      {
+       "text": "From selling electronics to assembling city parcels.",
+       "mechanism": "Specificity + contrast."
+      }
+     ],
      "background": "A stylized CGI scene split by a glowing gold seam: on the left a lit retail storefront at dusk, on the right the same warm light flowing into a waterfront skyline with towers and cranes at golden hour.",
-     "attachments": []
+     "sourceLine": "Source: stephenjemal.com",
+     "attachments": [],
+     "altText": "Cover headline 'After the Wiz, I moved from stores to land' over a split scene of a storefront and a waterfront skyline."
     },
     {
      "n": 2,
@@ -1059,13 +1306,13 @@
      "cards": [
       {
        "icon": "anchor-and-wave",
-       "title": "WATERFRONT REVITALIZATION",
-       "body": "Stephen turned to waterfront revitalization and real estate development."
+       "title": "WATERFRONT",
+       "body": "I turned to waterfront revitalization and real estate development."
       },
       {
        "icon": "map-pin",
        "title": "UNDERUTILIZED PARCELS",
-       "body": "He assembled sites across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.",
+       "body": "I assembled sites across five areas.",
        "pills": [
         "Manhattan",
         "Brooklyn",
@@ -1076,20 +1323,22 @@
       },
       {
        "accent": "left-border",
-       "title": "THE BIGGER MISSION",
-       "body": "That work led to JemRock Organization and a larger goal: change how the world produces housing."
+       "title": "THE NEXT STEP",
+       "body": "That work led to JemRock Organization."
       }
      ],
+     "scene": "map",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "scene": "map"
+     "altText": "Three cards: waterfront revitalization, underutilized parcels across five areas, and the step to JemRock Organization."
     },
     {
      "n": 3,
      "template": "table_compare",
      "kicker": "THE SKILL TRANSFER",
-     "headline": "RETAIL SKILLS THAT BECAME DEVELOPMENT SKILLS",
+     "headline": "RETAIL SKILLS THAT BECOME DEVELOPMENT SKILLS",
      "columns": [
       "RETAIL",
       "REAL ESTATE"
@@ -1104,188 +1353,227 @@
        "Property decisions"
       ],
       [
-       "Customer traffic planning",
+       "Traffic planning",
        "Future demand"
       ],
       [
-       "Construction awareness",
-       "Buildout feasibility"
-      ],
-      [
-       "Managing physical spaces",
-       "Development and redevelopment"
+       "Buildouts",
+       "Feasibility"
       ]
      ],
-     "pullLine": "Scaling a chain taught him how to read a space.",
+     "pullLine": "Scaling a chain is practice in reading a space.",
+     "scene": "blueprint",
+     "needsApproval": true,
+     "approvalNote": "The skill mapping and pull line are framing.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "scene": "blueprint"
+     "altText": "A two-column table mapping retail skills to real estate development skills."
     },
     {
      "n": 4,
-     "template": "cards_stack",
-     "kicker": "TWO IDEAS TO KNOW",
-     "headline": "ZONING AND ADAPTIVE REUSE",
-     "cards": [
-      {
-       "icon": "map-grid",
-       "title": "ZONING DECIDES",
-       "checklist": [
-        "How land and buildings can be used",
-        "How much density is allowed",
-        "What improvements are possible",
-        "What approvals a project needs"
-       ]
-      },
-      {
-       "icon": "building-with-arrow",
-       "title": "ADAPTIVE REUSE",
-       "body": "Giving an existing property a new purpose, such as converting older commercial, office or hospitality properties into residential."
-      }
+     "template": "flow_steps",
+     "kicker": "WHERE IT LED",
+     "headline": "FROM PARCELS TO A HOUSING MISSION",
+     "body": "Our mission at JemRock: change how the world produces housing, at global scale.",
+     "flow": [
+      [
+       "PARCELS",
+       "map-pin"
+      ],
+      [
+       "DEVELOPMENT",
+       "apartment-building"
+      ],
+      [
+       "JEMROCK",
+       "banner-with-star"
+      ],
+      [
+       "BUILT®",
+       "factory"
+      ]
      ],
-     "pullLine": "Seeing value where others may see an outdated asset.",
+     "scene": "skyline",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "scene": "tower"
+     "altText": "A four-step flow from parcels to development to JemRock to BUILT, with JemRock's mission."
     },
     {
      "n": 5,
      "template": "numbered_cta",
      "kicker": "SAVE THIS",
-     "headline": "6 QUESTIONS BEFORE REDEVELOPING A PROPERTY",
+     "headline": "5 QUESTIONS BEFORE REDEVELOPING A PROPERTY",
      "rows": [
       "Is the location right?",
-      "Will demand be there in the future?",
-      "What condition is the building in?",
+      "Will demand be there later?",
+      "What shape is the building in?",
       "How is the neighborhood changing?",
-      "What does the zoning allow?",
-      "Is it feasible to build?"
+      "What does the zoning allow?"
      ],
      "button": "Comment the question you'd ask first",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered questions to ask before redeveloping a property, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin: opening lesson line and 'How I'd map it'.",
+   "caption": "After the Wiz, I moved from stores to land.\n\nI turned to waterfront revitalization and real estate development, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey. That work led to JemRock Organization and our mission: change how the world produces housing.\n\nSave the 5 questions before redeveloping a property.\n\n#RealEstate #UrbanDevelopment #NYC\n\nWhich question would you ask first?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 9,
    "week": 9,
    "title": "The numbers behind the story",
    "pillar": "Authority",
-   "caption": "Behind every story are numbers worth checking. From the first Wiz on Fulton Street in 1976 to the UN-Habitat figures on the global housing gap, swipe for the facts and the sources. Which number surprised you most? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "1976: my father opens the first Wiz on Fulton Street.\n16: my age when I'd started four stores.\nToday: a 155M-unit global housing deficit, per JemRock research, and 2.8 billion people without adequate housing, per UN-Habitat.\n\nSave the number sheet on the last slide.\n\n#Housing #Entrepreneurship #ModularConstruction\n\nWhich number surprised you most?",
+    "facebook": "From one storefront in 1976 to a global housing gap. Swipe for the numbers behind my story, each with its source.\n\n#Housing #AffordableHousing\n\nWhich number would you share with a friend?",
+    "linkedin": "Every number needs a source, especially the big ones.\n\n1976: my father opened the first Wiz on Fulton Street in Brooklyn. By 16, I had started four electronics and music stores.\n\nToday's numbers are bigger. Per JemRock research, the global housing deficit is 155 million units, projected to reach 240 million by 2030. UN-Habitat counts 2.8 billion people without adequate housing. McKinsey (2019) found modular construction can be 20-50% faster, with cost savings of up to 20%, and losses of up to 10% if delivery or material costs spike. Our BUILT® design target is more than 50% faster: a target, not a result yet.\n\n#Housing #ConstructionTech\n\nWhich number would you want checked first?",
+    "x": "1976: first Wiz, Fulton Street.\n16: four stores of my own.\n155M: global housing deficit (per JemRock research).\n2.8B: people without adequate housing (UN-Habitat).\n\nWhich number surprised you?",
+    "threads": "From a storefront in 1976 to a 155M-unit housing gap (per JemRock research).\n\nThose are the numbers behind my story. Which one stopped you?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "THE NUMBERS BEHIND THE STORY",
-     "subline": "From a Brooklyn storefront to the global housing gap. Swipe →",
+     "headline": "THE NUMBERS BEHIND MY STORY, FROM 1976 TO 2030",
+     "subline": "Every number, with its source. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "The numbers behind my story, from 1976 to 2030",
+       "mechanism": "Specificity + promise: a time span and a sourced list.",
+       "chosen": true
+      },
+      {
+       "text": "1976, 96,000, 2.8 billion: the numbers behind my work.",
+       "mechanism": "Specificity: dense, harder to read at thumbnail size."
+      },
+      {
+       "text": "Which of these numbers would you have guessed?",
+       "mechanism": "Question: weak promise."
+      }
+     ],
      "background": "A glowing golden bar chart rising from a Brooklyn storefront into a skyline of housing towers.",
-     "attachments": []
+     "sourceLine": "Per company histories and JemRock research",
+     "attachments": [],
+     "altText": "Cover headline 'The numbers behind my story, from 1976 to 2030' over a gold bar chart rising from a storefront into towers."
     },
     {
      "n": 2,
      "template": "stats_rows",
-     "kicker": "THE WIZ",
-     "headline": "ONE STOREFRONT. ONE UNFORGETTABLE NAME.",
+     "kicker": "WHERE IT STARTED",
+     "headline": "THREE NUMBERS FROM MY START",
      "rows": [
       [
        "1976",
-       "The first Wiz opens on Fulton Street, Brooklyn"
+       "My father opens the first Wiz on Fulton Street"
       ],
       [
-       "FAMILY",
-       "Opened by Norman Jemal, aided by his four sons"
+       "16",
+       "My age when I'd started four electronics and music stores"
       ],
       [
-       "BROADWAY",
-       "Named after Norman's favorite musical"
-      ],
-      [
-       "BRAND",
-       "One of the most memorable electronics brands in the New York region"
+       "10",
+       "Children in my family. I'm the youngest."
       ]
      ],
+     "scene": "storefront",
+     "sourceLine": "Per company histories and stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "scene": "storefront"
+     "altText": "Three rows: 1976 first Wiz, 16 the age by which four stores were started, 10 children in the family."
     },
     {
      "n": 3,
      "template": "stats_cards",
-     "kicker": "THE HOUSING GAP",
-     "headline": "WHY HOUSING IS THE BIGGER PROBLEM",
-     "stats": [
-      [
-       "2.8 billion",
-       "people lack adequate housing"
-      ],
-      [
-       "1.1 billion",
-       "live in slums or informal settlements"
-      ],
-      [
-       "300 million+",
-       "are homeless"
-      ]
-     ],
-     "sourceLine": "Source: UN-Habitat",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
-     "scene": "globe"
-    },
-    {
-     "n": 4,
-     "template": "stats_grid",
-     "kicker": "PER JEMROCK",
-     "headline": "THE CASE FOR BUILT®",
+     "kicker": "THE GAP NOW",
+     "headline": "THE HOUSING GAP I WORK ON TODAY",
      "stats": [
       [
        "155M",
        "unit global housing deficit"
       ],
       [
-       "96,000",
-       "homes needed every day"
-      ],
-      [
        "240M",
        "projected deficit by 2030"
       ],
       [
-       "50%+",
-       "faster timelines (BUILT® design target)"
+       "96,000",
+       "homes needed every day"
       ]
      ],
-     "pullLine": "Company-reported figures from JemRock research",
+     "scene": "chart",
+     "sourceLine": "Per JemRock research",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "scene": "chart"
+     "altText": "Three stat cards: 155 million unit deficit, 240 million projected by 2030, 96,000 homes needed a day."
+    },
+    {
+     "n": 4,
+     "template": "stats_grid",
+     "kicker": "THE CASE FOR SPEED",
+     "headline": "WHY BUILDING FASTER MATTERS",
+     "stats": [
+      [
+       "2.8B",
+       "people lack adequate housing"
+      ],
+      [
+       "20-50%",
+       "faster modular can be"
+      ],
+      [
+       "Up to 20%",
+       "cost savings with modular"
+      ],
+      [
+       "50%+",
+       "faster: BUILT® design target, not a result"
+      ]
+     ],
+     "pullLine": "Modular can also lose up to 10% if delivery or material costs spike.",
+     "scene": "globe",
+     "sourceLine": "UN-Habitat. McKinsey, 2019. BUILT® target per JemRock research.",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A 2x2 grid: 2.8 billion lack adequate housing, modular 20-50% faster, up to 20% cost savings, BUILT design target over 50% faster, with a cost-risk caveat."
     },
     {
      "n": 5,
      "template": "numbered_cta",
      "kicker": "SAVE THIS",
-     "headline": "3 QUESTIONS BEFORE YOU TRUST ANY NUMBER",
+     "headline": "SAVE THESE NUMBERS",
      "rows": [
-      "Who is reporting it?",
-      "What year is it from?",
-      "What exactly does it measure?"
+      "155M: global housing deficit",
+      "240M: projected deficit by 2030",
+      "96,000: homes needed every day",
+      "2.8B: people without adequate housing"
      ],
      "button": "Comment the number that surprised you most",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "sourceLine": "Per JemRock research (155M, 240M, 96,000). 2.8B: Source: UN-Habitat.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A numbered reference list of four housing numbers with sources and a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin: opening lesson line.",
+   "caption": "1976: my father opens the first Wiz on Fulton Street.\n16: my age when I'd started four stores.\nToday: a 155M-unit global housing deficit, per JemRock research, and 2.8 billion people without adequate housing, per UN-Habitat.\n\nSave the number sheet on the last slide.\n\n#Housing #Entrepreneurship #ModularConstruction\n\nWhich number surprised you most?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 10,
@@ -1477,145 +1765,185 @@
   {
    "id": 11,
    "week": 11,
-   "title": "Three generations of building",
+   "title": "Two generations of building",
    "pillar": "Story",
-   "caption": "From a Spanish Harlem discount store to a Brooklyn retail icon to housing technology. Three generations of the Jemal family, and the three values they share: togetherness, family, hard work. Which one were you raised on? Follow @StephenJemalNY and tell us below.",
+   "captions": {
+    "instagram": "My father, Norman N. Jemal, was my mentor. We worked together at our family discount store in Spanish Harlem, and in 1976 he opened the first Wiz on Fulton Street.\n\nToday I lead JemRock Organization and BUILT®, a prefabricated modular housing production system unveiled in August 2026.\n\nTwo generations, one thread: building.\n\n#FamilyBusiness #Brooklyn #Housing\n\nWhat did the generation before you build?",
+    "facebook": "From my father's store to a housing production system. Swipe for two generations of building, and save the 3 questions to ask the generation before you.\n\n#FamilyBusiness #Legacy\n\nWhat's one thing your parents taught you about work?",
+    "linkedin": "Ask the generation before you what they built first. The answers are worth saving.\n\nMy father, Norman N. Jemal, was my mentor. We worked together at our family discount store in Spanish Harlem. In 1976, he opened the first Wiz on Fulton Street in Brooklyn.\n\nMy own path ran from four stores by 16 to construction, waterfront revitalization and real estate, and now JemRock Organization, where I'm President and CEO. We unveiled BUILT® in August 2026: one mother factory in the US, hundreds of custom pilot factories in the countries that need housing.\n\n#FamilyBusiness #Leadership\n\nWhat's the best question you've asked a parent or mentor?",
+    "x": "My father opened the first Wiz on Fulton Street in 1976.\n\nIn 2026, we unveiled BUILT®, a prefab modular housing production system.\n\nTwo generations of building. What did the generation before you build?",
+    "threads": "My father opened the first Wiz in 1976. I'm building housing technology now.\n\nWhat did your parents build?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "THREE GENERATIONS OF BUILDING",
-     "subline": "A family story, from a Brooklyn storefront to housing technology. Swipe →",
-     "background": "Three golden stepping-stone pedestals of increasing height, each holding a glowing object: a small storefront, a row of retail stores, and a skyline of towers, on a dark navy blueprint grid.",
-     "attachments": []
+     "headline": "MY FATHER OPENED THE FIRST WIZ. I'M BUILDING HOUSING TECH.",
+     "subline": "Two generations of building. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "My father opened the first Wiz. I'm building housing tech.",
+       "mechanism": "Transformation across generations: a clear before and after.",
+       "chosen": true
+      },
+      {
+       "text": "Two generations of building, from Fulton Street to BUILT®.",
+       "mechanism": "Specificity: names both ends."
+      },
+      {
+       "text": "What carries from a father's store to a housing system?",
+       "mechanism": "Curiosity gap: abstract."
+      }
+     ],
+     "background": "Two golden stepping-stone pedestals of increasing height, the first holding a small glowing storefront, the second a modern prefab housing factory, on a dark navy blueprint grid.",
+     "sourceLine": "Per company histories",
+     "attachments": [],
+     "altText": "Cover headline 'My father opened the first Wiz. I'm building housing tech.' over two gold pedestals holding a storefront and a factory."
     },
     {
      "n": 2,
      "template": "cards_stack",
      "kicker": "GENERATION 1",
      "headline": "NORMAN N. JEMAL",
-     "subtitle": "Father and mentor",
-     "illustrationTop": "A stylized CGI vintage Brooklyn storefront at dusk framed by a golden theater curtain, no people",
+     "subtitle": "My father and mentor",
      "cards": [
       {
        "icon": "storefront",
-       "body": "Mentor to Stephen at the family discount store in Spanish Harlem"
+       "body": "We worked together at our family discount store in Spanish Harlem"
       },
       {
        "icon": "location-pin",
-       "body": "Opened the first Wiz on Fulton Street, Brooklyn, in 1976, aided by his four sons"
+       "body": "In 1976, he opened the first Wiz on Fulton Street, Brooklyn"
       },
       {
        "icon": "theater-curtain",
-       "body": "Named it after his favorite Broadway musical"
+       "body": "He named it after his favorite Broadway musical"
       }
      ],
-     "sourceLine": "Per company histories",
+     "sourceLine": "Per company histories and stephenjemal.com",
+     "scene": "storefront",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "photoUpgrade": {
-      "when": "a photo of Norman N. Jemal is available",
-      "replaces": "illustrationTop",
-      "description": "a real photo of Norman N. Jemal"
-     },
-     "scene": "storefront"
+     "altText": "Three cards about Norman N. Jemal: the family store in Spanish Harlem, the first Wiz in 1976, and its Broadway-inspired name."
     },
     {
      "n": 3,
      "template": "timeline_vertical",
      "kicker": "GENERATION 2",
-     "headline": "STEPHEN S. JEMAL",
-     "subtitle": "From retail to real estate to housing technology",
+     "headline": "MY PATH: STORES, LAND, HOUSING",
      "photo": {
       "description": "a real portrait of Stephen Jemal",
       "placement": "right side of the upper half, about 35% of the image width and 30% of its height"
      },
      "points": [
-      "Started working beside his father in the family store",
-      "By 16, started his own electronics and music stores",
-      "Helped build The Wiz, a New York retail icon",
-      "Moved into waterfront and real estate development",
-      "Leads JemRock Organization and BUILT®"
+      "Born in Brooklyn, the youngest of ten",
+      "By 16, started four electronics and music stores",
+      "As the chain grew, built an in-house construction company",
+      "Moved into waterfront revitalization and real estate",
+      "Today: President and CEO of JemRock Organization"
      ],
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference",
       "portrait of Stephen Jemal"
-     ]
+     ],
+     "altText": "A portrait of Stephen Jemal beside a gold timeline from Brooklyn childhood to four stores, construction, real estate and JemRock."
     },
     {
      "n": 4,
-     "template": "name_cards_grid",
-     "kicker": "GENERATION 3",
-     "headline": "THE SONS OF JEMROCK",
-     "body": "Stephen's four sons joined him to found JemRock Organization and launch PASHA.",
-     "names": [
+     "template": "stats_grid",
+     "kicker": "WHAT WE BUILD NOW",
+     "headline": "BUILT®, UNVEILED AUGUST 2026",
+     "cards": [
       [
-       "N",
-       "Norman",
-       null
+       "ONE MOTHER FACTORY",
+       "In the United States"
       ],
       [
-       "S",
-       "Solomon",
-       "COO"
+       "PILOT FACTORIES",
+       "Hundreds, in countries that need housing"
       ],
       [
-       "R",
-       "Richard",
-       null
+       "LOCAL JOBS",
+       "Designed for government partnerships"
       ],
       [
-       "J",
-       "James",
-       null
+       "PRECISION",
+       "Millimeter and sub-millimeter, less waste"
       ]
      ],
-     "pullLine": "A legacy of execution.",
+     "scene": "factory",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "photoUpgrade": {
-      "when": "a photo of the four sons is available",
-      "description": "a real photo of Stephen Jemal's four sons, Norman, Solomon, Richard and James",
-      "placement": "top of the slide, about 85% of the image width and 28% of its height, under the headline"
-     },
-     "scene": "houses"
+     "altText": "A 2x2 grid describing BUILT: one mother factory in the US, hundreds of pilot factories, local jobs with government partnerships, millimeter precision with less waste."
     },
     {
      "n": 5,
      "template": "numbered_cta",
      "kicker": "SAVE THIS",
-     "headline": "3 VALUES PASSED DOWN",
+     "headline": "3 QUESTIONS TO ASK THE GENERATION BEFORE YOU",
      "rows": [
-      "Togetherness",
-      "Family",
-      "Hard work"
+      "What did you build first?",
+      "What would you do differently?",
+      "What should I never forget?"
      ],
-     "button": "Comment the value you were raised on",
+     "button": "Comment one thing your family taught you about work",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three numbered questions to ask a parent or mentor, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin: opening lesson line.",
+   "caption": "My father, Norman N. Jemal, was my mentor. We worked together at our family discount store in Spanish Harlem, and in 1976 he opened the first Wiz on Fulton Street.\n\nToday I lead JemRock Organization and BUILT®, a prefabricated modular housing production system unveiled in August 2026.\n\nTwo generations, one thread: building.\n\n#FamilyBusiness #Brooklyn #Housing\n\nWhat did the generation before you build?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 12,
    "week": 12,
    "title": "The buildout advantage",
    "pillar": "Founder lessons",
-   "caption": "Every new store is a buildout. Repeat it across a chain and building becomes a system. Four principles behind that way of thinking: repeatable systems, cost awareness, speed and consistent quality. Which question would you ask first? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "As the Wiz chain grew, I built our own construction and prefabricated fixture manufacturing company.\n\nEvery new store is a buildout. Do it across a chain and building becomes a system. Today, BUILT® applies prefabrication to housing.\n\nSave the 4 questions to ask about any buildout.\n\n#Construction #Prefab #Retail\n\nWhere does your buildout cost leak?",
+    "facebook": "Every new store is a construction project. As the Wiz grew, I built an in-house construction and prefabricated fixture company.\n\n#Construction #SmallBusiness\n\nHave you ever brought a key service in-house?",
+    "linkedin": "A retail chain is a construction project on repeat.\n\nEvery new store needs a site, a lease, a design, fixtures and a build timed to opening day. As the Wiz chain grew, I built an in-house construction and prefabricated fixture manufacturing company.\n\nToday, BUILT® takes prefabrication to housing: AI-powered, robotics-driven, cloud-based and laser-guided modular production.\n\nFour questions for any buildout: Can we repeat it? Where does the cost leak? How long does it really take? Will every site look and work the same?\n\n#Construction #Prefab\n\nWhich question costs your projects the most?",
+    "x": "As the Wiz chain grew, I built our own construction and fixture company.\n\nPrefab fixtures then. Prefab homes with BUILT® now.\n\nWhere does your buildout cost leak?",
+    "threads": "Every new store is a buildout. As the chain grew, I built our own construction company.\n\nWould you bring construction in-house?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "A RETAIL CHAIN IS A CONSTRUCTION PROJECT ON REPEAT",
-     "subline": "Swipe to see why buildouts matter →",
+     "headline": "AS THE CHAIN GREW, I BUILT OUR OWN CONSTRUCTION COMPANY",
+     "subline": "From store fixtures to BUILT®. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "As the chain grew, I built our own construction company",
+       "mechanism": "Specificity + story: an unusual move most retailers don't make.",
+       "chosen": true
+      },
+      {
+       "text": "A retail chain is a construction project on repeat.",
+       "mechanism": "Contrarian reframe: strong, but opinion."
+      },
+      {
+       "text": "What do store fixtures have to do with housing tech?",
+       "mechanism": "Curiosity gap: pays off on slide 4."
+      }
+     ],
      "background": "A row of identical storefront shells on a glowing blueprint grid, one fully built and lit, the others in gold wireframe.",
-     "attachments": []
+     "sourceLine": "Source: stephenjemal.com",
+     "attachments": [],
+     "altText": "Cover headline 'As the chain grew, I built our own construction company' over a row of storefront shells, one lit."
     },
     {
      "n": 2,
@@ -1637,17 +1965,20 @@
       }
      ],
      "pullLine": "Repeat it across a chain and building becomes a system.",
+     "scene": "row",
+     "needsApproval": true,
+     "approvalNote": "Pull line is opinion in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "scene": "row"
+     "altText": "Four numbered cards listing the steps of every new store buildout, with a gold pull line."
     },
     {
      "n": 3,
      "template": "flow_steps",
-     "kicker": "THE SOLUTION",
+     "kicker": "THE ANSWER",
      "headline": "BUILD IT IN-HOUSE",
-     "body": "As the business grew, Stephen built an in-house construction and prefabricated fixture manufacturing company.",
+     "body": "As the chain grew, I built an in-house construction and prefabricated fixture manufacturing company.",
      "flow": [
       [
        "Design",
@@ -1662,40 +1993,44 @@
        "storefront"
       ]
      ],
-     "pullLine": "Learning every part of development, from concept to completion.",
-     "sourceLine": "Per Stephen Jemal's biography",
+     "scene": "factory",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "scene": "factory"
+     "altText": "A three-step flow from design to making fixtures to installing in store, under a line about the in-house company."
     },
     {
      "n": 4,
-     "template": "stats_grid",
-     "kicker": "THE PRINCIPLES",
-     "headline": "4 PILLARS OF PREFAB THINKING",
-     "cards": [
+     "template": "table_compare",
+     "kicker": "THEN AND NOW",
+     "headline": "PREFAB FIXTURES THEN. PREFAB HOMES NOW.",
+     "columns": [
+      "THE WIZ ERA",
+      "BUILT®"
+     ],
+     "rows": [
       [
-       "REPEATABLE SYSTEMS",
-       "Reuse processes and components"
+       "Prefabricated store fixtures",
+       "Prefabricated modular housing"
       ],
       [
-       "COST AWARENESS",
-       "Cut inefficiency, improve control"
+       "In-house construction",
+       "AI, robotics, cloud, laser guidance"
       ],
       [
-       "SPEED",
-       "Fewer on-site delays"
-      ],
-      [
-       "CONSISTENT QUALITY",
-       "Standardized methods, predictable results"
+       "One growing chain",
+       "One mother factory, many pilot factories"
       ]
      ],
+     "scene": "blueprint",
+     "sourceLine": "Source: stephenjemal.com",
+     "needsApproval": true,
+     "approvalNote": "The then-and-now comparison is framing.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "scene": "pillars"
+     "altText": "A two-column table comparing the Wiz-era fixture company with BUILT prefabricated modular housing."
     },
     {
      "n": 5,
@@ -1710,11 +2045,18 @@
      ],
      "button": "Comment your answer to #2",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered buildout questions with a gold button asking readers to answer the second."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin: opening lesson line ('A retail chain is a construction project on repeat').",
+   "caption": "As the Wiz chain grew, I built our own construction and prefabricated fixture manufacturing company.\n\nEvery new store is a buildout. Do it across a chain and building becomes a system. Today, BUILT® applies prefabrication to housing.\n\nSave the 4 questions to ask about any buildout.\n\n#Construction #Prefab #Retail\n\nWhere does your buildout cost leak?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 13,

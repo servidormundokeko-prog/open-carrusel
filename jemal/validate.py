@@ -155,7 +155,8 @@ def check_carousel(c):
                 err(w, f"missing {f}")
         if s.get("template") not in TEMPLATES:
             err(w, f"unknown template {s.get('template')}")
-        if s.get("altText") and len(re.findall(r"[.!?](\s|$)", s["altText"].strip())) > 1:
+        alt = re.sub(r"'[^']*'|\"[^\"]*\"|\b[A-Z]\.", "", s.get("altText") or "")
+        if alt and len(re.findall(r"[.!?](\s|$)", alt.strip())) > 1:
             warn(w, "altText should be one sentence")
         if words(s.get("headline", "")) > 12:
             err(w, f"headline has {words(s['headline'])} words (max 12)")

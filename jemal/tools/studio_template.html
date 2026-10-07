@@ -77,7 +77,7 @@ textarea{width:100%;min-height:96px;background:#0a1424;color:var(--ui-text);bord
 .tr:last-child{border-bottom:0}
 .tr.th{font-family:'Montserrat',sans-serif;font-weight:800;font-size:calc(28 * var(--u));color:#D4A84B;letter-spacing:.1em;text-transform:uppercase}
 .tr svg{width:calc(36 * var(--u));height:calc(36 * var(--u));stroke:#D4A84B;fill:none;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round}
-.rowstat .lb{flex:none;width:calc(250 * var(--u));font-family:'Montserrat',sans-serif;font-weight:800;font-size:calc(42 * var(--u));color:#D4A84B;line-height:1.05}
+.rowstat .lb{flex:none;width:auto;min-width:calc(250 * var(--u));max-width:calc(440 * var(--u));font-family:'Montserrat',sans-serif;font-weight:800;font-size:calc(42 * var(--u));color:#D4A84B;line-height:1.05}
 .rowstat .tx{font-weight:500;font-size:calc(31 * var(--u));line-height:1.28}
 .scard{flex-direction:column;align-items:flex-start;gap:calc(6 * var(--u))}
 .sn{font-family:'Montserrat',sans-serif;font-weight:800;font-size:calc(82 * var(--u));line-height:1;color:#D4A84B}
@@ -229,6 +229,7 @@ function sceneInner(n){const r=rnd(11);const G='#D4A84B',L='#F0CF85',N='#0E2547'
  case 'megaphone':o=`<path d="M300 80v50h60l140 70V10L360 80z" fill="${C}" stroke="${G}" stroke-width="4" stroke-linejoin="round"/><path d="M540 60a60 60 0 0 1 0 100M580 40a95 95 0 0 1 0 140M620 20a130 130 0 0 1 0 180" fill="none" stroke="${L}" stroke-width="5" stroke-linecap="round"/>`;break;
  case 'scale':o=`<path d="M480 20v160M390 180h180M330 50h300" stroke="${G}" stroke-width="6" fill="none"/><path d="M330 50l-50 80h100zM630 50l-50 80h100z" fill="${C}" stroke="${L}" stroke-width="4"/><circle cx="480" cy="30" r="10" fill="${L}"/>`;break;
  case 'stairs':for(let i=0;i<6;i++)o+=`<rect x="${200+i*100}" y="${170-i*24}" width="100" height="${30+i*24}" fill="${G}" fill-opacity="${.25+i*.1}" stroke="${G}" stroke-width="2"/>`;o+=`<path d="M230 150L720 40M720 40l-30 6M720 40l-10 28" stroke="${L}" stroke-width="5" fill="none" stroke-linecap="round"/>`;break;
+ case 'row':for(let i=0;i<5;i++){const x=110+i*150;o+=i===0?`<rect x="${x}" y="96" width="120" height="104" fill="${C}" stroke="${G}" stroke-width="3"/><path d="M${x-8} 96h136l-14 -26H${x+6}z" fill="${G}" fill-opacity=".6"/>${win(x+16,116,56,40)}${win(x+82,116,24,84)}`:`<rect x="${x}" y="96" width="120" height="104" fill="none" stroke="${G}" stroke-opacity=".6" stroke-width="3" stroke-dasharray="10 8"/><path d="M${x-8} 96h136l-14 -26H${x+6}z" fill="none" stroke="${G}" stroke-opacity=".6" stroke-width="3" stroke-dasharray="10 8"/>`}break;
  case 'clipboard':o=`<rect x="380" y="14" width="200" height="180" rx="14" fill="${C}" stroke="${G}" stroke-width="4"/><rect x="430" y="4" width="100" height="28" rx="8" fill="${G}"/>`;for(let i=0;i<4;i++)o+=`<path d="M410 ${70+i*30}l10 10 18 -20" stroke="${L}" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M450 ${74+i*30}h100" stroke="${G}" stroke-width="5" stroke-linecap="round"/>`;break;
  case 'tag':o=`<path d="M340 100V30h90l170 120-90 40z" fill="${C}" stroke="${G}" stroke-width="4" stroke-linejoin="round"/><circle cx="400" cy="70" r="12" fill="${L}"/><path d="M640 160l70-30M650 190l90-34" stroke="${G}" stroke-width="4" stroke-opacity=".6"/>`;break;
  }return o}
@@ -306,7 +307,7 @@ function buildSlide(c,s){
  return el;
 }
 function fit(el){let k=1;el.style.setProperty('--k',k);const b=el.querySelector('.body');let g=0;
- const over=()=>b.scrollHeight>b.clientHeight+2||[...el.querySelectorAll('.h1,.tl2')].some(h=>h.scrollWidth>h.clientWidth+1);
+ const over=()=>b.scrollHeight>b.clientHeight+2||[...el.querySelectorAll('.h1,.tl2,.rowstat .lb')].some(h=>h.scrollWidth>h.clientWidth+1);
  while(over()&&k>0.45&&g++<60){k-=0.02;el.style.setProperty('--k',k.toFixed(3))}}
 
 let scale=1;

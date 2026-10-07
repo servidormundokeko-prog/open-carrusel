@@ -1,0 +1,147 @@
+{
+  "id": 1,
+  "week": 1,
+  "title": "Youngest of ten",
+  "pillar": "Story",
+  "captions": {
+    "instagram": "I'm the youngest of ten children. Born and raised in Brooklyn, a first-generation American.\n\nMy parents gave us three values: togetherness, family and hard work. My father, Norman N. Jemal, was also my mentor. We worked together at our family discount store in Spanish Harlem.\n\nSwipe for where those values show up in my story, and save the three-question check on the last slide.\n\n#Brooklyn #FamilyBusiness #Entrepreneurship\n\nWhich value did your family pass down to you?",
+    "facebook": "I'm the youngest of ten children, born and raised in Brooklyn, a first-generation American.\n\nMy parents gave us three values: togetherness, family and hard work. My father, Norman N. Jemal, was my mentor, and we worked together at our family discount store in Spanish Harlem. By 16, I had started four electronics and music stores of my own.\n\n#Brooklyn #FamilyBusiness\n\nWhat's one value your parents passed down that you still use?",
+    "linkedin": "The values a family runs on can become the values a business runs on.\n\nI'm the youngest of ten children, born and raised in Brooklyn, a first-generation American. My parents gave us three values: togetherness, family and hard work.\n\nMy father, Norman N. Jemal, was my mentor. We worked together at our family discount store in Spanish Harlem. By 16, I had started four electronics and music specialty stores. In 1976, my father opened the first Wiz on Fulton Street in downtown Brooklyn.\n\nThree questions I'd put to any founder:\n1. Who are you building with?\n2. Who are you building for?\n3. What are you learning by doing?\n\n#FamilyBusiness #Leadership\n\nWhich value from your upbringing shows up most in how you work?",
+    "x": "Youngest of ten. Born and raised in Brooklyn. First-generation American.\n\nMy parents gave us three values: togetherness, family, hard work.\n\nWhich one did your family pass down to you?",
+    "threads": "Youngest of ten kids. Brooklyn. First-generation American.\n\nMy parents gave us three values: togetherness, family and hard work. My father was my mentor, and we worked side by side in our family store in Spanish Harlem.\n\nWhich value did you grow up with?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "I'M THE YOUNGEST OF TEN. MY PARENTS GAVE US THREE VALUES.",
+      "subline": "Brooklyn born. First-generation American. Swipe for the three →",
+      "hookAlternatives": [
+        {
+          "text": "I'm the youngest of ten. My parents gave us three values.",
+          "mechanism": "Specificity + curiosity gap: which three? Paid off on slides 4 and 5.",
+          "chosen": true
+        },
+        {
+          "text": "Before the Wiz, there were ten kids and three values.",
+          "mechanism": "Story / before-after: links the family to a brand people know."
+        },
+        {
+          "text": "What does the youngest of ten learn growing up in Brooklyn?",
+          "mechanism": "Question: invites comments, but softer promise."
+        }
+      ],
+      "scene": "houses",
+      "photo": {
+        "description": "a real portrait of Stephen Jemal",
+        "placement": "right side of the lower half, about 35% of the image width and 40% of its height"
+      },
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "portrait of Stephen Jemal"
+      ],
+      "altText": "Cover with the youngest-of-ten headline next to a portrait of Stephen Jemal, over an illustrated row of lit houses."
+    },
+    {
+      "n": 2,
+      "template": "stats_grid",
+      "kicker": "WHERE I COME FROM",
+      "headline": "BROOKLYN. TEN KIDS. FIRST GENERATION.",
+      "cards": [
+        [
+          "BROOKLYN",
+          "Born and raised here"
+        ],
+        [
+          "YOUNGEST OF TEN",
+          "The last of ten children"
+        ],
+        [
+          "FIRST GENERATION",
+          "A first-generation American"
+        ],
+        [
+          "PACE UNIVERSITY",
+          "Where I studied"
+        ]
+      ],
+      "scene": "houses",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four gold-bordered cards: born and raised in Brooklyn, youngest of ten children, first-generation American, Pace University alumnus."
+    },
+    {
+      "n": 3,
+      "template": "timeline_vertical",
+      "kicker": "A MENTOR AT HOME",
+      "headline": "MY FATHER, NORMAN N. JEMAL, WAS MY MENTOR",
+      "points": [
+        "We worked together at our family store in Spanish Harlem",
+        "By 16, I'd started four electronics and music stores",
+        "1976: my father opened the first Wiz on Fulton Street, Brooklyn",
+        "He named it after his favorite Broadway musical"
+      ],
+      "scene": "storefront",
+      "sourceLine": "Source: stephenjemal.com. Wiz history per company histories.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A gold vertical timeline: the family store in Spanish Harlem, four stores by 16, and the first Wiz on Fulton Street in 1976."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE THREE VALUES",
+      "headline": "WHERE MY PARENTS' VALUES SHOW UP",
+      "columns": [
+        "VALUE",
+        "IN MY STORY"
+      ],
+      "rows": [
+        [
+          "Togetherness",
+          "Working side by side with my father"
+        ],
+        [
+          "Family",
+          "Our family discount store in Spanish Harlem"
+        ],
+        [
+          "Hard work",
+          "Four stores of my own by 16"
+        ]
+      ],
+      "scene": "pillars",
+      "sourceLine": "Source: stephenjemal.com",
+      "needsApproval": true,
+      "approvalNote": "Pairing each value with a moment from the story is framing, not a quote.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table pairing togetherness, family and hard work with moments from the family store years."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE THREE-VALUE CHECK FOR ANY BUSINESS",
+      "rows": [
+        "Togetherness: who are you building with?",
+        "Family: who are you building for?",
+        "Hard work: what are you learning by doing?"
+      ],
+      "button": "Comment the value your family passed down",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three numbered questions, one per value, with a gold button asking readers to comment the value their family passed down."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson line and the 'three questions I'd put to any founder' framing."
+}

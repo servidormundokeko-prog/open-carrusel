@@ -6841,22 +6841,48 @@
    "week": 44,
    "title": "Market gap strategy",
    "pillar": "Real estate and vision",
-   "caption": "Market gap strategy means finding a need that isn't being fully served and building a concept around it. Swipe for the method. What gap do you see in your city? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Find the need nobody is serving. Then build around it.\n\nThat's how I think about a market gap: spot it, shape a concept for it, serve it. A gap can be underserved people, a missing product, the wrong price or the wrong place.\n\nSave the 5-question gap worksheet.\n\n#Strategy #Entrepreneurship #RealEstate\n\nWhat gap would you fill?",
+    "facebook": "In a crowded market you fight on price. In a real gap you compete on fit. I made a 5-question worksheet to find one.\n\n#Strategy #Entrepreneurship\n\nWhat's a need near you that nobody serves well?",
+    "linkedin": "Don't fight for a crowded market. Look for the need nobody is serving.\n\nA gap usually shows up in one of four ways: a group nobody targets, a need with no good option, good options few can afford, or good options far from where the need is.\n\nMy sequence: spot the gap, shape a concept around it, serve the need.\n\nThe worksheet I'd use: Who is underserved? Why are they underserved? What would serve them? What does it cost? How would you reach them?\n\n#Strategy #RealEstate\n\nWhich gap do you see in your market?",
+    "x": "Crowded market: fight on price.\nReal gap: compete on fit.\n\nMy sequence: spot the gap, shape a concept, serve the need.\n\nWhat gap would you fill?",
+    "threads": "Find the need nobody is serving, then build around it. That's where I'd start any new concept.\n\nWhat gap do you see?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "FIND THE NEED NOBODY IS SERVING",
-     "subline": "Market gap strategy, in three moves. Swipe →",
+     "headline": "FIND THE NEED NOBODY IS SERVING. THEN BUILD AROUND IT.",
+     "subline": "Market gap strategy in three moves. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Find the need nobody is serving. Then build around it.",
+       "mechanism": "Instruction + promise: a clear, repeatable move.",
+       "chosen": true
+      },
+      {
+       "text": "Crowded market or real gap? How to tell.",
+       "mechanism": "Contrast + question: sharp, slightly vague."
+      },
+      {
+       "text": "Five questions that reveal a market gap.",
+       "mechanism": "Specificity: save-worthy, low tension."
+      }
+     ],
      "scene": "map",
-     "attachments": []
+     "sourceLine": "General guidance",
+     "needsApproval": true,
+     "approvalNote": "Advice headline in Stephen's voice.",
+     "attachments": [],
+     "altText": "Cover headline 'Find the need nobody is serving. Then build around it.' over an illustrated street map with a gold route."
     },
     {
      "n": 2,
      "template": "flow_steps",
-     "kicker": "THE METHOD",
+     "kicker": "THE MOVES",
      "headline": "SPOT. SHAPE. SERVE.",
+     "body": "Identify a need that isn't being fully served, then build a concept around that opening.",
      "flow": [
       [
        "SPOT THE GAP",
@@ -6872,35 +6898,41 @@
       ]
      ],
      "scene": "map",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "body": "Identify a need that isn't being fully served, then build a concept around that opening."
+     "altText": "A three-step flow: spot the gap, shape a concept, serve the need."
     },
     {
      "n": 3,
-     "template": "cards_stack",
-     "kicker": "AN EXAMPLE",
-     "headline": "THE PASHA GAP, PER JEMROCK",
+     "template": "stats_grid",
+     "kicker": "WHAT A GAP LOOKS LIKE",
+     "headline": "FOUR KINDS OF MARKET GAPS",
      "cards": [
-      {
-       "title": "THE GAP",
-       "body": "Professionals priced out of Manhattan living."
-      },
-      {
-       "title": "THE CONCEPT",
-       "body": "Modern urban residences with lifestyle amenities."
-      },
-      {
-       "title": "THE APPROACH",
-       "body": "Reusing existing office and hotel buildings."
-      }
+      [
+       "UNDERSERVED PEOPLE",
+       "A group nobody targets"
+      ],
+      [
+       "MISSING PRODUCT",
+       "A need with no good option"
+      ],
+      [
+       "WRONG PRICE",
+       "Good options few can afford"
+      ],
+      [
+       "WRONG PLACE",
+       "Good options far from the need"
+      ]
      ],
      "scene": "tower",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per JemRock materials"
+     "altText": "A 2x2 grid: underserved people, a missing product, the wrong price, the wrong place."
     },
     {
      "n": 4,
@@ -6928,7 +6960,8 @@
      "scene": "scale",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting a crowded market with a real gap."
     },
     {
      "n": 5,
@@ -6944,33 +6977,66 @@
      ],
      "button": "Comment the gap you'd fill",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered gap-finding questions with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "all captions: 'That's how I think about', 'My sequence', 'The worksheet I'd use'.",
+   "caption": "Find the need nobody is serving. Then build around it.\n\nThat's how I think about a market gap: spot it, shape a concept for it, serve it. A gap can be underserved people, a missing product, the wrong price or the wrong place.\n\nSave the 5-question gap worksheet.\n\n#Strategy #Entrepreneurship #RealEstate\n\nWhat gap would you fill?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 45,
    "week": 45,
    "title": "Concept to long-term use",
    "pillar": "Real estate and vision",
-   "caption": "A great concept still has to be built, designed and run well for years. Swipe for the four stages of operational execution. Where do projects slip? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "A great concept is only the first stage of four. Then come construction, design and long-term use.\n\nThe question I'd ask at the end: will it still work in ten years?\n\nSave the 4-stage execution check.\n\n#RealEstate #Development #Execution\n\nWhere do projects slip most?",
+    "facebook": "Plenty of projects look great on paper. I think the ones that last are designed for delivery: concept, construction, design and long-term use, each checked early.\n\n#RealEstate #Development\n\nWhich stage do you think gets rushed?",
+    "linkedin": "A concept is a promise. Execution is whether you keep it.\n\nEvery real estate project runs through four stages: concept (who is this for, and why them?), construction (can it be built on time and on budget?), design (does it support the people who'll use it?) and long-term use (will it still work in ten years?).\n\nGaps that aren't closed early show up later, when they cost more.\n\nThe check I'd run: Is the concept clear? Is the build feasible? Does the design serve users? Can it run for years?\n\n#RealEstate #Execution\n\nWhich stage fails most often in your experience?",
+    "x": "A great concept is stage one of four:\n\nConcept.\nConstruction.\nDesign.\nLong-term use.\n\nI'd ask one question at the end: will it still work in ten years? Where do projects slip?",
+    "threads": "A great concept is only the first stage. I'd judge a project by whether it still works years later.\n\nAgree?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "A GREAT CONCEPT IS ONLY THE FIRST 25%",
-     "subline": "Four stages of real estate execution. Swipe →",
+     "headline": "A GREAT CONCEPT IS ONLY THE FIRST STAGE OF FOUR",
+     "subline": "From concept to long-term use. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "A great concept is only the first stage of four",
+       "mechanism": "Contrarian + specificity: deflates the idea-first mindset.",
+       "chosen": true
+      },
+      {
+       "text": "Where do good real estate ideas fall apart?",
+       "mechanism": "Curiosity: strong, but negative."
+      },
+      {
+       "text": "Concept, construction, design, long-term use.",
+       "mechanism": "Pattern: clear, low tension."
+      }
+     ],
      "scene": "crane",
-     "attachments": []
+     "sourceLine": "General guidance",
+     "needsApproval": true,
+     "approvalNote": "Opinion headline in Stephen's voice.",
+     "attachments": [],
+     "altText": "Cover headline 'A great concept is only the first stage of four' over an illustrated construction crane."
     },
     {
      "n": 2,
      "template": "flow_steps",
-     "kicker": "THE STAGES",
-     "headline": "CONCEPT. CONSTRUCTION. DESIGN. LONG-TERM USE.",
+     "kicker": "THE FOUR STAGES",
+     "headline": "CONCEPT. BUILD. DESIGN. LONG-TERM USE.",
+     "body": "Each stage has to work, or the project doesn't.",
      "flow": [
       [
        "CONCEPT",
@@ -6993,13 +7059,13 @@
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "altText": "A four-step flow: concept, build, design, long-term use."
     },
     {
      "n": 3,
      "template": "cards_stack",
-     "kicker": "ONE QUESTION PER STAGE",
-     "headline": "WHAT TO ASK",
+     "kicker": "WHAT TO ASK",
+     "headline": "ONE QUESTION PER STAGE",
      "cards": [
       {
        "title": "CONCEPT",
@@ -7011,7 +7077,7 @@
       },
       {
        "title": "DESIGN",
-       "body": "Does it support the resident experience?"
+       "body": "Does it support the people who use it?"
       },
       {
        "title": "LONG-TERM USE",
@@ -7019,9 +7085,12 @@
       }
      ],
      "scene": "blueprint",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered cards with one question for each stage."
     },
     {
      "n": 4,
@@ -7046,10 +7115,11 @@
        "Designed for delivery"
       ]
      ],
-     "scene": "crane",
+     "scene": "skyline",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting a concept on paper with an executed project."
     },
     {
      "n": 5,
@@ -7064,18 +7134,31 @@
      ],
      "button": "Comment where projects slip",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered execution-check questions with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "all captions: 'I'd ask', 'I think', 'The check I'd run'.",
+   "caption": "A great concept is only the first stage of four. Then come construction, design and long-term use.\n\nThe question I'd ask at the end: will it still work in ten years?\n\nSave the 4-stage execution check.\n\n#RealEstate #Development #Execution\n\nWhere do projects slip most?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 46,
    "week": 46,
    "title": "Zoning in four steps",
    "pillar": "Real estate and vision",
-   "caption": "Zoning decides how land and buildings can be used, how dense a project can be, and what approvals it needs. Swipe for a four-step view. Has zoning ever blocked your idea? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Zoning is the rulebook behind every city building. It decides use, density, what improvements are possible and which approvals you need.\n\nThe order I'd work in: use analysis, approval strategy, feasibility, team.\n\nGeneral guidance, not legal advice.\n\n#RealEstate #Zoning #UrbanDevelopment\n\nWhat's your zoning story?",
+    "facebook": "Before you buy a property, read the rulebook. Zoning decides what it can become. I broke it into four things it controls and four steps to check.\n\nGeneral guidance, not legal advice.\n\n#Zoning #RealEstate\n\nHave zoning rules ever surprised you?",
+    "linkedin": "Know the rules before you buy, not after.\n\nZoning decides four things about a site: how land and buildings can be used, how much can be built, what improvements are possible, and what approvals a project needs.\n\nThe order I'd work in: use analysis, approval strategy, feasibility, then the team. Without that check, surprises arrive after purchase. With it, plans are designed to fit.\n\nGeneral guidance, not legal advice. Work with qualified land use professionals.\n\n#Zoning #RealEstate\n\nWhat's the most surprising zoning rule you've run into?",
+    "x": "Zoning decides:\n\nUse.\nDensity.\nImprovements.\nApprovals.\n\nI'd check all four before buying. General guidance, not legal advice. What's your zoning story?",
+    "threads": "Zoning is the rulebook behind every city building. I'd read it before buying, not after.\n\nGeneral guidance, not legal advice. Any zoning surprises?"
+   },
    "slides": [
     {
      "n": 1,
@@ -7083,43 +7166,31 @@
      "kicker": "THE JEMAL BLUEPRINT",
      "headline": "ZONING: THE RULEBOOK BEHIND EVERY CITY BUILDING",
      "subline": "Four steps from idea to permission. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Zoning: the rulebook behind every city building",
+       "mechanism": "Reframe + authority: makes a dry topic concrete.",
+       "chosen": true
+      },
+      {
+       "text": "Before you buy property, read the rulebook.",
+       "mechanism": "Instruction + stakes: practical."
+      },
+      {
+       "text": "Four things zoning decides about any site.",
+       "mechanism": "Specificity: countable promise."
+      }
+     ],
      "scene": "map",
-     "attachments": []
+     "sourceLine": "General guidance, not legal advice",
+     "attachments": [],
+     "altText": "Cover headline 'Zoning: the rulebook behind every city building' over an illustrated street map."
     },
     {
      "n": 2,
-     "template": "flow_steps",
-     "kicker": "FOUR STEPS",
-     "headline": "USE. APPROVAL. FEASIBILITY. TEAM.",
-     "flow": [
-      [
-       "USE ANALYSIS",
-       "map-grid"
-      ],
-      [
-       "APPROVAL STRATEGY",
-       "document"
-      ],
-      [
-       "FEASIBILITY",
-       "scale"
-      ],
-      [
-       "TEAM",
-       "people"
-      ]
-     ],
-     "scene": "map",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
-     "sourceLine": "Per Stephen Jemal's site"
-    },
-    {
-     "n": 3,
      "template": "cards_stack",
      "kicker": "WHAT ZONING DECIDES",
-     "headline": "FOUR THINGS",
+     "headline": "USE, DENSITY, IMPROVEMENTS, APPROVALS",
      "cards": [
       {
        "icon": "map-grid",
@@ -7143,9 +7214,43 @@
       }
      ],
      "scene": "map",
+     "sourceLine": "General guidance, not legal advice",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four cards: use, density, improvements and approvals."
+    },
+    {
+     "n": 3,
+     "template": "flow_steps",
+     "kicker": "THE ORDER",
+     "headline": "USE. APPROVAL. FEASIBILITY. TEAM.",
+     "flow": [
+      [
+       "USE ANALYSIS",
+       "map-grid"
+      ],
+      [
+       "APPROVAL STRATEGY",
+       "document"
+      ],
+      [
+       "FEASIBILITY",
+       "scale"
+      ],
+      [
+       "TEAM",
+       "people"
+      ]
+     ],
+     "scene": "blueprint",
+     "sourceLine": "General guidance, not legal advice",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A four-step flow: use analysis, approval strategy, feasibility, team."
     },
     {
      "n": 4,
@@ -7171,9 +7276,11 @@
       ]
      ],
      "scene": "scale",
+     "sourceLine": "General guidance, not legal advice",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting skipping and doing a zoning check."
     },
     {
      "n": 5,
@@ -7188,33 +7295,65 @@
      ],
      "button": "Comment your zoning story",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "sourceLine": "General guidance, not legal advice",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered zoning-check questions with a gold comment button and a legal note."
     }
-   ]
+   ],
+   "captionsNeedApproval": "all captions: 'The order I'd work in', 'I'd check / I'd read'.",
+   "caption": "Zoning is the rulebook behind every city building. It decides use, density, what improvements are possible and which approvals you need.\n\nThe order I'd work in: use analysis, approval strategy, feasibility, team.\n\nGeneral guidance, not legal advice.\n\n#RealEstate #Zoning #UrbanDevelopment\n\nWhat's your zoning story?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 47,
    "week": 47,
    "title": "Adaptive reuse",
    "pillar": "Real estate and vision",
-   "caption": "Give old buildings a new job. Swipe for how adaptive reuse turns older office, commercial and hotel properties into homes. Which building in your city deserves a second life? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "What if some of the best new homes are inside old offices?\n\nAdaptive reuse gives an existing building a new purpose, often turning older commercial, office or hotel buildings into residential. In dense cities, the structure and the location are already there.\n\nSave the 5 questions I'd ask before a conversion.\n\n#AdaptiveReuse #RealEstate #UrbanDevelopment\n\nWhich building would you convert?",
+    "facebook": "Old office, new home. I put together how adaptive reuse works and five questions to ask before converting a building.\n\n#AdaptiveReuse #RealEstate\n\nIs there an empty building near you that should become homes?",
+    "linkedin": "The greenest building is often the one that's already standing.\n\nAdaptive reuse gives an existing property a new purpose: office, commercial or hotel buildings turned into residential. In dense cities, the structure and the location already exist; the question is whether the building can work for its new job.\n\nBuilding new starts from an empty site. Converting starts from what's sound and works within it.\n\nFive questions I'd ask before a conversion: What does zoning allow? What condition is the building in? Is the location in demand? What will it cost? Who will live there?\n\n#AdaptiveReuse #RealEstate\n\nWhich question decides most conversions?",
+    "x": "Adaptive reuse: give an old building a new job.\n\nOffice → homes.\nHotel → homes.\nCommercial → homes.\n\nI'd check zoning, condition and demand first. Which building near you would you convert?",
+    "threads": "Some of the best new homes might be inside old offices. I'd check zoning and condition first.\n\nWhat would you convert?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "GIVE OLD BUILDINGS A NEW JOB",
+     "headline": "WHAT IF SOME OF THE BEST NEW HOMES ARE INSIDE OLD OFFICES?",
      "subline": "How adaptive reuse works. Swipe →",
-     "scene": "crane",
-     "attachments": []
+     "hookAlternatives": [
+      {
+       "text": "What if some of the best new homes are inside old offices?",
+       "mechanism": "Curiosity + contrarian: flips 'new' and 'old'.",
+       "chosen": true
+      },
+      {
+       "text": "Give old buildings a new job.",
+       "mechanism": "Instruction: punchy, less tension."
+      },
+      {
+       "text": "How adaptive reuse works, in one swipe.",
+       "mechanism": "Promise: clear explainer."
+      }
+     ],
+     "scene": "tower",
+     "sourceLine": "General guidance",
+     "attachments": [],
+     "altText": "Cover headline 'What if some of the best new homes are inside old offices?' over an illustrated lit apartment tower."
     },
     {
      "n": 2,
      "template": "flow_steps",
-     "kicker": "THE IDEA",
-     "headline": "OLD USE TO NEW USE",
+     "kicker": "OLD USE TO NEW USE",
+     "headline": "GIVE OLD BUILDINGS A NEW JOB",
+     "body": "Adaptive reuse gives an existing property a new purpose, often turning older commercial, office or hotel buildings into residential.",
      "flow": [
       [
        "OFFICE",
@@ -7234,53 +7373,65 @@
       ]
      ],
      "scene": "tower",
+     "sourceLine": "General explanation",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "body": "Adaptive reuse is taking an existing property and giving it a new purpose, often turning older commercial, office or hospitality buildings into residential.",
-     "sourceLine": "Per Stephen Jemal's site"
+     "altText": "A four-step flow from office, commercial and hotel buildings to residential."
     },
     {
      "n": 3,
      "template": "cards_stack",
-     "kicker": "WHY IT WORKS",
-     "headline": "IN DENSE CITIES",
+     "kicker": "IN DENSE CITIES",
+     "headline": "WHY CONVERSIONS CAN WORK",
      "cards": [
       {
        "title": "THE BUILDING EXISTS",
        "body": "Structure and location are already there."
       },
       {
-       "title": "DEMAND IS HERE",
-       "body": "People want to live in the city."
+       "title": "CHECK THE DEMAND",
+       "body": "Make sure people want to live there."
       },
       {
        "title": "UNDERUSED SPACE",
-       "body": "Value hides in outdated assets."
-      }
-     ],
-     "scene": "tower",
-     "attachments": [
-      "Image 1 as style reference"
-     ]
-    },
-    {
-     "n": 4,
-     "template": "cards_stack",
-     "kicker": "EXAMPLE, PER JEMROCK",
-     "headline": "PASHA",
-     "cards": [
-      {
-       "icon": "building-with-arrow",
-       "title": "OFFICE AND HOTEL TO HOMES",
-       "body": "Converting existing buildings in central Manhattan into hotels and apartments."
+       "body": "Value can hide in outdated assets."
       }
      ],
      "scene": "skyline",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per JemRock materials"
+     "altText": "Three numbered cards: the building exists, demand must be checked, value hides in underused space."
+    },
+    {
+     "n": 4,
+     "template": "table_compare",
+     "kicker": "THE TRADE-OFF",
+     "headline": "BUILD NEW VS. CONVERT",
+     "columns": [
+      "BUILD NEW",
+      "CONVERT"
+     ],
+     "rows": [
+      [
+       "Start from an empty site",
+       "Start from an existing structure"
+      ],
+      [
+       "Design anything zoning allows",
+       "Work within the building you have"
+      ],
+      [
+       "New foundation and frame",
+       "Reuse what's sound"
+      ]
+     ],
+     "scene": "crane",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A two-column table contrasting new construction with converting an existing building."
     },
     {
      "n": 5,
@@ -7296,27 +7447,57 @@
      ],
      "button": "Comment the building you'd convert",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered questions to ask before converting a building, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin: opening lesson ('The greenest building...'); all: 'questions I'd ask', 'I'd check'.",
+   "caption": "What if some of the best new homes are inside old offices?\n\nAdaptive reuse gives an existing building a new purpose, often turning older commercial, office or hotel buildings into residential. In dense cities, the structure and the location are already there.\n\nSave the 5 questions I'd ask before a conversion.\n\n#AdaptiveReuse #RealEstate #UrbanDevelopment\n\nWhich building would you convert?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 48,
    "week": 48,
    "title": "Reading an outdated asset",
    "pillar": "Real estate and vision",
-   "caption": "Seeing value where others see an outdated asset takes judgment. Swipe for six factors to score any property. Which would you check first? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "How do you see value in an outdated building? Score it.\n\nSix factors I'd look at: location, future demand, building condition, neighborhood change, zoning and construction feasibility. Score each from 1 to 5, compare, then decide.\n\nSave the scorecard.\n\n#RealEstate #Investing #UrbanDevelopment\n\nWhat would your building score?",
+    "facebook": "Old building, good bones? I made a 6-factor scorecard for judging any property before you fall for it.\n\n#RealEstate #Investing\n\nWhich factor do people overlook most?",
+    "linkedin": "Score it before you fall for it.\n\nAn outdated building can hide real value, or real problems. Six factors I'd score: location (is it somewhere people want to be?), future demand (will they still want to be there?), building condition, neighborhood change, zoning (what can it legally become?) and construction feasibility.\n\nScore each from 1 to 5. Compare properties side by side. Then decide.\n\n#RealEstate #Investing\n\nWhich factor would you weigh most?",
+    "x": "6-factor property scorecard, 1 to 5 each:\n\nLocation\nFuture demand\nCondition\nNeighborhood change\nZoning\nFeasibility\n\nI'd score before falling for any building. What would yours score?",
+    "threads": "Score it before you fall for it. That's my rule for old buildings.\n\nWhat would you look at first?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "HOW DO YOU SEE VALUE IN AN OUTDATED BUILDING?",
-     "subline": "Six factors to score any property. Swipe →",
+     "headline": "HOW DO YOU SEE VALUE IN AN OUTDATED BUILDING? SCORE IT.",
+     "subline": "Six factors, one scorecard. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "How do you see value in an outdated building? Score it.",
+       "mechanism": "Question + promise: a method, not a vibe.",
+       "chosen": true
+      },
+      {
+       "text": "Six factors to score any property.",
+       "mechanism": "Specificity: save-worthy, low tension."
+      },
+      {
+       "text": "Old building, good bones? Here's how to check.",
+       "mechanism": "Curiosity: familiar phrase, practical payoff."
+      }
+     ],
      "scene": "blueprint",
-     "attachments": []
+     "sourceLine": "General guidance",
+     "attachments": [],
+     "altText": "Cover headline 'How do you see value in an outdated building? Score it.' over an illustrated gold blueprint grid."
     },
     {
      "n": 2,
@@ -7338,34 +7519,37 @@
       }
      ],
      "scene": "map",
+     "needsApproval": true,
+     "approvalNote": "General guidance framed in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "altText": "Three numbered cards: location, future demand, building condition."
     },
     {
      "n": 3,
-     "template": "cards_stack",
+     "template": "stats_rows",
      "kicker": "FACTORS 4 TO 6",
      "headline": "THE CONTEXT",
-     "cards": [
-      {
-       "title": "NEIGHBORHOOD CHANGE",
-       "body": "Where is the area headed?"
-      },
-      {
-       "title": "ZONING",
-       "body": "What can it legally become?"
-      },
-      {
-       "title": "CONSTRUCTION FEASIBILITY",
-       "body": "Can it be built at a sensible cost?"
-      }
+     "rows": [
+      [
+       "NEIGHBORHOOD",
+       "Where is the area headed?"
+      ],
+      [
+       "ZONING",
+       "What can it legally become?"
+      ],
+      [
+       "FEASIBILITY",
+       "Can it be built at a sensible cost?"
+      ]
      ],
-     "scene": "blueprint",
+     "scene": "skyline",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three rows: neighborhood change, zoning, construction feasibility."
     },
     {
      "n": 4,
@@ -7386,10 +7570,14 @@
        "key"
       ]
      ],
+     "pullLine": "Score it before you fall for it.",
      "scene": "scale",
+     "needsApproval": true,
+     "approvalNote": "Opinion pull line in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A three-step flow: score, compare, decide."
     },
     {
      "n": 5,
@@ -7406,18 +7594,31 @@
      ],
      "button": "Comment your total score",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A six-factor numbered property scorecard rated 1 to 5, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "all captions: 'Six factors I'd look at', 'my rule'.",
+   "caption": "How do you see value in an outdated building? Score it.\n\nSix factors I'd look at: location, future demand, building condition, neighborhood change, zoning and construction feasibility. Score each from 1 to 5, compare, then decide.\n\nSave the scorecard.\n\n#RealEstate #Investing #UrbanDevelopment\n\nWhat would your building score?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 49,
    "week": 49,
    "title": "Who it takes to build in a city",
    "pillar": "Real estate and vision",
-   "caption": "A city project is a team sport: architects, engineers, consultants and municipal processes. Swipe for who does what. Who is hardest to coordinate? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "It takes a village to build in a city: architects, engineers, consultants and municipal processes, all coordinated.\n\nIdea, approval, design, build. The way I see it, coordination is what turns a concept into a building. Save the 5-point coordination check.\n\n#RealEstate #Construction #UrbanDevelopment\n\nWho would you coordinate first?",
+    "facebook": "Architects shape it. Engineers make it stand. Consultants add expertise. The city approves it. I put who does what on an urban project in one carousel.\n\n#Construction #RealEstate\n\nWhich role do you think is most underrated?",
+    "linkedin": "Coordination turns a concept into a built project.\n\nAn urban project depends on four groups: architects (design), engineers (structure), consultants (specialist expertise) and municipal processes (approvals). When they work in silos, surprises show up at approval and work gets redone. When they share one plan, approvals are planned for.\n\nThe check I'd run: Who owns the plan? Who talks to the city? Who approves changes? How are teams updated? What is the review rhythm?\n\n#Construction #ProjectManagement\n\nWhere does coordination break down most?",
+    "x": "Building in a city takes:\n\nArchitects.\nEngineers.\nConsultants.\nThe city.\n\nI'd say coordination is the real job. Who would you coordinate first?",
+    "threads": "It takes a village to build in a city. I think coordination is the real job.\n\nAgree?"
+   },
    "slides": [
     {
      "n": 1,
@@ -7425,18 +7626,31 @@
      "kicker": "THE JEMAL BLUEPRINT",
      "headline": "IT TAKES A VILLAGE TO BUILD IN A CITY",
      "subline": "Who does what on an urban project. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "It takes a village to build in a city",
+       "mechanism": "Familiar phrase, new context: instantly understood.",
+       "chosen": true
+      },
+      {
+       "text": "Who does what on an urban building project?",
+       "mechanism": "Question: clear, generic."
+      },
+      {
+       "text": "Architects, engineers, consultants, the city: who's on your team?",
+       "mechanism": "Specificity: long for a cover."
+      }
+     ],
      "scene": "crane",
-     "attachments": []
+     "sourceLine": "General guidance",
+     "attachments": [],
+     "altText": "Cover headline 'It takes a village to build in a city' over an illustrated construction crane."
     },
     {
      "n": 2,
      "template": "stats_grid",
      "kicker": "THE TEAM",
      "headline": "FOUR GROUPS TO COORDINATE",
-     "scene": "crane",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
      "cards": [
       [
        "ARCHITECTS",
@@ -7455,12 +7669,16 @@
        "Grant approvals"
       ]
      ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "scene": "skyline",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A 2x2 grid: architects, engineers, consultants and municipal processes."
     },
     {
      "n": 3,
      "template": "flow_steps",
-     "kicker": "THE PATH",
+     "kicker": "THE SEQUENCE",
      "headline": "IDEA. APPROVAL. DESIGN. BUILD.",
      "flow": [
       [
@@ -7480,11 +7698,14 @@
        "crane"
       ]
      ],
+     "pullLine": "Coordination turns a concept into a built project.",
      "scene": "crane",
+     "needsApproval": true,
+     "approvalNote": "Opinion pull line in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "Coordination turns a concept into a built project."
+     "altText": "A four-step flow: idea, approval, design, build."
     },
     {
      "n": 4,
@@ -7512,7 +7733,8 @@
      "scene": "scale",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table contrasting siloed and coordinated project teams."
     },
     {
      "n": 5,
@@ -7528,83 +7750,119 @@
      ],
      "button": "Comment who you'd coordinate first",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered coordination questions with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin/x/threads: 'The check I'd run', 'I'd say/I think coordination is the real job'.",
+   "caption": "It takes a village to build in a city: architects, engineers, consultants and municipal processes, all coordinated.\n\nIdea, approval, design, build. The way I see it, coordination is what turns a concept into a building. Save the 5-point coordination check.\n\n#RealEstate #Construction #UrbanDevelopment\n\nWho would you coordinate first?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 50,
    "week": 50,
    "title": "Vision vs. positioning",
    "pillar": "Founder lessons",
-   "caption": "Strategic vision sees where a market is going. Market positioning makes it easy to understand. Swipe for the difference and how both worked at the Wiz. Which comes first? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "Vision or positioning: which one does your business need? Both, in that order.\n\nHow I'd define them: vision is seeing where a market is going and organizing around it. Positioning is making the business easy to understand. The Wiz was positioned on four pillars: clear message, competitive identity, operational support, scalable concept.\n\n#Strategy #Leadership #Branding\n\nWhat's your vision in one line?",
+    "facebook": "Vision sets the direction. Positioning makes it clear. I broke down the difference, with the four positioning pillars behind the Wiz.\n\n#Strategy #Leadership\n\nWhich one does your business struggle with more?",
+    "linkedin": "Vision sets the direction. Positioning makes it clear.\n\nHow I'd define them: strategic vision is seeing where a market is going and organizing people, capital and operations around it. Market positioning is making a business easy for customers, partners and investors to understand.\n\nThe Wiz was positioned on four pillars: a clear message, a competitive identity, operational support and a scalable concept.\n\nFour questions I'd ask: Where is the market going? How will we be understood? Who must be organized? What proves it?\n\n#Strategy #Leadership\n\nWhich question is hardest for your team?",
+    "x": "Vision: where the market is going.\nPositioning: how people understand you.\n\nI think you need both, in that order. What's your vision in one line?",
+    "threads": "Vision sets the direction. Positioning makes it clear. I'd want both.\n\nWhich are you stronger at?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "VISION OR POSITIONING: WHICH ONE DO YOU NEED?",
+     "headline": "VISION OR POSITIONING: WHICH ONE DOES YOUR BUSINESS NEED?",
      "subline": "Two ideas, one strategy. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Vision or positioning: which one does your business need?",
+       "mechanism": "Either/or question: forces a choice, pays off with 'both'.",
+       "chosen": true
+      },
+      {
+       "text": "Vision sets the direction. Positioning makes it clear.",
+       "mechanism": "Pattern: memorable, gives the answer away."
+      },
+      {
+       "text": "Most founders confuse vision with positioning.",
+       "mechanism": "Contrarian: an unsourced claim."
+      }
+     ],
      "scene": "scale",
-     "attachments": []
+     "sourceLine": "General guidance",
+     "attachments": [],
+     "altText": "Cover headline 'Vision or positioning: which one does your business need?' over an illustrated golden balance scale."
     },
     {
      "n": 2,
      "template": "cards_stack",
-     "kicker": "DEFINITIONS",
-     "headline": "TWO IDEAS, DEFINED",
+     "kicker": "TWO IDEAS, DEFINED",
+     "headline": "VISION VS. POSITIONING",
      "cards": [
       {
        "icon": "magnifying-glass",
        "title": "STRATEGIC VISION",
-       "body": "Seeing where a market is going and organizing people, capital, branding, operations and execution around that direction."
+       "body": "Seeing where a market is going, then organizing people, capital and operations around it."
       },
       {
        "icon": "banner-with-star",
        "title": "MARKET POSITIONING",
-       "body": "Making a business or concept easy for customers, partners, residents or investors to understand."
+       "body": "Making a business easy for customers, partners and investors to understand."
       }
      ],
      "scene": "scale",
+     "needsApproval": true,
+     "approvalNote": "Definitions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Per Stephen Jemal's site"
+     "altText": "Two cards defining strategic vision and market positioning."
     },
     {
      "n": 3,
      "template": "stats_grid",
-     "kicker": "AT THE WIZ",
-     "headline": "FOUR POSITIONING PILLARS",
-     "scene": "storefront",
-     "attachments": [
-      "Image 1 as style reference"
-     ],
+     "kicker": "POSITIONING IN PRACTICE",
+     "headline": "THE WIZ POSITIONING PILLARS",
      "cards": [
       [
        "CLEAR MESSAGE",
-       "A promise customers can remember"
+       "A promise people remember"
       ],
       [
        "COMPETITIVE IDENTITY",
-       "Confidence, value, retail energy"
+       "A reason to choose you"
       ],
       [
        "OPERATIONAL SUPPORT",
-       "Store execution matched the promise"
+       "Execution that matches the promise"
       ],
       [
        "SCALABLE CONCEPT",
-       "A position that could grow"
+       "A position that can grow"
       ]
-     ]
+     ],
+     "scene": "storefront",
+     "sourceLine": "Pillars: stephenjemal.com",
+     "needsApproval": true,
+     "approvalNote": "Pillar names per stephenjemal.com; descriptions are framing.",
+     "attachments": [
+      "Image 1 as style reference"
+     ],
+     "altText": "A 2x2 grid of the Wiz positioning pillars: clear message, competitive identity, operational support, scalable concept."
     },
     {
      "n": 4,
      "template": "flow_steps",
-     "kicker": "TOGETHER",
+     "kicker": "HOW THEY CONNECT",
      "headline": "VISION POINTS. POSITIONING EXPLAINS.",
      "flow": [
       [
@@ -7620,11 +7878,14 @@
        "crane"
       ]
      ],
-     "scene": "scale",
+     "pullLine": "Vision sets the direction. Positioning makes it clear.",
+     "scene": "stairs",
+     "needsApproval": true,
+     "approvalNote": "Opinion pull line in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "pullLine": "Vision sets the direction. Positioning makes it clear."
+     "altText": "A three-step flow from vision to positioning to execution."
     },
     {
      "n": 5,
@@ -7639,27 +7900,57 @@
      ],
      "button": "Comment your vision in one line",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Four numbered strategy questions with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "all captions: 'How I'd define them', 'I think you need both'.",
+   "caption": "Vision or positioning: which one does your business need? Both, in that order.\n\nHow I'd define them: vision is seeing where a market is going and organizing around it. Positioning is making the business easy to understand. The Wiz was positioned on four pillars: clear message, competitive identity, operational support, scalable concept.\n\n#Strategy #Leadership #Branding\n\nWhat's your vision in one line?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 51,
    "week": 51,
    "title": "Values at work",
    "pillar": "Story",
-   "caption": "Togetherness, family and hard work are the values Stephen Jemal says shaped his leadership. Swipe for what each can look like in a business. Which would you add? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "My parents gave us three values: togetherness, family and hard work. Here's how I'd translate each one into a business.\n\nTogetherness: teams that share goals and information. Family: trust, long-term thinking and mentoring. My father was also my mentor. Hard work: showing up, and learning by doing.\n\n#Leadership #FamilyBusiness #Values\n\nWhat value would you add?",
+    "facebook": "Togetherness, family, hard work. Three values from my Brooklyn childhood, and what I think they look like at work.\n\n#Leadership #Values\n\nWhich value runs your workplace?",
+    "linkedin": "The values you grow up with can become the way you run a business.\n\nMy parents gave us three: togetherness, family and hard work. How I'd translate them:\n\nTogetherness: teams that share goals and information, and decisions that are explained, not just announced.\nFamily: loyalty, trust and long-term thinking. Mentoring matters; my father was also my mentor.\nHard work: showing up for the unglamorous work, and learning by doing. By 16, I had started four electronics and music stores.\n\n#Leadership #Values\n\nWhich value shapes your work most?",
+    "x": "My parents' three values, at work:\n\nTogetherness → shared goals.\nFamily → trust and mentoring.\nHard work → learning by doing.\n\nWhat value would you add?",
+    "threads": "Togetherness, family, hard work. My parents' values, and what I think they mean at work.\n\nWhich one did you grow up with?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "WHAT DO TOGETHERNESS, FAMILY AND HARD WORK LOOK LIKE AT WORK?",
-     "subline": "Three values from Brooklyn, applied to business. Swipe →",
+     "headline": "TOGETHERNESS, FAMILY, HARD WORK: WHAT MY PARENTS' VALUES LOOK LIKE AT WORK",
+     "subline": "Three values from Brooklyn. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "Togetherness, family, hard work: what my parents' values look like at work",
+       "mechanism": "Story + promise: personal values made practical.",
+       "chosen": true
+      },
+      {
+       "text": "Three values from a Brooklyn family, applied to business.",
+       "mechanism": "Specificity: clear, less personal."
+      },
+      {
+       "text": "Can family values run a company?",
+       "mechanism": "Question: provocative, vaguer."
+      }
+     ],
      "scene": "houses",
-     "attachments": []
+     "sourceLine": "Source: stephenjemal.com",
+     "attachments": [],
+     "altText": "Cover headline about what togetherness, family and hard work look like at work, over illustrated houses with lit windows."
     },
     {
      "n": 2,
@@ -7679,54 +7970,64 @@
       }
      ],
      "scene": "houses",
+     "needsApproval": true,
+     "approvalNote": "Translating the value into business is framing.",
      "attachments": [
       "Image 1 as style reference"
      ],
-     "sourceLine": "Framing of values stated in Stephen Jemal's biography"
+     "altText": "Two cards on togetherness in business and in practice."
     },
     {
      "n": 3,
-     "template": "cards_stack",
+     "template": "stats_grid",
      "kicker": "VALUE 2",
      "headline": "FAMILY",
      "cards": [
-      {
-       "icon": "house",
-       "title": "IN A BUSINESS",
-       "body": "Loyalty, trust and long-term thinking."
-      },
-      {
-       "icon": "key",
-       "title": "IN PRACTICE",
-       "body": "Mentoring: Stephen's father was also his mentor."
-      }
+      [
+       "IN A BUSINESS",
+       "Loyalty, trust and long-term thinking"
+      ],
+      [
+       "IN PRACTICE",
+       "Mentoring. My father was also my mentor."
+      ]
      ],
-     "scene": "houses",
+     "scene": "storefront",
+     "sourceLine": "Source: stephenjemal.com",
+     "needsApproval": true,
+     "approvalNote": "Translating the value into business is framing; the mentor fact is confirmed.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A grid with two cards on family as a business value: trust and long-term thinking, and mentoring by Stephen's father."
     },
     {
      "n": 4,
-     "template": "cards_stack",
+     "template": "table_compare",
      "kicker": "VALUE 3",
      "headline": "HARD WORK",
-     "cards": [
-      {
-       "icon": "hard-hat",
-       "title": "IN A BUSINESS",
-       "body": "Showing up and doing the unglamorous work."
-      },
-      {
-       "icon": "gear",
-       "title": "IN PRACTICE",
-       "body": "Learning every part of development, from concept to completion."
-      }
+     "columns": [
+      "IN A BUSINESS",
+      "IN PRACTICE"
+     ],
+     "rows": [
+      [
+       "Showing up",
+       "Doing the unglamorous work"
+      ],
+      [
+       "Learning by doing",
+       "Four stores of my own by 16"
+      ]
      ],
      "scene": "crane",
+     "sourceLine": "Source: stephenjemal.com",
+     "needsApproval": true,
+     "approvalNote": "Translating the value into business is framing; the stores fact is confirmed.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A two-column table on hard work in business and in practice, including four stores by 16."
     },
     {
      "n": 5,
@@ -7740,85 +8041,141 @@
      ],
      "button": "Comment a value you'd add",
      "followLine": "Follow @StephenJemalNY for the next chapter",
+     "needsApproval": true,
+     "approvalNote": "Framework questions written in Stephen's voice.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three numbered self-check questions, one per value, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "linkedin: opening lesson line; all: 'how I'd translate'.",
+   "caption": "My parents gave us three values: togetherness, family and hard work. Here's how I'd translate each one into a business.\n\nTogetherness: teams that share goals and information. Family: trust, long-term thinking and mentoring. My father was also my mentor. Hard work: showing up, and learning by doing.\n\n#Leadership #FamilyBusiness #Values\n\nWhat value would you add?",
+   "needsApproval": true,
+   "rewritten": true
   },
   {
    "id": 52,
    "week": 52,
    "title": "From Fulton Street to BUILT",
    "pillar": "Story",
-   "caption": "From a Spanish Harlem discount store to a Brooklyn storefront to a housing system, in one swipe. Which chapter surprised you most? Follow @StephenJemalNY.",
+   "captions": {
+    "instagram": "From my father's Fulton Street store to BUILT®, in one swipe.\n\nBrooklyn. The youngest of ten. Our family store in Spanish Harlem. Four stores of my own by 16. The first Wiz in 1976. Waterfront and real estate. JemRock Organization. BUILT®, unveiled in August 2026 and presented at the United Nations.\n\n#Brooklyn #Entrepreneurship #Housing\n\nWhich chapter do you want to hear more about?",
+    "facebook": "52 weeks of carousels, one story: Brooklyn, family, retail, real estate and housing. Thank you for following along.\n\n#Entrepreneurship #Brooklyn\n\nWhich chapter should I go deeper on next?",
+    "linkedin": "Every chapter built on the last one.\n\nI was born and raised in Brooklyn, the youngest of ten. I worked beside my father, Norman, in our family store in Spanish Harlem, and by 16 I had started four electronics and music stores. In 1976, my father opened the first Wiz on Fulton Street. As the chain grew, I built an in-house construction and fixture company. After the Wiz came waterfront revitalization and real estate, then JemRock Organization.\n\nIn August 2026 we unveiled BUILT®, and I presented it at the United Nations. Our work has also been featured in The Real Deal.\n\n#Entrepreneurship #Housing\n\nWhich chapter would you like me to unpack?",
+    "x": "Brooklyn → family store → four stores by 16 → the Wiz (1976) → real estate → JemRock → BUILT® (2026).\n\nMy story so far. Which chapter should I unpack next?",
+    "threads": "From my father's Fulton Street store to BUILT®. That's my story so far.\n\nWhat do you want to hear next?"
+   },
    "slides": [
     {
      "n": 1,
      "template": "cover",
      "kicker": "THE JEMAL BLUEPRINT",
-     "headline": "FROM FULTON STREET TO BUILT® IN ONE SWIPE",
-     "subline": "The Stephen Jemal story so far. Swipe →",
+     "headline": "FROM MY FATHER'S FULTON STREET STORE TO BUILT®, IN ONE SWIPE",
+     "subline": "My story so far. Swipe →",
+     "hookAlternatives": [
+      {
+       "text": "From my father's Fulton Street store to BUILT®, in one swipe",
+       "mechanism": "Transformation + promise: two real endpoints, one swipe.",
+       "chosen": true
+      },
+      {
+       "text": "Brooklyn, retail, real estate, housing: my story so far.",
+       "mechanism": "Specificity: a clear list, less tension."
+      },
+      {
+       "text": "What connects a 1976 electronics store to housing tech?",
+       "mechanism": "Curiosity gap: strong, abstract."
+      }
+     ],
      "scene": "skyline",
-     "attachments": []
+     "sourceLine": "Per company histories and stephenjemal.com",
+     "attachments": [],
+     "altText": "Cover headline 'From my father's Fulton Street store to BUILT, in one swipe' over an illustrated city skyline."
     },
     {
      "n": 2,
      "template": "timeline_vertical",
-     "kicker": "CHAPTERS 1 TO 3",
-     "headline": "WHERE IT STARTED",
+     "kicker": "WHERE IT STARTED",
+     "headline": "BROOKLYN, A FAMILY STORE, FOUR OF MY OWN",
      "points": [
-      "Brooklyn childhood: the youngest of ten",
-      "A family discount store in Spanish Harlem",
-      "By 16, four stores of his own"
+      "Brooklyn: the youngest of ten",
+      "Our family discount store in Spanish Harlem",
+      "By 16: four stores of my own",
+      "1976: my father opens the first Wiz on Fulton Street"
      ],
      "scene": "storefront",
+     "sourceLine": "Source: stephenjemal.com. 1976 per company histories.",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A gold timeline: Brooklyn childhood, the family store, four stores by 16, the first Wiz in 1976."
     },
     {
      "n": 3,
-     "template": "timeline_vertical",
-     "kicker": "CHAPTERS 4 TO 6",
-     "headline": "WHERE IT WENT",
-     "points": [
-      "1976: the first Wiz opens on Fulton Street, Brooklyn",
-      "After the Wiz: waterfront and real estate development",
-      "Today: JemRock Organization and BUILT®, unveiled in August 2026"
+     "template": "flow_steps",
+     "kicker": "WHERE IT WENT",
+     "headline": "FROM THE WIZ TO JEMROCK",
+     "body": "As the chain grew, I built our own construction company. After the Wiz, I moved into waterfront revitalization and real estate.",
+     "flow": [
+      [
+       "THE WIZ",
+       "banner-with-star"
+      ],
+      [
+       "WATERFRONT",
+       "anchor-and-wave"
+      ],
+      [
+       "REAL ESTATE",
+       "apartment-building"
+      ],
+      [
+       "JEMROCK",
+       "house"
+      ]
      ],
      "scene": "skyline",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "A four-step flow from the Wiz to waterfront work to real estate to JemRock."
     },
     {
      "n": 4,
      "template": "cards_stack",
-     "kicker": "RECOGNIZED",
-     "headline": "THE WORK IS GETTING NOTICED",
+     "kicker": "WHERE IT IS NOW",
+     "headline": "BUILT® AND THE WORK BEHIND IT",
      "cards": [
+      {
+       "icon": "factory",
+       "title": "BUILT®",
+       "body": "Unveiled in August 2026."
+      },
       {
        "icon": "globe",
        "title": "UNITED NATIONS",
-       "body": "Presented BUILT® at the United Nations."
+       "body": "I presented BUILT® at the United Nations."
       },
       {
        "icon": "document",
        "title": "THE REAL DEAL",
-       "body": "Featured in The Real Deal."
+       "body": "Our work was featured in The Real Deal."
       }
      ],
      "scene": "globe",
+     "sourceLine": "Source: stephenjemal.com",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Three cards: BUILT unveiled in August 2026, presented at the United Nations, featured in The Real Deal."
     },
     {
      "n": 5,
      "template": "numbered_cta",
      "kicker": "SAVE THIS",
-     "headline": "THE STORY IN 5 WORDS",
+     "headline": "MY STORY IN 5 WORDS",
      "rows": [
       "Brooklyn",
       "Family",
@@ -7826,13 +8183,18 @@
       "Real estate",
       "Housing"
      ],
-     "button": "Follow for what comes next",
+     "button": "Comment the chapter you want next",
      "followLine": "Follow @StephenJemalNY for the next chapter",
      "attachments": [
       "Image 1 as style reference"
-     ]
+     ],
+     "altText": "Five numbered words summarizing the story, with a gold comment button."
     }
-   ]
+   ],
+   "captionsNeedApproval": "facebook: '52 weeks of carousels' assumes the weekly series runs to the end; linkedin: 'Every chapter built on the last one.'",
+   "caption": "From my father's Fulton Street store to BUILT®, in one swipe.\n\nBrooklyn. The youngest of ten. Our family store in Spanish Harlem. Four stores of my own by 16. The first Wiz in 1976. Waterfront and real estate. JemRock Organization. BUILT®, unveiled in August 2026 and presented at the United Nations.\n\n#Brooklyn #Entrepreneurship #Housing\n\nWhich chapter do you want to hear more about?",
+   "needsApproval": true,
+   "rewritten": true
   }
  ]
 }

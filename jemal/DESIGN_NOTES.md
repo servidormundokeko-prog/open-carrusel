@@ -47,3 +47,7 @@ Checked by `validate.py`: white on navy 16.5, white on card 14.6, muted on navy 
 ## No new templates
 
 None needed so far. `row` was an existing scene name that lacked a drawing.
+
+## Template use across the series
+
+Every carousel opens with `cover` and closes with `numbered_cta`. Slides 2-4 use three different templates in all 52 carousels. Counts across slides 2-4: flow_steps 44, cards_stack 37, table_compare 32, stats_grid 21, stats_rows 12, stats_cards 5, timeline_vertical 4, stat_flow_checklist 1. `name_cards_grid` is no longer used: its only slide (C11, the sons) depended on unconfirmed facts. The template stays in the JSON for when those facts are confirmed.

@@ -1,0 +1,139 @@
+{
+  "id": 52,
+  "week": 52,
+  "title": "From Fulton Street to BUILT",
+  "pillar": "Story",
+  "captions": {
+    "instagram": "From my father's Fulton Street store to BUILT®, in one swipe.\n\nBrooklyn. The youngest of ten. Our family store in Spanish Harlem. Four stores of my own by 16. The first Wiz in 1976. Waterfront and real estate. JemRock Organization. BUILT®, unveiled in August 2026 and presented at the United Nations.\n\n#Brooklyn #Entrepreneurship #Housing\n\nWhich chapter do you want to hear more about?",
+    "facebook": "52 weeks of carousels, one story: Brooklyn, family, retail, real estate and housing. Thank you for following along.\n\n#Entrepreneurship #Brooklyn\n\nWhich chapter should I go deeper on next?",
+    "linkedin": "Every chapter built on the last one.\n\nI was born and raised in Brooklyn, the youngest of ten. I worked beside my father, Norman, in our family store in Spanish Harlem, and by 16 I had started four electronics and music stores. In 1976, my father opened the first Wiz on Fulton Street. As the chain grew, I built an in-house construction and fixture company. After the Wiz came waterfront revitalization and real estate, then JemRock Organization.\n\nIn August 2026 we unveiled BUILT®, and I presented it at the United Nations. Our work has also been featured in The Real Deal.\n\n#Entrepreneurship #Housing\n\nWhich chapter would you like me to unpack?",
+    "x": "Brooklyn → family store → four stores by 16 → the Wiz (1976) → real estate → JemRock → BUILT® (2026).\n\nMy story so far. Which chapter should I unpack next?",
+    "threads": "From my father's Fulton Street store to BUILT®. That's my story so far.\n\nWhat do you want to hear next?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "FROM MY FATHER'S FULTON STREET STORE TO BUILT®, IN ONE SWIPE",
+      "subline": "My story so far. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "From my father's Fulton Street store to BUILT®, in one swipe",
+          "mechanism": "Transformation + promise: two real endpoints, one swipe.",
+          "chosen": true
+        },
+        {
+          "text": "Brooklyn, retail, real estate, housing: my story so far.",
+          "mechanism": "Specificity: a clear list, less tension."
+        },
+        {
+          "text": "What connects a 1976 electronics store to housing tech?",
+          "mechanism": "Curiosity gap: strong, abstract."
+        }
+      ],
+      "scene": "skyline",
+      "sourceLine": "Per company histories and stephenjemal.com",
+      "attachments": [],
+      "altText": "Cover headline 'From my father's Fulton Street store to BUILT, in one swipe' over an illustrated city skyline."
+    },
+    {
+      "n": 2,
+      "template": "timeline_vertical",
+      "kicker": "WHERE IT STARTED",
+      "headline": "BROOKLYN, A FAMILY STORE, FOUR OF MY OWN",
+      "points": [
+        "Brooklyn: the youngest of ten",
+        "Our family discount store in Spanish Harlem",
+        "By 16: four stores of my own",
+        "1976: my father opens the first Wiz on Fulton Street"
+      ],
+      "scene": "storefront",
+      "sourceLine": "Source: stephenjemal.com. 1976 per company histories.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A gold timeline: Brooklyn childhood, the family store, four stores by 16, the first Wiz in 1976."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "WHERE IT WENT",
+      "headline": "FROM THE WIZ TO JEMROCK",
+      "body": "As the chain grew, I built our own construction company. After the Wiz, I moved into waterfront revitalization and real estate.",
+      "flow": [
+        [
+          "THE WIZ",
+          "banner-with-star"
+        ],
+        [
+          "WATERFRONT",
+          "anchor-and-wave"
+        ],
+        [
+          "REAL ESTATE",
+          "apartment-building"
+        ],
+        [
+          "JEMROCK",
+          "house"
+        ]
+      ],
+      "scene": "skyline",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow from the Wiz to waterfront work to real estate to JemRock."
+    },
+    {
+      "n": 4,
+      "template": "cards_stack",
+      "kicker": "WHERE IT IS NOW",
+      "headline": "BUILT® AND THE WORK BEHIND IT",
+      "cards": [
+        {
+          "icon": "factory",
+          "title": "BUILT®",
+          "body": "Unveiled in August 2026."
+        },
+        {
+          "icon": "globe",
+          "title": "UNITED NATIONS",
+          "body": "I presented BUILT® at the United Nations."
+        },
+        {
+          "icon": "document",
+          "title": "THE REAL DEAL",
+          "body": "Our work was featured in The Real Deal."
+        }
+      ],
+      "scene": "globe",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: BUILT unveiled in August 2026, presented at the United Nations, featured in The Real Deal."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "MY STORY IN 5 WORDS",
+      "rows": [
+        "Brooklyn",
+        "Family",
+        "Retail",
+        "Real estate",
+        "Housing"
+      ],
+      "button": "Comment the chapter you want next",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered words summarizing the story, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "facebook: '52 weeks of carousels' assumes the weekly series runs to the end; linkedin: 'Every chapter built on the last one.'"
+}

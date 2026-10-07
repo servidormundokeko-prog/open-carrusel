@@ -67,3 +67,16 @@
 - **C42 Waterfront revitalization** (replaces "Two brands, two markets"): the confirmed waterfront work, plus a general explanation of revitalization.
 - **C43 Urban residential focus**: the "per site" claims are now general guidance.
 - **Validator**: skips the internal `captionsNeedApproval` note when scanning for unconfirmed facts.
+
+## Batch 5: carousels 44-52 (series complete)
+
+- **C44 Market gap strategy**: the PASHA slide is replaced by a general "four kinds of market gaps" grid.
+- **C45 Concept to long-term use**: "the first 25%" (an invented statistic) became "the first stage of four". The "per site" stages are now general.
+- **C46 Zoning in four steps**: general guidance. "General guidance, not legal advice" is on every slide and in every caption.
+- **C47 Adaptive reuse**: the PASHA slide is replaced by a build-new-vs.-convert table. The hook is "What if some of the best new homes are inside old offices?"
+- **C48 Reading an outdated asset**: slide 3 is now stats rows, so slides 2-4 no longer repeat a template. The scorecard is unchanged.
+- **C49 Who it takes to build in a city, C50 Vision vs. positioning**: the "per site" claims are now general. The Wiz positioning pillars are confirmed; the definitions are flagged.
+- **C51 Values at work**: three cards_stack slides became cards, grid and table. "Stephen's father" became "my father". The unconfirmed "learning every part of development" line is removed.
+- **C52 From Fulton Street to BUILT**: the cover is "From my father's Fulton Street store to BUILT®". The two timelines became a timeline and a flow. Adds the UN presentation and The Real Deal. The closing slide now has a comment prompt.
+
+**Series totals**: 52 carousels, 260 slides, 260 prompts, 156 hook options, 260 alt texts, 260 captions. `validate.py`: 0 errors, 0 warnings. No duplicate covers. Photo blocks only on C1 slide 1, C10 slide 1 and C11 slide 3.

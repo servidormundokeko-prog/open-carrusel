@@ -1,0 +1,148 @@
+{
+  "id": 47,
+  "week": 47,
+  "title": "Adaptive reuse",
+  "pillar": "Real estate and vision",
+  "captions": {
+    "instagram": "What if some of the best new homes are inside old offices?\n\nAdaptive reuse gives an existing building a new purpose, often turning older commercial, office or hotel buildings into residential. In dense cities, the structure and the location are already there.\n\nSave the 5 questions I'd ask before a conversion.\n\n#AdaptiveReuse #RealEstate #UrbanDevelopment\n\nWhich building would you convert?",
+    "facebook": "Old office, new home. I put together how adaptive reuse works and five questions to ask before converting a building.\n\n#AdaptiveReuse #RealEstate\n\nIs there an empty building near you that should become homes?",
+    "linkedin": "The greenest building is often the one that's already standing.\n\nAdaptive reuse gives an existing property a new purpose: office, commercial or hotel buildings turned into residential. In dense cities, the structure and the location already exist; the question is whether the building can work for its new job.\n\nBuilding new starts from an empty site. Converting starts from what's sound and works within it.\n\nFive questions I'd ask before a conversion: What does zoning allow? What condition is the building in? Is the location in demand? What will it cost? Who will live there?\n\n#AdaptiveReuse #RealEstate\n\nWhich question decides most conversions?",
+    "x": "Adaptive reuse: give an old building a new job.\n\nOffice → homes.\nHotel → homes.\nCommercial → homes.\n\nI'd check zoning, condition and demand first. Which building near you would you convert?",
+    "threads": "Some of the best new homes might be inside old offices. I'd check zoning and condition first.\n\nWhat would you convert?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "WHAT IF SOME OF THE BEST NEW HOMES ARE INSIDE OLD OFFICES?",
+      "subline": "How adaptive reuse works. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "What if some of the best new homes are inside old offices?",
+          "mechanism": "Curiosity + contrarian: flips 'new' and 'old'.",
+          "chosen": true
+        },
+        {
+          "text": "Give old buildings a new job.",
+          "mechanism": "Instruction: punchy, less tension."
+        },
+        {
+          "text": "How adaptive reuse works, in one swipe.",
+          "mechanism": "Promise: clear explainer."
+        }
+      ],
+      "scene": "tower",
+      "sourceLine": "General guidance",
+      "attachments": [],
+      "altText": "Cover headline 'What if some of the best new homes are inside old offices?' over an illustrated lit apartment tower."
+    },
+    {
+      "n": 2,
+      "template": "flow_steps",
+      "kicker": "OLD USE TO NEW USE",
+      "headline": "GIVE OLD BUILDINGS A NEW JOB",
+      "body": "Adaptive reuse gives an existing property a new purpose, often turning older commercial, office or hotel buildings into residential.",
+      "flow": [
+        [
+          "OFFICE",
+          "apartment-building"
+        ],
+        [
+          "COMMERCIAL",
+          "storefront"
+        ],
+        [
+          "HOTEL",
+          "key"
+        ],
+        [
+          "RESIDENTIAL",
+          "house"
+        ]
+      ],
+      "scene": "tower",
+      "sourceLine": "General explanation",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow from office, commercial and hotel buildings to residential."
+    },
+    {
+      "n": 3,
+      "template": "cards_stack",
+      "kicker": "IN DENSE CITIES",
+      "headline": "WHY CONVERSIONS CAN WORK",
+      "cards": [
+        {
+          "title": "THE BUILDING EXISTS",
+          "body": "Structure and location are already there."
+        },
+        {
+          "title": "CHECK THE DEMAND",
+          "body": "Make sure people want to live there."
+        },
+        {
+          "title": "UNDERUSED SPACE",
+          "body": "Value can hide in outdated assets."
+        }
+      ],
+      "scene": "skyline",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three numbered cards: the building exists, demand must be checked, value hides in underused space."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE TRADE-OFF",
+      "headline": "BUILD NEW VS. CONVERT",
+      "columns": [
+        "BUILD NEW",
+        "CONVERT"
+      ],
+      "rows": [
+        [
+          "Start from an empty site",
+          "Start from an existing structure"
+        ],
+        [
+          "Design anything zoning allows",
+          "Work within the building you have"
+        ],
+        [
+          "New foundation and frame",
+          "Reuse what's sound"
+        ]
+      ],
+      "scene": "crane",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting new construction with converting an existing building."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "5 QUESTIONS BEFORE A CONVERSION",
+      "rows": [
+        "What does the zoning allow?",
+        "What condition is the building in?",
+        "Is the location in demand?",
+        "What will it cost?",
+        "Who will live or stay there?"
+      ],
+      "button": "Comment the building you'd convert",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered questions to ask before converting a building, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson ('The greenest building...'); all: 'questions I'd ask', 'I'd check'."
+}

@@ -1,0 +1,159 @@
+{
+  "id": 46,
+  "week": 46,
+  "title": "Zoning in four steps",
+  "pillar": "Real estate and vision",
+  "captions": {
+    "instagram": "Zoning is the rulebook behind every city building. It decides use, density, what improvements are possible and which approvals you need.\n\nThe order I'd work in: use analysis, approval strategy, feasibility, team.\n\nGeneral guidance, not legal advice.\n\n#RealEstate #Zoning #UrbanDevelopment\n\nWhat's your zoning story?",
+    "facebook": "Before you buy a property, read the rulebook. Zoning decides what it can become. I broke it into four things it controls and four steps to check.\n\nGeneral guidance, not legal advice.\n\n#Zoning #RealEstate\n\nHave zoning rules ever surprised you?",
+    "linkedin": "Know the rules before you buy, not after.\n\nZoning decides four things about a site: how land and buildings can be used, how much can be built, what improvements are possible, and what approvals a project needs.\n\nThe order I'd work in: use analysis, approval strategy, feasibility, then the team. Without that check, surprises arrive after purchase. With it, plans are designed to fit.\n\nGeneral guidance, not legal advice. Work with qualified land use professionals.\n\n#Zoning #RealEstate\n\nWhat's the most surprising zoning rule you've run into?",
+    "x": "Zoning decides:\n\nUse.\nDensity.\nImprovements.\nApprovals.\n\nI'd check all four before buying. General guidance, not legal advice. What's your zoning story?",
+    "threads": "Zoning is the rulebook behind every city building. I'd read it before buying, not after.\n\nGeneral guidance, not legal advice. Any zoning surprises?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "ZONING: THE RULEBOOK BEHIND EVERY CITY BUILDING",
+      "subline": "Four steps from idea to permission. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Zoning: the rulebook behind every city building",
+          "mechanism": "Reframe + authority: makes a dry topic concrete.",
+          "chosen": true
+        },
+        {
+          "text": "Before you buy property, read the rulebook.",
+          "mechanism": "Instruction + stakes: practical."
+        },
+        {
+          "text": "Four things zoning decides about any site.",
+          "mechanism": "Specificity: countable promise."
+        }
+      ],
+      "scene": "map",
+      "sourceLine": "General guidance, not legal advice",
+      "attachments": [],
+      "altText": "Cover headline 'Zoning: the rulebook behind every city building' over an illustrated street map."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "WHAT ZONING DECIDES",
+      "headline": "USE, DENSITY, IMPROVEMENTS, APPROVALS",
+      "cards": [
+        {
+          "icon": "map-grid",
+          "title": "USE",
+          "body": "How land and buildings can be used."
+        },
+        {
+          "icon": "apartment-building",
+          "title": "DENSITY",
+          "body": "How much can be built."
+        },
+        {
+          "icon": "blueprint",
+          "title": "IMPROVEMENTS",
+          "body": "What changes are possible."
+        },
+        {
+          "icon": "document",
+          "title": "APPROVALS",
+          "body": "What paths are required."
+        }
+      ],
+      "scene": "map",
+      "sourceLine": "General guidance, not legal advice",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four cards: use, density, improvements and approvals."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "THE ORDER",
+      "headline": "USE. APPROVAL. FEASIBILITY. TEAM.",
+      "flow": [
+        [
+          "USE ANALYSIS",
+          "map-grid"
+        ],
+        [
+          "APPROVAL STRATEGY",
+          "document"
+        ],
+        [
+          "FEASIBILITY",
+          "scale"
+        ],
+        [
+          "TEAM",
+          "people"
+        ]
+      ],
+      "scene": "blueprint",
+      "sourceLine": "General guidance, not legal advice",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow: use analysis, approval strategy, feasibility, team."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "WITHOUT VS. WITH A ZONING CHECK",
+      "columns": [
+        "WITHOUT",
+        "WITH"
+      ],
+      "rows": [
+        [
+          "Surprises after purchase",
+          "Rules known up front"
+        ],
+        [
+          "Plans rejected",
+          "Plans designed to fit"
+        ],
+        [
+          "Delays and rework",
+          "A clear approval path"
+        ]
+      ],
+      "scene": "scale",
+      "sourceLine": "General guidance, not legal advice",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting skipping and doing a zoning check."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 4-POINT ZONING CHECK",
+      "rows": [
+        "What can the property become?",
+        "What approvals are needed?",
+        "Is it feasible?",
+        "Who needs to be on the team?"
+      ],
+      "button": "Comment your zoning story",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "sourceLine": "General guidance, not legal advice",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered zoning-check questions with a gold comment button and a legal note."
+    }
+  ],
+  "captionsNeedApproval": "all captions: 'The order I'd work in', 'I'd check / I'd read'."
+}

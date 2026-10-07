@@ -1,6 +1,6 @@
 # Approval checklist: @StephenJemalNY series
 
-Status: **all 52 rewritten. Carousels 1-43 approved by you; batch 5 (carousels 44-52) in review.** This list grows with each batch.
+Status: **all 52 rewritten and approved by you (Oct 7).** Sections A, B and E still need the client.
 Tick a box to approve. To reject a line, cross it out and add a note; I'll rewrite it.
 
 ## A. Facts that need client confirmation
@@ -246,54 +246,54 @@ Generated from `needsApproval: true` in `rewrite/*.json` by `tools/approvals.py`
 - [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "YOUR 5-POINT CITY HOME CHECK"; "Is the location right? / Are the amenities useful? / Is the value fair? / Is the building in good condition? / Does it fit my routine?"
 - [x] Captions: instagram/linkedin/x/threads: 'I'd judge', 'The check I'd use', 'I'd add one more'.
 
-### Carousel 44: Market gap strategy
-- [ ] Slide 1 (cover): Advice headline in Stephen's voice. "FIND THE NEED NOBODY IS SERVING. THEN BUILD AROUND IT."
-- [ ] Slide 2 (flow_steps): General guidance framed in Stephen's voice. "SPOT. SHAPE. SERVE."; "Identify a need that isn't being fully served, then build a concept around that opening."; "SPOT THE GAP → SHAPE A CONCEPT → SERVE THE NEED"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 5-QUESTION GAP WORKSHEET"; "Who is underserved? / Why are they underserved? / What would serve them? / What does it cost? / How would you reach them?"
-- [ ] Captions: all captions: 'That's how I think about', 'My sequence', 'The worksheet I'd use'.
+### Carousel 44: Market gap strategy (approved Oct 7)
+- [x] Slide 1 (cover): Advice headline in Stephen's voice. "FIND THE NEED NOBODY IS SERVING. THEN BUILD AROUND IT."
+- [x] Slide 2 (flow_steps): General guidance framed in Stephen's voice. "SPOT. SHAPE. SERVE."; "Identify a need that isn't being fully served, then build a concept around that opening."; "SPOT THE GAP → SHAPE A CONCEPT → SERVE THE NEED"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 5-QUESTION GAP WORKSHEET"; "Who is underserved? / Why are they underserved? / What would serve them? / What does it cost? / How would you reach them?"
+- [x] Captions: all captions: 'That's how I think about', 'My sequence', 'The worksheet I'd use'.
 
-### Carousel 45: Concept to long-term use
-- [ ] Slide 1 (cover): Opinion headline in Stephen's voice. "A GREAT CONCEPT IS ONLY THE FIRST STAGE OF FOUR"
-- [ ] Slide 3 (cards_stack): General guidance framed in Stephen's voice. "ONE QUESTION PER STAGE"; "Who is this for, and why them?"; "Can it be built on time and budget?"; "Does it support the people who use it?"; "Will it still work in ten years?"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 4-STAGE EXECUTION CHECK"; "Is the concept clear? / Is the build feasible? / Does the design serve users? / Can it run for years?"
-- [ ] Captions: all captions: 'I'd ask', 'I think', 'The check I'd run'.
+### Carousel 45: Concept to long-term use (approved Oct 7)
+- [x] Slide 1 (cover): Opinion headline in Stephen's voice. "A GREAT CONCEPT IS ONLY THE FIRST STAGE OF FOUR"
+- [x] Slide 3 (cards_stack): General guidance framed in Stephen's voice. "ONE QUESTION PER STAGE"; "Who is this for, and why them?"; "Can it be built on time and budget?"; "Does it support the people who use it?"; "Will it still work in ten years?"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 4-STAGE EXECUTION CHECK"; "Is the concept clear? / Is the build feasible? / Does the design serve users? / Can it run for years?"
+- [x] Captions: all captions: 'I'd ask', 'I think', 'The check I'd run'.
 
-### Carousel 46: Zoning in four steps
-- [ ] Slide 3 (flow_steps): General guidance framed in Stephen's voice. "USE. APPROVAL. FEASIBILITY. TEAM."; "USE ANALYSIS → APPROVAL STRATEGY → FEASIBILITY → TEAM"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 4-POINT ZONING CHECK"; "What can the property become? / What approvals are needed? / Is it feasible? / Who needs to be on the team?"
-- [ ] Captions: all captions: 'The order I'd work in', 'I'd check / I'd read'.
+### Carousel 46: Zoning in four steps (approved Oct 7)
+- [x] Slide 3 (flow_steps): General guidance framed in Stephen's voice. "USE. APPROVAL. FEASIBILITY. TEAM."; "USE ANALYSIS → APPROVAL STRATEGY → FEASIBILITY → TEAM"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 4-POINT ZONING CHECK"; "What can the property become? / What approvals are needed? / Is it feasible? / Who needs to be on the team?"
+- [x] Captions: all captions: 'The order I'd work in', 'I'd check / I'd read'.
 
-### Carousel 47: Adaptive reuse
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "5 QUESTIONS BEFORE A CONVERSION"; "What does the zoning allow? / What condition is the building in? / Is the location in demand? / What will it cost? / Who will live or stay there?"
-- [ ] Captions: linkedin: opening lesson ('The greenest building...'); all: 'questions I'd ask', 'I'd check'.
+### Carousel 47: Adaptive reuse (approved Oct 7)
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "5 QUESTIONS BEFORE A CONVERSION"; "What does the zoning allow? / What condition is the building in? / Is the location in demand? / What will it cost? / Who will live or stay there?"
+- [x] Captions: linkedin: opening lesson ('The greenest building...'); all: 'questions I'd ask', 'I'd check'.
 
-### Carousel 48: Reading an outdated asset
-- [ ] Slide 2 (cards_stack): General guidance framed in Stephen's voice. "THE LOCATION STORY"; "Is it somewhere people want to be?"; "Will they still want to be there?"; "What does it need to work today?"
-- [ ] Slide 4 (flow_steps): Opinion pull line in Stephen's voice. "SCORE. COMPARE. DECIDE."; "Score it before you fall for it."; "SCORE → COMPARE → DECIDE"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 6-FACTOR PROPERTY SCORECARD"; "Location: 1 to 5 / Future demand: 1 to 5 / Condition: 1 to 5 / Neighborhood change: 1 to 5 / Zoning: 1 to 5 / Feasibility: 1 to 5"
-- [ ] Captions: all captions: 'Six factors I'd look at', 'my rule'.
+### Carousel 48: Reading an outdated asset (approved Oct 7)
+- [x] Slide 2 (cards_stack): General guidance framed in Stephen's voice. "THE LOCATION STORY"; "Is it somewhere people want to be?"; "Will they still want to be there?"; "What does it need to work today?"
+- [x] Slide 4 (flow_steps): Opinion pull line in Stephen's voice. "SCORE. COMPARE. DECIDE."; "Score it before you fall for it."; "SCORE → COMPARE → DECIDE"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 6-FACTOR PROPERTY SCORECARD"; "Location: 1 to 5 / Future demand: 1 to 5 / Condition: 1 to 5 / Neighborhood change: 1 to 5 / Zoning: 1 to 5 / Feasibility: 1 to 5"
+- [x] Captions: all captions: 'Six factors I'd look at', 'my rule'.
 
-### Carousel 49: Who it takes to build in a city
-- [ ] Slide 3 (flow_steps): Opinion pull line in Stephen's voice. "IDEA. APPROVAL. DESIGN. BUILD."; "Coordination turns a concept into a built project."; "IDEA → APPROVAL → DESIGN → BUILD"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 5-POINT COORDINATION CHECK"; "Who owns the plan? / Who talks to the city? / Who approves changes? / How are teams updated? / What is the review rhythm?"
-- [ ] Captions: linkedin/x/threads: 'The check I'd run', 'I'd say/I think coordination is the real job'.
+### Carousel 49: Who it takes to build in a city (approved Oct 7)
+- [x] Slide 3 (flow_steps): Opinion pull line in Stephen's voice. "IDEA. APPROVAL. DESIGN. BUILD."; "Coordination turns a concept into a built project."; "IDEA → APPROVAL → DESIGN → BUILD"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 5-POINT COORDINATION CHECK"; "Who owns the plan? / Who talks to the city? / Who approves changes? / How are teams updated? / What is the review rhythm?"
+- [x] Captions: linkedin/x/threads: 'The check I'd run', 'I'd say/I think coordination is the real job'.
 
-### Carousel 50: Vision vs. positioning
-- [ ] Slide 2 (cards_stack): Definitions written in Stephen's voice. "VISION VS. POSITIONING"; "Seeing where a market is going, then organizing people, capital and operations around it."; "Making a business easy for customers, partners and investors to understand."
-- [ ] Slide 3 (stats_grid): Pillar names per stephenjemal.com; descriptions are framing. "THE WIZ POSITIONING PILLARS"; "CLEAR MESSAGE → A promise people remember"; "COMPETITIVE IDENTITY → A reason to choose you"; "OPERATIONAL SUPPORT → Execution that matches the promise"; "SCALABLE CONCEPT → A position that can grow"
-- [ ] Slide 4 (flow_steps): Opinion pull line in Stephen's voice. "VISION POINTS. POSITIONING EXPLAINS."; "Vision sets the direction. Positioning makes it clear."; "VISION → POSITIONING → EXECUTION"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 4-QUESTION STRATEGY CHECK"; "Where is the market going? / How will we be understood? / Who must be organized? / What proves it?"
-- [ ] Captions: all captions: 'How I'd define them', 'I think you need both'.
+### Carousel 50: Vision vs. positioning (approved Oct 7)
+- [x] Slide 2 (cards_stack): Definitions written in Stephen's voice. "VISION VS. POSITIONING"; "Seeing where a market is going, then organizing people, capital and operations around it."; "Making a business easy for customers, partners and investors to understand."
+- [x] Slide 3 (stats_grid): Pillar names per stephenjemal.com; descriptions are framing. "THE WIZ POSITIONING PILLARS"; "CLEAR MESSAGE → A promise people remember"; "COMPETITIVE IDENTITY → A reason to choose you"; "OPERATIONAL SUPPORT → Execution that matches the promise"; "SCALABLE CONCEPT → A position that can grow"
+- [x] Slide 4 (flow_steps): Opinion pull line in Stephen's voice. "VISION POINTS. POSITIONING EXPLAINS."; "Vision sets the direction. Positioning makes it clear."; "VISION → POSITIONING → EXECUTION"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "THE 4-QUESTION STRATEGY CHECK"; "Where is the market going? / How will we be understood? / Who must be organized? / What proves it?"
+- [x] Captions: all captions: 'How I'd define them', 'I think you need both'.
 
-### Carousel 51: Values at work
-- [ ] Slide 2 (cards_stack): Translating the value into business is framing. "TOGETHERNESS"; "Teams that share goals and information."; "Decisions explained, not just announced."
-- [ ] Slide 3 (stats_grid): Translating the value into business is framing; the mentor fact is confirmed. "FAMILY"; "IN A BUSINESS → Loyalty, trust and long-term thinking"; "IN PRACTICE → Mentoring. My father was also my mentor."
-- [ ] Slide 4 (table_compare): Translating the value into business is framing; the stores fact is confirmed. "HARD WORK"; "Showing up → Doing the unglamorous work / Learning by doing → Four stores of my own by 16"
-- [ ] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "3 VALUES, 3 QUESTIONS"; "How does my team work together? / How do I build trust over time? / Where do I put in the work others don't see?"
-- [ ] Captions: linkedin: opening lesson line; all: 'how I'd translate'.
+### Carousel 51: Values at work (approved Oct 7)
+- [x] Slide 2 (cards_stack): Translating the value into business is framing. "TOGETHERNESS"; "Teams that share goals and information."; "Decisions explained, not just announced."
+- [x] Slide 3 (stats_grid): Translating the value into business is framing; the mentor fact is confirmed. "FAMILY"; "IN A BUSINESS → Loyalty, trust and long-term thinking"; "IN PRACTICE → Mentoring. My father was also my mentor."
+- [x] Slide 4 (table_compare): Translating the value into business is framing; the stores fact is confirmed. "HARD WORK"; "Showing up → Doing the unglamorous work / Learning by doing → Four stores of my own by 16"
+- [x] Slide 5 (numbered_cta): Framework questions written in Stephen's voice. "3 VALUES, 3 QUESTIONS"; "How does my team work together? / How do I build trust over time? / Where do I put in the work others don't see?"
+- [x] Captions: linkedin: opening lesson line; all: 'how I'd translate'.
 
-### Carousel 52: From Fulton Street to BUILT
-- [ ] Captions: facebook: '52 weeks of carousels' assumes the weekly series runs to the end; linkedin: 'Every chapter built on the last one.'
+### Carousel 52: From Fulton Street to BUILT (approved Oct 7)
+- [x] Captions: facebook: '52 weeks of carousels' assumes the weekly series runs to the end; linkedin: 'Every chapter built on the last one.'
 
 ## D. Carousels affected by the unconfirmed-facts rule (later batches)
 

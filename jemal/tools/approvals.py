@@ -4,7 +4,7 @@ import glob, json, os, re
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FIELDS = ("headline", "pullLine", "body")
 # Carousels the client approved as a whole (date in the heading).
-APPROVED = {i: "Oct 7" for i in range(1, 44)}
+APPROVED = {i: "Oct 7" for i in range(1, 53)}
 
 def quote(s):
     bits = [s[f] for f in FIELDS if isinstance(s.get(f), str)]

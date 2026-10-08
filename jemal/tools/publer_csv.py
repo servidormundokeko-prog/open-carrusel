@@ -3,7 +3,7 @@
 
 Schedule: two carousels a week (Thursday and Monday) at 4:00 pm CST, starting Thu Oct 8, 2026.
 Text is the Instagram caption; alt texts are the five slide alt texts in order. Media URL(s) is
-left empty to fill in by hand. Usage: python3 tools/publer_csv.py  ->  publer/StephenJemalNY_publer.csv
+left empty to fill in by hand. Cells hold no line breaks, so every row is one line. Usage: python3 tools/publer_csv.py  ->  publer/StephenJemalNY_publer.csv
 """
 import csv, datetime, json, os
 
@@ -18,6 +18,11 @@ HEADER = ["Date - Intl. format or prompt", "Text", "Link(s) - Separated by comma
           "Reminder - For stories, reels, shorts, and TikToks"]
 
 
+def one_line(t):
+    """No line breaks inside a cell: some importers read each break as a new (empty) row."""
+    return " ".join(t.split())
+
+
 def main():
     import sys
     sys.path.insert(0, os.path.join(ROOT, "tools"))
@@ -27,13 +32,13 @@ def main():
     out = os.path.join(ROOT, "publer", "StephenJemalNY_publer.csv")
     day = START
     with open(out, "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
+        w = csv.writer(f, lineterminator="\n")
         w.writerow(HEADER)
         for i, c in enumerate(cars):
             alts = [s["altText"].replace("||", "|") for s in c["slides"]]
             labels = f"Carousel {c['id']:02d}, {PALETTES[c['palette']]['name']}"
-            w.writerow([f"{day.isoformat()} {TIME}", c["captions"]["instagram"], "", "", "", labels,
-                        " || ".join(alts), "", "", "", "", ""])
+            w.writerow([f"{day.isoformat()} {TIME}", one_line(c["captions"]["instagram"]), "", "", "", labels,
+                        " || ".join(one_line(a) for a in alts), "", "", "", "", ""])
             day += datetime.timedelta(days=GAPS[i % 2])
     print(out, len(cars), "rows")
 

@@ -21,6 +21,23 @@ Palette and fonts are unchanged: navy #0B1F3A, card navy #12294A, gold #D4A84B, 
 - Errors say what failed. Exporting with an empty portrait slot shows a warning.
 - Tested headless (`tools/test_export.mjs`): with all network blocked, the single PNG and the ZIP of five export at 1080x1350 and match the previews. On an emulated iPhone, five PNG files reach the share sheet.
 
+## Download every carousel in one click
+
+"Download every carousel (ZIP)" exports all 52 carousels into one ZIP:
+
+```
+StephenJemalNY carousels 1080x1350/
+  01 - Youngest of ten/        01.png 02.png 03.png 04.png 05.png
+  02 - Four stores at 16/      01.png ... 05.png
+  ...
+  52 - From Fulton Street to BUILT/
+```
+
+- **Folder names.** Each folder is the carousel number plus its title. Characters Windows and macOS don't allow in names (such as `?`) are removed.
+- **File names.** Slides are numbered 01 to 05, so they sort in posting order.
+- **Portraits.** Photos you add to the portrait slots are included. Any slot that is still empty is listed in the status line.
+- **Headless test, all network blocked:** 260 PNGs at 1080x1350 in about 70 seconds; the ZIP is about 175 MB. Use it on a computer; a phone may run out of memory.
+
 ## Studio (preview tool) additions
 
 These don't change the exported PNGs.

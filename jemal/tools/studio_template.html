@@ -142,6 +142,7 @@ textarea{width:100%;min-height:96px;background:#0a1424;color:var(--ui-text);bord
     </select></label>
     <button id="btnOne">Download this slide (PNG)</button>
     <button id="btnZip" class="primary">Download all 5 (ZIP of PNGs)</button>
+    <button id="btnAll" class="primary">Download every carousel (ZIP)</button>
   </div>
 </div>
 <div class="meta"><div class="ttl" id="ttl"></div><div class="count" id="cnt"></div></div>
@@ -397,6 +398,22 @@ $('btnZip').onclick=async()=>{const c=car();$('btnZip').disabled=true;
 $('copyCap').onclick=async()=>{try{await navigator.clipboard.writeText($('cap').value);setSt('Caption copied.')}catch(e){$('cap').select();document.execCommand('copy');setSt('Caption copied.')}};
 $('carSel').innerHTML=DATA.map((c,i)=>`<option value="${i}">${c.id}: ${esc(c.title)}${c.needsApproval?' ⚑':''}</option>`).join('');
 $('capSel').onchange=e=>{state.cap=e.target.value;showCap()};
+// One ZIP with a folder per carousel ("01 - Youngest of ten") and numbered slides (01.png ... 05.png).
+const pad=n=>String(n).padStart(2,'0');
+const folderName=c=>`${pad(c.id)} - ${String(c.title).replace(/[\\/:*?"<>|]+/g,'').replace(/\s+/g,' ').trim()}`;
+$('btnAll').onclick=async()=>{const b=$('btnAll');b.disabled=true;
+ const total=DATA.reduce((n,c)=>n+c.slides.length,0);let done=0;
+ try{await ready();const z=new JSZip();const root=z.folder(`StephenJemalNY carousels ${state.fmt==='45'?'1080x1350':'1080x1440'}`);
+  const missing=[];
+  for(const c of DATA){const f=root.folder(folderName(c));
+   for(const s of c.slides){done++;setSt(`Exporting ${done} of ${total}: carousel ${c.id}, slide ${s.n}…`);
+    if(s.photo&&!state.photos[key(c,s)])missing.push(`${c.id}/${s.n}`);
+    f.file(`${pad(s.n)}.png`,await shot(c,s))}}
+  setSt('Zipping… this can take a minute.');
+  const zb=await z.generateAsync({type:'blob',compression:'STORE'});
+  save(zb,`StephenJemalNY-carousels-${state.fmt==='45'?'1080x1350':'1080x1440'}.zip`);
+  setSt(`Saved ${DATA.length} carousels (${total} PNGs) in one ZIP.`+(missing.length?` Empty portrait frames on ${missing.join(', ')}: add the photo there and export again.`:''))}
+ catch(e){fail(e)}b.disabled=false};
 if(touch){$('btnOne').textContent='Save this slide (PNG)';$('btnZip').textContent='Save all 5 (PNG)'}
 $('carSel').onchange=e=>{state.ci=+e.target.value;renderAll(0)};
 $('fmtSel').onchange=e=>{state.fmt=e.target.value;renderAll(state.si)};

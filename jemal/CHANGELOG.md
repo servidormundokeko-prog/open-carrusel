@@ -80,3 +80,7 @@
 - **C52 From Fulton Street to BUILT**: the cover is "From my father's Fulton Street store to BUILT®". The two timelines became a timeline and a flow. Adds the UN presentation and The Real Deal. The closing slide now has a comment prompt.
 
 **Series totals**: 52 carousels, 260 slides, 260 prompts, 156 hook options, 260 alt texts, 260 captions. `validate.py`: 0 errors, 0 warnings. No duplicate covers. Photo blocks only on C1 slide 1, C10 slide 1 and C11 slide 3.
+
+## Oct 8: one-click export of the whole series
+
+- **New studio button, "Download every carousel (ZIP)":** one ZIP with a folder per carousel ("01 - Youngest of ten") and numbered slides (01.png to 05.png).

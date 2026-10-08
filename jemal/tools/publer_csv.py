@@ -3,7 +3,8 @@
 
 Schedule: two carousels a week (Thursday and Monday) at 4:00 pm CST, starting Thu Oct 8, 2026.
 Text is the Instagram caption; alt texts are the five slide alt texts in order. Media URL(s) is
-left empty to fill in by hand. Cells hold no line breaks, so every row is one line. Usage: python3 tools/publer_csv.py  ->  publer/StephenJemalNY_publer.csv
+left empty unless MEDIA=path/to/links.json (carousel id -> five URLs) is set;
+the filled file goes to out/ (gitignored) because the links open the portrait slides. Cells hold no line breaks, so every row is one line. Usage: python3 tools/publer_csv.py  ->  publer/StephenJemalNY_publer.csv
 """
 import csv, datetime, json, os
 
@@ -29,7 +30,8 @@ def main():
     from palettes import PALETTES
     cars = json.load(open(os.path.join(ROOT, "jemal_carousel_design.json")))["carousels"]
     os.makedirs(os.path.join(ROOT, "publer"), exist_ok=True)
-    out = os.path.join(ROOT, "publer", "StephenJemalNY_publer.csv")
+    media = json.load(open(os.environ["MEDIA"])) if os.environ.get("MEDIA") else {}
+    out = os.path.join(ROOT, "out" if media else "publer", "StephenJemalNY_publer.csv")
     day = START
     with open(out, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f, lineterminator="\n")
@@ -37,7 +39,7 @@ def main():
         for i, c in enumerate(cars):
             alts = [s["altText"].replace("||", "|") for s in c["slides"]]
             labels = f"Carousel {c['id']:02d}, {PALETTES[c['palette']]['name']}"
-            w.writerow([f"{day.isoformat()} {TIME}", one_line(c["captions"]["instagram"]), "", "", "", labels,
+            w.writerow([f"{day.isoformat()} {TIME}", one_line(c["captions"]["instagram"]), "", ",".join(media.get(str(c["id"]), [])), "", labels,
                         " || ".join(one_line(a) for a in alts), "", "", "", "", ""])
             day += datetime.timedelta(days=GAPS[i % 2])
     print(out, len(cars), "rows")

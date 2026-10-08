@@ -84,3 +84,12 @@
 ## Oct 8: one-click export of the whole series
 
 - **New studio button, "Download every carousel (ZIP)":** one ZIP with a folder per carousel ("01 - Youngest of ten") and numbered slides (01.png to 05.png).
+
+## Oct 8: pillar palettes, icons, photos and the Remotion renderer
+
+- **Six pillar palettes** (amber and terracotta, gold and navy, teal and mint, electric cyan and violet, coral and sunrise orange, emerald and lime). Every text pair passes WCAG AA, and `validate.py` checks them all. The Flow prompts use each palette's colour words.
+- **Lucide icon badges** with keyword-based auto-icons, a **progress-bar footer**, and a **stronger cover** (full-bleed duotone photo, pillar chip, accent bar, accent last word).
+- **24 Pixabay photos** without people, duotoned in each carousel's palette, as banners and cover backgrounds. Credits are in `IMAGE_CREDITS.md`; refetch with `tools/fetch_photos.py`.
+- **One renderer** (`tools/slide_core.js` and `slide.css`) shared by the studio export and the new **Remotion `renderStill` pipeline** (`render/render.mjs`). It writes `out/StephenJemalNY carousels 1080x1350/NN - Title/01.png`-`05.png` and the ZIP.
+- **Studio:** "Import images" (bulk, `c27-s2.png` names) and "Add portrait" (fills the three portrait frames). The one-click "Download every carousel (ZIP)" keeps the same folders and file names.
+- Sample previews refreshed for one carousel per palette: 1, 3, 4, 27, 34, 41. The portrait frames are left empty in committed previews.

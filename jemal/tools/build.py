@@ -9,14 +9,25 @@ Outputs (written to the jemal/ folder):
   jemal_carousel_design.json, jemal_carousel_studio.html,
   carruseles_flow_prompts.json / .txt / .html
 """
+import base64
 import glob
 import html
 import json
 import os
+import re
+import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "source")
 TOOLS = os.path.join(ROOT, "tools")
+sys.path.insert(0, TOOLS)
+from palettes import PALETTES, palette_for  # noqa: E402
+
+LUCIDE_DIR = os.path.join(ROOT, "render", "node_modules", "lucide-static", "icons")
+LUCIDE_CACHE = os.path.join(TOOLS, "lucide_icons.json")
+PHOTO_DIR = os.path.join(ROOT, "assets", "photos")
+# Covers whose art is described in words get a photo scene for their background.
+COVER_SCENE = {8: "storefront", 9: "chart", 10: "storefront", 11: "stairs", 12: "row", 13: "map", 14: "row"}
 
 TOKENS = {
     "colors": {"navy": "#0B1F3A", "cardNavy": "#12294A", "gold": "#D4A84B",
@@ -110,6 +121,10 @@ def load_rewrites():
 
 def finalize(c, rewritten):
     c = dict(c)
+    c["palette"] = palette_for(c.get("pillar"))
+    c["slides"] = [dict(x) for x in c["slides"]]
+    cov = c["slides"][0]
+    cov["photoScene"] = cov.get("scene") or COVER_SCENE.get(c["id"], "skyline")
     if rewritten:
         c["caption"] = c["captions"]["instagram"]
         c["needsApproval"] = any(s.get("needsApproval") for s in c["slides"]) or bool(c.get("captionsNeedApproval"))
@@ -271,6 +286,19 @@ def slide_prompt(s, total):
     return "\n\n".join(P)
 
 
+def recolor(text, key):
+    """Swap the navy-and-gold colour words in a prompt for the carousel's palette (founder stays as is)."""
+    if key == "founder":
+        return text
+    w = PALETTES[key]["words"]
+    cap = lambda m, rep: rep[0].upper() + rep[1:] if m.group(0)[0].isupper() else rep
+    for pat, rep in ((r"[Dd]eep navy and warm gold", f"{w['bg']} with {w['accent']} and {w['accent2']}"),
+                     (r"[Ww]arm gold", w["accent2"]), (r"[Dd]eep navy", w["bg"]), (r"[Dd]ark navy", w["card"]),
+                     (r"\b[Gg]olden(?! hour)\b", w["accent"]), (r"\b[Gg]old\b", w["accent"]), (r"\b[Nn]avy\b", w["bg"])):
+        text = re.sub(pat, lambda m, rep=rep: cap(m, rep), text)
+    return text
+
+
 def build_prompts(cars):
     out = []
     for c in cars:
@@ -280,9 +308,9 @@ def build_prompts(cars):
             if s.get("photoUpgrade"):
                 ups.append(f"Imagen {s['n']}: {s['photoUpgrade']['description']}")
         out.append({
-            "id": str(c["id"]), "title": c["title"], "pillar": c["pillar"], "caption": c["caption"],
+            "id": str(c["id"]), "title": c["title"], "pillar": c["pillar"], "palette": c["palette"], "caption": c["caption"],
             "slides": [{"n": str(s["n"]), "label": LABELS[s["n"]], "attach": attach_for(s),
-                        "prompt": slide_prompt(s, total)} for s in c["slides"]],
+                        "prompt": recolor(slide_prompt(s, total), c["palette"])} for s in c["slides"]],
             "upgrades": ups,
         })
     return out
@@ -345,6 +373,35 @@ try{{await navigator.clipboard.writeText(t);b.textContent='Copied'}}catch(e){{b.
 """
 
 
+def lucide_icons():
+    """Inner SVG of every Lucide icon slide_core.js can use (ISC licence). Cached so builds work without node_modules."""
+    core = open(os.path.join(TOOLS, "slide_core.js")).read()
+    names = set(re.findall(r'"([a-z0-9-]+)"', core)) | {p["icon"] for p in PALETTES.values()}
+    if os.path.isdir(LUCIDE_DIR):
+        out = {}
+        for n in sorted(names):
+            f = os.path.join(LUCIDE_DIR, n + ".svg")
+            if os.path.exists(f):
+                svg = open(f).read()
+                out[n] = re.sub(r"\s+", " ", svg[svg.index(">", svg.index("<svg")) + 1:svg.rindex("</svg>")]).strip()
+        with open(LUCIDE_CACHE, "w") as f:
+            json.dump({"_license": "Lucide icons, ISC License, https://lucide.dev/license", "icons": out}, f, indent=0)
+    icons = json.load(open(LUCIDE_CACHE))["icons"]
+    used = {v for v in re.findall(r'"([a-z0-9-]+)"', core) if v in icons}
+    missing = sorted(n for n in set(re.findall(r':\s*"([a-z0-9-]+)"', core)) | {p["icon"] for p in PALETTES.values()} if n not in icons and n not in ICON_KEYS_OK)
+    if missing:
+        raise SystemExit(f"Lucide icons not found: {missing}")
+    return icons
+
+
+ICON_KEYS_OK = {"image", "empty"}  # non-icon strings the regex also catches
+
+
+def photos():
+    return {os.path.splitext(n)[0]: "data:image/jpeg;base64," + base64.b64encode(open(os.path.join(PHOTO_DIR, n), "rb").read()).decode()
+            for n in sorted(os.listdir(PHOTO_DIR)) if n.endswith(".jpg")}
+
+
 def main():
     design, src = load_source()
     rw = load_rewrites()
@@ -360,6 +417,7 @@ def main():
     design = dict(design)
     design["templates"] = {**design.get("templates", {}), **TEMPLATES} if isinstance(design.get("templates"), dict) else TEMPLATES
     design["scenes"] = SCENES
+    design.setdefault("tokens", {})["palettes"] = PALETTES
     design["carousels"] = cars
     with open(os.path.join(ROOT, "jemal_carousel_design.json"), "w") as f:
         json.dump(design, f, indent=1, ensure_ascii=False)
@@ -371,9 +429,24 @@ def main():
     libs = "\n".join(open(os.path.join(vendor, n)).read().replace("</script", "<\\/script")
                      for n in ("html2canvas.min.js", "jszip.min.js"))
     fonts = open(os.path.join(vendor, "fonts_embedded.css")).read()
-    out = tpl.replace("/*FONTS*/", fonts).replace("/*LIBS*/", libs).replace("/*DATA*/[]", data)
+    icons, pics = lucide_icons(), photos()
+    core = open(os.path.join(TOOLS, "slide_core.js")).read()
+    css = open(os.path.join(TOOLS, "slide.css")).read()
+    js = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
+    out = (tpl.replace("/*FONTS*/", fonts).replace("/*LIBS*/", libs).replace("/*SLIDE_CSS*/", css)
+           .replace("/*ICONS*/{}", js(icons)).replace("/*PHOTOS*/{}", js(pics)).replace("/*PALETTES*/{}", js(PALETTES))
+           .replace("/*CORE*/", core.replace("</script", "<\\/script")).replace("/*DATA*/[]", data))
     with open(os.path.join(ROOT, "jemal_carousel_studio.html"), "w") as f:
         f.write(out)
+
+    # Remotion reads the design JSON directly; this module carries the shared renderer and its assets.
+    gen = os.path.join(ROOT, "render", "src", "core.generated.js")
+    os.makedirs(os.path.dirname(gen), exist_ok=True)
+    with open(gen, "w") as f:
+        f.write("// Generated by tools/build.py from slide_core.js, slide.css, palettes, icons and photos. Do not edit.\n")
+        f.write(f"export const SLIDE_CSS = {json.dumps(css)};\nexport const FONTS_CSS = {json.dumps(fonts)};\n")
+        f.write(f"const ICONS = {json.dumps(icons)};\nconst PHOTOS = {json.dumps(pics)};\nconst PALETTES = {json.dumps(PALETTES)};\n")
+        f.write(core + "\nexport { buildSlide, fit, prepare };\n")
 
     pc = build_prompts(cars)
     with open(os.path.join(ROOT, "carruseles_flow_prompts.json"), "w") as f:

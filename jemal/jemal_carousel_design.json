@@ -19,6 +19,98 @@
    "height": 1350,
    "safeArea": "5% from every edge (54px sides, 72px top and bottom)",
    "generation": "Google Flow has no 4:5: generate at 3:4 (1080x1440) and center-crop to 1080x1350"
+  },
+  "palettes": {
+   "story": {
+    "name": "Story",
+    "bg": "#24120B",
+    "card": "#3A1D12",
+    "accent": "#F6A93B",
+    "accent2": "#EE8A63",
+    "muted": "#C4AEA3",
+    "icon": "book-open",
+    "words": {
+     "bg": "deep espresso brown",
+     "card": "dark brown",
+     "accent": "amber",
+     "accent2": "terracotta"
+    }
+   },
+   "founder": {
+    "name": "Founder lessons",
+    "bg": "#0B1F3A",
+    "card": "#12294A",
+    "accent": "#D4A84B",
+    "accent2": "#F0CF85",
+    "muted": "#9AA5B1",
+    "icon": "lightbulb",
+    "words": {
+     "bg": "deep navy",
+     "card": "dark navy",
+     "accent": "gold",
+     "accent2": "warm gold"
+    }
+   },
+   "scaling": {
+    "name": "Scaling and systems",
+    "bg": "#04262A",
+    "card": "#0A3A3F",
+    "accent": "#6EF0D6",
+    "accent2": "#2CC9B5",
+    "muted": "#9CC2BE",
+    "icon": "settings",
+    "words": {
+     "bg": "deep teal-black",
+     "card": "dark teal",
+     "accent": "mint",
+     "accent2": "teal"
+    }
+   },
+   "built": {
+    "name": "BUILT technology",
+    "bg": "#0F0A28",
+    "card": "#1C1544",
+    "accent": "#2EE6FF",
+    "accent2": "#B69CFF",
+    "muted": "#AAA4CC",
+    "icon": "cpu",
+    "words": {
+     "bg": "deep indigo-black",
+     "card": "dark indigo",
+     "accent": "electric cyan",
+     "accent2": "violet"
+    }
+   },
+   "housing": {
+    "name": "Housing and authority",
+    "bg": "#2A0E16",
+    "card": "#401925",
+    "accent": "#FF8A6B",
+    "accent2": "#FFBE5C",
+    "muted": "#D3B1B4",
+    "icon": "house",
+    "words": {
+     "bg": "deep plum-red",
+     "card": "dark plum",
+     "accent": "coral",
+     "accent2": "sunrise orange"
+    }
+   },
+   "realestate": {
+    "name": "Real estate and vision",
+    "bg": "#05231A",
+    "card": "#0B3527",
+    "accent": "#B5F04A",
+    "accent2": "#3FDDA0",
+    "muted": "#A2C5B6",
+    "icon": "building-2",
+    "words": {
+     "bg": "deep forest green",
+     "card": "dark green",
+     "accent": "lime",
+     "accent2": "emerald"
+    }
+   }
   }
  },
  "templates": {
@@ -215,7 +307,8 @@
      "attachments": [
       "portrait of Stephen Jemal"
      ],
-     "altText": "Cover with the youngest-of-ten headline next to a portrait of Stephen Jemal, over an illustrated row of lit houses."
+     "altText": "Cover with the youngest-of-ten headline next to a portrait of Stephen Jemal, over an illustrated row of lit houses.",
+     "photoScene": "houses"
     },
     {
      "n": 2,
@@ -318,6 +411,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson line and the 'three questions I'd put to any founder' framing.",
+   "palette": "story",
    "caption": "I'm the youngest of ten children. Born and raised in Brooklyn, a first-generation American.\n\nMy parents gave us three values: togetherness, family and hard work. My father, Norman N. Jemal, was also my mentor. We worked together at our family discount store in Spanish Harlem.\n\nSwipe for where those values show up in my story, and save the three-question check on the last slide.\n\n#Brooklyn #FamilyBusiness #Entrepreneurship\n\nWhich value did your family pass down to you?",
    "needsApproval": true,
    "rewritten": true
@@ -359,7 +453,8 @@
      "scene": "storefront",
      "sourceLine": "Source: stephenjemal.com",
      "attachments": [],
-     "altText": "Cover with the headline about starting four stores by 16, over an illustrated lit storefront at dusk."
+     "altText": "Cover with the headline about starting four stores by 16, over an illustrated lit storefront at dusk.",
+     "photoScene": "storefront"
     },
     {
      "n": 2,
@@ -470,6 +565,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson line and 'Five questions I'd ask'.",
+   "palette": "founder",
    "caption": "By 16, I'd started four electronics and music specialty stores.\n\nIt started in our family discount store in Spanish Harlem, working beside my father, Norman. In 1976, he opened the first Wiz on Fulton Street in Brooklyn.\n\nSwipe for the path, then save the 5 questions for your own first venture.\n\n#Entrepreneurship #YoungEntrepreneurs #Brooklyn\n\nWhat were you building at 16?",
    "needsApproval": true,
    "rewritten": true
@@ -511,7 +607,8 @@
      "scene": "megaphone",
      "sourceLine": "Source: stephenjemal.com",
      "attachments": [],
-     "altText": "Cover headline 'Four words. One of New York's most memorable electronics brands.' over an illustrated gold megaphone."
+     "altText": "Cover headline 'Four words. One of New York's most memorable electronics brands.' over an illustrated gold megaphone.",
+     "photoScene": "megaphone"
     },
     {
      "n": 2,
@@ -621,6 +718,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson line and 'The test I'd run on any brand'.",
+   "palette": "founder",
    "caption": "Nobody Beats The Wiz. Four words, and one of the most memorable electronics brands in the New York region.\n\nMy father named it after his favorite Broadway musical. The marketing pillars behind it: memorable naming, clear positioning, market visibility and brand consistency.\n\nSave the 4-part brand test on the last slide.\n\n#Branding #Marketing #SmallBusiness\n\nCan you describe your brand in four words?",
    "needsApproval": true,
    "rewritten": true
@@ -662,7 +760,8 @@
      "scene": "row",
      "sourceLine": "Per company histories",
      "attachments": [],
-     "altText": "Cover headline 'One storefront in 1976. What turns it into a chain?' over a row of storefronts, one lit."
+     "altText": "Cover headline 'One storefront in 1976. What turns it into a chain?' over a row of storefronts, one lit.",
+     "photoScene": "row"
     },
     {
      "n": 2,
@@ -775,6 +874,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/x/linkedin/threads: 'A store runs on its owner. A chain runs on systems.' and 'I'd ask'.",
+   "palette": "scaling",
    "caption": "In 1976, my father opened the first Wiz on Fulton Street in Brooklyn. One storefront, one name: Nobody Beats The Wiz.\n\nA store runs on its owner. A chain runs on systems. Two of the Wiz positioning pillars were a scalable concept and operational support.\n\nSave the 5 questions to ask before you scale.\n\n#Scaling #SmallBusiness #Retail\n\nWhich question is hardest for your business?",
    "needsApproval": true,
    "rewritten": true
@@ -816,7 +916,8 @@
      "scene": "pillars",
      "sourceLine": "Source: stephenjemal.com",
      "attachments": [],
-     "altText": "Cover headline 'The 4 pillars behind Nobody Beats The Wiz' over four illustrated gold columns."
+     "altText": "Cover headline 'The 4 pillars behind Nobody Beats The Wiz' over four illustrated gold columns.",
+     "photoScene": "pillars"
     },
     {
      "n": 2,
@@ -939,6 +1040,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/linkedin: 'A store sells products. A brand stands for something.'; linkedin: 'The identity check I'd use'.",
+   "palette": "founder",
    "caption": "Four positioning pillars sat behind Nobody Beats The Wiz: clear message, competitive identity, operational support and scalable concept.\n\nHow I see it: a store sells products, a brand stands for something. Swipe for the difference, then save my 4-question identity check.\n\n#Branding #Retail #SmallBusiness\n\nWhat does your brand stand for in one sentence?",
    "needsApproval": true,
    "rewritten": true
@@ -981,7 +1083,8 @@
      "needsApproval": true,
      "approvalNote": "Opinion headline in Stephen's voice.",
      "attachments": [],
-     "altText": "Cover headline 'Customers see the store. They never see the system.' over an illustrated conveyor belt with boxes."
+     "altText": "Cover headline 'Customers see the store. They never see the system.' over an illustrated conveyor belt with boxes.",
+     "photoScene": "conveyor"
     },
     {
      "n": 2,
@@ -1096,6 +1199,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson line.",
+   "palette": "scaling",
    "caption": "Customers see the store. They never see the system behind it: inventory, staffing, store management, advertising, service and construction timing.\n\nAs the Wiz chain grew, I built our own construction and fixture company, so building became part of the system too.\n\nSave the 5-point system check.\n\n#Operations #Retail #SmallBusiness\n\nWhich system would you fix first?",
    "needsApproval": true,
    "rewritten": true
@@ -1136,7 +1240,8 @@
      ],
      "scene": "map",
      "attachments": [],
-     "altText": "Cover headline 'Before you sign a lease, ask these 5 questions' over an illustrated street map with a gold route."
+     "altText": "Cover headline 'Before you sign a lease, ask these 5 questions' over an illustrated street map with a gold route.",
+     "photoScene": "map"
     },
     {
      "n": 2,
@@ -1255,6 +1360,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/linkedin: 'a real estate decision before it's a retail one' and 'I took that same eye to land'.",
+   "palette": "scaling",
    "caption": "Where you open is a real estate decision before it's a retail one.\n\nLocation, lease, traffic, buildout. After the Wiz, I took that same eye to land, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.\n\nSave the 5 questions before you sign a lease.\n\n#RealEstate #SmallBusiness #Retail\n\nWhich site factor do you check first?",
    "needsApproval": true,
    "rewritten": true
@@ -1296,7 +1402,8 @@
      "background": "A stylized CGI scene split by a glowing gold seam: on the left a lit retail storefront at dusk, on the right the same warm light flowing into a waterfront skyline with towers and cranes at golden hour.",
      "sourceLine": "Source: stephenjemal.com",
      "attachments": [],
-     "altText": "Cover headline 'After the Wiz, I moved from stores to land' over a split scene of a storefront and a waterfront skyline."
+     "altText": "Cover headline 'After the Wiz, I moved from stores to land' over a split scene of a storefront and a waterfront skyline.",
+     "photoScene": "storefront"
     },
     {
      "n": 2,
@@ -1424,6 +1531,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson line and 'How I'd map it'.",
+   "palette": "story",
    "caption": "After the Wiz, I moved from stores to land.\n\nI turned to waterfront revitalization and real estate development, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey. That work led to JemRock Organization and our mission: change how the world produces housing.\n\nSave the 5 questions before redeveloping a property.\n\n#RealEstate #UrbanDevelopment #NYC\n\nWhich question would you ask first?",
    "needsApproval": true,
    "rewritten": true
@@ -1465,7 +1573,8 @@
      "background": "A glowing golden bar chart rising from a Brooklyn storefront into a skyline of housing towers.",
      "sourceLine": "Per company histories and JemRock research",
      "attachments": [],
-     "altText": "Cover headline 'The numbers behind my story, from 1976 to 2030' over a gold bar chart rising from a storefront into towers."
+     "altText": "Cover headline 'The numbers behind my story, from 1976 to 2030' over a gold bar chart rising from a storefront into towers.",
+     "photoScene": "chart"
     },
     {
      "n": 2,
@@ -1571,6 +1680,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson line.",
+   "palette": "housing",
    "caption": "1976: my father opens the first Wiz on Fulton Street.\n16: my age when I'd started four stores.\nToday: a 155M-unit global housing deficit, per JemRock research, and 2.8 billion people without adequate housing, per UN-Habitat.\n\nSave the number sheet on the last slide.\n\n#Housing #Entrepreneurship #ModularConstruction\n\nWhich number surprised you most?",
    "needsApproval": true,
    "rewritten": true
@@ -1626,7 +1736,8 @@
      "attachments": [
       "portrait of Stephen Jemal"
      ],
-     "altText": "Cover headline 'From one Fulton Street store to housing tech: my 4 moves' with four numbered pills and a portrait of Stephen Jemal over a Brooklyn storefront at dusk."
+     "altText": "Cover headline 'From one Fulton Street store to housing tech: my 4 moves' with four numbered pills and a portrait of Stephen Jemal over a Brooklyn storefront at dusk.",
+     "photoScene": "storefront"
     },
     {
      "n": 2,
@@ -1758,6 +1869,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/threads: 'I think about the road...as four moves'; linkedin: opening lesson and 'questions I'd ask any founder'.",
+   "palette": "founder",
    "caption": "In 1976, the first Wiz opened on one Fulton Street storefront in downtown Brooklyn. Today I lead JemRock Organization and BUILT®.\n\nI think about the road between those two points as four moves: find the gap, build the brand, scale the system, play the long game.\n\nSwipe for each move, then save the 4-question check for your own business.\n\n#Entrepreneurship #Branding #SmallBusiness\n\nWhich of the four questions would you answer first?",
    "needsApproval": true,
    "rewritten": true
@@ -1799,7 +1911,8 @@
      "background": "Two golden stepping-stone pedestals of increasing height, the first holding a small glowing storefront, the second a modern prefab housing factory, on a dark navy blueprint grid.",
      "sourceLine": "Per company histories",
      "attachments": [],
-     "altText": "Cover headline 'My father opened the first Wiz. I'm building housing tech.' over two gold pedestals holding a storefront and a factory."
+     "altText": "Cover headline 'My father opened the first Wiz. I'm building housing tech.' over two gold pedestals holding a storefront and a factory.",
+     "photoScene": "stairs"
     },
     {
      "n": 2,
@@ -1902,6 +2015,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson line.",
+   "palette": "story",
    "caption": "My father, Norman N. Jemal, was my mentor. We worked together at our family discount store in Spanish Harlem, and in 1976 he opened the first Wiz on Fulton Street.\n\nToday I lead JemRock Organization and BUILT®, a prefabricated modular housing production system unveiled in August 2026.\n\nTwo generations, one thread: building.\n\n#FamilyBusiness #Brooklyn #Housing\n\nWhat did the generation before you build?",
    "needsApproval": true,
    "rewritten": true
@@ -1943,7 +2057,8 @@
      "background": "A row of identical storefront shells on a glowing blueprint grid, one fully built and lit, the others in gold wireframe.",
      "sourceLine": "Source: stephenjemal.com",
      "attachments": [],
-     "altText": "Cover headline 'As the chain grew, I built our own construction company' over a row of storefront shells, one lit."
+     "altText": "Cover headline 'As the chain grew, I built our own construction company' over a row of storefront shells, one lit.",
+     "photoScene": "row"
     },
     {
      "n": 2,
@@ -2054,6 +2169,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson line ('A retail chain is a construction project on repeat').",
+   "palette": "founder",
    "caption": "As the Wiz chain grew, I built our own construction and prefabricated fixture manufacturing company.\n\nEvery new store is a buildout. Do it across a chain and building becomes a system. Today, BUILT® applies prefabrication to housing.\n\nSave the 4 questions to ask about any buildout.\n\n#Construction #Prefab #Retail\n\nWhere does your buildout cost leak?",
    "needsApproval": true,
    "rewritten": true
@@ -2095,7 +2211,8 @@
      "background": "A glowing gold path running through four stylized CGI scenes in sequence: a storefront, a construction site, an apartment tower and a modern prefab factory, on a dark navy blueprint grid.",
      "sourceLine": "Source: stephenjemal.com",
      "attachments": [],
-     "altText": "Cover headline listing retail, construction, real estate and housing tech, asking what stayed the same, over a gold path through four scenes."
+     "altText": "Cover headline listing retail, construction, real estate and housing tech, asking what stayed the same, over a gold path through four scenes.",
+     "photoScene": "map"
     },
     {
      "n": 2,
@@ -2221,6 +2338,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson line; all: 'the approach traveled' framing.",
+   "palette": "founder",
    "caption": "Retail. Construction. Real estate. Housing technology. My work has crossed four industries, from the Wiz era to JemRock and BUILT®.\n\nThe products changed. The approach traveled: a clear identity, market-gap thinking, repeatable systems and location judgment.\n\nSave the 5-point cross-industry check.\n\n#Entrepreneurship #Leadership #Strategy\n\nWhat carried over from your first industry?",
    "needsApproval": true,
    "rewritten": true
@@ -2262,7 +2380,8 @@
      "background": "A row of glowing storefront blueprints on a navy grid, one lit and open, with a gold checklist floating above it.",
      "sourceLine": "General retail guidance",
      "attachments": [],
-     "altText": "Cover headline 'Opening your next store? Save this 6-step checklist.' over glowing storefront blueprints with a gold checklist."
+     "altText": "Cover headline 'Opening your next store? Save this 6-step checklist.' over glowing storefront blueprints with a gold checklist.",
+     "photoScene": "row"
     },
     {
      "n": 2,
@@ -2389,6 +2508,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/linkedin/x/threads: 'the checklist I'd want / I'd use' attributes the checklist to Stephen.",
+   "palette": "scaling",
    "caption": "Opening another location? This is the checklist I'd want in hand: location, lease, buildout, team, inventory, layout and launch.\n\nGeneral guidance. Have a lawyer review any lease.\n\nSave it for your next opening.\n\n#SmallBusiness #Retail #Operations\n\nWhich step do stores forget most?",
    "needsApproval": true,
    "rewritten": true
@@ -2430,7 +2550,8 @@
      "scene": "clipboard",
      "sourceLine": "General retail guidance",
      "attachments": [],
-     "altText": "Cover headline 'How do you train a whole chain to one standard?' over an illustrated clipboard with gold check marks."
+     "altText": "Cover headline 'How do you train a whole chain to one standard?' over an illustrated clipboard with gold check marks.",
+     "photoScene": "clipboard"
     },
     {
      "n": 2,
@@ -2544,6 +2665,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/linkedin/threads: 'The method I'd use / My approach' attributes the method to Stephen.",
+   "palette": "scaling",
    "caption": "If every store trains its own way, quality depends on who's working that day.\n\nThe method I'd use: write the standard, teach it the same way everywhere, and check it. Swipe for a new hire's first month and save the 5 training questions.\n\n#Training #SmallBusiness #Leadership\n\nWhere does training break down in your business?",
    "needsApproval": true,
    "rewritten": true
@@ -2585,7 +2707,8 @@
      "scene": "tag",
      "sourceLine": "General retail guidance",
      "attachments": [],
-     "altText": "Cover headline 'Six layout rules that guide customers from door to register' over an illustrated gold price tag."
+     "altText": "Cover headline 'Six layout rules that guide customers from door to register' over an illustrated gold price tag.",
+     "photoScene": "tag"
     },
     {
      "n": 2,
@@ -2703,6 +2826,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/linkedin: 'I broke merchandising into...', 'My six layout rules'.",
+   "palette": "scaling",
    "caption": "Your layout talks before your staff does.\n\nI broke merchandising into the path every customer takes: enter, browse, decide, buy. Swipe for what you control at each step, then save the 6 layout rules.\n\n#Retail #Merchandising #SmallBusiness\n\nWhat's your best layout tip?",
    "needsApproval": true,
    "rewritten": true
@@ -2746,7 +2870,8 @@
      "needsApproval": true,
      "approvalNote": "Opinion headline in Stephen's voice.",
      "attachments": [],
-     "altText": "Cover headline 'The cheapest supplier can cost you the most' over an illustrated conveyor belt with boxes."
+     "altText": "Cover headline 'The cheapest supplier can cost you the most' over an illustrated conveyor belt with boxes.",
+     "photoScene": "conveyor"
     },
     {
      "n": 2,
@@ -2867,6 +2992,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/linkedin/x/threads: 'How I'd think about it', 'My scorecard', 'I'd put reliability first'.",
+   "palette": "scaling",
    "caption": "The cheapest supplier can cost you the most. A late shipment can cost more than it saves.\n\nHow I'd think about it: treat suppliers as partners, with clear terms, early forecasts and a backup option. Save the 6-point supplier scorecard.\n\n#SmallBusiness #SupplyChain #Retail\n\nWhat's your number one supplier rule?",
    "needsApproval": true,
    "rewritten": true
@@ -2908,7 +3034,8 @@
      "scene": "keys",
      "sourceLine": "General guidance, not legal advice",
      "attachments": [],
-     "altText": "Cover headline 'Rent is only one line of your lease. Check these.' over an illustrated brass key beside a small house."
+     "altText": "Cover headline 'Rent is only one line of your lease. Check these.' over an illustrated brass key beside a small house.",
+     "photoScene": "keys"
     },
     {
      "n": 2,
@@ -3027,6 +3154,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin/threads: 'What I'd weigh first', 'I'd read the exit terms'.",
+   "palette": "scaling",
    "caption": "Rent is only one line of your lease. Term, renewal, exit, buildout, extra costs and restrictions all shape your business. I listed what to weigh, and six questions for your landlord.\n\nGeneral guidance, not legal advice: have a qualified lawyer review any lease before you sign.\n\n#SmallBusiness #CommercialRealEstate #Retail\n\nWhat question would you add?",
    "needsApproval": true,
    "rewritten": true
@@ -3068,7 +3196,8 @@
      "scene": "megaphone",
      "sourceLine": "General retail guidance",
      "attachments": [],
-     "altText": "Cover headline 'Can a customer repeat your brand promise in five words?' over an illustrated gold megaphone."
+     "altText": "Cover headline 'Can a customer repeat your brand promise in five words?' over an illustrated gold megaphone.",
+     "photoScene": "megaphone"
     },
     {
      "n": 2,
@@ -3179,6 +3308,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/linkedin/threads: 'How I'd fix it', 'My rule', 'the test I'd start with'.",
+   "palette": "scaling",
    "caption": "Can a customer repeat your brand promise in five words? If not, your channels are probably saying different things.\n\nHow I'd fix it: say one thing, say it everywhere, show it in the store, and change the offers, not the identity.\n\nSave the 5-point message check.\n\n#Branding #Marketing #SmallBusiness\n\nWhat's your brand promise in five words?",
    "needsApproval": true,
    "rewritten": true
@@ -3220,7 +3350,8 @@
      "scene": "map",
      "sourceLine": "General retail guidance",
      "attachments": [],
-     "altText": "Cover headline 'Opening in a new neighborhood? Learn these 3 things first' over an illustrated street map with a gold route."
+     "altText": "Cover headline 'Opening in a new neighborhood? Learn these 3 things first' over an illustrated street map with a gold route.",
+     "photoScene": "map"
     },
     {
      "n": 2,
@@ -3336,6 +3467,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/linkedin/x/threads: 'I'd learn', 'I'd adjust/keep'.",
+   "palette": "scaling",
    "caption": "Every neighborhood is a different customer. Before opening somewhere new, I'd learn three things: who lives and shops there, what competitors already do, and how people get there.\n\nThen adjust the offer, not the identity. Save the 5 local research questions.\n\n#SmallBusiness #Retail #LocalBusiness\n\nWhat's one thing every newcomer should know about your neighborhood?",
    "needsApproval": true,
    "rewritten": true
@@ -3377,7 +3509,8 @@
      "scene": "shield",
      "sourceLine": "General retail guidance",
      "attachments": [],
-     "altText": "Cover headline 'Would customers recognize you in every location?' over an illustrated gold shield with a check mark."
+     "altText": "Cover headline 'Would customers recognize you in every location?' over an illustrated gold shield with a check mark.",
+     "photoScene": "shield"
     },
     {
      "n": 2,
@@ -3493,6 +3626,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/linkedin/x/threads: 'The audit I'd run', 'My audit'.",
+   "palette": "scaling",
    "caption": "Would customers recognize you in every location?\n\nThe audit I'd run: visit as a customer, not as the owner. Check the name and message, the space, the service and the pricing. Then compare and fix.\n\nSave the 6-point brand audit.\n\n#Branding #Retail #SmallBusiness\n\nWhat's your weakest point?",
    "needsApproval": true,
    "rewritten": true
@@ -3534,7 +3668,8 @@
      "scene": "blueprint",
      "sourceLine": "General retail guidance",
      "attachments": [],
-     "altText": "Cover headline 'What happens to your business when your best person is out?' over an illustrated gold blueprint grid."
+     "altText": "Cover headline 'What happens to your business when your best person is out?' over an illustrated gold blueprint grid.",
+     "photoScene": "blueprint"
     },
     {
      "n": 2,
@@ -3647,6 +3782,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/linkedin/threads: 'Where I'd start'.",
+   "palette": "scaling",
    "caption": "What happens to your business when your best person is out?\n\nIf it only works when one person is there, it isn't a system. Where I'd start: document what repeats every day, standardize it, then measure it.\n\nSave the 5-point system check.\n\n#Operations #SmallBusiness #Leadership\n\nWhich process would you document first?",
    "needsApproval": true,
    "rewritten": true
@@ -3688,7 +3824,8 @@
      "scene": "scale",
      "sourceLine": "General guidance",
      "attachments": [],
-     "altText": "Cover headline 'Where does the money leak?' over an illustrated golden balance scale."
+     "altText": "Cover headline 'Where does the money leak?' over an illustrated golden balance scale.",
+     "photoScene": "scale"
     },
     {
      "n": 2,
@@ -3802,6 +3939,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/linkedin/x/threads: 'The habit I'd build', 'I'd start'.",
+   "palette": "scaling",
    "caption": "Where does the money leak? Usually in three places: planning, construction and operations.\n\nThe habit I'd build: spot it, measure it, fix it. You can't control a cost you haven't measured.\n\nSave the 5 leak checks.\n\n#SmallBusiness #Operations #CostControl\n\nWhere's your biggest leak?",
    "needsApproval": true,
    "rewritten": true
@@ -3843,7 +3981,8 @@
      "scene": "clock",
      "sourceLine": "General guidance",
      "attachments": [],
-     "altText": "Cover headline 'Do you have to choose between speed and quality?' over an illustrated glowing clock."
+     "altText": "Cover headline 'Do you have to choose between speed and quality?' over an illustrated glowing clock.",
+     "photoScene": "clock"
     },
     {
      "n": 2,
@@ -3952,6 +4091,7 @@
     }
    ],
    "captionsNeedApproval": "all: 'How I see it' / 'I don't think you have to pick'.",
+   "palette": "scaling",
    "caption": "Do you have to choose between speed and quality?\n\nHow I see it: speed without standards multiplies mistakes, and standards without systems are slow. Standards plus systems let work be fast and consistent.\n\nSave the 4-question speed check.\n\n#Operations #Quality #SmallBusiness\n\nWhere's your bottleneck?",
    "needsApproval": true,
    "rewritten": true
@@ -3993,7 +4133,8 @@
      "scene": "stairs",
      "sourceLine": "General guidance",
      "attachments": [],
-     "altText": "Cover headline '5 signs you're ready for a second location' over illustrated gold steps rising."
+     "altText": "Cover headline '5 signs you're ready for a second location' over illustrated gold steps rising.",
+     "photoScene": "stairs"
     },
     {
      "n": 2,
@@ -4103,6 +4244,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/linkedin/x/threads: 'The signs I'd look for', 'I'd want all five'.",
+   "palette": "scaling",
    "caption": "Five signs you're ready for a second location: the model is proven, the playbook is written, someone else can run it, funding and staff are ready, and the first location stays strong.\n\nScaling a weak model only scales the weakness.\n\nI'd want all five before opening a second. Score yourself on the last slide.\n\n#SmallBusiness #Scaling #Entrepreneurship\n\nWhat's your score out of five?",
    "needsApproval": true,
    "rewritten": true
@@ -4144,7 +4286,8 @@
      "scene": "shield",
      "sourceLine": "General guidance",
      "attachments": [],
-     "altText": "Cover headline '6 scaling mistakes that break a chain' over an illustrated gold shield."
+     "altText": "Cover headline '6 scaling mistakes that break a chain' over an illustrated gold shield.",
+     "photoScene": "shield"
     },
     {
      "n": 2,
@@ -4248,6 +4391,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin/threads: 'The mistakes I'd watch for', 'My fix'.",
+   "palette": "scaling",
    "caption": "Six ways chains break: growing faster than training, losing brand consistency, ignoring local markets, signing leases without a clear exit, letting suppliers slide, and skipping measurement.\n\nThe way I see it, most come down to the same fix: train, standardize, measure, repeat.\n\nSave the red-flag check.\n\n#Scaling #SmallBusiness #Operations\n\nWhich mistake have you seen most?",
    "needsApproval": true,
    "rewritten": true
@@ -4289,7 +4433,8 @@
      "scene": "factory",
      "sourceLine": "Source: stephenjemal.com",
      "attachments": [],
-     "altText": "Cover headline 'One mother factory. Hundreds of pilot factories. That's BUILT.' over an illustrated precision factory hall."
+     "altText": "Cover headline 'One mother factory. Hundreds of pilot factories. That's BUILT.' over an illustrated precision factory hall.",
+     "photoScene": "factory"
     },
     {
      "n": 2,
@@ -4405,6 +4550,7 @@
      "altText": "A six-line numbered BUILT fact sheet with a gold comment button."
     }
    ],
+   "palette": "built",
    "caption": "BUILT® in one swipe: an AI-powered, robotics-driven, cloud-based, laser-guided system for producing prefabricated modular housing.\n\nThe model: one mother factory in the United States and hundreds of custom pilot factories in the countries that need housing, designed for local jobs and government partnerships.\n\nWe unveiled it in August 2026, and I presented it at the United Nations.\n\n#BUILT #ModularConstruction #Housing\n\nWhat would you ask me about BUILT®?",
    "needsApproval": false,
    "rewritten": true
@@ -4446,7 +4592,8 @@
      "scene": "pillars",
      "sourceLine": "BUILT® pillars: stephenjemal.com. Uses described are general.",
      "attachments": [],
-     "altText": "Cover headline 'AI, robots, cloud, lasers: what each does in building a home' over four illustrated gold columns."
+     "altText": "Cover headline 'AI, robots, cloud, lasers: what each does in building a home' over four illustrated gold columns.",
+     "photoScene": "pillars"
     },
     {
      "n": 2,
@@ -4560,6 +4707,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson and 'That's why we built BUILT® on four pillars' (motive framing); threads: 'how I'd explain'.",
+   "palette": "built",
    "caption": "AI, robots, cloud and lasers: the four pillars of BUILT®. Here's how I explain what each technology does in building a home, in plain words.\n\nPlan. Make. Track. Fit.\n\nSave the 4 questions to ask about any build system.\n\n#BUILT #ConstructionTech #ModularConstruction\n\nWhich pillar would you want explained next?",
    "needsApproval": true,
    "rewritten": true
@@ -4601,7 +4749,8 @@
      "scene": "cloud",
      "sourceLine": "General guidance",
      "attachments": [],
-     "altText": "Cover headline 'What can AI do before a single wall goes up?' over an illustrated glowing cloud linked to buildings."
+     "altText": "Cover headline 'What can AI do before a single wall goes up?' over an illustrated glowing cloud linked to buildings.",
+     "photoScene": "cloud"
     },
     {
      "n": 2,
@@ -4707,6 +4856,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin/x/threads: opening lesson, 'The questions I'd ask', 'My rule'.",
+   "palette": "built",
    "caption": "What can AI do before a single wall goes up? In construction planning: layouts, materials, scheduling, cost projections and process checks.\n\nMy rule: fix problems on the screen, not on the site. AI-powered planning is one of the four pillars of BUILT®.\n\nSave the 5 questions to ask about AI in construction.\n\n#AI #ConstructionTech #Housing\n\nWhere would you use AI first?",
    "needsApproval": true,
    "rewritten": true
@@ -4748,7 +4898,8 @@
      "scene": "robot",
      "sourceLine": "General guidance",
      "attachments": [],
-     "altText": "Cover headline 'What do robots actually do in a factory-built home?' over an illustrated robotic arm placing a panel."
+     "altText": "Cover headline 'What do robots actually do in a factory-built home?' over an illustrated robotic arm placing a panel.",
+     "photoScene": "robot"
     },
     {
      "n": 2,
@@ -4858,6 +5009,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/x/threads: 'what robotics-driven means to me', 'That's what I want in a home'; linkedin: 'Four questions I'd ask'.",
+   "palette": "built",
    "caption": "What do robots actually do in a factory-built home? Four jobs: cut, assemble, move, measure.\n\nWhat automation adds is repetition: the same task, the same way, every time, in a setting that doesn't change with the weather. That's what robotics-driven means to me, and it's a pillar of BUILT®.\n\nSave the 4 questions about factory-built homes.\n\n#Robotics #Prefab #ConstructionTech\n\nWhat would you ask first?",
    "needsApproval": true,
    "rewritten": true
@@ -4899,7 +5051,8 @@
      "scene": "laser",
      "sourceLine": "BUILT® per stephenjemal.com",
      "attachments": [],
-     "altText": "Cover headline 'Why would a home need precision under a millimeter?' over an illustrated laser scanning a building panel."
+     "altText": "Cover headline 'Why would a home need precision under a millimeter?' over an illustrated laser scanning a building panel.",
+     "photoScene": "laser"
     },
     {
      "n": 2,
@@ -5001,6 +5154,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson and 'The check I'd run'; x: 'Why I care'.",
+   "palette": "built",
    "caption": "A standard credit card is 0.76 mm thick (ISO/IEC 7810). BUILT® is designed for millimeter and sub-millimeter precision: under 1 mm.\n\nWhy I care about that: parts that line up when they arrive, less rework, less waste.\n\nSave the 4-question precision check.\n\n#ConstructionTech #Precision #Housing\n\nWhere does precision matter most in a home?",
    "needsApproval": true,
    "rewritten": true
@@ -5042,7 +5196,8 @@
      "scene": "cloud",
      "sourceLine": "General guidance",
      "attachments": [],
-     "altText": "Cover headline 'What if you could see every build in real time?' over an illustrated cloud linked to buildings."
+     "altText": "Cover headline 'What if you could see every build in real time?' over an illustrated cloud linked to buildings.",
+     "photoScene": "cloud"
     },
     {
      "n": 2,
@@ -5154,6 +5309,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin/x/threads: opening lesson, 'Five questions I'd ask', 'the bar I'd hold it to', 'what I'd want'.",
+   "palette": "built",
    "caption": "What if you could see every build in real time? What I'd want from cloud-based project management: one shared view, problems flagged earlier, faster decisions.\n\nCloud-based is one of the four pillars of BUILT®.\n\nSave the 5 questions for any project dashboard.\n\n#ConstructionTech #ProjectManagement #Cloud\n\nWhich metric would you watch?",
    "needsApproval": true,
    "rewritten": true
@@ -5195,7 +5351,8 @@
      "scene": "globe",
      "sourceLine": "Source: stephenjemal.com",
      "attachments": [],
-     "altText": "Cover headline 'Why one mother factory and hundreds of pilot factories?' over an illustrated glowing globe."
+     "altText": "Cover headline 'Why one mother factory and hundreds of pilot factories?' over an illustrated glowing globe.",
+     "photoScene": "globe"
     },
     {
      "n": 2,
@@ -5306,6 +5463,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson ('production should happen close to the need') and 'questions I'd ask'.",
+   "palette": "built",
    "caption": "Why one mother factory and hundreds of pilot factories?\n\nThe BUILT® model: one mother factory in the United States, and hundreds of custom pilot factories in the countries that need housing, designed for local jobs and government partnerships.\n\nSave the 4 questions I'd ask of any housing factory model.\n\n#BUILT #Housing #ModularConstruction\n\nWhere would you want a pilot factory?",
    "needsApproval": true,
    "rewritten": true
@@ -5347,7 +5505,8 @@
      "scene": "houses",
      "sourceLine": "Source: UN-Habitat",
      "attachments": [],
-     "altText": "Cover headline '2.8 billion people lack adequate housing. What does adequate mean?' over illustrated houses with lit windows."
+     "altText": "Cover headline '2.8 billion people lack adequate housing. What does adequate mean?' over illustrated houses with lit windows.",
+     "photoScene": "houses"
     },
     {
      "n": 2,
@@ -5455,6 +5614,7 @@
     }
    ],
    "captionsNeedApproval": "instagram: 'I keep this list close'; linkedin: opening lesson line.",
+   "palette": "housing",
    "caption": "UN-Habitat counts 2.8 billion people without adequate housing. So what does \"adequate\" mean?\n\nThe UN Committee on Economic, Social and Cultural Rights lists seven elements: security of tenure, services and infrastructure, affordability, habitability, accessibility, location and cultural adequacy.\n\nI keep this list close. Save it.\n\n#Housing #AffordableHousing #HumanRights\n\nWhich element is hardest where you live?",
    "needsApproval": true,
    "rewritten": true
@@ -5496,7 +5656,8 @@
      "scene": "clock",
      "sourceLine": "Per JemRock research",
      "attachments": [],
-     "altText": "Cover headline 'The world needs more than one new home every second' over an illustrated glowing clock."
+     "altText": "Cover headline 'The world needs more than one new home every second' over an illustrated glowing clock.",
+     "photoScene": "clock"
     },
     {
      "n": 2,
@@ -5609,6 +5770,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson line; instagram: 'It's why our mission...' causal framing.",
+   "palette": "housing",
    "caption": "Per JemRock research, the world needs 96,000 new homes a day. That's about 4,000 an hour, 67 a minute, more than one every second.\n\nBehind that math are people. It's why our mission at JemRock is to change how the world produces housing. UN-Habitat counts 2.8 billion people without adequate housing.\n\nSwipe for the full breakdown, and save the 4 questions to ask any housing number.\n\n#AffordableHousing #Housing #ModularConstruction\n\nWhich number surprised you most?",
    "needsApproval": true,
    "rewritten": true
@@ -5650,7 +5812,8 @@
      "scene": "factory",
      "sourceLine": "McKinsey, 2019",
      "attachments": [],
-     "altText": "Cover headline 'Prefab can be 20-50% faster. Here's the fine print.' over an illustrated factory hall."
+     "altText": "Cover headline 'Prefab can be 20-50% faster. Here's the fine print.' over an illustrated factory hall.",
+     "photoScene": "factory"
     },
     {
      "n": 2,
@@ -5761,6 +5924,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/x/threads: 'I like research that includes the downside', 'I always read the fine print'; linkedin: opening lesson and 'questions I'd ask'.",
+   "palette": "built",
    "caption": "Modular construction can be 20-50% faster and save up to 20% on cost, per McKinsey (2019). The fine print: losses of up to 10% if delivery or material costs spike.\n\nI like research that includes the downside. Swipe for the full picture, then save the 4 questions before choosing prefab.\n\n#Prefab #ModularConstruction #ConstructionTech\n\nWhat's your biggest prefab question?",
    "needsApproval": true,
    "rewritten": true
@@ -5802,7 +5966,8 @@
      "scene": "conveyor",
      "sourceLine": "General explanation",
      "attachments": [],
-     "altText": "Cover headline 'Where does construction waste really come from?' over an illustrated conveyor belt with boxes."
+     "altText": "Cover headline 'Where does construction waste really come from?' over an illustrated conveyor belt with boxes.",
+     "photoScene": "conveyor"
     },
     {
      "n": 2,
@@ -5908,6 +6073,7 @@
     }
    ],
    "captionsNeedApproval": "facebook/linkedin/threads: 'how I think precision helps', 'why precision matters to me', 'Most of the waste I think about'.",
+   "palette": "built",
    "caption": "Where does construction waste really come from? Three places: cutting errors, over-ordering and rework.\n\nThe way I see it, precision attacks all three. BUILT® is laser-guided and designed for less material waste.\n\nSave the 5 waste-reduction questions.\n\n#Sustainability #ConstructionTech #Prefab\n\nWhich waste would you cut first?",
    "needsApproval": true,
    "rewritten": true
@@ -5949,7 +6115,8 @@
      "scene": "clock",
      "sourceLine": "Per JemRock research",
      "attachments": [],
-     "altText": "Cover headline '50% faster: a target or a result?' over an illustrated glowing clock."
+     "altText": "Cover headline '50% faster: a target or a result?' over an illustrated glowing clock.",
+     "photoScene": "clock"
     },
     {
      "n": 2,
@@ -6055,6 +6222,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/linkedin/threads: 'I want to be clear...', 'founders should say so out loud', 'I'd rather say that plainly'.",
+   "palette": "built",
    "caption": "\"50% faster\": a target or a result?\n\nFor BUILT®, it's a target. Per JemRock research, our design target is more than 50% faster timelines. McKinsey (2019) found modular construction can be 20-50% faster. Those are different kinds of numbers, and I want to be clear about which is which.\n\nSave the 4 questions for any speed claim.\n\n#ConstructionTech #Prefab #Housing\n\nWhich speed claim would you test?",
    "needsApproval": true,
    "rewritten": true
@@ -6096,7 +6264,8 @@
      "scene": "crane",
      "sourceLine": "General explanation",
      "attachments": [],
-     "altText": "Cover headline 'Two ways to build a home. Which carries more risk?' over an illustrated construction crane."
+     "altText": "Cover headline 'Two ways to build a home. Which carries more risk?' over an illustrated construction crane.",
+     "photoScene": "crane"
     },
     {
      "n": 2,
@@ -6211,6 +6380,7 @@
     }
    ],
    "captionsNeedApproval": "all: 'The way I see it', 'my case for system-built homes'; linkedin: 'questions I'd use'.",
+   "palette": "built",
    "caption": "Two ways to build a home: on site, or in a system.\n\nOn site, weather and conditions change daily and every build starts fresh. In a system, conditions are controlled and processes repeat. The way I see it: less happens on site, so less can go wrong there.\n\nSave the 5 questions for comparing how to build.\n\n#Construction #Prefab #Housing\n\nWhich would you choose for your home?",
    "needsApproval": true,
    "rewritten": true
@@ -6252,7 +6422,8 @@
      "scene": "tower",
      "sourceLine": "General explanation",
      "attachments": [],
-     "altText": "Cover headline 'What if a building had a brand, like a store does?' over an illustrated lit apartment tower."
+     "altText": "Cover headline 'What if a building had a brand, like a store does?' over an illustrated lit apartment tower.",
+     "photoScene": "tower"
     },
     {
      "n": 2,
@@ -6369,6 +6540,7 @@
     }
    ],
    "captionsNeedApproval": "all captions: applying the Wiz pillars to buildings ('I think', 'I'd apply').",
+   "palette": "realestate",
    "caption": "What if a building had a brand, the way a store does?\n\nThe Wiz marketing pillars were memorable naming, clear positioning, market visibility and brand consistency. Here's how I'd apply them to a building: name it, position it, build it, operate it.\n\nSave the 4-question brand check.\n\n#RealEstate #Branding #UrbanDevelopment\n\nWhich building brand do you remember?",
    "needsApproval": true,
    "rewritten": true
@@ -6410,7 +6582,8 @@
      "scene": "map",
      "sourceLine": "Source: stephenjemal.com",
      "attachments": [],
-     "altText": "Cover headline 'After the Wiz, I assembled underused land across five areas' over an illustrated street map with a gold route."
+     "altText": "Cover headline 'After the Wiz, I assembled underused land across five areas' over an illustrated street map with a gold route.",
+     "photoScene": "map"
     },
     {
      "n": 2,
@@ -6526,6 +6699,7 @@
     }
    ],
    "captionsNeedApproval": "Replacement topic for 'Inside PASHA' (unconfirmed); linkedin opening lesson line.",
+   "palette": "realestate",
    "caption": "After the Wiz, I assembled underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.\n\nAssemblage means combining neighboring lots into one site that can support a bigger plan. It's slower and more complex than buying one lot, and it opens more options.\n\nSave the 5 questions before assembling a site.\n\n#RealEstate #UrbanDevelopment #NYC\n\nWhich question would you ask first?",
    "needsApproval": true,
    "rewritten": true
@@ -6567,7 +6741,8 @@
      "scene": "skyline",
      "sourceLine": "Source: stephenjemal.com",
      "attachments": [],
-     "altText": "Cover headline 'After the Wiz, I turned to the waterfront. Here's what revitalization means.' over an illustrated city skyline."
+     "altText": "Cover headline 'After the Wiz, I turned to the waterfront. Here's what revitalization means.' over an illustrated city skyline.",
+     "photoScene": "skyline"
     },
     {
      "n": 2,
@@ -6681,6 +6856,7 @@
     }
    ],
    "captionsNeedApproval": "Replacement topic for 'Two brands, two markets' (unconfirmed PASHA/CENTRAL); linkedin opening lesson and 'questions I'd ask'.",
+   "palette": "realestate",
    "caption": "After the Wiz, I turned to waterfront revitalization and real estate development.\n\nRevitalizing a waterfront usually means three things: opening the water's edge to the public, bringing new uses where industry once stood, and rebuilding the infrastructure underneath.\n\nSave the 4 questions for any waterfront site.\n\n#RealEstate #UrbanDevelopment #Waterfront\n\nWhat's your favorite city waterfront?",
    "needsApproval": true,
    "rewritten": true
@@ -6722,7 +6898,8 @@
      "scene": "skyline",
      "sourceLine": "General explanation",
      "attachments": [],
-     "altText": "Cover headline 'What do city residents really want from a home?' over an illustrated city skyline at golden hour."
+     "altText": "Cover headline 'What do city residents really want from a home?' over an illustrated city skyline at golden hour.",
+     "photoScene": "skyline"
     },
     {
      "n": 2,
@@ -6832,6 +7009,7 @@
     }
    ],
    "captionsNeedApproval": "instagram/linkedin/x/threads: 'I'd judge', 'The check I'd use', 'I'd add one more'.",
+   "palette": "realestate",
    "caption": "What do city residents really want from a home? Location, amenities and value, and a building in good condition.\n\nI'd judge any city home on five questions. They're on the last slide. Save them for your next search.\n\n#CityLiving #RealEstate #NYC\n\nWhat's your top priority?",
    "needsApproval": true,
    "rewritten": true
@@ -6875,7 +7053,8 @@
      "needsApproval": true,
      "approvalNote": "Advice headline in Stephen's voice.",
      "attachments": [],
-     "altText": "Cover headline 'Find the need nobody is serving. Then build around it.' over an illustrated street map with a gold route."
+     "altText": "Cover headline 'Find the need nobody is serving. Then build around it.' over an illustrated street map with a gold route.",
+     "photoScene": "map"
     },
     {
      "n": 2,
@@ -6986,6 +7165,7 @@
     }
    ],
    "captionsNeedApproval": "all captions: 'That's how I think about', 'My sequence', 'The worksheet I'd use'.",
+   "palette": "realestate",
    "caption": "Find the need nobody is serving. Then build around it.\n\nThat's how I think about a market gap: spot it, shape a concept for it, serve it. A gap can be underserved people, a missing product, the wrong price or the wrong place.\n\nSave the 5-question gap worksheet.\n\n#Strategy #Entrepreneurship #RealEstate\n\nWhat gap would you fill?",
    "needsApproval": true,
    "rewritten": true
@@ -7029,7 +7209,8 @@
      "needsApproval": true,
      "approvalNote": "Opinion headline in Stephen's voice.",
      "attachments": [],
-     "altText": "Cover headline 'A great concept is only the first stage of four' over an illustrated construction crane."
+     "altText": "Cover headline 'A great concept is only the first stage of four' over an illustrated construction crane.",
+     "photoScene": "crane"
     },
     {
      "n": 2,
@@ -7143,6 +7324,7 @@
     }
    ],
    "captionsNeedApproval": "all captions: 'I'd ask', 'I think', 'The check I'd run'.",
+   "palette": "realestate",
    "caption": "A great concept is only the first stage of four. Then come construction, design and long-term use.\n\nThe question I'd ask at the end: will it still work in ten years?\n\nSave the 4-stage execution check.\n\n#RealEstate #Development #Execution\n\nWhere do projects slip most?",
    "needsApproval": true,
    "rewritten": true
@@ -7184,7 +7366,8 @@
      "scene": "map",
      "sourceLine": "General guidance, not legal advice",
      "attachments": [],
-     "altText": "Cover headline 'Zoning: the rulebook behind every city building' over an illustrated street map."
+     "altText": "Cover headline 'Zoning: the rulebook behind every city building' over an illustrated street map.",
+     "photoScene": "map"
     },
     {
      "n": 2,
@@ -7305,6 +7488,7 @@
     }
    ],
    "captionsNeedApproval": "all captions: 'The order I'd work in', 'I'd check / I'd read'.",
+   "palette": "realestate",
    "caption": "Zoning is the rulebook behind every city building. It decides use, density, what improvements are possible and which approvals you need.\n\nThe order I'd work in: use analysis, approval strategy, feasibility, team.\n\nGeneral guidance, not legal advice.\n\n#RealEstate #Zoning #UrbanDevelopment\n\nWhat's your zoning story?",
    "needsApproval": true,
    "rewritten": true
@@ -7346,7 +7530,8 @@
      "scene": "tower",
      "sourceLine": "General guidance",
      "attachments": [],
-     "altText": "Cover headline 'What if some of the best new homes are inside old offices?' over an illustrated lit apartment tower."
+     "altText": "Cover headline 'What if some of the best new homes are inside old offices?' over an illustrated lit apartment tower.",
+     "photoScene": "tower"
     },
     {
      "n": 2,
@@ -7456,6 +7641,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson ('The greenest building...'); all: 'questions I'd ask', 'I'd check'.",
+   "palette": "realestate",
    "caption": "What if some of the best new homes are inside old offices?\n\nAdaptive reuse gives an existing building a new purpose, often turning older commercial, office or hotel buildings into residential. In dense cities, the structure and the location are already there.\n\nSave the 5 questions I'd ask before a conversion.\n\n#AdaptiveReuse #RealEstate #UrbanDevelopment\n\nWhich building would you convert?",
    "needsApproval": true,
    "rewritten": true
@@ -7497,7 +7683,8 @@
      "scene": "blueprint",
      "sourceLine": "General guidance",
      "attachments": [],
-     "altText": "Cover headline 'How do you see value in an outdated building? Score it.' over an illustrated gold blueprint grid."
+     "altText": "Cover headline 'How do you see value in an outdated building? Score it.' over an illustrated gold blueprint grid.",
+     "photoScene": "blueprint"
     },
     {
      "n": 2,
@@ -7603,6 +7790,7 @@
     }
    ],
    "captionsNeedApproval": "all captions: 'Six factors I'd look at', 'my rule'.",
+   "palette": "realestate",
    "caption": "How do you see value in an outdated building? Score it.\n\nSix factors I'd look at: location, future demand, building condition, neighborhood change, zoning and construction feasibility. Score each from 1 to 5, compare, then decide.\n\nSave the scorecard.\n\n#RealEstate #Investing #UrbanDevelopment\n\nWhat would your building score?",
    "needsApproval": true,
    "rewritten": true
@@ -7644,7 +7832,8 @@
      "scene": "crane",
      "sourceLine": "General guidance",
      "attachments": [],
-     "altText": "Cover headline 'It takes a village to build in a city' over an illustrated construction crane."
+     "altText": "Cover headline 'It takes a village to build in a city' over an illustrated construction crane.",
+     "photoScene": "crane"
     },
     {
      "n": 2,
@@ -7759,6 +7948,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin/x/threads: 'The check I'd run', 'I'd say/I think coordination is the real job'.",
+   "palette": "realestate",
    "caption": "It takes a village to build in a city: architects, engineers, consultants and municipal processes, all coordinated.\n\nIdea, approval, design, build. The way I see it, coordination is what turns a concept into a building. Save the 5-point coordination check.\n\n#RealEstate #Construction #UrbanDevelopment\n\nWho would you coordinate first?",
    "needsApproval": true,
    "rewritten": true
@@ -7800,7 +7990,8 @@
      "scene": "scale",
      "sourceLine": "General guidance",
      "attachments": [],
-     "altText": "Cover headline 'Vision or positioning: which one does your business need?' over an illustrated golden balance scale."
+     "altText": "Cover headline 'Vision or positioning: which one does your business need?' over an illustrated golden balance scale.",
+     "photoScene": "scale"
     },
     {
      "n": 2,
@@ -7909,6 +8100,7 @@
     }
    ],
    "captionsNeedApproval": "all captions: 'How I'd define them', 'I think you need both'.",
+   "palette": "founder",
    "caption": "Vision or positioning: which one does your business need? Both, in that order.\n\nHow I'd define them: vision is seeing where a market is going and organizing around it. Positioning is making the business easy to understand. The Wiz was positioned on four pillars: clear message, competitive identity, operational support, scalable concept.\n\n#Strategy #Leadership #Branding\n\nWhat's your vision in one line?",
    "needsApproval": true,
    "rewritten": true
@@ -7950,7 +8142,8 @@
      "scene": "houses",
      "sourceLine": "Source: stephenjemal.com",
      "attachments": [],
-     "altText": "Cover headline about what togetherness, family and hard work look like at work, over illustrated houses with lit windows."
+     "altText": "Cover headline about what togetherness, family and hard work look like at work, over illustrated houses with lit windows.",
+     "photoScene": "houses"
     },
     {
      "n": 2,
@@ -8050,6 +8243,7 @@
     }
    ],
    "captionsNeedApproval": "linkedin: opening lesson line; all: 'how I'd translate'.",
+   "palette": "story",
    "caption": "My parents gave us three values: togetherness, family and hard work. Here's how I'd translate each one into a business.\n\nTogetherness: teams that share goals and information. Family: trust, long-term thinking and mentoring. My father was also my mentor. Hard work: showing up, and learning by doing.\n\n#Leadership #FamilyBusiness #Values\n\nWhat value would you add?",
    "needsApproval": true,
    "rewritten": true
@@ -8091,7 +8285,8 @@
      "scene": "skyline",
      "sourceLine": "Per company histories and stephenjemal.com",
      "attachments": [],
-     "altText": "Cover headline 'From my father's Fulton Street store to BUILT, in one swipe' over an illustrated city skyline."
+     "altText": "Cover headline 'From my father's Fulton Street store to BUILT, in one swipe' over an illustrated city skyline.",
+     "photoScene": "skyline"
     },
     {
      "n": 2,
@@ -8192,6 +8387,7 @@
     }
    ],
    "captionsNeedApproval": "facebook: '52 weeks of carousels' assumes the weekly series runs to the end; linkedin: 'Every chapter built on the last one.'",
+   "palette": "story",
    "caption": "From my father's Fulton Street store to BUILT®, in one swipe.\n\nBrooklyn. The youngest of ten. Our family store in Spanish Harlem. Four stores of my own by 16. The first Wiz in 1976. Waterfront and real estate. JemRock Organization. BUILT®, unveiled in August 2026 and presented at the United Nations.\n\n#Brooklyn #Entrepreneurship #Housing\n\nWhich chapter do you want to hear more about?",
    "needsApproval": true,
    "rewritten": true

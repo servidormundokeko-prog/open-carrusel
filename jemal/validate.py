@@ -79,7 +79,7 @@ def flatten(x):
     return []
 
 
-SKIP_BODY = {"n", "template", "kicker", "headline", "sourceLine", "altText", "attachments", "scene", "photo",
+SKIP_BODY = {"n", "template", "kicker", "headline", "sourceLine", "altText", "attachments", "scene", "photoScene", "photo",
              "photoUpgrade", "background", "illustrationTop", "hookAlternatives", "needsApproval", "approvalNote", "flow_icons"}
 
 
@@ -115,24 +115,18 @@ def data_number(t):
 
 
 def check_contrast():
-    def lum(h):
-        h = h.lstrip("#")
-        c = [int(h[i:i + 2], 16) / 255 for i in (0, 2, 4)]
-        c = [x / 12.92 if x <= 0.03928 else ((x + 0.055) / 1.055) ** 2.4 for x in c]
-        return 0.2126 * c[0] + 0.7152 * c[1] + 0.0722 * c[2]
-
-    def ratio(a, b):
-        la, lb = sorted([lum(a), lum(b)], reverse=True)
-        return (la + 0.05) / (lb + 0.05)
-    pairs = [("#FFFFFF", "#0B1F3A", "white on navy"), ("#FFFFFF", "#12294A", "white on card navy"),
-             ("#9AA5B1", "#0B1F3A", "muted on navy"), ("#9AA5B1", "#12294A", "muted on card navy"),
-             ("#D4A84B", "#0B1F3A", "gold on navy"), ("#D4A84B", "#12294A", "gold on card navy"),
-             ("#0B1F3A", "#D4A84B", "navy on gold (button)")]
-    for fg, bg, name in pairs:
-        r = ratio(fg, bg)
-        if r < 4.5:
-            err("contrast", f"{name} is {r:.2f}:1, below WCAG AA 4.5:1")
-    return [(name, round(ratio(fg, bg), 2)) for fg, bg, name in pairs]
+    """Every text colour on every surface, for every pillar palette (WCAG AA, 4.5:1)."""
+    sys.path.insert(0, os.path.join(ROOT, "tools"))
+    from palettes import PALETTES, ratio, text_pairs
+    worst = {}
+    for key, p in PALETTES.items():
+        for fg, bg, name in text_pairs(p):
+            r = ratio(fg, bg)
+            if r < 4.5:
+                err("contrast", f"{key}: {name} is {r:.2f}:1, below WCAG AA 4.5:1")
+            if key not in worst or r < worst[key][1]:
+                worst[key] = (name, r)
+    return [(f"{k} (lowest: {n})", round(r, 2)) for k, (n, r) in worst.items()]
 
 
 def check_carousel(c):
@@ -229,7 +223,7 @@ def check_carousel(c):
     if any_flag != bool(c.get("needsApproval")) and not c.get("captionsNeedApproval"):
         warn(W, "carousel needsApproval does not match its slides")
     everything = json.dumps({k: v for k, v in c.items()}, ensure_ascii=False)
-    everything = re.sub(r'"(altText|approvalNote|mechanism|captionsNeedApproval)": "(\\.|[^"\\])*"', "", everything)
+    everything = re.sub(r'"(altText|approvalNote|mechanism|captionsNeedApproval|palette|photoScene)": "(\\.|[^"\\])*"', "", everything)
     for b in BANNED:
         if re.search(r"(?<![\w-])" + re.escape(b) + r"(?![\w-])", everything, re.I):
             (warn if b == "journey" else err)(W, f"banned word: {b}")

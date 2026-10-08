@@ -1,5 +1,7 @@
 // Render 1080x1350 PNG previews of selected carousels from the studio, plus one
 // contact sheet per carousel. Usage: node tools/render_previews.mjs 1 10 35
+// PORTRAIT=/path/to/photo.jpg fills the portrait frames (C1 s1, C10 s1, C11 s3); keep those renders out of git.
+// OUT=dir writes somewhere other than previews/.
 import fs from "node:fs";
 import path from "node:path";
 import { createRequire } from "node:module";
@@ -9,7 +11,8 @@ const require = createRequire(path.resolve("/home/user/open-carrusel/package.jso
 const puppeteer = require("puppeteer");
 
 const ROOT = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
-const OUT = path.join(ROOT, "previews");
+const OUT = process.env.OUT || path.join(ROOT, "previews");
+const portrait = process.env.PORTRAIT ? `data:image/jpeg;base64,${fs.readFileSync(process.env.PORTRAIT).toString("base64")}` : null;
 fs.mkdirSync(OUT, { recursive: true });
 const ids = process.argv.slice(2).map(Number);
 
@@ -28,16 +31,19 @@ for (const id of ids) {
   const files = [];
   const n = await page.evaluate((id) => DATA.find((c) => c.id === id).slides.length, id);
   for (let i = 0; i < n; i++) {
-    await page.evaluate((id, i) => {
+    await page.evaluate(async (id, i, portrait) => {
       const c = DATA.find((x) => x.id === id);
+      await prepare(c);
+      const photos = {};
+      if (portrait && c.slides[i].photo) photos[`${c.id}-${c.slides[i].n}`] = portrait;
       const host = document.getElementById("shot") || Object.assign(document.createElement("div"), { id: "shot" });
       host.style.cssText = "position:fixed;left:0;top:0;z-index:99";
       host.innerHTML = "";
       document.body.appendChild(host);
-      const el = buildSlide(c, c.slides[i]);
+      const el = buildSlide(c, c.slides[i], { photos });
       host.appendChild(el);
       fit(el);
-    }, id, i);
+    }, id, i, portrait);
     await page.evaluate(() => document.fonts.ready);
     const el = await page.$("#shot .slide");
     const f = path.join(OUT, `c${String(id).padStart(2, "0")}-s${i + 1}.png`);

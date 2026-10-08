@@ -93,3 +93,4 @@
 - **One renderer** (`tools/slide_core.js` and `slide.css`) shared by the studio export and the new **Remotion `renderStill` pipeline** (`render/render.mjs`). It writes `out/StephenJemalNY carousels 1080x1350/NN - Title/01.png`-`05.png` and the ZIP.
 - **Studio:** "Import images" (bulk, `c27-s2.png` names) and "Add portrait" (fills the three portrait frames). The one-click "Download every carousel (ZIP)" keeps the same folders and file names.
 - Sample previews refreshed for one carousel per palette: 1, 3, 4, 27, 34, 41. The portrait frames are left empty in committed previews.
+- **All 52 rendered** with Remotion (260 PNGs in about 4 minutes). `previews/` now holds every slide in the new design plus one contact sheet per carousel. The portrait frames are empty in committed previews; the ZIP with the portrait is built locally with `PORTRAIT=... node render/render.mjs`.

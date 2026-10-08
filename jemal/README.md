@@ -9,7 +9,7 @@ Open `jemal_carousel_studio.html` in a browser to swipe the carousels, read the 
 | `jemal_carousel_design.json` | Full series: templates, scenes, 52 carousels |
 | `carruseles_flow_prompts.{txt,json,html}` | 260 Google Flow prompts |
 | `APPROVAL_CHECKLIST.md`, `DESIGN_NOTES.md`, `CHANGELOG.md` | Review docs |
-| `previews/` | 1080x1350 renders (the six palette samples are current) |
+| `previews/` | 1080x1350 renders of all 52 carousels, plus a contact sheet each (portrait frames left empty) |
 | `render/` | Remotion renderStill pipeline: final PNGs and ZIP in `out/` |
 | `tools/slide_core.js`, `tools/slide.css`, `tools/palettes.py` | The shared slide renderer and the pillar palettes |
 | `assets/photos/`, `IMAGE_CREDITS.md` | Grayscale Pixabay photos (duotoned at render time) and their credits |

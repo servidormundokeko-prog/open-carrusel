@@ -94,3 +94,10 @@
 - **Studio:** "Import images" (bulk, `c27-s2.png` names) and "Add portrait" (fills the three portrait frames). The one-click "Download every carousel (ZIP)" keeps the same folders and file names.
 - Sample previews refreshed for one carousel per palette: 1, 3, 4, 27, 34, 41. The portrait frames are left empty in committed previews.
 - **All 52 rendered** with Remotion (260 PNGs in about 4 minutes). `previews/` now holds every slide in the new design plus one contact sheet per carousel. The portrait frames are empty in committed previews; the ZIP with the portrait is built locally with `PORTRAIT=... node render/render.mjs`.
+
+## Oct 8: more photos per scene
+
+- 26 more Pixabay photos (50 in total), checked by eye for people and legible shop names. 19 scenes now have two or three photos.
+- `build.py` assigns each slide's photo round-robin (`photoKey` in the design JSON), so the busiest photo now appears on 10 slides instead of 19, and a carousel only repeats a photo when its scene has a single one (megaphone, chart, clipboard, tag, scale, robot, and cloud used three times in C32).
+- C11's cover now uses a lit stairwell instead of the dark spiral staircase.
+- All 52 carousels re-rendered; previews refreshed.

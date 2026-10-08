@@ -79,7 +79,7 @@ def flatten(x):
     return []
 
 
-SKIP_BODY = {"n", "template", "kicker", "headline", "sourceLine", "altText", "attachments", "scene", "photoScene", "photo",
+SKIP_BODY = {"n", "template", "kicker", "headline", "sourceLine", "altText", "attachments", "scene", "photoScene", "photoKey", "photo",
              "photoUpgrade", "background", "illustrationTop", "hookAlternatives", "needsApproval", "approvalNote", "flow_icons"}
 
 
@@ -223,7 +223,7 @@ def check_carousel(c):
     if any_flag != bool(c.get("needsApproval")) and not c.get("captionsNeedApproval"):
         warn(W, "carousel needsApproval does not match its slides")
     everything = json.dumps({k: v for k, v in c.items()}, ensure_ascii=False)
-    everything = re.sub(r'"(altText|approvalNote|mechanism|captionsNeedApproval|palette|photoScene)": "(\\.|[^"\\])*"', "", everything)
+    everything = re.sub(r'"(altText|approvalNote|mechanism|captionsNeedApproval|palette|photoScene|photoKey)": "(\\.|[^"\\])*"', "", everything)
     for b in BANNED:
         if re.search(r"(?<![\w-])" + re.escape(b) + r"(?![\w-])", everything, re.I):
             (warn if b == "journey" else err)(W, f"banned word: {b}")

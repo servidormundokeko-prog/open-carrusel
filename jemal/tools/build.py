@@ -119,6 +119,32 @@ def load_rewrites():
     return out
 
 
+# A scene with few photos can borrow a sibling's.
+PHOTO_POOL = {"storefront": ["storefront", "row"], "row": ["row", "storefront"]}
+
+
+def assign_photos(cars):
+    """Give every slide that shows a photo a photoKey, cycling each scene's photos in series order."""
+    keys = sorted(os.path.splitext(n)[0] for n in os.listdir(PHOTO_DIR) if n.endswith(".jpg"))
+    turn = {}
+    for c in cars:
+        used = set()
+        for s in c["slides"]:
+            sc = s.get("photoScene") or (s.get("scene") if s["template"] != "numbered_cta" else None)
+            if not sc and s.get("illustrationTop"):
+                sc = "blueprint"
+            if not sc:
+                continue
+            names = PHOTO_POOL.get(sc, [sc])
+            pool = [k for k in keys if any(k == n or k.startswith(n + "-") for n in names)]
+            i = turn.get(sc, 0)
+            # Skip photos this carousel already shows, when the scene has another.
+            j = next((j for j in range(i, i + len(pool)) if pool[j % len(pool)] not in used), i)
+            s["photoKey"] = pool[j % len(pool)]
+            used.add(s["photoKey"])
+            turn[sc] = j + 1
+
+
 def finalize(c, rewritten):
     c = dict(c)
     c["palette"] = palette_for(c.get("pillar"))
@@ -407,6 +433,7 @@ def main():
     rw = load_rewrites()
     cars = [finalize(rw.get(c["id"], c), c["id"] in rw) for c in src]
     assert len(cars) == 52
+    assign_photos(cars)
 
     if design is None:
         design = {

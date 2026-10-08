@@ -3,7 +3,8 @@
 convert to grayscale for duotoning, and record credits.
 
 Needs PIXABAY_API_KEY. Usage: python3 tools/fetch_photos.py [scene ...]
-Picks live in PICKS (scene -> Pixabay id) once chosen; QUERIES find candidates.
+Picks live in assets/photos/picks.json (scene -> Pixabay id, plus "extra" variants saved as
+scene-2.jpg, scene-3.jpg ...); QUERIES find candidates for scenes with no pick yet.
 """
 import io, json, os, sys, urllib.parse, urllib.request
 from PIL import Image, ImageOps
@@ -49,34 +50,40 @@ def candidates(scene):
     return out
 
 
-def process(scene, h):
+def process(name, h):
     with get(h["largeImageURL"], 60) as r:
         im = Image.open(io.BytesIO(r.read())).convert("L")
-    im = ImageOps.fit(im, (864, 1080), method=Image.LANCZOS, centering=(0.5, 0.5))
+    im = ImageOps.fit(im, (768, 960), method=Image.LANCZOS, centering=(0.5, 0.5))
     im = ImageOps.autocontrast(im, cutoff=1)
-    im.save(os.path.join(OUT, f"{scene}.jpg"), quality=64, optimize=True, progressive=True)
+    im.save(os.path.join(OUT, f"{name}.jpg"), quality=60, optimize=True, progressive=True)
 
 
 def main():
     os.makedirs(OUT, exist_ok=True)
     picks = json.load(open(PICKS_FILE)) if os.path.exists(PICKS_FILE) else {}
     for scene in sys.argv[1:] or QUERIES:
-        cands = candidates(scene)
-        want = picks.get(scene, {}).get("id")
-        h = next((c for c in cands if c["id"] == want), None) or (api(id=want)[0] if want else cands[0])
+        old = picks.get(scene, {})
+        want = old.get("id")
+        cands = [] if want else candidates(scene)
+        h = api(id=want)[0] if want else cands[0]
         process(scene, h)
-        picks[scene] = {"id": h["id"], "page": h["pageURL"], "user": h["user"], "tags": h["tags"],
-                        "alternatives": [c["id"] for c in cands[1:6]]}
-        print(scene, h["id"], h["pageURL"])
+        rec = {"id": h["id"], "page": h["pageURL"], "user": h["user"], "tags": h["tags"],
+               "alternatives": old.get("alternatives") or [c["id"] for c in cands[1:6]], "extra": []}
+        for i, e in enumerate(old.get("extra", []), 2):
+            x = api(id=e["id"])[0]
+            process(f"{scene}-{i}", x)
+            rec["extra"].append({"id": x["id"], "page": x["pageURL"], "user": x["user"]})
+        picks[scene] = rec
+        print(scene, h["id"], len(rec["extra"]), "extra")
     json.dump(picks, open(PICKS_FILE, "w"), indent=1)
     with open(os.path.join(ROOT, "IMAGE_CREDITS.md"), "w") as f:
         f.write("# Image credits\n\nStock photos from [Pixabay](https://pixabay.com/service/license-summary/) under the Pixabay Content License "
-                "(free for commercial use, no attribution required; credited here anyway). No people appear in any of them. "
-                "Each is cropped to 4:5 (864x1080), converted to grayscale in `assets/photos/` and duotoned in its carousel's palette at render time. "
+                "(free for commercial use, no attribution required; credited here anyway). No people appear in any of them. Most scenes have two or three photos; the renderer rotates through them by carousel and slide. "
+                "Each is cropped to 4:5 (768x960), converted to grayscale in `assets/photos/` and duotoned in its carousel's palette at render time. "
                 "Refetch with `PIXABAY_API_KEY=... python3 tools/fetch_photos.py`.\n\n| Scene | Pixabay page | Photographer |\n|---|---|---|\n")
         for s in sorted(picks):
-            p = picks[s]
-            f.write(f"| {s} | {p['page']} | {p['user']} |\n")
+            for i, p in enumerate([picks[s]] + picks[s].get("extra", []), 1):
+                f.write(f"| {s if i == 1 else f'{s} ({i})'} | {p['page']} | {p['user']} |\n")
 
 
 if __name__ == "__main__":

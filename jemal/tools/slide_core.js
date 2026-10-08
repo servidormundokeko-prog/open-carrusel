@@ -63,6 +63,9 @@ function lucide(name) {
 function autoIcon(text, c) { for (const [re, n] of KEYWORDS) if (re.test(text || "")) return n; return palOf(c).icon; }
 const escH = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
+// build.py writes each slide's photoKey (round-robin through scene.jpg, scene-2.jpg ... across the series).
+function photoFor(scene, c, s) { return (s && s.photoKey) || scene; }
+
 // Duotone: map each grey level from the palette's background (shadows) to its accent2 (highlights).
 const DUO = {};
 function duoKey(scene, c) { return scene + "|" + c.palette; }
@@ -93,7 +96,7 @@ function duotone(scene, c) {
 }
 // Call before buildSlide(): duotones every photo the carousel uses.
 function prepare(c) {
-  const scenes = new Set(c.slides.map((s) => s.photoScene || s.scene || (s.illustrationTop ? "blueprint" : "")).filter(Boolean));
+  const scenes = new Set(c.slides.map((s) => { const sc = s.photoScene || s.scene || (s.illustrationTop ? "blueprint" : ""); return sc && photoFor(sc, c, s); }).filter(Boolean));
   return Promise.all([...scenes].map((sc) => duotone(sc, c)));
 }
 
@@ -127,7 +130,7 @@ function buildSlide(c, s, opts) {
   const head = () => `<div class="head"><div class="krow"><span class="hb">${lucide(autoIcon(s.kicker + " " + s.headline, c))}</span><div class="kicker">${escH(s.kicker)}</div></div><div class="h1">${escH(s.headline)}</div>${s.subtitle ? `<div class="sub">${escH(s.subtitle)}</div>` : ""}</div>`;
   const banner = () => {
     if (!s.scene) return "";
-    const u = photos[key + "-b"] || DUO[duoKey(s.scene, c)];
+    const u = photos[key + "-b"] || DUO[duoKey(photoFor(s.scene, c, s), c)];
     return `<div class="banner" style="${u ? `background-image:url(${u})` : ""}"><span class="bi">${lucide(SCENE_ICON[s.scene] || "image")}</span></div>`;
   };
   // Last word of the cover headline in the accent colour.
@@ -137,7 +140,7 @@ function buildSlide(c, s, opts) {
   let h = "", b = "", bgLayer = "";
   if (t === "cover") {
     const hasPh = !!s.photo, p = palOf(c);
-    const u = photos[key + "-bg"] || DUO[duoKey(s.photoScene || s.scene, c)];
+    const u = photos[key + "-bg"] || DUO[duoKey(photoFor(s.photoScene || s.scene, c, s), c)];
     bgLayer = (u ? `<div class="art" style="background-image:url(${u})"></div>` : "") +
       `<div class="veil" style="background:linear-gradient(180deg,${rgba(p.bg, 0.55)} 0%,${rgba(p.bg, 0.4)} 22%,${rgba(p.bg, 0.6)} 40%,${rgba(p.bg, 0.9)} 58%,${p.bg} 78%)"></div>`;
     h = `<div class="ctop"><span class="chip">${lucide(p.icon)}${escH(p.name)}</span></div>`;
@@ -148,7 +151,7 @@ function buildSlide(c, s, opts) {
     if (t === "cards_stack") {
       const numbered = s.cards.every((x) => !x.icon && !x.title);
       let top = "";
-      if (s.illustrationTop) { const u = photos[key] || DUO[duoKey(s.scene || "blueprint", c)]; top = u ? `<div class="illo" style="background-image:url(${u})"></div>` : ""; }
+      if (s.illustrationTop) { const u = photos[key] || DUO[duoKey(photoFor(s.scene || "blueprint", c, s), c)]; top = u ? `<div class="illo" style="background-image:url(${u})"></div>` : ""; }
       b = top + s.cards.map((x, i) => cardHtml(x, i, numbered)).join("");
     } else if (t === "table_compare") {
       b = `<div class="tbl"><div class="tr th"><span>${escH(s.columns[0])}</span><span></span><span>${escH(s.columns[1])}</span></div>${s.rows.map((r) => `<div class="tr"><span>${escH(r[0])}</span>${lucide("arrow-right")}<span>${escH(r[1])}</span></div>`).join("")}</div>`;

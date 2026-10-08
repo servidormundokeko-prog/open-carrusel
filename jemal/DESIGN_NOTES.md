@@ -23,11 +23,11 @@ The Flow prompts use the same colour words (for example "deep indigo-black with 
 - **Lucide icons (ISC).** Badges use Lucide icons. Kickers, cards, grid cells and banners get an icon picked by keyword (lease → file, robot → bot, zoning → map, and so on). If no keyword matches, the palette's own icon is used. The icons the renderer uses are cached in `tools/lucide_icons.json`, so builds work without `node_modules`.
 - **Progress-bar footer.** Five segments, filled up to the current slide, above the handle and slide number.
 - **Stronger cover.** A full-bleed duotone photo behind a dark veil, a pillar chip with its icon, an accent bar, a larger headline with its last word in the accent colour, and the swipe line.
-- **Photos.** 24 Pixabay photos, one per scene and none with people (credits in `IMAGE_CREDITS.md`). They are stored as grayscale files in `assets/photos/`, duotoned in the carousel's palette at render time (background in the shadows, accent2 in the highlights), and used as banners and cover backgrounds. Banners grow to fill free space on the slide.
+- **Photos.** 50 Pixabay photos, none with people or legible shop names (credits in `IMAGE_CREDITS.md`). 19 of the 24 scenes have two or three photos. `build.py` gives each slide a `photoKey`, cycling each scene's photos through the series and skipping any photo the carousel already shows. Storefront and row share their photos. They are stored as grayscale files in `assets/photos/`, duotoned in the carousel's palette at render time (background in the shadows, accent2 in the highlights), and used as banners and cover backgrounds. Banners grow to fill free space on the slide.
 - **No box-shadow** on rounded elements, so html2canvas exports clean circles.
 - **Studio: "Import images".** Pick many files at once named like `c27-s2.png` (slide 2 of carousel 27). Each goes to that slide's photo slot, otherwise its banner or cover background. Add `-bg` or `-banner` to choose.
 - **Studio: "Add portrait".** One photo fills the three portrait frames (C1 slide 1, C10 slide 1, C11 slide 3). It is cropped to fit and never edited. The portrait is not stored in the repo.
-- The studio file is now about 3.9 MB because the 24 photos are embedded so it still works offline.
+- The studio file is now about 6.7 MB because the 50 photos are embedded so it still works offline.
 
 
 ## Layout changes, and why

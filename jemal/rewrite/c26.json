@@ -1,0 +1,142 @@
+{
+  "id": 26,
+  "week": 26,
+  "title": "Scaling mistakes",
+  "pillar": "Scaling and systems (general guidance)",
+  "captions": {
+    "instagram": "Six ways chains break: growing faster than training, losing brand consistency, ignoring local markets, signing leases without a clear exit, letting suppliers slide, and skipping measurement.\n\nThe way I see it, most come down to the same fix: train, standardize, measure, repeat.\n\nSave the red-flag check.\n\n#Scaling #SmallBusiness #Operations\n\nWhich mistake have you seen most?",
+    "facebook": "Growth breaks businesses in predictable ways. I listed six and a red-flag check to catch them early.\n\n#Scaling #SmallBusiness\n\nWhich one would you add?",
+    "linkedin": "Fix the system, not the symptom.\n\nThe scaling mistakes I'd watch for: growing faster than training, losing brand consistency, ignoring local markets, signing leases without a clear exit, letting supplier relationships slide, and skipping measurement.\n\nMost are solved by the same four moves: train, standardize, measure, repeat.\n\n#Scaling #Operations\n\nWhich mistake is hardest to see while it's happening?",
+    "x": "6 ways chains break:\n\n1. Growth outpaces training\n2. Brand drifts\n3. Local markets ignored\n4. Leases with no exit\n5. Suppliers neglected\n6. Nothing measured\n\nWhich would I find at your company? Which one is it?",
+    "threads": "Six ways chains break. My fix for most of them: train, standardize, measure, repeat.\n\nWhich one have you lived through?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "6 SCALING MISTAKES THAT BREAK A CHAIN",
+      "subline": "And the four moves that fix most of them. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "6 scaling mistakes that break a chain",
+          "mechanism": "Mistake + specificity: negativity bias, countable list.",
+          "chosen": true
+        },
+        {
+          "text": "Fix the system, not the symptom.",
+          "mechanism": "Contrarian rule: gives away the payoff."
+        },
+        {
+          "text": "Why do growing chains break?",
+          "mechanism": "Question: open, less specific."
+        }
+      ],
+      "scene": "shield",
+      "sourceLine": "General guidance",
+      "attachments": [],
+      "altText": "Cover headline '6 scaling mistakes that break a chain' over an illustrated gold shield."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "MISTAKES 1 TO 4",
+      "headline": "WHERE GROWTH GOES WRONG",
+      "cards": [
+        {
+          "body": "Growing faster than training"
+        },
+        {
+          "body": "Losing brand consistency"
+        },
+        {
+          "body": "Ignoring local markets"
+        },
+        {
+          "body": "Signing leases without a clear exit"
+        }
+      ],
+      "scene": "row",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered cards: growing faster than training, losing brand consistency, ignoring local markets, leases without an exit."
+    },
+    {
+      "n": 3,
+      "template": "stats_rows",
+      "kicker": "MISTAKES 5 AND 6",
+      "headline": "THE QUIET ONES",
+      "rows": [
+        [
+          "SUPPLIERS",
+          "Letting the relationships slide"
+        ],
+        [
+          "MEASUREMENT",
+          "Skipping it, so problems hide"
+        ]
+      ],
+      "scene": "conveyor",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Two rows: suppliers left to slide and measurement skipped."
+    },
+    {
+      "n": 4,
+      "template": "flow_steps",
+      "kicker": "THE FIX",
+      "headline": "FIX THE SYSTEM, NOT THE SYMPTOM",
+      "flow": [
+        [
+          "TRAIN",
+          "people"
+        ],
+        [
+          "STANDARDIZE",
+          "gear"
+        ],
+        [
+          "MEASURE",
+          "chart"
+        ],
+        [
+          "REPEAT",
+          "stack-of-storefronts"
+        ]
+      ],
+      "pullLine": "Most of these are solved by the same four moves.",
+      "scene": "stairs",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow: train, standardize, measure, repeat."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 6-POINT RED-FLAG CHECK",
+      "rows": [
+        "Is training keeping up?",
+        "Is the brand consistent?",
+        "Do we know each market?",
+        "Can we exit a lease?",
+        "Are suppliers healthy?",
+        "Are we measuring?"
+      ],
+      "button": "Comment the mistake you've seen",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Six numbered red-flag questions with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "linkedin/threads: 'The mistakes I'd watch for', 'My fix'."
+}

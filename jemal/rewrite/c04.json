@@ -1,0 +1,151 @@
+{
+  "id": 4,
+  "week": 4,
+  "title": "How one storefront becomes a chain",
+  "pillar": "Scaling and systems",
+  "captions": {
+    "instagram": "In 1976, my father opened the first Wiz on Fulton Street in Brooklyn. One storefront, one name: Nobody Beats The Wiz.\n\nA store runs on its owner. A chain runs on systems. Two of the Wiz positioning pillars were a scalable concept and operational support.\n\nSave the 5 questions to ask before you scale.\n\n#Scaling #SmallBusiness #Retail\n\nWhich question is hardest for your business?",
+    "facebook": "One storefront on Fulton Street in 1976. That's where my father opened the first Wiz.\n\nSwipe for the shift from storefront to chain, and save my 5 questions for before you open a second location.\n\n#SmallBusiness #Retail\n\nAre you thinking about a second location?",
+    "linkedin": "A store depends on its owner. A chain depends on systems.\n\nIn 1976, my father opened the first Wiz on Fulton Street in Brooklyn. Two of the Wiz positioning pillars speak directly to growth: a scalable concept and operational support.\n\nBefore you scale, I'd ask:\n1. Does it work in one place?\n2. Can it be written down?\n3. Can someone else run it?\n4. Can you fund the next one?\n5. Will customers recognize it?\n\n#Scaling #Operations\n\nWhich of these is the hardest for your team?",
+    "x": "A store runs on its owner. A chain runs on systems.\n\nThe first Wiz opened on Fulton Street in 1976. My 5 questions before you scale are on the last slide.\n\nWhich one is hardest for you?",
+    "threads": "One storefront in 1976. Then a chain.\n\nThe difference is systems. I put 5 questions before scaling in the carousel.\n\nWhich one would trip you up?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "ONE STOREFRONT IN 1976. WHAT TURNS IT INTO A CHAIN?",
+      "subline": "From the first Wiz on Fulton Street. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "One storefront in 1976. What turns it into a chain?",
+          "mechanism": "Specificity + curiosity gap: a real date, an open question.",
+          "chosen": true
+        },
+        {
+          "text": "A store depends on its owner. A chain depends on systems.",
+          "mechanism": "Contrarian: strong, but opinion."
+        },
+        {
+          "text": "How does one Brooklyn storefront become a chain?",
+          "mechanism": "Question: clear, less specific."
+        }
+      ],
+      "scene": "row",
+      "sourceLine": "Per company histories",
+      "attachments": [],
+      "altText": "Cover headline 'One storefront in 1976. What turns it into a chain?' over a row of storefronts, one lit."
+    },
+    {
+      "n": 2,
+      "template": "stats_rows",
+      "kicker": "THE START",
+      "headline": "ONE STOREFRONT, ONE NAME",
+      "rows": [
+        [
+          "1976",
+          "My father opens the first Wiz on Fulton Street, Brooklyn"
+        ],
+        [
+          "THE NAME",
+          "Nobody Beats The Wiz"
+        ],
+        [
+          "THE BRAND",
+          "One of the most memorable electronics brands in the New York region"
+        ]
+      ],
+      "scene": "storefront",
+      "sourceLine": "Per company histories and stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three rows: 1976 first Wiz on Fulton Street, the name Nobody Beats The Wiz, one of the region's most memorable electronics brands."
+    },
+    {
+      "n": 3,
+      "template": "table_compare",
+      "kicker": "THE SHIFT",
+      "headline": "STOREFRONT VS. CHAIN",
+      "columns": [
+        "STOREFRONT",
+        "CHAIN"
+      ],
+      "rows": [
+        [
+          "One owner makes the calls",
+          "Systems make the calls"
+        ],
+        [
+          "One location",
+          "Many locations, one standard"
+        ],
+        [
+          "Customers know the owner",
+          "Customers know the brand"
+        ],
+        [
+          "Problems fixed on the spot",
+          "Problems need a process"
+        ]
+      ],
+      "scene": "row",
+      "needsApproval": true,
+      "approvalNote": "General comparison framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting how a single storefront and a chain operate."
+    },
+    {
+      "n": 4,
+      "template": "cards_stack",
+      "kicker": "TWO PILLARS FOR GROWTH",
+      "headline": "WHAT A CHAIN NEEDS UNDER IT",
+      "cards": [
+        {
+          "icon": "stack-of-storefronts",
+          "title": "SCALABLE CONCEPT",
+          "body": "An idea that works in more than one place."
+        },
+        {
+          "icon": "gear",
+          "title": "OPERATIONAL SUPPORT",
+          "body": "Execution that matches the promise in every store."
+        }
+      ],
+      "pullLine": "Repeating the process is what turns a storefront into a chain.",
+      "scene": "clipboard",
+      "sourceLine": "Pillars: stephenjemal.com",
+      "needsApproval": true,
+      "approvalNote": "Pillar names per stephenjemal.com; descriptions and pull line are framing.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Two cards for Wiz positioning pillars, scalable concept and operational support, with a gold pull line."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "5 QUESTIONS BEFORE YOU SCALE",
+      "rows": [
+        "Does it work in one place?",
+        "Can it be written down?",
+        "Can someone else run it?",
+        "Can you fund the next one?",
+        "Will customers recognize it?"
+      ],
+      "button": "Comment the hardest one for you",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered questions to ask before scaling, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/x/linkedin/threads: 'A store runs on its owner. A chain runs on systems.' and 'I'd ask'."
+}

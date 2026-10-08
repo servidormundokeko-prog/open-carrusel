@@ -1,0 +1,152 @@
+{
+  "id": 28,
+  "week": 28,
+  "title": "The four pillars",
+  "pillar": "BUILT technology",
+  "captions": {
+    "instagram": "AI, robots, cloud and lasers: the four pillars of BUILT®. Here's how I explain what each technology does in building a home, in plain words.\n\nPlan. Make. Track. Fit.\n\nSave the 4 questions to ask about any build system.\n\n#BUILT #ConstructionTech #ModularConstruction\n\nWhich pillar would you want explained next?",
+    "facebook": "BUILT® rests on four technologies: AI-powered, robotics-driven, cloud-based and laser-guided. I broke down what each one does in building a home.\n\n#ConstructionTech #Housing\n\nWhich one sounds most useful to you?",
+    "linkedin": "Any build system has to answer four questions: how is it planned, how is it made, how is it tracked, and how precise is the fit?\n\nBUILT® answers each with a technology. In construction generally, AI helps plan layouts and sequence work before anything is built. Robots repeat precise tasks the same way every time. Cloud tools give everyone one live view of a project. Laser measurement guides parts to an exact fit.\n\nThat's why we built BUILT® on four pillars: AI-powered, robotics-driven, cloud-based and laser-guided.\n\n#ConstructionTech #Housing\n\nWhich question does your industry answer worst?",
+    "x": "The 4 pillars of BUILT®, as I explain them:\n\nAI → plan\nRobotics → make\nCloud → track\nLaser → fit\n\nWhich would you want me to explain next?",
+    "threads": "Plan, make, track, fit. That's how I'd explain the four pillars of BUILT®.\n\nWhich one do you want to hear more about?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "AI, ROBOTS, CLOUD, LASERS: WHAT EACH DOES IN BUILDING A HOME",
+      "subline": "The four pillars of BUILT®. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "AI, robots, cloud, lasers: what each does in building a home",
+          "mechanism": "Specificity + promise: four named technologies, one plain explanation.",
+          "chosen": true
+        },
+        {
+          "text": "Four technologies. One home.",
+          "mechanism": "Pattern: clean, low tension."
+        },
+        {
+          "text": "Which technology matters most in a factory-built home?",
+          "mechanism": "Question: invites debate."
+        }
+      ],
+      "scene": "pillars",
+      "sourceLine": "BUILT® pillars: stephenjemal.com. Uses described are general.",
+      "attachments": [],
+      "altText": "Cover headline 'AI, robots, cloud, lasers: what each does in building a home' over four illustrated gold columns."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "PLAN AND MAKE",
+      "headline": "AI-POWERED. ROBOTICS-DRIVEN.",
+      "cards": [
+        {
+          "icon": "blueprint",
+          "title": "AI-POWERED",
+          "body": "In construction, AI helps plan layouts and sequence work before anything is built."
+        },
+        {
+          "icon": "robot-arm",
+          "title": "ROBOTICS-DRIVEN",
+          "body": "Robots repeat precise tasks the same way, every time."
+        }
+      ],
+      "scene": "blueprint",
+      "sourceLine": "BUILT® pillars: stephenjemal.com. Uses described are general.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Two cards explaining what AI and robotics do in construction."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "TRACK AND FIT",
+      "headline": "PLAN. MAKE. TRACK. FIT.",
+      "body": "Cloud tools give everyone one live view of a project. Laser measurement guides parts to an exact fit.",
+      "flow": [
+        [
+          "PLAN: AI",
+          "blueprint"
+        ],
+        [
+          "MAKE: ROBOTICS",
+          "robot-arm"
+        ],
+        [
+          "TRACK: CLOUD",
+          "cloud"
+        ],
+        [
+          "FIT: LASER",
+          "laser"
+        ]
+      ],
+      "scene": "cloud",
+      "sourceLine": "BUILT® pillars: stephenjemal.com. Uses described are general.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow pairing AI with plan, robotics with make, cloud with track and laser with fit."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "WHAT EACH ADDRESSES",
+      "headline": "PILLAR VS. THE PROBLEM IT TAKES ON",
+      "columns": [
+        "PILLAR",
+        "ADDRESSES"
+      ],
+      "rows": [
+        [
+          "AI",
+          "Planning problems before they get expensive"
+        ],
+        [
+          "Robotics",
+          "Variation in repetitive work"
+        ],
+        [
+          "Cloud",
+          "Visibility across projects"
+        ],
+        [
+          "Laser",
+          "Parts that don't fit"
+        ]
+      ],
+      "scene": "pillars",
+      "needsApproval": true,
+      "approvalNote": "Pairing each pillar with a problem is framing.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table pairing each BUILT pillar with the problem it addresses."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "4 QUESTIONS ABOUT ANY BUILD SYSTEM",
+      "rows": [
+        "How is it planned?",
+        "How is it made?",
+        "How is it tracked?",
+        "How precise is the fit?"
+      ],
+      "button": "Comment which question matters most",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered questions to ask about any build system, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson and 'That's why we built BUILT® on four pillars' (motive framing); threads: 'how I'd explain'."
+}

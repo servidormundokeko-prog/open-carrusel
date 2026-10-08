@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>@StephenJemalNY Carousel Studio</title>
+<style>/*FONTS*/</style>
+<script>/*LIBS*/</script>
+<style>
+:root{--ui-bg:#070d18;--ui-panel:#0f1a2c;--ui-line:#22314a;--ui-text:#e8edf5;--ui-mute:#8c9ab0;--gold:#D4A84B}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--ui-bg);color:var(--ui-text);font-family:'Inter','Segoe UI',Arial,sans-serif}
+.top{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center;justify-content:space-between;padding:14px 20px;border-bottom:1px solid var(--ui-line);background:var(--ui-panel)}
+.top h1{font-size:16px;margin:0;font-weight:600}
+.top h1 span{color:var(--gold)}
+.ctrls{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+select,button,.filebtn{background:#16253d;color:var(--ui-text);border:1px solid var(--ui-line);border-radius:8px;padding:9px 13px;font:500 14px 'Inter',sans-serif;cursor:pointer}
+button:hover,.filebtn:hover,select:hover{border-color:var(--gold)}
+button:focus-visible,select:focus-visible,.filebtn:focus-within{outline:2px solid var(--gold);outline-offset:2px}
+button.primary{background:var(--gold);color:#0B1F3A;border-color:var(--gold);font-weight:700}
+button:disabled{opacity:.5;cursor:wait}
+.meta{padding:14px 20px 4px;display:flex;flex-wrap:wrap;gap:6px 18px;align-items:baseline;justify-content:space-between}
+.meta .ttl{font-size:20px;font-weight:600}
+.meta .ttl small{display:block;font-size:13px;color:var(--ui-mute);font-weight:400;margin-top:3px}
+.count{font-variant-numeric:tabular-nums;color:var(--ui-mute);font-size:14px}
+.stage{display:flex;gap:18px;overflow-x:auto;scroll-snap-type:x mandatory;padding:12px 20px 18px;-webkit-overflow-scrolling:touch;cursor:grab}
+.stage.drag{cursor:grabbing;scroll-snap-type:none}
+.frame{flex:none;position:relative;scroll-snap-align:center;border-radius:6px;box-shadow:0 10px 40px rgba(0,0,0,.5);overflow:hidden}
+.frame .slide{position:absolute;left:0;top:0;transform-origin:0 0}
+.nav{display:flex;align-items:center;justify-content:center;gap:14px;padding:4px 20px 14px}
+.dots{display:flex;gap:8px}
+.dot{width:10px;height:10px;border-radius:50%;background:#2a3b57;border:0;padding:0}
+.dot.on{background:var(--gold)}
+.panel{margin:0 20px 18px;border:1px solid var(--ui-line);border-radius:12px;background:var(--ui-panel);padding:14px 16px}
+.panel h2{margin:0 0 8px;font-size:14px;font-weight:600}
+.slotrow{margin-bottom:8px;display:flex;flex-wrap:wrap;gap:10px;align-items:center;font-size:14px;color:var(--ui-mute)}
+.filebtn input{display:none}
+textarea{width:100%;min-height:96px;background:#0a1424;color:var(--ui-text);border:1px solid var(--ui-line);border-radius:8px;padding:10px;font:400 14px/1.45 'Inter',sans-serif;resize:vertical}
+.status{font-size:13px;color:var(--ui-mute);min-height:18px}
+.hint{font-size:13px;color:var(--ui-mute);line-height:1.5;margin:0}
+#off{position:fixed;left:-20000px;top:0;pointer-events:none}
+@media (prefers-reduced-motion:no-preference){.stage{scroll-behavior:smooth}}
+
+/*SLIDE_CSS*/
+.flag{display:inline-block;background:#3a2a08;color:#F0CF85;border:1px solid #D4A84B;border-radius:6px;padding:2px 8px;font-size:12px;font-weight:600;margin-left:8px;vertical-align:middle}
+.notes{font-size:14px;line-height:1.5;color:var(--ui-text)}
+.notes dt{color:var(--ui-mute);font-size:12px;text-transform:uppercase;letter-spacing:.08em;margin-top:10px}
+.notes dd{margin:2px 0 0}
+.notes ol{margin:4px 0 0;padding-left:20px}
+.notes .pick{color:var(--gold);font-weight:600}
+.exp{display:flex;gap:12px;overflow-x:auto;padding-top:10px}
+.exp figure{margin:0;flex:none;width:150px}
+.exp img{width:150px;height:auto;display:block;border-radius:4px;border:1px solid var(--ui-line)}
+.exp figcaption{font-size:12px;margin-top:4px;word-break:break-all}
+.exp figcaption a{color:var(--ui-mute)}
+
+</style>
+</head>
+<body>
+<div class="top">
+  <h1><span>@StephenJemalNY</span> carousel studio</h1>
+  <div class="ctrls">
+    <label>Carousel <select id="carSel" aria-label="Carousel"></select></label>
+    <label>Size <select id="fmtSel" aria-label="Export size">
+      <option value="45">Instagram 4:5 (1080×1350)</option>
+      <option value="34">3:4 (1080×1440)</option>
+    </select></label>
+    <label class="filebtn" title="Name files like c27-s2.png (slide 2 of carousel 27); add -bg for a cover background">Import images<input type="file" id="impImgs" accept="image/png,image/jpeg,image/webp" multiple></label>
+    <label class="filebtn" title="Fills the three portrait frames: C1 slide 1, C10 slide 1, C11 slide 3">Add portrait<input type="file" id="impPortrait" accept="image/png,image/jpeg,image/webp"></label>
+    <button id="btnOne">Download this slide (PNG)</button>
+    <button id="btnZip" class="primary">Download all 5 (ZIP of PNGs)</button>
+    <button id="btnAll" class="primary">Download every carousel (ZIP)</button>
+  </div>
+</div>
+<div class="meta"><div class="ttl" id="ttl"></div><div class="count" id="cnt"></div></div>
+<div class="stage" id="stage" tabindex="0" aria-label="Carousel slides, swipe or use arrow keys"></div>
+<div class="nav"><button id="prev" aria-label="Previous slide">‹ Prev</button><div class="dots" id="dots"></div><button id="next" aria-label="Next slide">Next ›</button></div>
+<div class="panel" id="slotPanel" hidden><h2>Images for this slide</h2><div class="slotrow" id="slotRow"></div></div>
+<div class="panel"><h2>Caption <select id="capSel" aria-label="Caption platform"><option value="instagram">Instagram</option><option value="facebook">Facebook</option><option value="linkedin">LinkedIn</option><option value="x">X</option><option value="threads">Threads</option></select> <span class="count" id="capCount"></span></h2><textarea id="cap" readonly></textarea><div class="slotrow" style="margin-top:10px"><button id="copyCap">Copy caption</button><span class="status" id="st"></span></div></div>
+<div class="panel"><p class="hint">Swipe, drag, or use the arrow keys to preview. Exports are full-size PNGs ready to upload to Instagram as a carousel (select all slides in order). Your photos stay in this browser tab and are never uploaded. Fonts and the export tools are built into this file, so exporting works offline. On a phone, the share sheet opens: choose "Save image".</p></div>
+<div class="panel" id="expPanel" hidden><h2>Exported images</h2><p class="hint">Tap or right-click an image to save it (on a phone: long-press, then "Save image"). Upload them to Instagram in order.</p><div class="exp" id="expList"></div></div>
+<div class="panel"><h2>Slide notes</h2><dl class="notes" id="notes"></dl></div>
+<div id="off"></div>
+<script>
+const DATA = /*DATA*/[];
+const ICONS = /*ICONS*/{};
+const PHOTOS = /*PHOTOS*/{};
+const PALETTES = /*PALETTES*/{};
+/*CORE*/
+const state={ci:0,si:0,fmt:'45',photos:{},cap:'instagram'};
+function capText(c){return (c.captions&&c.captions[state.cap])||c.caption||''}
+function showCap(){const c=car(),t=capText(c);$('cap').value=t;$('capCount').textContent=t.length+' characters'}
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const SH=()=>state.fmt==='45'?1350:1440;
+const car=()=>DATA[state.ci];
+const key=(c,s)=>`${c.id}-${s.n}`;
+const build=(c,s)=>buildSlide(c,s,{photos:state.photos,H:SH()});
+
+let scale=1;
+function layout(){
+ const st=$('stage');const H=SH();
+ scale=Math.max(0.2,Math.min((st.clientWidth-40)/1080,(window.innerHeight-300)/H,1));
+ document.querySelectorAll('.frame').forEach(f=>{f.style.width=1080*scale+'px';f.style.height=H*scale+'px';f.firstChild.style.transform=`scale(${scale})`});
+}
+async function renderAll(keepIdx){
+ const c=car();$('ttl').innerHTML=`Carousel ${c.id}: ${esc(c.title)}${c.needsApproval?'<span class="flag">Needs approval</span>':''}<small>${esc(c.pillar||'')}</small>`;
+ showCap();
+ const st=$('stage');st.innerHTML='';
+ await prepare(c);
+ c.slides.forEach(s=>{const f=document.createElement('div');f.className='frame';f.appendChild(build(c,s));st.appendChild(f)});
+ if(document.fonts&&document.fonts.ready)await document.fonts.ready;
+ st.querySelectorAll('.slide').forEach(fit);
+ layout();
+ $('dots').innerHTML=c.slides.map((_,i)=>`<button class="dot" aria-label="Go to slide ${i+1}" data-i="${i}"></button>`).join('');
+ document.querySelectorAll('.dot').forEach(d=>d.onclick=()=>go(+d.dataset.i));
+ go(keepIdx||0,true);
+}
+function go(i,instant){
+ const c=car();i=Math.max(0,Math.min(c.slides.length-1,i));state.si=i;
+ const f=$('stage').children[i];
+ if(f){const st=$('stage');const left=f.offsetLeft-(st.clientWidth-f.offsetWidth)/2;st.scrollTo({left,behavior:instant?'auto':'smooth'})}
+ upd();
+}
+function slotUI(k,label,tag){const has=!!state.photos[k];return `<div class="slotrow"><span>${tag}: ${esc(label)}</span><label class="filebtn">Choose image<input type="file" accept="image/*" data-k="${k}"></label>${has?`<button data-rm="${k}">Remove</button>`:''}</div>`}
+function upd(){
+ const c=car(),s=c.slides[state.si];
+ $('cnt').textContent=`Slide ${state.si+1} of ${c.slides.length}`;
+ document.querySelectorAll('.dot').forEach((d,i)=>d.classList.toggle('on',i===state.si));
+ let nt='';
+ if(s.altText)nt+=`<dt>Alt text</dt><dd>${esc(s.altText)}</dd>`;
+ if(s.hookAlternatives)nt+=`<dt>Hook options</dt><dd><ol>${s.hookAlternatives.map(x=>`<li class="${x.chosen?'pick':''}">${esc(x.text)} <span style="color:var(--ui-mute)">(${esc(x.mechanism)})</span></li>`).join('')}</ol></dd>`;
+ if(s.needsApproval)nt+=`<dt>Needs approval</dt><dd>${esc(s.approvalNote||'First-person opinion or lesson line.')}</dd>`;
+ $('notes').innerHTML=nt||'<dd>No notes for this slide.</dd>';
+ const k=key(c,s);let h='';
+ if(s.photo)h+=slotUI(k,s.photo.description,'Needed photo');
+ if(s.photoUpgrade)h+=slotUI(k,s.photoUpgrade.description||s.photoUpgrade.when,'Optional photo');
+ if(s.template==='cover')h+=slotUI(c.id+'-'+s.n+'-bg','background behind the cover (replaces the illustration)','Optional image');
+ else if(s.scene&&s.template!=='numbered_cta'&&!(s.template==='timeline_vertical'&&s.photo))h+=slotUI(k+'-b','banner image (replaces the illustration)','Optional image');
+ $('slotPanel').hidden=!h;$('slotRow').innerHTML=h+(h?'<div class="hint">Images are cropped to fit and never edited. They stay in this browser tab.</div>':'');
+ $('slotRow').querySelectorAll('input[data-k]').forEach(i=>i.onchange=e=>{const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{state.photos[i.dataset.k]=r.result;renderAll(state.si)};r.readAsDataURL(f)});
+ $('slotRow').querySelectorAll('button[data-rm]').forEach(bn=>bn.onclick=()=>{delete state.photos[bn.dataset.rm];renderAll(state.si)});
+}
+function curFromScroll(){const st=$('stage'),mid=st.scrollLeft+st.clientWidth/2;let best=0,bd=1e9;[...st.children].forEach((f,i)=>{const d=Math.abs(f.offsetLeft+f.offsetWidth/2-mid);if(d<bd){bd=d;best=i}});return best}
+let tm;$('stage').addEventListener('scroll',()=>{clearTimeout(tm);tm=setTimeout(()=>{const i=curFromScroll();if(i!==state.si){state.si=i;upd()}},60)});
+$('prev').onclick=()=>go(state.si-1);$('next').onclick=()=>go(state.si+1);
+$('stage').addEventListener('keydown',e=>{if(e.key==='ArrowRight'){e.preventDefault();go(state.si+1)}if(e.key==='ArrowLeft'){e.preventDefault();go(state.si-1)}});
+(function(){const st=$('stage');let d=false,x=0,sl=0;st.addEventListener('pointerdown',e=>{if(e.pointerType!=='mouse')return;d=true;x=e.clientX;sl=st.scrollLeft;st.classList.add('drag')});
+ window.addEventListener('pointermove',e=>{if(!d)return;st.scrollLeft=sl-(e.clientX-x)});
+ window.addEventListener('pointerup',()=>{if(!d)return;d=false;st.classList.remove('drag');go(curFromScroll())})})();
+window.addEventListener('resize',()=>{layout();go(state.si,true)});
+
+async function shot(c,s){
+ await prepare(c);const off=$('off');const el=build(c,s);off.appendChild(el);fit(el);
+ el.querySelectorAll('.no-export').forEach(n=>n.remove());
+ const cv=await html2canvas(el,{scale:1,backgroundColor:PALETTES[c.palette].bg,width:1080,height:SH(),useCORS:true,logging:false});
+ off.removeChild(el);
+ return new Promise((r,j)=>cv.toBlob(b=>b?r(b):j(new Error('the browser could not create the PNG')),'image/png'));
+}
+function save(blob,name){const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=name;a.rel='noopener';document.body.appendChild(a);a.click();setTimeout(()=>a.remove(),1500)}
+const setSt=t=>$('st').textContent=t;
+const touch=matchMedia('(pointer:coarse)').matches;
+function canShare(files){try{return !!(navigator.share&&navigator.canShare&&navigator.canShare({files}))}catch(e){return false}}
+let lastUrls=[];
+function showExport(items){lastUrls.forEach(u=>URL.revokeObjectURL(u));lastUrls=items.map(i=>URL.createObjectURL(i.blob));
+ $('expPanel').hidden=false;
+ $('expList').innerHTML=items.map((i,k)=>`<figure><a href="${lastUrls[k]}" download="${esc(i.name)}" target="_blank" rel="noopener"><img src="${lastUrls[k]}" alt="${esc(i.name)}"></a><figcaption><a href="${lastUrls[k]}" download="${esc(i.name)}">${esc(i.name)}</a></figcaption></figure>`).join('')}
+// Phones: share sheet ("Save image" puts PNGs in Photos). Desktop: file download. Always: a panel with each PNG to save by hand,
+// for viewers that block downloads (in-app browsers, sandboxed previews).
+async function deliver(items,zipName){
+ showExport(items);
+ const files=items.map(i=>new File([i.blob],i.name,{type:'image/png'}));
+ if(touch&&canShare(files)){try{await navigator.share({files});return 'Shared. Choose "Save image" to put the PNGs in your photos.'}catch(e){if(e.name==='AbortError')return 'Share cancelled. You can also save the images below.'}}
+ if(zipName&&items.length>1){setSt('Zipping…');const z=new JSZip();items.forEach(i=>z.file(i.name,i.blob));save(await z.generateAsync({type:'blob'}),zipName)}else save(items[0].blob,items[0].name);
+ return items.length>1?'Saved ZIP. If no download started, save each image below.':'Saved slide. If no download started, save the image below.'}
+function fail(e){console.error(e);setSt('Export failed: '+(e&&e.message?e.message:e)+'. Try Chrome, Safari or Edge, outside any in-app browser.')}
+async function ready(){if(document.fonts){await document.fonts.load("800 40px Montserrat");await document.fonts.load("500 20px Inter");await document.fonts.ready}}
+function missingPhotos(c,list){return list.filter(s=>s.photo&&!state.photos[key(c,s)]).map(s=>s.n)}
+function withWarn(msg,c,list){const m=missingPhotos(c,list);return m.length?msg+` Note: slide ${m.join(', ')} has an empty portrait frame. Add the photo (Images for this slide), then export again.`:msg}
+$('btnOne').onclick=async()=>{const c=car(),s=c.slides[state.si];$('btnOne').disabled=true;setSt('Exporting slide '+s.n+'…');
+ try{await ready();const b=await shot(c,s);setSt(withWarn(await deliver([{blob:b,name:`carousel-${c.id}-slide-${s.n}.png`}]),c,[s]))}catch(e){fail(e)}$('btnOne').disabled=false};
+$('btnZip').onclick=async()=>{const c=car();$('btnZip').disabled=true;
+ try{await ready();const items=[];for(const s of c.slides){setSt(`Exporting slide ${s.n} of ${c.slides.length}…`);items.push({blob:await shot(c,s),name:`carousel-${c.id}-slide-${s.n}.png`})}
+  setSt(withWarn(await deliver(items,`carousel-${c.id}-${state.fmt==='45'?'1080x1350':'1080x1440'}.zip`),c,c.slides))}catch(e){fail(e)}$('btnZip').disabled=false};
+$('copyCap').onclick=async()=>{try{await navigator.clipboard.writeText($('cap').value);setSt('Caption copied.')}catch(e){$('cap').select();document.execCommand('copy');setSt('Caption copied.')}};
+$('carSel').innerHTML=DATA.map((c,i)=>`<option value="${i}">${c.id}: ${esc(c.title)}${c.needsApproval?' ⚑':''}</option>`).join('');
+$('capSel').onchange=e=>{state.cap=e.target.value;showCap()};
+// One ZIP with a folder per carousel ("01 - Youngest of ten") and numbered slides (01.png ... 05.png).
+const pad=n=>String(n).padStart(2,'0');
+const folderName=c=>`${pad(c.id)} - ${String(c.title).replace(/[\\/:*?"<>|]+/g,'').replace(/\s+/g,' ').trim()}`;
+$('btnAll').onclick=async()=>{const b=$('btnAll');b.disabled=true;
+ const total=DATA.reduce((n,c)=>n+c.slides.length,0);let done=0;
+ try{await ready();const z=new JSZip();const root=z.folder(`StephenJemalNY carousels ${state.fmt==='45'?'1080x1350':'1080x1440'}`);
+  const missing=[];
+  for(const c of DATA){const f=root.folder(folderName(c));
+   for(const s of c.slides){done++;setSt(`Exporting ${done} of ${total}: carousel ${c.id}, slide ${s.n}…`);
+    if(s.photo&&!state.photos[key(c,s)])missing.push(`${c.id}/${s.n}`);
+    f.file(`${pad(s.n)}.png`,await shot(c,s))}}
+  setSt('Zipping… this can take a minute.');
+  const zb=await z.generateAsync({type:'blob',compression:'STORE'});
+  save(zb,`StephenJemalNY-carousels-${state.fmt==='45'?'1080x1350':'1080x1440'}.zip`);
+  setSt(`Saved ${DATA.length} carousels (${total} PNGs) in one ZIP.`+(missing.length?` Empty portrait frames on ${missing.join(', ')}: add the photo there and export again.`:''))}
+ catch(e){fail(e)}b.disabled=false};
+// Bulk import: c27-s2.png goes to slide 2 of carousel 27 (its portrait/photo slot, else its banner or cover background).
+// Add -bg or -banner to force the cover background or the banner.
+const readURL=f=>new Promise((r,j)=>{const x=new FileReader();x.onload=()=>r(x.result);x.onerror=j;x.readAsDataURL(f)});
+function slotFor(c,s){if(s.photo||s.photoUpgrade||s.illustrationTop)return key(c,s);if(s.template==='cover')return key(c,s)+'-bg';if(s.scene&&s.template!=='numbered_cta')return key(c,s)+'-b';return null}
+$('impImgs').onchange=async e=>{const ok=[],bad=[];
+ for(const f of e.target.files){const m=f.name.match(/^c0*(\d{1,2})[-_ ]?s(\d)(?:[-_ ]?(bg|banner|b))?\.(png|jpe?g|webp)$/i);
+  const c=m&&DATA.find(x=>x.id===+m[1]),s=c&&c.slides.find(x=>x.n===+m[2]);
+  let k=s&&slotFor(c,s);if(s&&m[3])k=key(c,s)+(m[3].toLowerCase()==='bg'?'-bg':'-b');
+  if(!k){bad.push(f.name);continue}state.photos[k]=await readURL(f);ok.push(f.name)}
+ e.target.value='';setSt(`Imported ${ok.length} image(s).`+(bad.length?` Skipped ${bad.join(', ')}: use names like c27-s2.png for a slide that has an image slot.`:''));renderAll(state.si)};
+const portraitSlots=()=>DATA.flatMap(c=>c.slides.filter(s=>s.photo).map(s=>key(c,s)));
+$('impPortrait').onchange=async e=>{const f=e.target.files[0];if(!f)return;const u=await readURL(f),ks=portraitSlots();ks.forEach(k=>state.photos[k]=u);e.target.value='';
+ setSt(`Portrait added to ${ks.length} frames (${ks.map(k=>'C'+k.replace('-',' slide ')).join(', ')}). It is only cropped to fit, never edited.`);renderAll(state.si)};
+if(touch){$('btnOne').textContent='Save this slide (PNG)';$('btnZip').textContent='Save all 5 (PNG)'}
+$('carSel').onchange=e=>{state.ci=+e.target.value;renderAll(0)};
+$('fmtSel').onchange=e=>{state.fmt=e.target.value;renderAll(state.si)};
+renderAll(0);
+</script>
+</body>
+</html>

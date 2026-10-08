@@ -1,0 +1,149 @@
+{
+  "id": 36,
+  "week": 36,
+  "title": "Why prefab?",
+  "pillar": "BUILT technology",
+  "captions": {
+    "instagram": "Modular construction can be 20-50% faster and save up to 20% on cost, per McKinsey (2019). The fine print: losses of up to 10% if delivery or material costs spike.\n\nI like research that includes the downside. Swipe for the full picture, then save the 4 questions before choosing prefab.\n\n#Prefab #ModularConstruction #ConstructionTech\n\nWhat's your biggest prefab question?",
+    "facebook": "Is prefab really faster and cheaper? McKinsey (2019) says modular can be 20-50% faster with up to 20% cost savings, but warns of losses up to 10% if delivery or material costs spike. I put the numbers side by side.\n\n#Prefab #ConstructionTech\n\nWould you choose prefab?",
+    "linkedin": "Good research includes the downside.\n\nMcKinsey's 2019 report, \"Modular construction: From projects to products\", found that modular construction can be 20-50% faster than traditional building and can save up to 20% on cost. It also warned of potential losses of up to 10% if delivery or material costs spike.\n\nThe difference comes from where the work happens: in a factory, conditions are controlled and processes repeat.\n\nFour questions I'd ask before choosing prefab: What does it save in time? What does it cost? What are the delivery risks? Who is responsible for quality?\n\n#Prefab #ConstructionTech\n\nWhich risk worries you most?",
+    "x": "Modular construction (McKinsey, 2019):\n\n20-50% faster.\nUp to 20% cost savings.\nUp to 10% losses if delivery or material costs spike.\n\nI always read the fine print. What would you ask?",
+    "threads": "Prefab can be 20-50% faster, per McKinsey (2019). It can also lose money if delivery costs spike. I want both sides.\n\nWhat's your take?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "PREFAB CAN BE 20-50% FASTER. HERE'S THE FINE PRINT.",
+      "subline": "What the research says. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Prefab can be 20-50% faster. Here's the fine print.",
+          "mechanism": "Specificity + curiosity: a real number and a promised caveat.",
+          "chosen": true
+        },
+        {
+          "text": "What does the research say about prefab?",
+          "mechanism": "Question: credible, less specific."
+        },
+        {
+          "text": "Faster and cheaper? What one major study found.",
+          "mechanism": "Curiosity: vaguer."
+        }
+      ],
+      "scene": "factory",
+      "sourceLine": "McKinsey, 2019",
+      "attachments": [],
+      "altText": "Cover headline 'Prefab can be 20-50% faster. Here's the fine print.' over an illustrated factory hall."
+    },
+    {
+      "n": 2,
+      "template": "stats_cards",
+      "kicker": "THE RESEARCH",
+      "headline": "MODULAR CONSTRUCTION, BY THE NUMBERS",
+      "stats": [
+        [
+          "20-50%",
+          "faster than traditional construction"
+        ],
+        [
+          "Up to 20%",
+          "potential cost savings"
+        ],
+        [
+          "Up to 10%",
+          "potential losses if delivery or material costs spike"
+        ]
+      ],
+      "scene": "chart",
+      "sourceLine": "McKinsey, 2019, \"Modular construction: From projects to products\"",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three stat cards: 20-50% faster, up to 20% cost savings, up to 10% potential losses if costs spike."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "WHY IT CAN BE FASTER",
+      "headline": "FOUR PREFAB PRINCIPLES",
+      "flow": [
+        [
+          "REPEATABLE",
+          "gear"
+        ],
+        [
+          "COST-AWARE",
+          "scale"
+        ],
+        [
+          "FAST",
+          "clock"
+        ],
+        [
+          "CONSISTENT",
+          "shield"
+        ]
+      ],
+      "body": "Factory work repeats, so it can be planned, timed and checked.",
+      "scene": "factory",
+      "needsApproval": true,
+      "approvalNote": "The principles are framing.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow of prefab principles: repeatable, cost-aware, fast, consistent."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "SITE-BUILT VS. FACTORY-BUILT",
+      "columns": [
+        "SITE-BUILT",
+        "FACTORY-BUILT"
+      ],
+      "rows": [
+        [
+          "Work happens on site",
+          "Work happens in a factory"
+        ],
+        [
+          "Conditions vary",
+          "Conditions are controlled"
+        ],
+        [
+          "Each project is custom",
+          "Processes repeat"
+        ]
+      ],
+      "scene": "crane",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting site-built and factory-built construction."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "4 QUESTIONS BEFORE CHOOSING PREFAB",
+      "rows": [
+        "What does it save in time?",
+        "What does it cost?",
+        "What are the delivery risks?",
+        "Who is responsible for quality?"
+      ],
+      "button": "Comment your prefab question",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered questions to ask before choosing prefab, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/x/threads: 'I like research that includes the downside', 'I always read the fine print'; linkedin: opening lesson and 'questions I'd ask'."
+}

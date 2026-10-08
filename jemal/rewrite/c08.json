@@ -1,0 +1,166 @@
+{
+  "id": 8,
+  "week": 8,
+  "title": "From retail to real estate",
+  "pillar": "Story and founder lessons",
+  "captions": {
+    "instagram": "After the Wiz, I moved from stores to land.\n\nI turned to waterfront revitalization and real estate development, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey. That work led to JemRock Organization and our mission: change how the world produces housing.\n\nSave the 5 questions before redeveloping a property.\n\n#RealEstate #UrbanDevelopment #NYC\n\nWhich question would you ask first?",
+    "facebook": "After the Wiz, I moved into waterfront revitalization and real estate development across Manhattan, Brooklyn, Queens, the Bronx and New Jersey. That path led to JemRock Organization.\n\n#RealEstate #NYC\n\nHave you ever changed industries? What carried over?",
+    "linkedin": "The skills that grow a retail chain are site skills.\n\nAfter the Wiz, I moved into waterfront revitalization and real estate development, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey. That work led to JemRock Organization, where our mission is to change how the world produces housing at global scale.\n\nHow I'd map it: location analysis becomes reading a neighborhood, lease decisions become property decisions, traffic planning becomes future demand, buildouts become feasibility.\n\n#RealEstate #Leadership\n\nWhat skill from your first industry still serves you?",
+    "x": "After the Wiz, I moved from stores to land: waterfront revitalization and underutilized parcels across NYC and New Jersey.\n\nThat led to JemRock.\n\nWhat carried over from your first industry?",
+    "threads": "Stores to land. After the Wiz, I moved into waterfront revitalization and real estate.\n\nThat led to JemRock. What did you carry from your first career into your second?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "AFTER THE WIZ, I MOVED FROM STORES TO LAND",
+      "subline": "What carried over, and where it led. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "After the Wiz, I moved from stores to land",
+          "mechanism": "Transformation: a clear before and after.",
+          "chosen": true
+        },
+        {
+          "text": "What do you do after building a retail brand?",
+          "mechanism": "Question: open, less specific."
+        },
+        {
+          "text": "From selling electronics to assembling city parcels.",
+          "mechanism": "Specificity + contrast."
+        }
+      ],
+      "background": "A stylized CGI scene split by a glowing gold seam: on the left a lit retail storefront at dusk, on the right the same warm light flowing into a waterfront skyline with towers and cranes at golden hour.",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [],
+      "altText": "Cover headline 'After the Wiz, I moved from stores to land' over a split scene of a storefront and a waterfront skyline."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "THE PIVOT",
+      "headline": "AFTER THE WIZ, A NEW FOCUS",
+      "cards": [
+        {
+          "icon": "anchor-and-wave",
+          "title": "WATERFRONT",
+          "body": "I turned to waterfront revitalization and real estate development."
+        },
+        {
+          "icon": "map-pin",
+          "title": "UNDERUTILIZED PARCELS",
+          "body": "I assembled sites across five areas.",
+          "pills": [
+            "Manhattan",
+            "Brooklyn",
+            "Queens",
+            "Bronx",
+            "New Jersey"
+          ]
+        },
+        {
+          "accent": "left-border",
+          "title": "THE NEXT STEP",
+          "body": "That work led to JemRock Organization."
+        }
+      ],
+      "scene": "map",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: waterfront revitalization, underutilized parcels across five areas, and the step to JemRock Organization."
+    },
+    {
+      "n": 3,
+      "template": "table_compare",
+      "kicker": "THE SKILL TRANSFER",
+      "headline": "RETAIL SKILLS THAT BECOME DEVELOPMENT SKILLS",
+      "columns": [
+        "RETAIL",
+        "REAL ESTATE"
+      ],
+      "rows": [
+        [
+          "Location analysis",
+          "Reading a neighborhood"
+        ],
+        [
+          "Lease decisions",
+          "Property decisions"
+        ],
+        [
+          "Traffic planning",
+          "Future demand"
+        ],
+        [
+          "Buildouts",
+          "Feasibility"
+        ]
+      ],
+      "pullLine": "Scaling a chain is practice in reading a space.",
+      "scene": "blueprint",
+      "needsApproval": true,
+      "approvalNote": "The skill mapping and pull line are framing.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table mapping retail skills to real estate development skills."
+    },
+    {
+      "n": 4,
+      "template": "flow_steps",
+      "kicker": "WHERE IT LED",
+      "headline": "FROM PARCELS TO A HOUSING MISSION",
+      "body": "Our mission at JemRock: change how the world produces housing, at global scale.",
+      "flow": [
+        [
+          "PARCELS",
+          "map-pin"
+        ],
+        [
+          "DEVELOPMENT",
+          "apartment-building"
+        ],
+        [
+          "JEMROCK",
+          "banner-with-star"
+        ],
+        [
+          "BUILT®",
+          "factory"
+        ]
+      ],
+      "scene": "skyline",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow from parcels to development to JemRock to BUILT, with JemRock's mission."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "5 QUESTIONS BEFORE REDEVELOPING A PROPERTY",
+      "rows": [
+        "Is the location right?",
+        "Will demand be there later?",
+        "What shape is the building in?",
+        "How is the neighborhood changing?",
+        "What does the zoning allow?"
+      ],
+      "button": "Comment the question you'd ask first",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered questions to ask before redeveloping a property, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson line and 'How I'd map it'."
+}

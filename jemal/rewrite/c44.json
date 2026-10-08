@@ -1,0 +1,151 @@
+{
+  "id": 44,
+  "week": 44,
+  "title": "Market gap strategy",
+  "pillar": "Real estate and vision",
+  "captions": {
+    "instagram": "Find the need nobody is serving. Then build around it.\n\nThat's how I think about a market gap: spot it, shape a concept for it, serve it. A gap can be underserved people, a missing product, the wrong price or the wrong place.\n\nSave the 5-question gap worksheet.\n\n#Strategy #Entrepreneurship #RealEstate\n\nWhat gap would you fill?",
+    "facebook": "In a crowded market you fight on price. In a real gap you compete on fit. I made a 5-question worksheet to find one.\n\n#Strategy #Entrepreneurship\n\nWhat's a need near you that nobody serves well?",
+    "linkedin": "Don't fight for a crowded market. Look for the need nobody is serving.\n\nA gap usually shows up in one of four ways: a group nobody targets, a need with no good option, good options few can afford, or good options far from where the need is.\n\nMy sequence: spot the gap, shape a concept around it, serve the need.\n\nThe worksheet I'd use: Who is underserved? Why are they underserved? What would serve them? What does it cost? How would you reach them?\n\n#Strategy #RealEstate\n\nWhich gap do you see in your market?",
+    "x": "Crowded market: fight on price.\nReal gap: compete on fit.\n\nMy sequence: spot the gap, shape a concept, serve the need.\n\nWhat gap would you fill?",
+    "threads": "Find the need nobody is serving, then build around it. That's where I'd start any new concept.\n\nWhat gap do you see?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "FIND THE NEED NOBODY IS SERVING. THEN BUILD AROUND IT.",
+      "subline": "Market gap strategy in three moves. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Find the need nobody is serving. Then build around it.",
+          "mechanism": "Instruction + promise: a clear, repeatable move.",
+          "chosen": true
+        },
+        {
+          "text": "Crowded market or real gap? How to tell.",
+          "mechanism": "Contrast + question: sharp, slightly vague."
+        },
+        {
+          "text": "Five questions that reveal a market gap.",
+          "mechanism": "Specificity: save-worthy, low tension."
+        }
+      ],
+      "scene": "map",
+      "sourceLine": "General guidance",
+      "needsApproval": true,
+      "approvalNote": "Advice headline in Stephen's voice.",
+      "attachments": [],
+      "altText": "Cover headline 'Find the need nobody is serving. Then build around it.' over an illustrated street map with a gold route."
+    },
+    {
+      "n": 2,
+      "template": "flow_steps",
+      "kicker": "THE MOVES",
+      "headline": "SPOT. SHAPE. SERVE.",
+      "body": "Identify a need that isn't being fully served, then build a concept around that opening.",
+      "flow": [
+        [
+          "SPOT THE GAP",
+          "magnifying-glass"
+        ],
+        [
+          "SHAPE A CONCEPT",
+          "blueprint"
+        ],
+        [
+          "SERVE THE NEED",
+          "house"
+        ]
+      ],
+      "scene": "map",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow: spot the gap, shape a concept, serve the need."
+    },
+    {
+      "n": 3,
+      "template": "stats_grid",
+      "kicker": "WHAT A GAP LOOKS LIKE",
+      "headline": "FOUR KINDS OF MARKET GAPS",
+      "cards": [
+        [
+          "UNDERSERVED PEOPLE",
+          "A group nobody targets"
+        ],
+        [
+          "MISSING PRODUCT",
+          "A need with no good option"
+        ],
+        [
+          "WRONG PRICE",
+          "Good options few can afford"
+        ],
+        [
+          "WRONG PLACE",
+          "Good options far from the need"
+        ]
+      ],
+      "scene": "tower",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid: underserved people, a missing product, the wrong price, the wrong place."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "CROWDED MARKET VS. A GAP",
+      "columns": [
+        "CROWDED",
+        "A GAP"
+      ],
+      "rows": [
+        [
+          "Many look-alike offers",
+          "An unmet need"
+        ],
+        [
+          "Fight on price",
+          "Compete on fit"
+        ],
+        [
+          "Hard to stand out",
+          "Easy to explain"
+        ]
+      ],
+      "scene": "scale",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting a crowded market with a real gap."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 5-QUESTION GAP WORKSHEET",
+      "rows": [
+        "Who is underserved?",
+        "Why are they underserved?",
+        "What would serve them?",
+        "What does it cost?",
+        "How would you reach them?"
+      ],
+      "button": "Comment the gap you'd fill",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered gap-finding questions with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "all captions: 'That's how I think about', 'My sequence', 'The worksheet I'd use'."
+}

@@ -1,0 +1,149 @@
+{
+  "id": 2,
+  "week": 2,
+  "title": "Four stores at 16",
+  "pillar": "Founder lessons",
+  "captions": {
+    "instagram": "By 16, I'd started four electronics and music specialty stores.\n\nIt started in our family discount store in Spanish Harlem, working beside my father, Norman. In 1976, he opened the first Wiz on Fulton Street in Brooklyn.\n\nSwipe for the path, then save the 5 questions for your own first venture.\n\n#Entrepreneurship #YoungEntrepreneurs #Brooklyn\n\nWhat were you building at 16?",
+    "facebook": "I worked beside my father, Norman, at our family discount store in Spanish Harlem. By 16, I'd started four electronics and music specialty stores of my own.\n\nThe last slide has 5 questions for anyone thinking about a first venture.\n\n#Entrepreneurship #SmallBusiness\n\nWhat was your first job or first business?",
+    "linkedin": "You don't need to feel ready to start. You need someone to learn beside and a small first version.\n\nI worked beside my father, Norman N. Jemal, at our family discount store in Spanish Harlem. By 16, I had started four electronics and music specialty stores.\n\nFive questions I'd ask before a first venture:\n1. What can I already do well?\n2. Who can I learn beside?\n3. What need can I serve?\n4. What's the smallest version I can start?\n5. What will the first try teach me?\n\n#Entrepreneurship #Leadership\n\nWho did you learn your trade beside?",
+    "x": "By 16, I'd started four electronics and music stores.\n\nIt began in our family store in Spanish Harlem, working beside my father.\n\nWhat were you building at 16?",
+    "threads": "Four stores by 16. It started in our family store, working beside my father.\n\nWhat were you building at 16?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "BY 16, I'D STARTED FOUR STORES. WHAT WERE YOU BUILDING?",
+      "subline": "Swipe for the path and 5 questions →",
+      "hookAlternatives": [
+        {
+          "text": "By 16, I'd started four stores. What were you building?",
+          "mechanism": "Specificity + question: a real number, then a self-relevant ask.",
+          "chosen": true
+        },
+        {
+          "text": "Four stores by 16. It started in our family store.",
+          "mechanism": "Story: names the origin, pays off on slide 2."
+        },
+        {
+          "text": "What can a 16-year-old build? Here's what I built.",
+          "mechanism": "Curiosity gap: slower, less specific."
+        }
+      ],
+      "scene": "storefront",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [],
+      "altText": "Cover with the headline about starting four stores by 16, over an illustrated lit storefront at dusk."
+    },
+    {
+      "n": 2,
+      "template": "flow_steps",
+      "kicker": "THE PATH",
+      "headline": "FROM OUR FAMILY STORE TO FOUR OF MY OWN",
+      "body": "I worked beside my father, Norman, at our family discount store in Spanish Harlem. By 16, I'd started four electronics and music specialty stores.",
+      "flow": [
+        [
+          "FAMILY STORE",
+          "storefront"
+        ],
+        [
+          "FOUR STORES BY 16",
+          "stack-of-storefronts"
+        ],
+        [
+          "THE WIZ, 1976",
+          "banner-with-star"
+        ]
+      ],
+      "scene": "storefront",
+      "sourceLine": "Source: stephenjemal.com. 1976 per company histories.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step path from the family store to four stores by 16 to the first Wiz in 1976."
+    },
+    {
+      "n": 3,
+      "template": "cards_stack",
+      "kicker": "THE PATTERN",
+      "headline": "HOW AN EARLY START CAN WORK",
+      "cards": [
+        {
+          "body": "Work beside someone who knows the trade"
+        },
+        {
+          "body": "Take real responsibility early"
+        },
+        {
+          "body": "Turn what you learn into something of your own"
+        }
+      ],
+      "scene": "stairs",
+      "needsApproval": true,
+      "approvalNote": "Advice framework in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three numbered cards: work beside someone who knows the trade, take real responsibility early, turn it into something of your own."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "WAITING TO FEEL READY VS. LEARNING BY DOING",
+      "columns": [
+        "WAITING",
+        "DOING"
+      ],
+      "rows": [
+        [
+          "Planning forever",
+          "Starting small"
+        ],
+        [
+          "Learning from books only",
+          "Learning from real customers"
+        ],
+        [
+          "Fear of mistakes",
+          "Mistakes as lessons"
+        ],
+        [
+          "Someday",
+          "This week"
+        ]
+      ],
+      "scene": "stairs",
+      "needsApproval": true,
+      "approvalNote": "Opinion comparison in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting waiting to feel ready with learning by doing."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "5 QUESTIONS FOR YOUR FIRST VENTURE",
+      "rows": [
+        "What can I already do well?",
+        "Who can I learn beside?",
+        "What need can I serve?",
+        "What's the smallest version I can start?",
+        "What will the first try teach me?"
+      ],
+      "button": "Comment your first venture",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered questions for a first venture, with a gold button asking readers to comment theirs."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson line and 'Five questions I'd ask'."
+}

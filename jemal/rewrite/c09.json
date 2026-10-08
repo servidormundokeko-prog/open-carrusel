@@ -1,0 +1,144 @@
+{
+  "id": 9,
+  "week": 9,
+  "title": "The numbers behind the story",
+  "pillar": "Authority",
+  "captions": {
+    "instagram": "1976: my father opens the first Wiz on Fulton Street.\n16: my age when I'd started four stores.\nToday: a 155M-unit global housing deficit, per JemRock research, and 2.8 billion people without adequate housing, per UN-Habitat.\n\nSave the number sheet on the last slide.\n\n#Housing #Entrepreneurship #ModularConstruction\n\nWhich number surprised you most?",
+    "facebook": "From one storefront in 1976 to a global housing gap. Swipe for the numbers behind my story, each with its source.\n\n#Housing #AffordableHousing\n\nWhich number would you share with a friend?",
+    "linkedin": "Every number needs a source, especially the big ones.\n\n1976: my father opened the first Wiz on Fulton Street in Brooklyn. By 16, I had started four electronics and music stores.\n\nToday's numbers are bigger. Per JemRock research, the global housing deficit is 155 million units, projected to reach 240 million by 2030. UN-Habitat counts 2.8 billion people without adequate housing. McKinsey (2019) found modular construction can be 20-50% faster, with cost savings of up to 20%, and losses of up to 10% if delivery or material costs spike. Our BUILT® design target is more than 50% faster: a target, not a result yet.\n\n#Housing #ConstructionTech\n\nWhich number would you want checked first?",
+    "x": "1976: first Wiz, Fulton Street.\n16: four stores of my own.\n155M: global housing deficit (per JemRock research).\n2.8B: people without adequate housing (UN-Habitat).\n\nWhich number surprised you?",
+    "threads": "From a storefront in 1976 to a 155M-unit housing gap (per JemRock research).\n\nThose are the numbers behind my story. Which one stopped you?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "THE NUMBERS BEHIND MY STORY, FROM 1976 TO 2030",
+      "subline": "Every number, with its source. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "The numbers behind my story, from 1976 to 2030",
+          "mechanism": "Specificity + promise: a time span and a sourced list.",
+          "chosen": true
+        },
+        {
+          "text": "1976, 96,000, 2.8 billion: the numbers behind my work.",
+          "mechanism": "Specificity: dense, harder to read at thumbnail size."
+        },
+        {
+          "text": "Which of these numbers would you have guessed?",
+          "mechanism": "Question: weak promise."
+        }
+      ],
+      "background": "A glowing golden bar chart rising from a Brooklyn storefront into a skyline of housing towers.",
+      "sourceLine": "Per company histories and JemRock research",
+      "attachments": [],
+      "altText": "Cover headline 'The numbers behind my story, from 1976 to 2030' over a gold bar chart rising from a storefront into towers."
+    },
+    {
+      "n": 2,
+      "template": "stats_rows",
+      "kicker": "WHERE IT STARTED",
+      "headline": "THREE NUMBERS FROM MY START",
+      "rows": [
+        [
+          "1976",
+          "My father opens the first Wiz on Fulton Street"
+        ],
+        [
+          "16",
+          "My age when I'd started four electronics and music stores"
+        ],
+        [
+          "10",
+          "Children in my family. I'm the youngest."
+        ]
+      ],
+      "scene": "storefront",
+      "sourceLine": "Per company histories and stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three rows: 1976 first Wiz, 16 the age by which four stores were started, 10 children in the family."
+    },
+    {
+      "n": 3,
+      "template": "stats_cards",
+      "kicker": "THE GAP NOW",
+      "headline": "THE HOUSING GAP I WORK ON TODAY",
+      "stats": [
+        [
+          "155M",
+          "unit global housing deficit"
+        ],
+        [
+          "240M",
+          "projected deficit by 2030"
+        ],
+        [
+          "96,000",
+          "homes needed every day"
+        ]
+      ],
+      "scene": "chart",
+      "sourceLine": "Per JemRock research",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three stat cards: 155 million unit deficit, 240 million projected by 2030, 96,000 homes needed a day."
+    },
+    {
+      "n": 4,
+      "template": "stats_grid",
+      "kicker": "THE CASE FOR SPEED",
+      "headline": "WHY BUILDING FASTER MATTERS",
+      "stats": [
+        [
+          "2.8B",
+          "people lack adequate housing"
+        ],
+        [
+          "20-50%",
+          "faster modular can be"
+        ],
+        [
+          "Up to 20%",
+          "cost savings with modular"
+        ],
+        [
+          "50%+",
+          "faster: BUILT® design target, not a result"
+        ]
+      ],
+      "pullLine": "Modular can also lose up to 10% if delivery or material costs spike.",
+      "scene": "globe",
+      "sourceLine": "UN-Habitat. McKinsey, 2019. BUILT® target per JemRock research.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid: 2.8 billion lack adequate housing, modular 20-50% faster, up to 20% cost savings, BUILT design target over 50% faster, with a cost-risk caveat."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "SAVE THESE NUMBERS",
+      "rows": [
+        "155M: global housing deficit",
+        "240M: projected deficit by 2030",
+        "96,000: homes needed every day",
+        "2.8B: people without adequate housing"
+      ],
+      "button": "Comment the number that surprised you most",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "sourceLine": "Per JemRock research (155M, 240M, 96,000). 2.8B: Source: UN-Habitat.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A numbered reference list of four housing numbers with sources and a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson line."
+}

@@ -1,0 +1,154 @@
+{
+  "id": 6,
+  "week": 6,
+  "title": "The system behind the store",
+  "pillar": "Scaling and systems",
+  "captions": {
+    "instagram": "Customers see the store. They never see the system behind it: inventory, staffing, store management, advertising, service and construction timing.\n\nAs the Wiz chain grew, I built our own construction and fixture company, so building became part of the system too.\n\nSave the 5-point system check.\n\n#Operations #Retail #SmallBusiness\n\nWhich system would you fix first?",
+    "facebook": "The best store experience depends on systems customers never see. I listed six of them, and the last slide is my 5-point check.\n\n#Operations #SmallBusiness\n\nWhich part of your business runs on one person's memory?",
+    "linkedin": "The experience is only as strong as the system behind it.\n\nCustomers see the store. Behind it sit inventory flow, staffing, store management, advertising, customer service and construction timing.\n\nAs the Wiz chain grew, I built an in-house construction and prefabricated fixture manufacturing company, so the buildout became part of the system.\n\nA 5-point check: Is inventory flowing? Are teams staffed and trained? Is each store run to one standard? Is advertising coordinated? Is the buildout on schedule?\n\n#Operations #Scaling\n\nWhich of these is your weakest link?",
+    "x": "Customers see the store. They never see the system.\n\nInventory. Staffing. Store management. Advertising. Service. Construction timing.\n\nI put a 5-point check in the carousel. Which system would you fix first?",
+    "threads": "Customers never see the system, only the store.\n\nI made a 5-point check for the systems behind it. Which one would you fix first?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "CUSTOMERS SEE THE STORE. THEY NEVER SEE THE SYSTEM.",
+      "subline": "Six systems behind a store that works. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Customers see the store. They never see the system.",
+          "mechanism": "Contrast + curiosity gap: promises what's hidden.",
+          "chosen": true
+        },
+        {
+          "text": "Six systems behind every store customers never notice.",
+          "mechanism": "Specificity: a countable promise."
+        },
+        {
+          "text": "What runs behind a store that works every day?",
+          "mechanism": "Question: softer."
+        }
+      ],
+      "scene": "conveyor",
+      "needsApproval": true,
+      "approvalNote": "Opinion headline in Stephen's voice.",
+      "attachments": [],
+      "altText": "Cover headline 'Customers see the store. They never see the system.' over an illustrated conveyor belt with boxes."
+    },
+    {
+      "n": 2,
+      "template": "stats_rows",
+      "kicker": "BEHIND THE SCENES",
+      "headline": "FOUR SYSTEMS CUSTOMERS NEVER SEE",
+      "rows": [
+        [
+          "INVENTORY",
+          "How products move to every shelf"
+        ],
+        [
+          "STAFFING",
+          "Teams organized to run each location"
+        ],
+        [
+          "MANAGEMENT",
+          "The daily running of every store"
+        ],
+        [
+          "ADVERTISING",
+          "One campaign across every location"
+        ]
+      ],
+      "scene": "conveyor",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four rows: inventory flow, staffing, store management and advertising, each with a short description."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "THE CHAIN OF EVENTS",
+      "headline": "FROM SYSTEM TO EXPERIENCE",
+      "flow": [
+        [
+          "INVENTORY",
+          "stack-of-storefronts"
+        ],
+        [
+          "STAFF",
+          "people"
+        ],
+        [
+          "STORE",
+          "storefront"
+        ],
+        [
+          "CUSTOMER",
+          "key"
+        ]
+      ],
+      "pullLine": "The experience is only as strong as the system behind it.",
+      "scene": "clipboard",
+      "needsApproval": true,
+      "approvalNote": "Opinion pull line in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow from inventory to staff to store to customer."
+    },
+    {
+      "n": 4,
+      "template": "cards_stack",
+      "kicker": "TWO MORE",
+      "headline": "SERVICE AND BUILDOUT",
+      "cards": [
+        {
+          "icon": "people",
+          "title": "CUSTOMER SERVICE",
+          "body": "How questions and problems get handled."
+        },
+        {
+          "icon": "crane",
+          "title": "CONSTRUCTION TIMING",
+          "body": "New locations ready for opening day."
+        },
+        {
+          "accent": "left-border",
+          "title": "WHAT I DID",
+          "body": "As the chain grew, I built our own construction and fixture company."
+        }
+      ],
+      "scene": "crane",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Cards for customer service and construction timing, and a note that an in-house construction and fixture company was built as the Wiz grew."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 5-POINT SYSTEM CHECK",
+      "rows": [
+        "Is inventory flowing?",
+        "Are teams staffed and trained?",
+        "Is each store run to one standard?",
+        "Is advertising coordinated?",
+        "Is the buildout on schedule?"
+      ],
+      "button": "Comment the system you'd fix first",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered system checks with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson line."
+}

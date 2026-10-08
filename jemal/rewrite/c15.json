@@ -1,0 +1,152 @@
+{
+  "id": 15,
+  "week": 15,
+  "title": "Training at scale",
+  "pillar": "Scaling and systems (general guidance)",
+  "captions": {
+    "instagram": "If every store trains its own way, quality depends on who's working that day.\n\nThe method I'd use: write the standard, teach it the same way everywhere, and check it. Swipe for a new hire's first month and save the 5 training questions.\n\n#Training #SmallBusiness #Leadership\n\nWhere does training break down in your business?",
+    "facebook": "How do you train a whole chain to one standard? Write it, teach it, check it. I laid out a new hire's first month in this carousel.\n\n#Training #SmallBusiness\n\nHow long did your best onboarding take?",
+    "linkedin": "Quality should depend on the system, not on who's working that day.\n\nMy approach to training across locations: write the standard down, teach it with the same material in the same order everywhere, then check it.\n\nA new hire's first month: before day one, explain the role, standards and tools. Day one, shadow a strong team member. First week, practice with real customers and get feedback. End of month one, review and refine.\n\n#Training #Operations\n\nWho trains your trainers?",
+    "x": "Training a team across locations, the way I'd do it:\n\nWrite it.\nTeach it the same way.\nCheck it.\n\nWhere does your training break down?",
+    "threads": "Write it. Teach it. Check it. That's how I'd train a team across locations.\n\nWhat's the hardest part for you?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "HOW DO YOU TRAIN A WHOLE CHAIN TO ONE STANDARD?",
+      "subline": "Write it. Teach it. Check it. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "How do you train a whole chain to one standard?",
+          "mechanism": "Question + promise: names the problem, the subline previews the method.",
+          "chosen": true
+        },
+        {
+          "text": "If every store trains its own way, you don't have a brand.",
+          "mechanism": "Contrarian: strong, but opinion."
+        },
+        {
+          "text": "Write it. Teach it. Check it.",
+          "mechanism": "Pattern: memorable, gives the answer away."
+        }
+      ],
+      "scene": "clipboard",
+      "sourceLine": "General retail guidance",
+      "attachments": [],
+      "altText": "Cover headline 'How do you train a whole chain to one standard?' over an illustrated clipboard with gold check marks."
+    },
+    {
+      "n": 2,
+      "template": "flow_steps",
+      "kicker": "THE METHOD",
+      "headline": "WRITE IT. TEACH IT. CHECK IT.",
+      "flow": [
+        [
+          "WRITE IT",
+          "clipboard"
+        ],
+        [
+          "TEACH IT",
+          "people"
+        ],
+        [
+          "CHECK IT",
+          "magnifying-glass"
+        ]
+      ],
+      "cards": [
+        {
+          "title": "WRITE THE STANDARD",
+          "body": "Put the right way to greet, advise and close a sale on paper."
+        },
+        {
+          "title": "TEACH IT THE SAME WAY",
+          "body": "Same material, same order, every location."
+        }
+      ],
+      "scene": "clipboard",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow, write, teach, check, with two cards on writing the standard and teaching it the same way."
+    },
+    {
+      "n": 3,
+      "template": "timeline_vertical",
+      "kicker": "ONBOARDING",
+      "headline": "A NEW HIRE'S FIRST MONTH",
+      "points": [
+        "Before day one: role, standards and tools explained",
+        "Day one: shadow a strong team member",
+        "First week: practice with real customers, get feedback",
+        "End of month one: review results and refine"
+      ],
+      "scene": "stairs",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A gold timeline of a new hire's first month, from before day one to an end-of-month review."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "WITHOUT A STANDARD VS. WITH ONE",
+      "columns": [
+        "NO STANDARD",
+        "A STANDARD"
+      ],
+      "rows": [
+        [
+          "Every store trains its own way",
+          "One method everywhere"
+        ],
+        [
+          "New hires guess",
+          "New hires know the target"
+        ],
+        [
+          "Quality depends on who's working",
+          "Quality depends on the system"
+        ],
+        [
+          "Hard to fix",
+          "Easy to improve"
+        ]
+      ],
+      "scene": "shield",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting training without a standard and with one."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "5 TRAINING QUESTIONS",
+      "rows": [
+        "Is the standard written down?",
+        "Who trains the trainers?",
+        "How is progress checked?",
+        "Where do new hires get feedback?",
+        "How often is training updated?"
+      ],
+      "button": "Comment where training breaks down",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered training questions with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/linkedin/threads: 'The method I'd use / My approach' attributes the method to Stephen."
+}

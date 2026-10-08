@@ -1,0 +1,149 @@
+{
+  "id": 19,
+  "week": 19,
+  "title": "One message, many channels",
+  "pillar": "Scaling and systems (general guidance)",
+  "captions": {
+    "instagram": "Can a customer repeat your brand promise in five words? If not, your channels are probably saying different things.\n\nHow I'd fix it: say one thing, say it everywhere, show it in the store, and change the offers, not the identity.\n\nSave the 5-point message check.\n\n#Branding #Marketing #SmallBusiness\n\nWhat's your brand promise in five words?",
+    "facebook": "One promise. Every channel. I put together a 5-point check to see whether your ads, signs, posts and store all say the same thing.\n\n#Branding #SmallBusiness\n\nCould your customers repeat your promise?",
+    "linkedin": "If customers can't summarize you, your channels are probably saying different things.\n\nMy rule for consistency: pick one promise customers can repeat, match every sign, ad and post to it, make the in-store experience deliver it, and change offers without changing identity.\n\nThe check I'd run: Can a customer repeat our promise? Do all channels use it? Does the store deliver it? Is the look consistent? When did we last review it?\n\n#Branding #Marketing\n\nWhen did you last audit your message?",
+    "x": "One promise. Every channel.\n\nI'd say one thing, say it everywhere, show it in store, and change offers, not identity.\n\nCan your customers repeat your promise in five words?",
+    "threads": "Can a customer repeat your promise in five words? That's the test I'd start with.\n\nWhat's yours?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "CAN A CUSTOMER REPEAT YOUR BRAND PROMISE IN FIVE WORDS?",
+      "subline": "One promise, every channel. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Can a customer repeat your brand promise in five words?",
+          "mechanism": "Question + specificity: a test the reader runs in their head.",
+          "chosen": true
+        },
+        {
+          "text": "One promise. Every channel.",
+          "mechanism": "Pattern: clean, low tension."
+        },
+        {
+          "text": "If customers can't repeat your promise, your ads aren't working.",
+          "mechanism": "Stakes: strong, but an unsourced claim."
+        }
+      ],
+      "scene": "megaphone",
+      "sourceLine": "General retail guidance",
+      "attachments": [],
+      "altText": "Cover headline 'Can a customer repeat your brand promise in five words?' over an illustrated gold megaphone."
+    },
+    {
+      "n": 2,
+      "template": "flow_steps",
+      "kicker": "THE IDEA",
+      "headline": "FROM PROMISE TO EXPERIENCE",
+      "body": "Say one promise, say it everywhere, and keep it in the store.",
+      "flow": [
+        [
+          "ONE PROMISE",
+          "banner-with-star"
+        ],
+        [
+          "EVERY CHANNEL",
+          "megaphone"
+        ],
+        [
+          "SAME IN STORE",
+          "storefront"
+        ]
+      ],
+      "scene": "megaphone",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow from one promise to every channel to the same in store."
+    },
+    {
+      "n": 3,
+      "template": "stats_grid",
+      "kicker": "HOW TO KEEP IT CONSISTENT",
+      "headline": "FOUR RULES FOR ONE MESSAGE",
+      "cards": [
+        [
+          "SAY ONE THING",
+          "Pick a single promise customers can repeat"
+        ],
+        [
+          "SAY IT EVERYWHERE",
+          "Match signs, ads and posts to it"
+        ],
+        [
+          "SHOW IT IN STORE",
+          "Make the experience match the message"
+        ],
+        [
+          "KEEP IT FRESH",
+          "Change offers, not identity"
+        ]
+      ],
+      "scene": "pillars",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid: say one thing, say it everywhere, show it in store, keep it fresh."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "MIXED MESSAGES VS. ONE MESSAGE",
+      "columns": [
+        "MIXED",
+        "ONE MESSAGE"
+      ],
+      "rows": [
+        [
+          "Each channel says something new",
+          "Every channel repeats the promise"
+        ],
+        [
+          "Customers can't summarize you",
+          "Customers can repeat you"
+        ],
+        [
+          "Ads promise more than stores deliver",
+          "Stores deliver what ads promise"
+        ]
+      ],
+      "scene": "tag",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting mixed messages with one consistent message."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 5-POINT MESSAGE CHECK",
+      "rows": [
+        "Can a customer repeat our promise?",
+        "Do all channels use it?",
+        "Does the store deliver it?",
+        "Is the look consistent?",
+        "When did we last review it?"
+      ],
+      "button": "Comment your brand promise in five words",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered message-check questions with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/linkedin/threads: 'How I'd fix it', 'My rule', 'the test I'd start with'."
+}

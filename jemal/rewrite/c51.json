@@ -1,0 +1,138 @@
+{
+  "id": 51,
+  "week": 51,
+  "title": "Values at work",
+  "pillar": "Story",
+  "captions": {
+    "instagram": "My parents gave us three values: togetherness, family and hard work. Here's how I'd translate each one into a business.\n\nTogetherness: teams that share goals and information. Family: trust, long-term thinking and mentoring. My father was also my mentor. Hard work: showing up, and learning by doing.\n\n#Leadership #FamilyBusiness #Values\n\nWhat value would you add?",
+    "facebook": "Togetherness, family, hard work. Three values from my Brooklyn childhood, and what I think they look like at work.\n\n#Leadership #Values\n\nWhich value runs your workplace?",
+    "linkedin": "The values you grow up with can become the way you run a business.\n\nMy parents gave us three: togetherness, family and hard work. How I'd translate them:\n\nTogetherness: teams that share goals and information, and decisions that are explained, not just announced.\nFamily: loyalty, trust and long-term thinking. Mentoring matters; my father was also my mentor.\nHard work: showing up for the unglamorous work, and learning by doing. By 16, I had started four electronics and music stores.\n\n#Leadership #Values\n\nWhich value shapes your work most?",
+    "x": "My parents' three values, at work:\n\nTogetherness → shared goals.\nFamily → trust and mentoring.\nHard work → learning by doing.\n\nWhat value would you add?",
+    "threads": "Togetherness, family, hard work. My parents' values, and what I think they mean at work.\n\nWhich one did you grow up with?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "TOGETHERNESS, FAMILY, HARD WORK: WHAT MY PARENTS' VALUES LOOK LIKE AT WORK",
+      "subline": "Three values from Brooklyn. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Togetherness, family, hard work: what my parents' values look like at work",
+          "mechanism": "Story + promise: personal values made practical.",
+          "chosen": true
+        },
+        {
+          "text": "Three values from a Brooklyn family, applied to business.",
+          "mechanism": "Specificity: clear, less personal."
+        },
+        {
+          "text": "Can family values run a company?",
+          "mechanism": "Question: provocative, vaguer."
+        }
+      ],
+      "scene": "houses",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [],
+      "altText": "Cover headline about what togetherness, family and hard work look like at work, over illustrated houses with lit windows."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "VALUE 1",
+      "headline": "TOGETHERNESS",
+      "cards": [
+        {
+          "icon": "people",
+          "title": "IN A BUSINESS",
+          "body": "Teams that share goals and information."
+        },
+        {
+          "icon": "key",
+          "title": "IN PRACTICE",
+          "body": "Decisions explained, not just announced."
+        }
+      ],
+      "scene": "houses",
+      "needsApproval": true,
+      "approvalNote": "Translating the value into business is framing.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Two cards on togetherness in business and in practice."
+    },
+    {
+      "n": 3,
+      "template": "stats_grid",
+      "kicker": "VALUE 2",
+      "headline": "FAMILY",
+      "cards": [
+        [
+          "IN A BUSINESS",
+          "Loyalty, trust and long-term thinking"
+        ],
+        [
+          "IN PRACTICE",
+          "Mentoring. My father was also my mentor."
+        ]
+      ],
+      "scene": "storefront",
+      "sourceLine": "Source: stephenjemal.com",
+      "needsApproval": true,
+      "approvalNote": "Translating the value into business is framing; the mentor fact is confirmed.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A grid with two cards on family as a business value: trust and long-term thinking, and mentoring by Stephen's father."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "VALUE 3",
+      "headline": "HARD WORK",
+      "columns": [
+        "IN A BUSINESS",
+        "IN PRACTICE"
+      ],
+      "rows": [
+        [
+          "Showing up",
+          "Doing the unglamorous work"
+        ],
+        [
+          "Learning by doing",
+          "Four stores of my own by 16"
+        ]
+      ],
+      "scene": "crane",
+      "sourceLine": "Source: stephenjemal.com",
+      "needsApproval": true,
+      "approvalNote": "Translating the value into business is framing; the stores fact is confirmed.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table on hard work in business and in practice, including four stores by 16."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "3 VALUES, 3 QUESTIONS",
+      "rows": [
+        "How does my team work together?",
+        "How do I build trust over time?",
+        "Where do I put in the work others don't see?"
+      ],
+      "button": "Comment a value you'd add",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three numbered self-check questions, one per value, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson line; all: 'how I'd translate'."
+}

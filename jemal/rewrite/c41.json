@@ -1,0 +1,154 @@
+{
+  "id": 41,
+  "week": 41,
+  "title": "Assembling underused land",
+  "pillar": "Real estate and vision",
+  "captions": {
+    "instagram": "After the Wiz, I assembled underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.\n\nAssemblage means combining neighboring lots into one site that can support a bigger plan. It's slower and more complex than buying one lot, and it opens more options.\n\nSave the 5 questions before assembling a site.\n\n#RealEstate #UrbanDevelopment #NYC\n\nWhich question would you ask first?",
+    "facebook": "After the Wiz, I moved into real estate, assembling underutilized parcels across New York City and New Jersey. Here's what land assemblage means, in plain words.\n\n#RealEstate #NYC\n\nHave you seen a block transformed by one project?",
+    "linkedin": "One lot is limited by its size. An assembled site is limited by your patience.\n\nAfter the Wiz, I moved into waterfront revitalization and real estate development, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey. That work led to JemRock Organization.\n\nAssemblage combines neighboring parcels into one site that can support a larger plan: find, acquire, combine, plan. It takes several negotiations instead of one.\n\nFive questions before assembling a site: Who owns each parcel? What does zoning allow combined? What does each piece cost? What happens if one owner says no? What could the full site become?\n\n#RealEstate #UrbanDevelopment\n\nWhich question is hardest to answer?",
+    "x": "After the Wiz, I assembled underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.\n\nAssemblage: combining neighboring lots into one site for a bigger plan.\n\nWhat would you build on a full block?",
+    "threads": "Small lots, one site. That's land assemblage, and it's where my real estate work started after the Wiz.\n\nWhat would you build?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "AFTER THE WIZ, I ASSEMBLED UNDERUSED LAND ACROSS FIVE AREAS",
+      "subline": "What land assemblage means. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "After the Wiz, I assembled underused land across five areas",
+          "mechanism": "Story + specificity: a real move, a real scope.",
+          "chosen": true
+        },
+        {
+          "text": "Small lots, one site: how land assemblage works.",
+          "mechanism": "Promise: clear explainer."
+        },
+        {
+          "text": "What is parcel assemblage, and why does it matter?",
+          "mechanism": "Question: generic."
+        }
+      ],
+      "scene": "map",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [],
+      "altText": "Cover headline 'After the Wiz, I assembled underused land across five areas' over an illustrated street map with a gold route."
+    },
+    {
+      "n": 2,
+      "template": "stats_rows",
+      "kicker": "WHAT I DID",
+      "headline": "UNDERUTILIZED PARCELS, ASSEMBLED",
+      "rows": [
+        [
+          "WHERE",
+          "Manhattan, Brooklyn, Queens, the Bronx, New Jersey"
+        ],
+        [
+          "WHAT",
+          "Underutilized parcels, assembled"
+        ],
+        [
+          "ALONGSIDE",
+          "Waterfront revitalization and real estate development"
+        ],
+        [
+          "NEXT",
+          "JemRock Organization"
+        ]
+      ],
+      "scene": "map",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four rows: where the parcels were, what was done, the waterfront and development work alongside it, and the step to JemRock."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "HOW ASSEMBLAGE WORKS",
+      "headline": "FIND. ACQUIRE. COMBINE. PLAN.",
+      "body": "Assemblage combines neighboring parcels into one site that can support a larger plan.",
+      "flow": [
+        [
+          "FIND",
+          "map-pin"
+        ],
+        [
+          "ACQUIRE",
+          "key"
+        ],
+        [
+          "COMBINE",
+          "map-grid"
+        ],
+        [
+          "PLAN",
+          "blueprint"
+        ]
+      ],
+      "scene": "blueprint",
+      "sourceLine": "General explanation",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow of land assemblage: find, acquire, combine, plan."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE TRADE-OFF",
+      "headline": "ONE LOT VS. AN ASSEMBLED SITE",
+      "columns": [
+        "ONE LOT",
+        "ASSEMBLED SITE"
+      ],
+      "rows": [
+        [
+          "Limited by its size",
+          "More room to plan"
+        ],
+        [
+          "One negotiation",
+          "Several negotiations"
+        ],
+        [
+          "Simple to buy",
+          "Complex to assemble"
+        ]
+      ],
+      "scene": "skyline",
+      "sourceLine": "General explanation",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting a single lot with an assembled site."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "5 QUESTIONS BEFORE ASSEMBLING A SITE",
+      "rows": [
+        "Who owns each parcel?",
+        "What does zoning allow combined?",
+        "What does each piece cost?",
+        "What if one owner says no?",
+        "What could the full site become?"
+      ],
+      "button": "Comment the question you'd ask first",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered questions to ask before assembling a site, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "Replacement topic for 'Inside PASHA' (unconfirmed); linkedin opening lesson line."
+}

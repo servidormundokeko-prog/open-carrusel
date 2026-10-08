@@ -1,0 +1,153 @@
+{
+  "id": 49,
+  "week": 49,
+  "title": "Who it takes to build in a city",
+  "pillar": "Real estate and vision",
+  "captions": {
+    "instagram": "It takes a village to build in a city: architects, engineers, consultants and municipal processes, all coordinated.\n\nIdea, approval, design, build. The way I see it, coordination is what turns a concept into a building. Save the 5-point coordination check.\n\n#RealEstate #Construction #UrbanDevelopment\n\nWho would you coordinate first?",
+    "facebook": "Architects shape it. Engineers make it stand. Consultants add expertise. The city approves it. I put who does what on an urban project in one carousel.\n\n#Construction #RealEstate\n\nWhich role do you think is most underrated?",
+    "linkedin": "Coordination turns a concept into a built project.\n\nAn urban project depends on four groups: architects (design), engineers (structure), consultants (specialist expertise) and municipal processes (approvals). When they work in silos, surprises show up at approval and work gets redone. When they share one plan, approvals are planned for.\n\nThe check I'd run: Who owns the plan? Who talks to the city? Who approves changes? How are teams updated? What is the review rhythm?\n\n#Construction #ProjectManagement\n\nWhere does coordination break down most?",
+    "x": "Building in a city takes:\n\nArchitects.\nEngineers.\nConsultants.\nThe city.\n\nI'd say coordination is the real job. Who would you coordinate first?",
+    "threads": "It takes a village to build in a city. I think coordination is the real job.\n\nAgree?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "IT TAKES A VILLAGE TO BUILD IN A CITY",
+      "subline": "Who does what on an urban project. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "It takes a village to build in a city",
+          "mechanism": "Familiar phrase, new context: instantly understood.",
+          "chosen": true
+        },
+        {
+          "text": "Who does what on an urban building project?",
+          "mechanism": "Question: clear, generic."
+        },
+        {
+          "text": "Architects, engineers, consultants, the city: who's on your team?",
+          "mechanism": "Specificity: long for a cover."
+        }
+      ],
+      "scene": "crane",
+      "sourceLine": "General guidance",
+      "attachments": [],
+      "altText": "Cover headline 'It takes a village to build in a city' over an illustrated construction crane."
+    },
+    {
+      "n": 2,
+      "template": "stats_grid",
+      "kicker": "THE TEAM",
+      "headline": "FOUR GROUPS TO COORDINATE",
+      "cards": [
+        [
+          "ARCHITECTS",
+          "Shape the design"
+        ],
+        [
+          "ENGINEERS",
+          "Make it work structurally"
+        ],
+        [
+          "CONSULTANTS",
+          "Add specialist expertise"
+        ],
+        [
+          "MUNICIPAL PROCESSES",
+          "Grant approvals"
+        ]
+      ],
+      "scene": "skyline",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid: architects, engineers, consultants and municipal processes."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "THE SEQUENCE",
+      "headline": "IDEA. APPROVAL. DESIGN. BUILD.",
+      "flow": [
+        [
+          "IDEA",
+          "key"
+        ],
+        [
+          "APPROVAL",
+          "document"
+        ],
+        [
+          "DESIGN",
+          "blueprint"
+        ],
+        [
+          "BUILD",
+          "crane"
+        ]
+      ],
+      "pullLine": "Coordination turns a concept into a built project.",
+      "scene": "crane",
+      "needsApproval": true,
+      "approvalNote": "Opinion pull line in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow: idea, approval, design, build."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "SILOED VS. COORDINATED",
+      "columns": [
+        "SILOED",
+        "COORDINATED"
+      ],
+      "rows": [
+        [
+          "Teams work separately",
+          "Teams share one plan"
+        ],
+        [
+          "Surprises at approval",
+          "Approvals planned for"
+        ],
+        [
+          "Rework",
+          "Fewer changes"
+        ]
+      ],
+      "scene": "scale",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting siloed and coordinated project teams."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 5-POINT COORDINATION CHECK",
+      "rows": [
+        "Who owns the plan?",
+        "Who talks to the city?",
+        "Who approves changes?",
+        "How are teams updated?",
+        "What is the review rhythm?"
+      ],
+      "button": "Comment who you'd coordinate first",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered coordination questions with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "linkedin/x/threads: 'The check I'd run', 'I'd say/I think coordination is the real job'."
+}

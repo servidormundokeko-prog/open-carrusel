@@ -1,0 +1,156 @@
+{
+  "id": 16,
+  "week": 16,
+  "title": "Merchandising basics",
+  "pillar": "Scaling and systems (general guidance)",
+  "captions": {
+    "instagram": "Your layout talks before your staff does.\n\nI broke merchandising into the path every customer takes: enter, browse, decide, buy. Swipe for what you control at each step, then save the 6 layout rules.\n\n#Retail #Merchandising #SmallBusiness\n\nWhat's your best layout tip?",
+    "facebook": "Cluttered or clear? A store layout guides customers from the door to the register, on purpose or by accident. I put 6 layout rules on the last slide.\n\n#Retail #SmallBusiness\n\nWhat's the first thing you notice when you walk into a store?",
+    "linkedin": "A layout should guide customers on purpose, not by accident.\n\nEvery customer follows the same path: enter, browse, decide, buy. You control four things along it: the entrance (show your clearest offer first), the flow (make the path easy), the grouping (related products together) and the signage (prices and promotions easy to read).\n\nMy six layout rules: strong entrance, clear path, related items together, visible prices, planned promotions, clean and consistent displays.\n\n#Retail #Merchandising\n\nWhich rule does your store break most often?",
+    "x": "6 layout rules I'd start with:\n\n1. Strong entrance\n2. Clear path\n3. Related items together\n4. Visible prices\n5. Planned promotions\n6. Clean, consistent displays\n\nWhich one does your store break?",
+    "threads": "Your layout talks before your staff does. I put six rules for it in one carousel.\n\nWhich one matters most to you as a shopper?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "SIX LAYOUT RULES THAT GUIDE CUSTOMERS FROM DOOR TO REGISTER",
+      "subline": "Save them for your next reset. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Six layout rules that guide customers from door to register",
+          "mechanism": "Specificity + promise: a countable, save-worthy list.",
+          "chosen": true
+        },
+        {
+          "text": "What is your store layout really saying?",
+          "mechanism": "Curiosity gap: invites reflection."
+        },
+        {
+          "text": "Cluttered or clear? Your layout answers before you do.",
+          "mechanism": "Contrast: punchy, less concrete."
+        }
+      ],
+      "scene": "tag",
+      "sourceLine": "General retail guidance",
+      "attachments": [],
+      "altText": "Cover headline 'Six layout rules that guide customers from door to register' over an illustrated gold price tag."
+    },
+    {
+      "n": 2,
+      "template": "flow_steps",
+      "kicker": "THE PATH",
+      "headline": "FROM DOOR TO REGISTER",
+      "body": "A good layout guides customers along this path on purpose.",
+      "flow": [
+        [
+          "ENTER",
+          "storefront"
+        ],
+        [
+          "BROWSE",
+          "magnifying-glass"
+        ],
+        [
+          "DECIDE",
+          "banner-with-star"
+        ],
+        [
+          "BUY",
+          "tag"
+        ]
+      ],
+      "scene": "storefront",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow from enter to browse to decide to buy."
+    },
+    {
+      "n": 3,
+      "template": "stats_grid",
+      "kicker": "WHAT YOU CONTROL",
+      "headline": "FOUR LEVERS IN EVERY STORE",
+      "cards": [
+        [
+          "ENTRANCE",
+          "Show your clearest offer first"
+        ],
+        [
+          "FLOW",
+          "Make the path easy to follow"
+        ],
+        [
+          "GROUPING",
+          "Put related products together"
+        ],
+        [
+          "SIGNAGE",
+          "Make prices and promotions easy to read"
+        ]
+      ],
+      "scene": "tag",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid: entrance, flow, grouping and signage, each with a short rule."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "CLUTTERED VS. CLEAR",
+      "columns": [
+        "CLUTTERED",
+        "CLEAR"
+      ],
+      "rows": [
+        [
+          "Too many messages",
+          "One clear message"
+        ],
+        [
+          "Hard to find items",
+          "Easy to find items"
+        ],
+        [
+          "Unclear prices",
+          "Visible prices"
+        ],
+        [
+          "Random displays",
+          "Planned displays"
+        ]
+      ],
+      "scene": "storefront",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting a cluttered layout and a clear one."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "6 LAYOUT RULES",
+      "rows": [
+        "Strong entrance",
+        "Clear path",
+        "Related items together",
+        "Visible prices",
+        "Planned promotions",
+        "Clean, consistent displays"
+      ],
+      "button": "Comment your best layout tip",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Six numbered layout rules with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/linkedin: 'I broke merchandising into...', 'My six layout rules'."
+}

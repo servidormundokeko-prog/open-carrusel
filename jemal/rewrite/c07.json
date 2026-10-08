@@ -1,0 +1,156 @@
+{
+  "id": 7,
+  "week": 7,
+  "title": "Where you open matters",
+  "pillar": "Scaling and systems",
+  "captions": {
+    "instagram": "Where you open is a real estate decision before it's a retail one.\n\nLocation, lease, traffic, buildout. After the Wiz, I took that same eye to land, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.\n\nSave the 5 questions before you sign a lease.\n\n#RealEstate #SmallBusiness #Retail\n\nWhich site factor do you check first?",
+    "facebook": "Before you sign a lease, ask five questions. They're on the last slide.\n\nAfter the Wiz, I moved into real estate, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.\n\n#RealEstate #SmallBusiness\n\nWhat's the one thing you'd check about a location?",
+    "linkedin": "Where you open is a real estate decision, not just a retail one.\n\nEvery new location runs through the same steps: the site, the lease, the buildout, opening day. After the Wiz, I moved into waterfront revitalization and real estate development, assembling underutilized parcels across Manhattan, Brooklyn, Queens, the Bronx and New Jersey.\n\nFive questions before you sign: Who passes by, and who stops? What does the lease lock in? How will customers get here? What will the buildout take? Can we run the space well?\n\n#RealEstate #Retail\n\nWhich question do you wish you'd asked earlier?",
+    "x": "Before you sign a lease:\n\n1. Who passes by, and who stops?\n2. What does the lease lock in?\n3. How will customers get here?\n4. What will the buildout take?\n5. Can we run the space well?\n\nWhich would you ask first?",
+    "threads": "Every new store is a real estate decision first. I put 5 questions to ask before signing a lease in this carousel.\n\nWhich one do people skip?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "BEFORE YOU SIGN A LEASE, ASK THESE 5 QUESTIONS",
+      "subline": "Location, lease, traffic, buildout. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Before you sign a lease, ask these 5 questions",
+          "mechanism": "Promise + specificity: a save-worthy list, paid off on slide 5.",
+          "chosen": true
+        },
+        {
+          "text": "Where you open is a real estate decision.",
+          "mechanism": "Contrarian: reframes retail as real estate."
+        },
+        {
+          "text": "The best store in the wrong spot still struggles.",
+          "mechanism": "Stakes: strong, but an unsourced claim."
+        }
+      ],
+      "scene": "map",
+      "attachments": [],
+      "altText": "Cover headline 'Before you sign a lease, ask these 5 questions' over an illustrated street map with a gold route."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "THREE DECISIONS",
+      "headline": "WHAT A NEW LOCATION TAKES",
+      "cards": [
+        {
+          "icon": "map-pin",
+          "title": "LOCATION ANALYSIS",
+          "body": "Know the market before you open."
+        },
+        {
+          "icon": "key",
+          "title": "LEASE DECISIONS",
+          "body": "Choose and negotiate the right space."
+        },
+        {
+          "icon": "map-grid",
+          "title": "CUSTOMER TRAFFIC",
+          "body": "Plan how customers will reach you."
+        }
+      ],
+      "scene": "map",
+      "needsApproval": true,
+      "approvalNote": "Advice framework in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: location analysis, lease decisions and customer traffic planning."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "THE SEQUENCE",
+      "headline": "FROM SITE TO OPENING DAY",
+      "flow": [
+        [
+          "SITE",
+          "map-pin"
+        ],
+        [
+          "LEASE",
+          "key"
+        ],
+        [
+          "BUILDOUT",
+          "crane"
+        ],
+        [
+          "OPENING",
+          "storefront"
+        ]
+      ],
+      "pullLine": "Every step has a cost and a timeline.",
+      "scene": "crane",
+      "needsApproval": true,
+      "approvalNote": "Opinion pull line in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow from site to lease to buildout to opening."
+    },
+    {
+      "n": 4,
+      "template": "stats_grid",
+      "kicker": "WHERE I TOOK IT NEXT",
+      "headline": "AFTER THE WIZ, I MOVED INTO LAND",
+      "cards": [
+        [
+          "WATERFRONT",
+          "Revitalization and development"
+        ],
+        [
+          "PARCELS",
+          "Underutilized sites, assembled"
+        ],
+        [
+          "FIVE AREAS",
+          "Manhattan, Brooklyn, Queens, the Bronx, New Jersey"
+        ],
+        [
+          "NEXT",
+          "JemRock Organization"
+        ]
+      ],
+      "scene": "tower",
+      "sourceLine": "Source: stephenjemal.com",
+      "needsApproval": true,
+      "approvalNote": "Framing that site skills carried into real estate.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid: waterfront revitalization, underutilized parcels, five areas from Manhattan to New Jersey, and JemRock Organization."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "5 QUESTIONS BEFORE YOU SIGN A LEASE",
+      "rows": [
+        "Who passes by, and who stops?",
+        "What does the lease lock in?",
+        "How will customers get here?",
+        "What will the buildout take?",
+        "Can we run the space well?"
+      ],
+      "button": "Comment your #1 site check",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered questions to ask before signing a lease, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/linkedin: 'a real estate decision before it's a retail one' and 'I took that same eye to land'."
+}

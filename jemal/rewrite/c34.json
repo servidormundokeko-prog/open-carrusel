@@ -1,0 +1,146 @@
+{
+  "id": 34,
+  "week": 34,
+  "title": "What makes housing adequate?",
+  "pillar": "Housing and authority",
+  "captions": {
+    "instagram": "UN-Habitat counts 2.8 billion people without adequate housing. So what does \"adequate\" mean?\n\nThe UN Committee on Economic, Social and Cultural Rights lists seven elements: security of tenure, services and infrastructure, affordability, habitability, accessibility, location and cultural adequacy.\n\nI keep this list close. Save it.\n\n#Housing #AffordableHousing #HumanRights\n\nWhich element is hardest where you live?",
+    "facebook": "A roof isn't enough. The UN defines adequate housing with seven elements, from security of tenure to cultural adequacy. I put them all in one carousel.\n\n#Housing #AffordableHousing\n\nWhich element would you add first to your city's checklist?",
+    "linkedin": "Before we talk about how many homes the world needs, we should agree on what counts as a home.\n\nThe UN Committee on Economic, Social and Cultural Rights lists seven elements of adequate housing: security of tenure, services and infrastructure, affordability, habitability, accessibility, location and cultural adequacy.\n\nBy that standard, UN-Habitat counts 2.8 billion people without adequate housing, 1.1 billion living in slums or informal settlements, and more than 300 million who are homeless.\n\n#Housing #HumanRights\n\nWhich element do new projects most often miss?",
+    "x": "2.8 billion people lack adequate housing (UN-Habitat).\n\nThe UN's 7 elements of adequate: tenure, services, affordability, habitability, accessibility, location, cultural adequacy.\n\nWhich one do I hear about least? Which do you?",
+    "threads": "Seven elements make housing adequate, per the UN. Affordability is only one of them. I keep the full list close.\n\nWhich one would you have forgotten?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "2.8 BILLION PEOPLE LACK ADEQUATE HOUSING. WHAT DOES ADEQUATE MEAN?",
+      "subline": "The UN's seven elements. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "2.8 billion people lack adequate housing. What does adequate mean?",
+          "mechanism": "Stakes + curiosity: a huge number, then a definition gap.",
+          "chosen": true
+        },
+        {
+          "text": "What makes housing \"adequate\"? The UN lists seven elements.",
+          "mechanism": "Specificity: clear promise, less tension."
+        },
+        {
+          "text": "Seven tests every home should pass.",
+          "mechanism": "Promise: punchy, less sourced."
+        }
+      ],
+      "scene": "houses",
+      "sourceLine": "Source: UN-Habitat",
+      "attachments": [],
+      "altText": "Cover headline '2.8 billion people lack adequate housing. What does adequate mean?' over illustrated houses with lit windows."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "ELEMENTS 1 TO 3",
+      "headline": "SECURITY, SERVICES, COST",
+      "cards": [
+        {
+          "icon": "key",
+          "title": "SECURITY OF TENURE",
+          "body": "Legal protection against forced eviction."
+        },
+        {
+          "icon": "gear",
+          "title": "SERVICES AND INFRASTRUCTURE",
+          "body": "Water, sanitation, energy and more."
+        },
+        {
+          "icon": "tag",
+          "title": "AFFORDABILITY",
+          "body": "Costs that don't threaten other basic needs."
+        }
+      ],
+      "scene": "houses",
+      "sourceLine": "UN Committee on Economic, Social and Cultural Rights",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: security of tenure, services and infrastructure, affordability."
+    },
+    {
+      "n": 3,
+      "template": "stats_grid",
+      "kicker": "ELEMENTS 4 TO 7",
+      "headline": "SAFE, REACHABLE, WELL-LOCATED",
+      "cards": [
+        [
+          "HABITABILITY",
+          "Safe, with space and protection"
+        ],
+        [
+          "ACCESSIBILITY",
+          "Usable by everyone"
+        ],
+        [
+          "LOCATION",
+          "Near jobs, schools and care"
+        ],
+        [
+          "CULTURAL ADEQUACY",
+          "Respects the community's identity"
+        ]
+      ],
+      "scene": "map",
+      "sourceLine": "UN Committee on Economic, Social and Cultural Rights",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid: habitability, accessibility, location, cultural adequacy."
+    },
+    {
+      "n": 4,
+      "template": "stats_cards",
+      "kicker": "WHERE THE WORLD STANDS",
+      "headline": "MEASURED AGAINST THAT STANDARD",
+      "stats": [
+        [
+          "2.8B",
+          "people lack adequate housing"
+        ],
+        [
+          "1.1B",
+          "live in slums or informal settlements"
+        ],
+        [
+          "300M+",
+          "are homeless"
+        ]
+      ],
+      "scene": "globe",
+      "sourceLine": "Source: UN-Habitat",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three stat cards: 2.8 billion lack adequate housing, 1.1 billion in slums or informal settlements, over 300 million homeless."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "3 QUESTIONS TO ASK OF ANY HOUSING PROJECT",
+      "rows": [
+        "Who can afford it?",
+        "Is it safe and secure to live in?",
+        "Is it near jobs, schools and care?"
+      ],
+      "button": "Comment the element that matters most to you",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three numbered questions drawn from the UN elements, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram: 'I keep this list close'; linkedin: opening lesson line."
+}

@@ -1,0 +1,151 @@
+{
+  "id": 35,
+  "week": 35,
+  "title": "The math of the housing gap",
+  "pillar": "Housing and authority",
+  "captions": {
+    "instagram": "Per JemRock research, the world needs 96,000 new homes a day. That's about 4,000 an hour, 67 a minute, more than one every second.\n\nBehind that math are people. It's why our mission at JemRock is to change how the world produces housing. UN-Habitat counts 2.8 billion people without adequate housing.\n\nSwipe for the full breakdown, and save the 4 questions to ask any housing number.\n\n#AffordableHousing #Housing #ModularConstruction\n\nWhich number surprised you most?",
+    "facebook": "More than one new home every second. That's the pace the world needs, per JemRock research: 96,000 homes a day.\n\nUN-Habitat counts 2.8 billion people without adequate housing and more than 300 million who are homeless. At JemRock, our mission is to change how the world produces housing.\n\n#AffordableHousing #Housing\n\nDid you expect the number to be that high?",
+    "linkedin": "Before you react to a housing number, ask who reported it and what it counts.\n\nPer JemRock research, the global housing deficit is 155 million units, projected to reach 240 million by 2030. Keeping up means about 96,000 homes a day: more than one every second.\n\nUN-Habitat counts 2.8 billion people without adequate housing, 1.1 billion in slums or informal settlements, and more than 300 million who are homeless.\n\nSpeed is part of the answer. McKinsey (2019) found modular construction can be 20-50% faster. Our design target for BUILT® is more than 50% faster timelines. That is a target, not a result yet.\n\nFour questions for any housing number: Who reported it? What does it count? What year is it for? Is it a result or a target?\n\n#Housing #ConstructionTech\n\nWhich question do you ask first?",
+    "x": "Per JemRock research, the world needs 96,000 new homes a day.\n\nThat's ~4,000 an hour.\n~67 a minute.\nMore than 1 every second.\n\nUN-Habitat: 2.8 billion people lack adequate housing.\n\nOur mission at JemRock: change how the world produces housing.\n\nWhich number surprised you most?",
+    "threads": "96,000 homes a day, per JemRock research. That's more than one every second.\n\nAnd UN-Habitat counts 2.8 billion people without adequate housing.\n\nThat's the math behind our mission at JemRock.\n\nWhat would it take to build at that pace?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "THE WORLD NEEDS MORE THAN ONE NEW HOME EVERY SECOND",
+      "subline": "Swipe for the math →",
+      "hookAlternatives": [
+        {
+          "text": "The world needs more than one new home every second.",
+          "mechanism": "Specificity + stakes: a number you can feel, paid off on slide 2.",
+          "chosen": true
+        },
+        {
+          "text": "96,000 homes a day. Can anyone build that fast?",
+          "mechanism": "Stakes + question: strong for comments."
+        },
+        {
+          "text": "How many homes did the world need while you read this?",
+          "mechanism": "Curiosity gap: personal, but slower to land."
+        }
+      ],
+      "scene": "clock",
+      "sourceLine": "Per JemRock research",
+      "attachments": [],
+      "altText": "Cover headline 'The world needs more than one new home every second' over an illustrated glowing clock."
+    },
+    {
+      "n": 2,
+      "template": "stats_rows",
+      "kicker": "DO THE MATH",
+      "headline": "96,000 HOMES A DAY, BROKEN DOWN",
+      "rows": [
+        [
+          "96,000",
+          "homes needed every day"
+        ],
+        [
+          "~4,000",
+          "every hour"
+        ],
+        [
+          "~67",
+          "every minute"
+        ],
+        [
+          "1+",
+          "every second"
+        ]
+      ],
+      "scene": "clock",
+      "sourceLine": "Per JemRock research. Arithmetic: 96,000 ÷ 24 ÷ 60 ÷ 60.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four stacked rows breaking 96,000 homes a day into about 4,000 an hour, 67 a minute and more than one a second."
+    },
+    {
+      "n": 3,
+      "template": "stats_cards",
+      "kicker": "WHO IT AFFECTS",
+      "headline": "BEHIND THE MATH ARE PEOPLE",
+      "stats": [
+        [
+          "2.8B",
+          "people lack adequate housing"
+        ],
+        [
+          "1.1B",
+          "live in slums or informal settlements"
+        ],
+        [
+          "300M+",
+          "are homeless"
+        ]
+      ],
+      "scene": "globe",
+      "sourceLine": "Source: UN-Habitat",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three large stat cards: 2.8 billion people lack adequate housing, 1.1 billion live in slums or informal settlements, more than 300 million are homeless."
+    },
+    {
+      "n": 4,
+      "template": "stats_grid",
+      "kicker": "THE GAP AND THE PACE",
+      "headline": "THE GAP IS PROJECTED TO GROW. SPEED MATTERS.",
+      "stats": [
+        [
+          "155M",
+          "unit global housing deficit"
+        ],
+        [
+          "240M",
+          "projected deficit by 2030"
+        ],
+        [
+          "20-50%",
+          "how much faster modular can be"
+        ],
+        [
+          "50%+",
+          "faster: BUILT® design target, not a result"
+        ]
+      ],
+      "pullLine": "That's why our mission at JemRock is to change how the world produces housing.",
+      "scene": "chart",
+      "sourceLine": "Per JemRock research. Modular range: McKinsey, 2019.",
+      "needsApproval": true,
+      "approvalNote": "'That's why our mission...' links the numbers to JemRock's mission; the mission itself is approved, the causal framing is not.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 stat grid: 155 million unit deficit, 240 million projected by 2030, modular up to 20-50% faster, and a BUILT design target of more than 50% faster."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "4 QUESTIONS TO ASK ANY HOUSING NUMBER",
+      "rows": [
+        "Who reported it?",
+        "What does it count: people, homes or units?",
+        "What year is it for?",
+        "Is it a result or a target?"
+      ],
+      "button": "Comment the number that surprised you most",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered questions for reading a housing statistic, with a gold button asking which number surprised readers most."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson line; instagram: 'It's why our mission...' causal framing."
+}

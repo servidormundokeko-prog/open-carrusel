@@ -1,0 +1,161 @@
+{
+  "id": 17,
+  "week": 17,
+  "title": "Supplier relationships",
+  "pillar": "Scaling and systems (general guidance)",
+  "captions": {
+    "instagram": "The cheapest supplier can cost you the most. A late shipment can cost more than it saves.\n\nHow I'd think about it: treat suppliers as partners, with clear terms, early forecasts and a backup option. Save the 6-point supplier scorecard.\n\n#SmallBusiness #SupplyChain #Retail\n\nWhat's your number one supplier rule?",
+    "facebook": "Is your supplier a transaction or a partner? I put the difference in one table, plus a 6-point scorecard to rate any supplier.\n\n#SmallBusiness #SupplyChain\n\nHave you ever been burned by a late shipment?",
+    "linkedin": "Reliability beats the lowest price.\n\nA shipment that arrives late can cost more than it saves. The suppliers worth keeping are partners: clear terms on price and delivery, early communication on forecasts and promotions, and problems raised early.\n\nMy scorecard for any supplier: on-time delivery, quality consistency, price compared with value, communication, how problems are handled, and whether you have a backup.\n\n#SupplyChain #Operations\n\nWhich of these do you weigh most?",
+    "x": "Supplier scorecard:\n\n1. On-time delivery\n2. Quality consistency\n3. Price vs. value\n4. Communication\n5. How problems are handled\n6. Backup options\n\nI'd put reliability first. What would you put first?",
+    "threads": "The cheapest supplier can end up costing the most. I'd score them on reliability first.\n\nWhat's your rule?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "THE CHEAPEST SUPPLIER CAN COST YOU THE MOST",
+      "subline": "Transaction or partner? Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "The cheapest supplier can cost you the most",
+          "mechanism": "Contrarian + stakes: challenges price-first buying.",
+          "chosen": true
+        },
+        {
+          "text": "Is your supplier a transaction or a partner?",
+          "mechanism": "Question: frames the comparison."
+        },
+        {
+          "text": "Score your suppliers on these 6 points.",
+          "mechanism": "Promise: save-worthy, less tension."
+        }
+      ],
+      "scene": "conveyor",
+      "sourceLine": "General retail guidance",
+      "needsApproval": true,
+      "approvalNote": "Opinion headline in Stephen's voice.",
+      "attachments": [],
+      "altText": "Cover headline 'The cheapest supplier can cost you the most' over an illustrated conveyor belt with boxes."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "WHAT PARTNERS SHARE",
+      "headline": "WHAT STRONG SUPPLIER PARTNERSHIPS SHARE",
+      "cards": [
+        {
+          "icon": "shield",
+          "title": "RELIABILITY OVER PRICE",
+          "body": "A late shipment can cost more than it saves."
+        },
+        {
+          "icon": "document",
+          "title": "CLEAR TERMS",
+          "body": "Agree on prices, delivery times and what happens when things go wrong."
+        },
+        {
+          "icon": "megaphone",
+          "title": "EARLY COMMUNICATION",
+          "body": "Share forecasts and promotions early."
+        }
+      ],
+      "scene": "conveyor",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: reliability over lowest price, clear terms and early communication."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "THE SUPPLY LOOP",
+      "headline": "PLAN. ORDER. RECEIVE. REVIEW.",
+      "flow": [
+        [
+          "PLAN",
+          "clipboard"
+        ],
+        [
+          "ORDER",
+          "document"
+        ],
+        [
+          "RECEIVE",
+          "stack-of-storefronts"
+        ],
+        [
+          "REVIEW",
+          "magnifying-glass"
+        ]
+      ],
+      "pullLine": "Manage it like any other system, not as a one-off favor.",
+      "scene": "clipboard",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step supply loop from plan to order to receive to review."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "TRANSACTION VS. PARTNER",
+      "columns": [
+        "TRANSACTION",
+        "PARTNER"
+      ],
+      "rows": [
+        [
+          "Price only",
+          "Price and reliability"
+        ],
+        [
+          "Last-minute orders",
+          "Shared forecasts"
+        ],
+        [
+          "Problems found late",
+          "Problems raised early"
+        ],
+        [
+          "One supplier",
+          "A backup option"
+        ]
+      ],
+      "scene": "shield",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting a transactional supplier and a partner."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 6-POINT SUPPLIER SCORECARD",
+      "rows": [
+        "On-time delivery",
+        "Quality consistency",
+        "Price compared with value",
+        "Communication",
+        "How problems are handled",
+        "Backup options"
+      ],
+      "button": "Comment your top supplier rule",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A six-point numbered supplier scorecard with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/linkedin/x/threads: 'How I'd think about it', 'My scorecard', 'I'd put reliability first'."
+}

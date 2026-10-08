@@ -1,0 +1,155 @@
+{
+  "id": 40,
+  "week": 40,
+  "title": "Brand-led development",
+  "pillar": "Real estate and vision",
+  "captions": {
+    "instagram": "What if a building had a brand, the way a store does?\n\nThe Wiz marketing pillars were memorable naming, clear positioning, market visibility and brand consistency. Here's how I'd apply them to a building: name it, position it, build it, operate it.\n\nSave the 4-question brand check.\n\n#RealEstate #Branding #UrbanDevelopment\n\nWhich building brand do you remember?",
+    "facebook": "Most buildings are known by their address. A few are known by their name. I think the difference is the same as in retail: a clear identity that the building actually delivers.\n\n#RealEstate #Branding\n\nWhat's a building you know by name?",
+    "linkedin": "A building can be known by its address, or by its identity.\n\nIn retail, the Wiz marketing pillars were memorable naming, clear positioning, market visibility and brand consistency. I think the same four apply to development: a name residents repeat, a clear sense of who the building is for, visibility beyond its block, and a building that keeps its promise every day.\n\nName, position, build, operate. Branding without the built environment to back it up is just a sign.\n\n#RealEstate #Branding\n\nWhat makes a building memorable to you?",
+    "x": "Retail lesson I'd apply to buildings:\n\nMemorable name.\nClear position.\nVisible.\nConsistent.\n\nA building known by its name beats one known by its address. Which one do you know by name?",
+    "threads": "Most buildings are known by address. I'd rather build ones people know by name.\n\nWhich building brand do you remember?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "WHAT IF A BUILDING HAD A BRAND, LIKE A STORE DOES?",
+      "subline": "Brand-led development in four steps. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "What if a building had a brand, like a store does?",
+          "mechanism": "Curiosity + transfer: links retail to real estate.",
+          "chosen": true
+        },
+        {
+          "text": "Buildings are known by address. Brands are known by name.",
+          "mechanism": "Contrast: sharp, opinion."
+        },
+        {
+          "text": "Can a building be as memorable as a store name?",
+          "mechanism": "Question: softer."
+        }
+      ],
+      "scene": "tower",
+      "sourceLine": "General explanation",
+      "attachments": [],
+      "altText": "Cover headline 'What if a building had a brand, like a store does?' over an illustrated lit apartment tower."
+    },
+    {
+      "n": 2,
+      "template": "flow_steps",
+      "kicker": "THE SEQUENCE",
+      "headline": "NAME. POSITION. BUILD. OPERATE.",
+      "body": "A brand-led building needs more than a name. The space has to deliver the promise.",
+      "flow": [
+        [
+          "NAME",
+          "banner-with-star"
+        ],
+        [
+          "POSITION",
+          "map-pin"
+        ],
+        [
+          "BUILD",
+          "crane"
+        ],
+        [
+          "OPERATE",
+          "gear"
+        ]
+      ],
+      "scene": "tower",
+      "needsApproval": true,
+      "approvalNote": "Framework in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow: name, position, build, operate."
+    },
+    {
+      "n": 3,
+      "template": "stats_grid",
+      "kicker": "FROM RETAIL TO BUILDINGS",
+      "headline": "FOUR PILLARS, APPLIED TO A BUILDING",
+      "cards": [
+        [
+          "MEMORABLE NAMING",
+          "A name residents repeat"
+        ],
+        [
+          "CLEAR POSITIONING",
+          "Who the building is for"
+        ],
+        [
+          "MARKET VISIBILITY",
+          "Known beyond its block"
+        ],
+        [
+          "BRAND CONSISTENCY",
+          "The building keeps the promise"
+        ]
+      ],
+      "scene": "pillars",
+      "sourceLine": "Pillars: stephenjemal.com",
+      "needsApproval": true,
+      "approvalNote": "Applying the Wiz pillars to buildings is framing.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid applying the Wiz marketing pillars to buildings: naming, positioning, visibility, consistency."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "GENERIC VS. BRAND-LED",
+      "columns": [
+        "GENERIC",
+        "BRAND-LED"
+      ],
+      "rows": [
+        [
+          "Described by address",
+          "Recognized by identity"
+        ],
+        [
+          "Competes on price alone",
+          "Competes on position"
+        ],
+        [
+          "Hard to remember",
+          "Easy to explain"
+        ]
+      ],
+      "scene": "skyline",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting generic and brand-led buildings."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 4-QUESTION BRAND CHECK",
+      "rows": [
+        "What is the identity?",
+        "Who is it for?",
+        "What gap does it fill?",
+        "Can it be built and run well?"
+      ],
+      "button": "Comment a building brand you'd remember",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered brand-check questions for buildings, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "all captions: applying the Wiz pillars to buildings ('I think', 'I'd apply')."
+}

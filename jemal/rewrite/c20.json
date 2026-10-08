@@ -1,0 +1,154 @@
+{
+  "id": 20,
+  "week": 20,
+  "title": "Local market awareness",
+  "pillar": "Scaling and systems (general guidance)",
+  "captions": {
+    "instagram": "Every neighborhood is a different customer. Before opening somewhere new, I'd learn three things: who lives and shops there, what competitors already do, and how people get there.\n\nThen adjust the offer, not the identity. Save the 5 local research questions.\n\n#SmallBusiness #Retail #LocalBusiness\n\nWhat's one thing every newcomer should know about your neighborhood?",
+    "facebook": "Opening in a new neighborhood? Learn who's there, who already serves them and how they arrive. Keep your name and promise; adjust the mix. I put 5 research questions on the last slide.\n\n#LocalBusiness #SmallBusiness\n\nWhat makes your neighborhood different?",
+    "linkedin": "Adjust the offer, not the identity.\n\nFor multi-location brands, every neighborhood is a different customer. Before opening, I'd learn who lives and shops nearby, what competitors already serve well, and how people get there.\n\nWhat stays: name, promise and standards. What flexes: product mix and local promotions. Test small changes before big ones, and review results location by location.\n\n#Retail #Strategy\n\nWhat did a new location teach you about your customers?",
+    "x": "Opening in a new neighborhood? Learn three things first:\n\n1. Who lives and shops there\n2. What competitors already do\n3. How people get there\n\nThen I'd adjust the offer, not the identity. Agree?",
+    "threads": "Every neighborhood is a different customer. I'd keep the brand and adjust the mix.\n\nWhat's special about yours?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "OPENING IN A NEW NEIGHBORHOOD? LEARN THESE 3 THINGS FIRST",
+      "subline": "Adjust the offer, not the identity. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Opening in a new neighborhood? Learn these 3 things first",
+          "mechanism": "Identity + promise: speaks to expanding owners.",
+          "chosen": true
+        },
+        {
+          "text": "Every neighborhood is a different customer.",
+          "mechanism": "Insight: memorable, less specific."
+        },
+        {
+          "text": "Adjust the offer, not the identity.",
+          "mechanism": "Rule: punchy, gives the payoff away."
+        }
+      ],
+      "scene": "map",
+      "sourceLine": "General retail guidance",
+      "attachments": [],
+      "altText": "Cover headline 'Opening in a new neighborhood? Learn these 3 things first' over an illustrated street map with a gold route."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "LEARN LOCALLY",
+      "headline": "THREE THINGS TO LEARN FIRST",
+      "cards": [
+        {
+          "icon": "map-pin",
+          "title": "WHO LIVES AND SHOPS THERE",
+          "body": "Needs, habits and budgets differ block by block."
+        },
+        {
+          "icon": "magnifying-glass",
+          "title": "WHAT COMPETITORS DO",
+          "body": "See what is already well served and what is missing."
+        },
+        {
+          "icon": "map-grid",
+          "title": "HOW PEOPLE GET THERE",
+          "body": "Walking, driving and transit change who walks in."
+        }
+      ],
+      "scene": "map",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: who lives and shops there, what competitors do, how people get there."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "THE METHOD",
+      "headline": "LEARN. ADJUST. STAY ON BRAND.",
+      "flow": [
+        [
+          "LEARN",
+          "magnifying-glass"
+        ],
+        [
+          "ADJUST",
+          "gear"
+        ],
+        [
+          "STAY ON BRAND",
+          "shield"
+        ]
+      ],
+      "cards": [
+        {
+          "accent": "left-border",
+          "title": "THE RULE",
+          "body": "Adjust the offer, not the identity."
+        }
+      ],
+      "scene": "map",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow, learn, adjust, stay on brand, with a rule card."
+    },
+    {
+      "n": 4,
+      "template": "stats_rows",
+      "kicker": "WHAT STAYS, WHAT FLEXES",
+      "headline": "KEEP, ADJUST, TEST, REVIEW",
+      "rows": [
+        [
+          "KEEP",
+          "Name, promise and standards"
+        ],
+        [
+          "ADJUST",
+          "Product mix and local promotions"
+        ],
+        [
+          "TEST",
+          "Small changes before big ones"
+        ],
+        [
+          "REVIEW",
+          "Results, location by location"
+        ]
+      ],
+      "scene": "storefront",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four rows: keep name and standards, adjust product mix, test small changes, review results by location."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "5 LOCAL RESEARCH QUESTIONS",
+      "rows": [
+        "Who are the nearby customers?",
+        "What do they need most?",
+        "Who else serves them?",
+        "How do they reach us?",
+        "What should we test first?"
+      ],
+      "button": "Comment your neighborhood tip",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered local research questions with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/linkedin/x/threads: 'I'd learn', 'I'd adjust/keep'."
+}

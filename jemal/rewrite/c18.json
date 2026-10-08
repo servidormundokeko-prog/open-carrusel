@@ -1,0 +1,157 @@
+{
+  "id": 18,
+  "week": 18,
+  "title": "Lease basics",
+  "pillar": "Scaling and systems (general guidance)",
+  "captions": {
+    "instagram": "Rent is only one line of your lease. Term, renewal, exit, buildout, extra costs and restrictions all shape your business. I listed what to weigh, and six questions for your landlord.\n\nGeneral guidance, not legal advice: have a qualified lawyer review any lease before you sign.\n\n#SmallBusiness #CommercialRealEstate #Retail\n\nWhat question would you add?",
+    "facebook": "Before you sign a lease, look past the rent. I listed what to weigh and six questions to ask your landlord.\n\nGeneral guidance, not legal advice. Always have a lawyer review the lease.\n\n#SmallBusiness #CommercialRealEstate\n\nWhat's one lease term you wish you'd negotiated?",
+    "linkedin": "The lease is part of your business model, not a formality.\n\nWhat I'd weigh first: rent against realistic traffic and sales, the term, renewal rights and cost, and what happens if the location doesn't work. Then check buildout contributions, costs on top of base rent, and restrictions on what you can sell, display or change.\n\nReview, negotiate, sign, in that order, with a qualified lawyer.\n\nGeneral guidance, not legal advice.\n\n#CommercialRealEstate #SmallBusiness\n\nWhich lease term matters most to you?",
+    "x": "Rent is only one line of your lease.\n\nAlso check: term, renewal, exit, buildout help, extra costs, restrictions.\n\nGeneral guidance, not legal advice. Get a lawyer.\n\nWhat would you add to my list?",
+    "threads": "Rent is only one line of the lease. I'd read the exit terms just as carefully.\n\nGeneral guidance, not legal advice. What would you check first?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "RENT IS ONLY ONE LINE OF YOUR LEASE. CHECK THESE.",
+      "subline": "Six questions before you sign. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Rent is only one line of your lease. Check these.",
+          "mechanism": "Curiosity gap + promise: most people stop at rent.",
+          "chosen": true
+        },
+        {
+          "text": "The lease is part of your business model.",
+          "mechanism": "Contrarian reframe: strong, less specific."
+        },
+        {
+          "text": "Six questions to ask your landlord before you sign.",
+          "mechanism": "Promise: save-worthy, overlaps with C7's cover."
+        }
+      ],
+      "scene": "keys",
+      "sourceLine": "General guidance, not legal advice",
+      "attachments": [],
+      "altText": "Cover headline 'Rent is only one line of your lease. Check these.' over an illustrated brass key beside a small house."
+    },
+    {
+      "n": 2,
+      "template": "stats_rows",
+      "kicker": "WHAT TO WEIGH FIRST",
+      "headline": "RENT, TERM, RENEWAL, EXIT",
+      "rows": [
+        [
+          "RENT",
+          "Compare it with realistic traffic and sales"
+        ],
+        [
+          "TERM",
+          "How long you are committed"
+        ],
+        [
+          "RENEWAL",
+          "Whether you can stay, and at what cost"
+        ],
+        [
+          "EXIT",
+          "What happens if the location doesn't work"
+        ]
+      ],
+      "scene": "keys",
+      "sourceLine": "General guidance, not legal advice",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four rows: rent, term, renewal and exit, each with what to weigh."
+    },
+    {
+      "n": 3,
+      "template": "cards_stack",
+      "kicker": "WHAT ELSE TO CHECK",
+      "headline": "BUILDOUT, EXTRA COSTS, RESTRICTIONS",
+      "cards": [
+        {
+          "icon": "blueprint",
+          "title": "BUILDOUT",
+          "body": "What the landlord contributes and what you pay for."
+        },
+        {
+          "icon": "tag",
+          "title": "OTHER COSTS",
+          "body": "What is charged on top of base rent."
+        },
+        {
+          "icon": "map-grid",
+          "title": "RESTRICTIONS",
+          "body": "What you can sell, display and change."
+        }
+      ],
+      "scene": "blueprint",
+      "sourceLine": "General guidance, not legal advice",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: buildout contributions, costs beyond base rent, and restrictions."
+    },
+    {
+      "n": 4,
+      "template": "flow_steps",
+      "kicker": "THE ORDER",
+      "headline": "REVIEW. NEGOTIATE. SIGN.",
+      "flow": [
+        [
+          "REVIEW",
+          "magnifying-glass"
+        ],
+        [
+          "NEGOTIATE",
+          "scale"
+        ],
+        [
+          "SIGN",
+          "key"
+        ]
+      ],
+      "cards": [
+        {
+          "accent": "left-border",
+          "title": "GET A LAWYER",
+          "body": "Have a qualified lawyer review the lease before you sign."
+        }
+      ],
+      "scene": "scale",
+      "sourceLine": "General guidance, not legal advice",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow from review to negotiate to sign, with a card advising a lawyer's review."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "6 QUESTIONS FOR YOUR LANDLORD",
+      "rows": [
+        "Total monthly cost?",
+        "How long is the term?",
+        "Can I renew, at what rent?",
+        "What are my exit options?",
+        "Any buildout help?",
+        "What can I change or display?"
+      ],
+      "button": "Comment the question you'd add",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "sourceLine": "General guidance, not legal advice",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Six numbered questions to ask a landlord, with a gold comment button and a general-guidance note."
+    }
+  ],
+  "captionsNeedApproval": "linkedin/threads: 'What I'd weigh first', 'I'd read the exit terms'."
+}

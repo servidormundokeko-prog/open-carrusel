@@ -1,0 +1,147 @@
+{
+  "id": 50,
+  "week": 50,
+  "title": "Vision vs. positioning",
+  "pillar": "Founder lessons",
+  "captions": {
+    "instagram": "Vision or positioning: which one does your business need? Both, in that order.\n\nHow I'd define them: vision is seeing where a market is going and organizing around it. Positioning is making the business easy to understand. The Wiz was positioned on four pillars: clear message, competitive identity, operational support, scalable concept.\n\n#Strategy #Leadership #Branding\n\nWhat's your vision in one line?",
+    "facebook": "Vision sets the direction. Positioning makes it clear. I broke down the difference, with the four positioning pillars behind the Wiz.\n\n#Strategy #Leadership\n\nWhich one does your business struggle with more?",
+    "linkedin": "Vision sets the direction. Positioning makes it clear.\n\nHow I'd define them: strategic vision is seeing where a market is going and organizing people, capital and operations around it. Market positioning is making a business easy for customers, partners and investors to understand.\n\nThe Wiz was positioned on four pillars: a clear message, a competitive identity, operational support and a scalable concept.\n\nFour questions I'd ask: Where is the market going? How will we be understood? Who must be organized? What proves it?\n\n#Strategy #Leadership\n\nWhich question is hardest for your team?",
+    "x": "Vision: where the market is going.\nPositioning: how people understand you.\n\nI think you need both, in that order. What's your vision in one line?",
+    "threads": "Vision sets the direction. Positioning makes it clear. I'd want both.\n\nWhich are you stronger at?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "VISION OR POSITIONING: WHICH ONE DOES YOUR BUSINESS NEED?",
+      "subline": "Two ideas, one strategy. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Vision or positioning: which one does your business need?",
+          "mechanism": "Either/or question: forces a choice, pays off with 'both'.",
+          "chosen": true
+        },
+        {
+          "text": "Vision sets the direction. Positioning makes it clear.",
+          "mechanism": "Pattern: memorable, gives the answer away."
+        },
+        {
+          "text": "Most founders confuse vision with positioning.",
+          "mechanism": "Contrarian: an unsourced claim."
+        }
+      ],
+      "scene": "scale",
+      "sourceLine": "General guidance",
+      "attachments": [],
+      "altText": "Cover headline 'Vision or positioning: which one does your business need?' over an illustrated golden balance scale."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "TWO IDEAS, DEFINED",
+      "headline": "VISION VS. POSITIONING",
+      "cards": [
+        {
+          "icon": "magnifying-glass",
+          "title": "STRATEGIC VISION",
+          "body": "Seeing where a market is going, then organizing people, capital and operations around it."
+        },
+        {
+          "icon": "banner-with-star",
+          "title": "MARKET POSITIONING",
+          "body": "Making a business easy for customers, partners and investors to understand."
+        }
+      ],
+      "scene": "scale",
+      "needsApproval": true,
+      "approvalNote": "Definitions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Two cards defining strategic vision and market positioning."
+    },
+    {
+      "n": 3,
+      "template": "stats_grid",
+      "kicker": "POSITIONING IN PRACTICE",
+      "headline": "THE WIZ POSITIONING PILLARS",
+      "cards": [
+        [
+          "CLEAR MESSAGE",
+          "A promise people remember"
+        ],
+        [
+          "COMPETITIVE IDENTITY",
+          "A reason to choose you"
+        ],
+        [
+          "OPERATIONAL SUPPORT",
+          "Execution that matches the promise"
+        ],
+        [
+          "SCALABLE CONCEPT",
+          "A position that can grow"
+        ]
+      ],
+      "scene": "storefront",
+      "sourceLine": "Pillars: stephenjemal.com",
+      "needsApproval": true,
+      "approvalNote": "Pillar names per stephenjemal.com; descriptions are framing.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid of the Wiz positioning pillars: clear message, competitive identity, operational support, scalable concept."
+    },
+    {
+      "n": 4,
+      "template": "flow_steps",
+      "kicker": "HOW THEY CONNECT",
+      "headline": "VISION POINTS. POSITIONING EXPLAINS.",
+      "flow": [
+        [
+          "VISION",
+          "magnifying-glass"
+        ],
+        [
+          "POSITIONING",
+          "banner-with-star"
+        ],
+        [
+          "EXECUTION",
+          "crane"
+        ]
+      ],
+      "pullLine": "Vision sets the direction. Positioning makes it clear.",
+      "scene": "stairs",
+      "needsApproval": true,
+      "approvalNote": "Opinion pull line in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow from vision to positioning to execution."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 4-QUESTION STRATEGY CHECK",
+      "rows": [
+        "Where is the market going?",
+        "How will we be understood?",
+        "Who must be organized?",
+        "What proves it?"
+      ],
+      "button": "Comment your vision in one line",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered strategy questions with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "all captions: 'How I'd define them', 'I think you need both'."
+}

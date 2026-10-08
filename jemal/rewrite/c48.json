@@ -1,0 +1,144 @@
+{
+  "id": 48,
+  "week": 48,
+  "title": "Reading an outdated asset",
+  "pillar": "Real estate and vision",
+  "captions": {
+    "instagram": "How do you see value in an outdated building? Score it.\n\nSix factors I'd look at: location, future demand, building condition, neighborhood change, zoning and construction feasibility. Score each from 1 to 5, compare, then decide.\n\nSave the scorecard.\n\n#RealEstate #Investing #UrbanDevelopment\n\nWhat would your building score?",
+    "facebook": "Old building, good bones? I made a 6-factor scorecard for judging any property before you fall for it.\n\n#RealEstate #Investing\n\nWhich factor do people overlook most?",
+    "linkedin": "Score it before you fall for it.\n\nAn outdated building can hide real value, or real problems. Six factors I'd score: location (is it somewhere people want to be?), future demand (will they still want to be there?), building condition, neighborhood change, zoning (what can it legally become?) and construction feasibility.\n\nScore each from 1 to 5. Compare properties side by side. Then decide.\n\n#RealEstate #Investing\n\nWhich factor would you weigh most?",
+    "x": "6-factor property scorecard, 1 to 5 each:\n\nLocation\nFuture demand\nCondition\nNeighborhood change\nZoning\nFeasibility\n\nI'd score before falling for any building. What would yours score?",
+    "threads": "Score it before you fall for it. That's my rule for old buildings.\n\nWhat would you look at first?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "HOW DO YOU SEE VALUE IN AN OUTDATED BUILDING? SCORE IT.",
+      "subline": "Six factors, one scorecard. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "How do you see value in an outdated building? Score it.",
+          "mechanism": "Question + promise: a method, not a vibe.",
+          "chosen": true
+        },
+        {
+          "text": "Six factors to score any property.",
+          "mechanism": "Specificity: save-worthy, low tension."
+        },
+        {
+          "text": "Old building, good bones? Here's how to check.",
+          "mechanism": "Curiosity: familiar phrase, practical payoff."
+        }
+      ],
+      "scene": "blueprint",
+      "sourceLine": "General guidance",
+      "attachments": [],
+      "altText": "Cover headline 'How do you see value in an outdated building? Score it.' over an illustrated gold blueprint grid."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "FACTORS 1 TO 3",
+      "headline": "THE LOCATION STORY",
+      "cards": [
+        {
+          "title": "LOCATION",
+          "body": "Is it somewhere people want to be?"
+        },
+        {
+          "title": "FUTURE DEMAND",
+          "body": "Will they still want to be there?"
+        },
+        {
+          "title": "BUILDING CONDITION",
+          "body": "What does it need to work today?"
+        }
+      ],
+      "scene": "map",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three numbered cards: location, future demand, building condition."
+    },
+    {
+      "n": 3,
+      "template": "stats_rows",
+      "kicker": "FACTORS 4 TO 6",
+      "headline": "THE CONTEXT",
+      "rows": [
+        [
+          "NEIGHBORHOOD",
+          "Where is the area headed?"
+        ],
+        [
+          "ZONING",
+          "What can it legally become?"
+        ],
+        [
+          "FEASIBILITY",
+          "Can it be built at a sensible cost?"
+        ]
+      ],
+      "scene": "skyline",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three rows: neighborhood change, zoning, construction feasibility."
+    },
+    {
+      "n": 4,
+      "template": "flow_steps",
+      "kicker": "THE METHOD",
+      "headline": "SCORE. COMPARE. DECIDE.",
+      "flow": [
+        [
+          "SCORE",
+          "chart"
+        ],
+        [
+          "COMPARE",
+          "scale"
+        ],
+        [
+          "DECIDE",
+          "key"
+        ]
+      ],
+      "pullLine": "Score it before you fall for it.",
+      "scene": "scale",
+      "needsApproval": true,
+      "approvalNote": "Opinion pull line in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow: score, compare, decide."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 6-FACTOR PROPERTY SCORECARD",
+      "rows": [
+        "Location: 1 to 5",
+        "Future demand: 1 to 5",
+        "Condition: 1 to 5",
+        "Neighborhood change: 1 to 5",
+        "Zoning: 1 to 5",
+        "Feasibility: 1 to 5"
+      ],
+      "button": "Comment your total score",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A six-factor numbered property scorecard rated 1 to 5, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "all captions: 'Six factors I'd look at', 'my rule'."
+}

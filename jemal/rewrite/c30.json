@@ -1,0 +1,148 @@
+{
+  "id": 30,
+  "week": 30,
+  "title": "Robots in prefab",
+  "pillar": "BUILT technology",
+  "captions": {
+    "instagram": "What do robots actually do in a factory-built home? Four jobs: cut, assemble, move, measure.\n\nWhat automation adds is repetition: the same task, the same way, every time, in a setting that doesn't change with the weather. That's what robotics-driven means to me, and it's a pillar of BUILT®.\n\nSave the 4 questions about factory-built homes.\n\n#Robotics #Prefab #ConstructionTech\n\nWhat would you ask first?",
+    "facebook": "Cut, assemble, move, measure. That's what robots do in prefab construction. I compared on-site and factory building in one table.\n\n#Robotics #Prefab\n\nWould you live in a factory-built home?",
+    "linkedin": "On site, conditions change every day. In a factory, the process repeats.\n\nRobots in prefab construction do four jobs: cut, assemble, move and measure. What automation adds is consistency: repetitive tasks done the same way, parts made to close tolerances, and less of the uncertainty that comes with site-based building.\n\nBUILT® is robotics-driven, one of its four pillars.\n\nFour questions I'd ask about any factory-built home: What is made in the factory? What happens on site? How is quality checked? How are parts transported?\n\n#Robotics #ConstructionTech\n\nWhich would you ask first?",
+    "x": "What robots do in prefab construction:\n\nCut. Assemble. Move. Measure.\n\nSame task, same way, every time. That's what robotics-driven means to me in BUILT®. What would you automate first?",
+    "threads": "Cut, assemble, move, measure. Robots repeat the same task the same way every time. That's what I want in a home.\n\nWould you?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "WHAT DO ROBOTS ACTUALLY DO IN A FACTORY-BUILT HOME?",
+      "subline": "Four jobs, and why they matter. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "What do robots actually do in a factory-built home?",
+          "mechanism": "Curiosity gap: demystifies a buzzword.",
+          "chosen": true
+        },
+        {
+          "text": "Cut. Assemble. Move. Measure.",
+          "mechanism": "Pattern: punchy, gives the payoff away."
+        },
+        {
+          "text": "Four jobs robots do in prefab construction.",
+          "mechanism": "Specificity: countable promise."
+        }
+      ],
+      "scene": "robot",
+      "sourceLine": "General guidance",
+      "attachments": [],
+      "altText": "Cover headline 'What do robots actually do in a factory-built home?' over an illustrated robotic arm placing a panel."
+    },
+    {
+      "n": 2,
+      "template": "flow_steps",
+      "kicker": "FOUR JOBS",
+      "headline": "CUT. ASSEMBLE. MOVE. MEASURE.",
+      "body": "In prefab construction, robots take on four kinds of work.",
+      "flow": [
+        [
+          "CUT",
+          "gear"
+        ],
+        [
+          "ASSEMBLE",
+          "robot-arm"
+        ],
+        [
+          "MOVE",
+          "conveyor"
+        ],
+        [
+          "MEASURE",
+          "laser"
+        ]
+      ],
+      "scene": "robot",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow of robot jobs in prefab: cut, assemble, move, measure."
+    },
+    {
+      "n": 3,
+      "template": "cards_stack",
+      "kicker": "WHAT AUTOMATION ADDS",
+      "headline": "THE SAME, EVERY TIME",
+      "cards": [
+        {
+          "title": "SAME EVERY TIME",
+          "body": "Repetitive tasks done the same way."
+        },
+        {
+          "title": "MORE PRECISE PARTS",
+          "body": "Components made to close tolerances."
+        },
+        {
+          "title": "LESS UNCERTAINTY",
+          "body": "Fewer variables than site-based building."
+        }
+      ],
+      "scene": "factory",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three numbered cards: repeatable tasks, precise parts, and less uncertainty than site-based building."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "ON SITE VS. IN A FACTORY",
+      "columns": [
+        "ON SITE",
+        "IN A FACTORY"
+      ],
+      "rows": [
+        [
+          "Conditions change daily",
+          "A repeatable setting"
+        ],
+        [
+          "Each build starts fresh",
+          "Processes repeat"
+        ],
+        [
+          "Quality varies",
+          "Quality is standardized"
+        ]
+      ],
+      "pullLine": "BUILT® is robotics-driven: one of its four pillars.",
+      "scene": "crane",
+      "sourceLine": "BUILT® per stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting on-site and factory building."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "4 QUESTIONS ABOUT FACTORY-BUILT HOMES",
+      "rows": [
+        "What is made in the factory?",
+        "What happens on site?",
+        "How is quality checked?",
+        "How are parts transported?"
+      ],
+      "button": "Comment what you'd ask first",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered questions about factory-built homes, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/x/threads: 'what robotics-driven means to me', 'That's what I want in a home'; linkedin: 'Four questions I'd ask'."
+}

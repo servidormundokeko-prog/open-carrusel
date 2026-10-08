@@ -1,0 +1,149 @@
+{
+  "id": 12,
+  "week": 12,
+  "title": "The buildout advantage",
+  "pillar": "Founder lessons",
+  "captions": {
+    "instagram": "As the Wiz chain grew, I built our own construction and prefabricated fixture manufacturing company.\n\nEvery new store is a buildout. Do it across a chain and building becomes a system. Today, BUILT® applies prefabrication to housing.\n\nSave the 4 questions to ask about any buildout.\n\n#Construction #Prefab #Retail\n\nWhere does your buildout cost leak?",
+    "facebook": "Every new store is a construction project. As the Wiz grew, I built an in-house construction and prefabricated fixture company.\n\n#Construction #SmallBusiness\n\nHave you ever brought a key service in-house?",
+    "linkedin": "A retail chain is a construction project on repeat.\n\nEvery new store needs a site, a lease, a design, fixtures and a build timed to opening day. As the Wiz chain grew, I built an in-house construction and prefabricated fixture manufacturing company.\n\nToday, BUILT® takes prefabrication to housing: AI-powered, robotics-driven, cloud-based and laser-guided modular production.\n\nFour questions for any buildout: Can we repeat it? Where does the cost leak? How long does it really take? Will every site look and work the same?\n\n#Construction #Prefab\n\nWhich question costs your projects the most?",
+    "x": "As the Wiz chain grew, I built our own construction and fixture company.\n\nPrefab fixtures then. Prefab homes with BUILT® now.\n\nWhere does your buildout cost leak?",
+    "threads": "Every new store is a buildout. As the chain grew, I built our own construction company.\n\nWould you bring construction in-house?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "AS THE CHAIN GREW, I BUILT OUR OWN CONSTRUCTION COMPANY",
+      "subline": "From store fixtures to BUILT®. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "As the chain grew, I built our own construction company",
+          "mechanism": "Specificity + story: an unusual move most retailers don't make.",
+          "chosen": true
+        },
+        {
+          "text": "A retail chain is a construction project on repeat.",
+          "mechanism": "Contrarian reframe: strong, but opinion."
+        },
+        {
+          "text": "What do store fixtures have to do with housing tech?",
+          "mechanism": "Curiosity gap: pays off on slide 4."
+        }
+      ],
+      "background": "A row of identical storefront shells on a glowing blueprint grid, one fully built and lit, the others in gold wireframe.",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [],
+      "altText": "Cover headline 'As the chain grew, I built our own construction company' over a row of storefront shells, one lit."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "THE PROBLEM",
+      "headline": "EVERY NEW STORE IS A BUILDOUT",
+      "cards": [
+        {
+          "body": "Location chosen and lease signed"
+        },
+        {
+          "body": "Space designed and fixtures made"
+        },
+        {
+          "body": "Construction timed to the opening"
+        },
+        {
+          "body": "Same standard, again and again"
+        }
+      ],
+      "pullLine": "Repeat it across a chain and building becomes a system.",
+      "scene": "row",
+      "needsApproval": true,
+      "approvalNote": "Pull line is opinion in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered cards listing the steps of every new store buildout, with a gold pull line."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "THE ANSWER",
+      "headline": "BUILD IT IN-HOUSE",
+      "body": "As the chain grew, I built an in-house construction and prefabricated fixture manufacturing company.",
+      "flow": [
+        [
+          "Design",
+          "blueprint"
+        ],
+        [
+          "Make fixtures",
+          "factory"
+        ],
+        [
+          "Install in store",
+          "storefront"
+        ]
+      ],
+      "scene": "factory",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow from design to making fixtures to installing in store, under a line about the in-house company."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THEN AND NOW",
+      "headline": "PREFAB FIXTURES THEN. PREFAB HOMES NOW.",
+      "columns": [
+        "THE WIZ ERA",
+        "BUILT®"
+      ],
+      "rows": [
+        [
+          "Prefabricated store fixtures",
+          "Prefabricated modular housing"
+        ],
+        [
+          "In-house construction",
+          "AI, robotics, cloud, laser guidance"
+        ],
+        [
+          "One growing chain",
+          "One mother factory, many pilot factories"
+        ]
+      ],
+      "scene": "blueprint",
+      "sourceLine": "Source: stephenjemal.com",
+      "needsApproval": true,
+      "approvalNote": "The then-and-now comparison is framing.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table comparing the Wiz-era fixture company with BUILT prefabricated modular housing."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "4 QUESTIONS TO ASK ABOUT ANY BUILDOUT",
+      "rows": [
+        "Can we repeat it?",
+        "Where does the cost leak?",
+        "How long does it really take?",
+        "Will every site look and work the same?"
+      ],
+      "button": "Comment your answer to #2",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered buildout questions with a gold button asking readers to answer the second."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson line ('A retail chain is a construction project on repeat')."
+}

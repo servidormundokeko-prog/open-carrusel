@@ -1,0 +1,184 @@
+{
+  "id": 10,
+  "week": 10,
+  "title": "The 4 moves",
+  "pillar": "Founder lessons",
+  "captions": {
+    "instagram": "In 1976, the first Wiz opened on one Fulton Street storefront in downtown Brooklyn. Today I lead JemRock Organization and BUILT®.\n\nI think about the road between those two points as four moves: find the gap, build the brand, scale the system, play the long game.\n\nSwipe for each move, then save the 4-question check for your own business.\n\n#Entrepreneurship #Branding #SmallBusiness\n\nWhich of the four questions would you answer first?",
+    "facebook": "One Brooklyn storefront in 1976. A housing technology company today.\n\nHere's how I break that road into four moves: find the gap, build the brand, scale the system, play the long game. The last slide is a 4-question check you can run on any business.\n\n#Entrepreneurship #SmallBusiness\n\nWhich move is hardest for your business right now?",
+    "linkedin": "A good concept is only the first move. The other three decide whether it lasts.\n\nHow I think about it:\n1. Find the gap: a need that isn't being served.\n2. Build the brand: \"Nobody Beats The Wiz\" paired memorable naming with clear positioning.\n3. Scale the system: as the chain grew, I built our own construction and prefabricated fixture company.\n4. Play the long game: after the Wiz came waterfront revitalization and real estate, then JemRock Organization and BUILT®, which I presented at the United Nations.\n\nThe questions I'd ask any founder: What need isn't being served? Will people remember your name and your claim? Is it written down well enough to repeat? Where is your market going next?\n\n#Leadership #Entrepreneurship\n\nWhich of these four moves does your company do best?",
+    "x": "My 4 moves, from one Fulton Street storefront to housing tech:\n\n1. Find the gap\n2. Build the brand\n3. Scale the system\n4. Play the long game\n\nWhich one is your business missing?",
+    "threads": "Four moves I keep coming back to: find the gap, build the brand, scale the system, play the long game.\n\nThey run from a Brooklyn storefront in 1976 to the housing work I do at JemRock today.\n\nWhich one are you working on right now?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "FROM ONE FULTON STREET STORE TO HOUSING TECH: MY 4 MOVES",
+      "subline": "Save the framework →",
+      "hookAlternatives": [
+        {
+          "text": "From one Fulton Street store to housing tech: my 4 moves.",
+          "mechanism": "Transformation + specificity: a real start point and a real end point.",
+          "chosen": true
+        },
+        {
+          "text": "Find the gap. Build the brand. Scale the system. Then what?",
+          "mechanism": "Curiosity gap: the fourth move is held back until slide 4."
+        },
+        {
+          "text": "Which of these 4 moves is your business missing?",
+          "mechanism": "Question / identity: speaks to founders directly."
+        }
+      ],
+      "background": "A stylized Brooklyn corner storefront at dusk with a warm golden glow spilling onto wet pavement.",
+      "photo": {
+        "description": "a real portrait of Stephen Jemal",
+        "placement": "right side of the lower half, about 35% of the image width and 40% of its height"
+      },
+      "pills": [
+        "1 Find the gap",
+        "2 Build the brand",
+        "3 Scale the system",
+        "4 Play the long game"
+      ],
+      "sourceLine": "Wiz history per company histories",
+      "needsApproval": true,
+      "approvalNote": "'My 4 moves' presents the framework as Stephen's own.",
+      "attachments": [
+        "portrait of Stephen Jemal"
+      ],
+      "altText": "Cover headline 'From one Fulton Street store to housing tech: my 4 moves' with four numbered pills and a portrait of Stephen Jemal over a Brooklyn storefront at dusk."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "MOVES 1 AND 2",
+      "headline": "FIND THE GAP. BUILD THE BRAND.",
+      "cards": [
+        {
+          "icon": "magnifying-glass",
+          "title": "1. FIND THE GAP",
+          "body": "Look for a need that isn't being served. Build the concept around it."
+        },
+        {
+          "icon": "banner-with-star",
+          "title": "2. BUILD THE BRAND",
+          "body": "Nobody Beats The Wiz: memorable naming, clear positioning. My father named it after his favorite Broadway musical."
+        }
+      ],
+      "scene": "blueprint",
+      "sourceLine": "Brand pillars: stephenjemal.com. Name origin per company histories.",
+      "needsApproval": true,
+      "approvalNote": "Move 1 ('Look for a need that isn't being served') is advice in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Two gold-bordered cards: find the gap, and build the brand, citing the Nobody Beats The Wiz name."
+    },
+    {
+      "n": 3,
+      "template": "stat_flow_checklist",
+      "kicker": "MOVE 3",
+      "headline": "SCALE THE SYSTEM",
+      "topCard": [
+        "1976",
+        "The first Wiz opens on Fulton Street, Brooklyn"
+      ],
+      "flow": [
+        [
+          "Define it",
+          "blueprint"
+        ],
+        [
+          "Document it",
+          "clipboard"
+        ],
+        [
+          "Repeat it",
+          "stack-of-storefronts"
+        ]
+      ],
+      "checklistTitle": "THE WIZ POSITIONING PILLARS",
+      "checklist": [
+        "Clear message",
+        "Competitive identity",
+        "Operational support",
+        "Scalable concept"
+      ],
+      "pullLine": "As the chain grew, I built our own construction and fixture company.",
+      "scene": "conveyor",
+      "sourceLine": "Source: stephenjemal.com. 1976 per company histories.",
+      "needsApproval": true,
+      "approvalNote": "'Define it, document it, repeat it' is a framework, not a documented Wiz process.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 1976 card for the first Wiz, a three-step flow (define, document, repeat), and a checklist of the four Wiz positioning pillars."
+    },
+    {
+      "n": 4,
+      "template": "flow_steps",
+      "kicker": "MOVE 4",
+      "headline": "PLAY THE LONG GAME",
+      "body": "After the Wiz, I moved into waterfront revitalization and real estate. That work led to JemRock.",
+      "flow": [
+        [
+          "RETAIL",
+          "storefront"
+        ],
+        [
+          "CONSTRUCTION",
+          "hard-hat"
+        ],
+        [
+          "REAL ESTATE",
+          "apartment-building"
+        ],
+        [
+          "HOUSING TECH",
+          "factory"
+        ]
+      ],
+      "cards": [
+        {
+          "title": "RECOGNIZED FOR THE WORK",
+          "checklist": [
+            "Presented BUILT® at the United Nations",
+            "Featured in The Real Deal"
+          ]
+        }
+      ],
+      "scene": "stairs",
+      "sourceLine": "Source: stephenjemal.com",
+      "needsApproval": true,
+      "approvalNote": "Labeling this path a 'move' is framing.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step path from retail to construction, real estate and housing tech, with a card listing the UN presentation and The Real Deal feature."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 4-QUESTION BUSINESS CHECK",
+      "rows": [
+        "What need isn't being served?",
+        "Will people remember your name and your claim?",
+        "Is it written down well enough to repeat?",
+        "Where is your market going next?"
+      ],
+      "button": "Comment the question you'd answer first",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered business questions, one per move, with a gold button asking readers which they would answer first."
+    }
+  ],
+  "captionsNeedApproval": "instagram/threads: 'I think about the road...as four moves'; linkedin: opening lesson and 'questions I'd ask any founder'."
+}

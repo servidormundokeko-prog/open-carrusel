@@ -1,0 +1,161 @@
+{
+  "id": 5,
+  "week": 5,
+  "title": "More than a store",
+  "pillar": "Founder lessons",
+  "captions": {
+    "instagram": "Four positioning pillars sat behind Nobody Beats The Wiz: clear message, competitive identity, operational support and scalable concept.\n\nHow I see it: a store sells products, a brand stands for something. Swipe for the difference, then save my 4-question identity check.\n\n#Branding #Retail #SmallBusiness\n\nWhat does your brand stand for in one sentence?",
+    "facebook": "The Wiz was positioned on four pillars: clear message, competitive identity, operational support and scalable concept.\n\nI turned them into a 4-question identity check on the last slide. Run it on your own business.\n\n#Branding #SmallBusiness\n\nWhich pillar is strongest in your business?",
+    "linkedin": "A store sells products. A brand stands for something, and that is what lets it travel.\n\nThe Wiz was positioned on four pillars: a clear message, a competitive identity, operational support and a scalable concept.\n\nThe identity check I'd use:\n1. What do we stand for?\n2. Can customers repeat it?\n3. Does the store deliver it?\n4. Can it travel to a new location?\n\n#Branding #Strategy\n\nWhich of these questions is hardest for your company?",
+    "x": "My breakdown of the 4 positioning pillars behind Nobody Beats The Wiz:\n\n1. Clear message\n2. Competitive identity\n3. Operational support\n4. Scalable concept\n\nWhich one is your business missing?",
+    "threads": "Clear message. Competitive identity. Operational support. Scalable concept.\n\nThat's how the Wiz was positioned. My question for you: which one would you work on first?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "THE 4 PILLARS BEHIND NOBODY BEATS THE WIZ",
+      "subline": "A store vs. a brand. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "The 4 pillars behind Nobody Beats The Wiz",
+          "mechanism": "Specificity + authority: a named brand and a countable promise.",
+          "chosen": true
+        },
+        {
+          "text": "Stores sell products. Brands stand for something. Which are you building?",
+          "mechanism": "Contrarian + question: strong, but opinion."
+        },
+        {
+          "text": "What turned a Brooklyn store into a New York name?",
+          "mechanism": "Curiosity gap: implies causation we can't source."
+        }
+      ],
+      "scene": "pillars",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [],
+      "altText": "Cover headline 'The 4 pillars behind Nobody Beats The Wiz' over four illustrated gold columns."
+    },
+    {
+      "n": 2,
+      "template": "stats_grid",
+      "kicker": "THE WIZ POSITIONING PILLARS",
+      "headline": "CLEAR, COMPETITIVE, SUPPORTED, SCALABLE",
+      "cards": [
+        [
+          "CLEAR MESSAGE",
+          "One promise people remember"
+        ],
+        [
+          "COMPETITIVE IDENTITY",
+          "A reason to choose you"
+        ],
+        [
+          "OPERATIONAL SUPPORT",
+          "Stores that deliver the promise"
+        ],
+        [
+          "SCALABLE CONCEPT",
+          "An idea that works in more places"
+        ]
+      ],
+      "scene": "pillars",
+      "sourceLine": "Pillars: stephenjemal.com",
+      "needsApproval": true,
+      "approvalNote": "Pillar names per stephenjemal.com; descriptions are framing.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid of the four Wiz positioning pillars with one-line descriptions."
+    },
+    {
+      "n": 3,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "A STORE VS. A BRAND",
+      "columns": [
+        "A STORE",
+        "A BRAND"
+      ],
+      "rows": [
+        [
+          "Sells products",
+          "Stands for something"
+        ],
+        [
+          "Known by its address",
+          "Known by its name"
+        ],
+        [
+          "Competes on the shelf",
+          "Competes on identity"
+        ],
+        [
+          "Hard to repeat",
+          "Built to repeat"
+        ]
+      ],
+      "scene": "megaphone",
+      "needsApproval": true,
+      "approvalNote": "Opinion comparison in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting a store and a brand."
+    },
+    {
+      "n": 4,
+      "template": "flow_steps",
+      "kicker": "HOW THE PILLARS CONNECT",
+      "headline": "FROM PROMISE TO MORE LOCATIONS",
+      "flow": [
+        [
+          "MESSAGE",
+          "megaphone"
+        ],
+        [
+          "IDENTITY",
+          "banner-with-star"
+        ],
+        [
+          "OPERATIONS",
+          "gear"
+        ],
+        [
+          "MORE LOCATIONS",
+          "stack-of-storefronts"
+        ]
+      ],
+      "pullLine": "Each pillar holds up the next one.",
+      "scene": "stairs",
+      "needsApproval": true,
+      "approvalNote": "Sequence and pull line are framing.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step flow from message to identity to operations to more locations."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 4-QUESTION IDENTITY CHECK",
+      "rows": [
+        "What do we stand for?",
+        "Can customers repeat it?",
+        "Does the store deliver it?",
+        "Can it travel to a new location?"
+      ],
+      "button": "Comment what your brand stands for",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered identity questions with a gold button asking what the reader's brand stands for."
+    }
+  ],
+  "captionsNeedApproval": "instagram/linkedin: 'A store sells products. A brand stands for something.'; linkedin: 'The identity check I'd use'."
+}

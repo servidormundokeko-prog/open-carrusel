@@ -1,0 +1,148 @@
+{
+  "id": 3,
+  "week": 3,
+  "title": "A name and a claim",
+  "pillar": "Founder lessons",
+  "captions": {
+    "instagram": "Nobody Beats The Wiz. Four words, and one of the most memorable electronics brands in the New York region.\n\nMy father named it after his favorite Broadway musical. The marketing pillars behind it: memorable naming, clear positioning, market visibility and brand consistency.\n\nSave the 4-part brand test on the last slide.\n\n#Branding #Marketing #SmallBusiness\n\nCan you describe your brand in four words?",
+    "facebook": "Nobody Beats The Wiz was named after my father's favorite Broadway musical. It became one of the most memorable electronics brands in the New York region.\n\nSwipe for the four marketing pillars behind it.\n\n#Branding #SmallBusiness\n\nWhat's a store name you still remember from when you were young?",
+    "linkedin": "A name can carry a promise if the business keeps it.\n\nNobody Beats The Wiz was named after my father's favorite Broadway musical, and it became one of the most memorable electronics brands in the New York region.\n\nFour marketing pillars sat behind it: memorable naming, clear positioning, market visibility and brand consistency.\n\nThe test I'd run on any brand: Is the name easy to remember? Is the promise clear? Do people see it often? Is it the same everywhere?\n\n#Branding #Marketing\n\nWhich of the four does your brand do best?",
+    "x": "Nobody Beats The Wiz.\n\nFour words. Named after my father's favorite Broadway musical. One of the most memorable electronics brands in the New York region.\n\nCan you describe your brand in four words?",
+    "threads": "Four words: Nobody Beats The Wiz. My father named it after his favorite Broadway musical.\n\nWhat's your brand in four words?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "FOUR WORDS. ONE OF NEW YORK'S MOST MEMORABLE ELECTRONICS BRANDS.",
+      "subline": "How a name became a promise. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Four words. One of New York's most memorable electronics brands.",
+          "mechanism": "Specificity + authority: a small number, a big result.",
+          "chosen": true
+        },
+        {
+          "text": "Can a store name double as a promise?",
+          "mechanism": "Question: invites comments, less specific."
+        },
+        {
+          "text": "Why a Broadway musical gave a store its name.",
+          "mechanism": "Curiosity gap: pays off on slide 2."
+        }
+      ],
+      "scene": "megaphone",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [],
+      "altText": "Cover headline 'Four words. One of New York's most memorable electronics brands.' over an illustrated gold megaphone."
+    },
+    {
+      "n": 2,
+      "template": "stats_rows",
+      "kicker": "THE NAME",
+      "headline": "NOBODY BEATS THE WIZ",
+      "rows": [
+        [
+          "4 WORDS",
+          "A name and a claim in one line"
+        ],
+        [
+          "BROADWAY",
+          "Named after my father's favorite musical"
+        ],
+        [
+          "NEW YORK",
+          "One of the region's most memorable electronics brands"
+        ]
+      ],
+      "scene": "megaphone",
+      "sourceLine": "Source: stephenjemal.com. Name origin per company histories.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three rows: four words, named after a Broadway musical, one of the most memorable electronics brands in the New York region."
+    },
+    {
+      "n": 3,
+      "template": "stats_grid",
+      "kicker": "THE WIZ MARKETING PILLARS",
+      "headline": "FOUR PILLARS BEHIND THE BRAND",
+      "cards": [
+        [
+          "MEMORABLE NAMING",
+          "A phrase people repeat"
+        ],
+        [
+          "CLEAR POSITIONING",
+          "People know what you stand for"
+        ],
+        [
+          "MARKET VISIBILITY",
+          "Seen often, in the right places"
+        ],
+        [
+          "BRAND CONSISTENCY",
+          "The same promise everywhere"
+        ]
+      ],
+      "scene": "pillars",
+      "sourceLine": "Pillars: stephenjemal.com",
+      "needsApproval": true,
+      "approvalNote": "Pillar names are from stephenjemal.com; the one-line descriptions are framing.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid of the Wiz marketing pillars: memorable naming, clear positioning, market visibility, brand consistency."
+    },
+    {
+      "n": 4,
+      "template": "flow_steps",
+      "kicker": "THE LOOP",
+      "headline": "NAME. PROMISE. EXPERIENCE.",
+      "flow": [
+        [
+          "NAME",
+          "banner-with-star"
+        ],
+        [
+          "PROMISE",
+          "megaphone"
+        ],
+        [
+          "STORE EXPERIENCE",
+          "storefront"
+        ]
+      ],
+      "pullLine": "The promise only works if the store keeps it.",
+      "scene": "storefront",
+      "needsApproval": true,
+      "approvalNote": "Opinion line in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow from name to promise to store experience."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 4-PART BRAND TEST",
+      "rows": [
+        "Is the name easy to remember?",
+        "Is the promise clear?",
+        "Do people see it often?",
+        "Is it the same everywhere?"
+      ],
+      "button": "Comment your brand in four words",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Four numbered brand-test questions with a gold button asking readers for their brand in four words."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson line and 'The test I'd run on any brand'."
+}

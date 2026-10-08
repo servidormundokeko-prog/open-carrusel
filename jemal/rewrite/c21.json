@@ -1,0 +1,154 @@
+{
+  "id": 21,
+  "week": 21,
+  "title": "Brand consistency audit",
+  "pillar": "Scaling and systems (general guidance)",
+  "captions": {
+    "instagram": "Would customers recognize you in every location?\n\nThe audit I'd run: visit as a customer, not as the owner. Check the name and message, the space, the service and the pricing. Then compare and fix.\n\nSave the 6-point brand audit.\n\n#Branding #Retail #SmallBusiness\n\nWhat's your weakest point?",
+    "facebook": "Visit your own store as a customer. Would you recognize the brand from the one across town? I made a 6-point audit to check.\n\n#Branding #SmallBusiness\n\nWhen did you last visit your store as a customer?",
+    "linkedin": "Visit as a customer, not as the owner.\n\nA brand with more than one location lives or dies on whether every store feels familiar. My audit checks four things: name and message, the space, the service standard, and pricing and promotions. Look, compare, fix.\n\nThe six points: name used the same way, message matches in all channels, signage matches, service standard followed, pricing logic consistent, customer feedback reviewed.\n\n#Branding #Operations\n\nWhich point would your locations fail first?",
+    "x": "A 6-point brand audit:\n\n1. Name used the same way\n2. Message matches everywhere\n3. Signage matches\n4. Service standard followed\n5. Pricing logic consistent\n6. Feedback reviewed\n\nI'd start with signage. Which would your stores fail?",
+    "threads": "Visit your own store as a customer. That's the first step of the audit I'd run.\n\nWhat would you notice?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "WOULD CUSTOMERS RECOGNIZE YOU IN EVERY LOCATION?",
+      "subline": "A four-part brand audit. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Would customers recognize you in every location?",
+          "mechanism": "Question + stakes: a test every multi-location owner fears failing.",
+          "chosen": true
+        },
+        {
+          "text": "Visit your own store as a customer. What do you see?",
+          "mechanism": "Story / instruction: vivid, slower."
+        },
+        {
+          "text": "A 4-part audit for brands with more than one location.",
+          "mechanism": "Promise: clear, low tension."
+        }
+      ],
+      "scene": "shield",
+      "sourceLine": "General retail guidance",
+      "attachments": [],
+      "altText": "Cover headline 'Would customers recognize you in every location?' over an illustrated gold shield with a check mark."
+    },
+    {
+      "n": 2,
+      "template": "stats_grid",
+      "kicker": "WHAT TO CHECK",
+      "headline": "FOUR THINGS EVERY LOCATION SHOULD SHARE",
+      "cards": [
+        [
+          "NAME AND MESSAGE",
+          "Same wording everywhere"
+        ],
+        [
+          "SPACE",
+          "Same look and feel"
+        ],
+        [
+          "SERVICE",
+          "Same standard from every team"
+        ],
+        [
+          "PRICING",
+          "Same promotions and pricing logic"
+        ]
+      ],
+      "scene": "row",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid: name and message, space, service, pricing."
+    },
+    {
+      "n": 3,
+      "template": "flow_steps",
+      "kicker": "THE AUDIT",
+      "headline": "LOOK. COMPARE. FIX.",
+      "flow": [
+        [
+          "LOOK",
+          "magnifying-glass"
+        ],
+        [
+          "COMPARE",
+          "scale"
+        ],
+        [
+          "FIX",
+          "gear"
+        ]
+      ],
+      "pullLine": "Visit as a customer, not as the owner.",
+      "scene": "row",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow, look, compare, fix, with a pull line about visiting as a customer."
+    },
+    {
+      "n": 4,
+      "template": "table_compare",
+      "kicker": "THE DIFFERENCE",
+      "headline": "INCONSISTENT VS. CONSISTENT",
+      "columns": [
+        "INCONSISTENT",
+        "CONSISTENT"
+      ],
+      "rows": [
+        [
+          "Each store feels different",
+          "Every store feels familiar"
+        ],
+        [
+          "Mixed signage",
+          "Matched signage"
+        ],
+        [
+          "Service varies",
+          "Service meets one standard"
+        ],
+        [
+          "Offers conflict",
+          "Offers align"
+        ]
+      ],
+      "scene": "shield",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A two-column table contrasting inconsistent and consistent locations."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 6-POINT BRAND AUDIT",
+      "rows": [
+        "Name used the same way",
+        "Message matches in all channels",
+        "Signage matches",
+        "Service standard followed",
+        "Pricing logic consistent",
+        "Customer feedback reviewed"
+      ],
+      "button": "Comment your weakest point",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A six-point numbered brand audit with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/linkedin/x/threads: 'The audit I'd run', 'My audit'."
+}

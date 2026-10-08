@@ -1,0 +1,164 @@
+{
+  "id": 13,
+  "week": 13,
+  "title": "The cross-industry playbook",
+  "pillar": "Founder lessons",
+  "captions": {
+    "instagram": "Retail. Construction. Real estate. Housing technology. My work has crossed four industries, from the Wiz era to JemRock and BUILT®.\n\nThe products changed. The approach traveled: a clear identity, market-gap thinking, repeatable systems and location judgment.\n\nSave the 5-point cross-industry check.\n\n#Entrepreneurship #Leadership #Strategy\n\nWhat carried over from your first industry?",
+    "facebook": "My work has run through retail, construction, real estate and now housing technology with BUILT®. Swipe for what traveled across all four, and what had to change.\n\n#Entrepreneurship #Leadership\n\nHave you switched industries? What surprised you?",
+    "linkedin": "Industries change. The approach travels.\n\nMy work has crossed retail, construction, real estate and housing technology. As the Wiz chain grew, I built an in-house construction and fixture company. After the Wiz, I moved into waterfront revitalization and real estate. Today I lead JemRock Organization and BUILT®.\n\nWhat traveled: a clear identity, market-gap thinking, repeatable systems and location judgment. What changed: the rules (zoning and approvals), the teams and the tools.\n\nFive questions for any new industry: What is the brand promise? What need isn't being served? What can be repeated? Who has to approve it? Which tools make it faster?\n\n#Leadership #Strategy\n\nWhich of these do you find hardest in a new field?",
+    "x": "Retail → construction → real estate → housing tech.\n\nIn my work, the products changed. The approach traveled.\n\nWhat carried over from your first industry into your current one?",
+    "threads": "Four industries in my career. What stayed the same: clear identity, market gaps, repeatable systems, location judgment.\n\nWhat carried over for you?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "RETAIL, CONSTRUCTION, REAL ESTATE, HOUSING TECH. WHAT STAYED THE SAME?",
+      "subline": "The playbook that traveled. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Retail, construction, real estate, housing tech. What stayed the same?",
+          "mechanism": "Specificity + curiosity gap: four real chapters, one open question.",
+          "chosen": true
+        },
+        {
+          "text": "What stays the same when you change industries?",
+          "mechanism": "Question: clear, less specific."
+        },
+        {
+          "text": "The products changed. The approach traveled.",
+          "mechanism": "Contrast: strong, but gives the payoff away."
+        }
+      ],
+      "background": "A glowing gold path running through four stylized CGI scenes in sequence: a storefront, a construction site, an apartment tower and a modern prefab factory, on a dark navy blueprint grid.",
+      "sourceLine": "Source: stephenjemal.com",
+      "attachments": [],
+      "altText": "Cover headline listing retail, construction, real estate and housing tech, asking what stayed the same, over a gold path through four scenes."
+    },
+    {
+      "n": 2,
+      "template": "flow_steps",
+      "kicker": "FOUR CHAPTERS",
+      "headline": "ONE APPROACH ACROSS FOUR INDUSTRIES",
+      "flow": [
+        [
+          "RETAIL",
+          "storefront"
+        ],
+        [
+          "CONSTRUCTION",
+          "hard-hat"
+        ],
+        [
+          "REAL ESTATE",
+          "apartment-building"
+        ],
+        [
+          "HOUSING TECH",
+          "factory"
+        ]
+      ],
+      "cards": [
+        {
+          "accent": "left-border",
+          "title": "THE LINK",
+          "body": "What links the Wiz era to my development work isn't the product. It's the approach."
+        }
+      ],
+      "pullLine": "Industries change. The approach travels.",
+      "scene": "stairs",
+      "sourceLine": "Source: stephenjemal.com",
+      "needsApproval": true,
+      "approvalNote": "The 'link' card and pull line are framing in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A four-step path from retail to construction, real estate and housing tech, with a card on what links them."
+    },
+    {
+      "n": 3,
+      "template": "stats_grid",
+      "kicker": "WHAT CARRIED OVER",
+      "headline": "FOUR THINGS THAT TRAVELED",
+      "cards": [
+        [
+          "CLEAR IDENTITY",
+          "A name people remember"
+        ],
+        [
+          "MARKET GAP THINKING",
+          "Find the need that isn't served"
+        ],
+        [
+          "REPEATABLE SYSTEMS",
+          "From store buildouts to prefab housing"
+        ],
+        [
+          "LOCATION JUDGMENT",
+          "From store sites to waterfront parcels"
+        ]
+      ],
+      "scene": "pillars",
+      "sourceLine": "Examples: stephenjemal.com",
+      "needsApproval": true,
+      "approvalNote": "Which skills 'carried over' is framing; the examples are confirmed facts.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid: clear identity, market gap thinking, repeatable systems, location judgment."
+    },
+    {
+      "n": 4,
+      "template": "cards_stack",
+      "kicker": "WHAT CHANGES",
+      "headline": "NEW INDUSTRY, NEW RULES",
+      "cards": [
+        {
+          "icon": "map-grid",
+          "title": "NEW RULES",
+          "body": "Zoning and approvals decide how land can be used and what a project needs."
+        },
+        {
+          "icon": "clipboard",
+          "title": "NEW TEAMS",
+          "body": "Architects, engineers and city processes all need coordinating."
+        },
+        {
+          "icon": "factory",
+          "title": "NEW TOOLS",
+          "body": "AI, robotics, cloud and laser-guided production in BUILT®."
+        }
+      ],
+      "scene": "blueprint",
+      "sourceLine": "BUILT® per stephenjemal.com",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three cards: new rules from zoning and approvals, new teams to coordinate, and new tools in BUILT."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 5-POINT CROSS-INDUSTRY CHECK",
+      "rows": [
+        "What is the brand promise?",
+        "What need isn't being served?",
+        "What can be repeated?",
+        "Who has to approve it?",
+        "Which tools make it faster?"
+      ],
+      "button": "Comment the question you'd ask first",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "needsApproval": true,
+      "approvalNote": "Framework questions written in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Five numbered questions for entering a new industry, with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "linkedin: opening lesson line; all: 'the approach traveled' framing."
+}

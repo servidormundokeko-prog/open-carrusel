@@ -1,0 +1,165 @@
+{
+  "id": 14,
+  "week": 14,
+  "title": "New-store opening checklist",
+  "pillar": "Scaling and systems (general guidance)",
+  "captions": {
+    "instagram": "Opening another location? This is the checklist I'd want in hand: location, lease, buildout, team, inventory, layout and launch.\n\nGeneral guidance. Have a lawyer review any lease.\n\nSave it for your next opening.\n\n#SmallBusiness #Retail #Operations\n\nWhich step do stores forget most?",
+    "facebook": "Every new location runs on the same checklist. I put it in one carousel: location, lease, buildout, people, product and launch.\n\n#SmallBusiness #Retail\n\nWhat would you add to the list?",
+    "linkedin": "An opening is a project you'll repeat, so write the checklist once and improve it every time.\n\nThe checklist I'd use: location (who shops nearby, how they get there, who competes), lease (rent against expected traffic, term and exit), buildout (design, fixtures, timing), team (hired and trained to one standard), inventory (orders and a backup), layout and one launch message.\n\nAfter opening: compare results with the plan and update the checklist.\n\nGeneral guidance, not legal advice.\n\n#Retail #Operations\n\nWhat's on your opening checklist that most people miss?",
+    "x": "Opening another location? My checklist:\n\nLocation. Lease (with a lawyer). Buildout. Team. Inventory. Layout. Launch message.\n\nThen review and update it.\n\nWhich step gets skipped most?",
+    "threads": "Every new store needs the same checklist. I'd start with location, lease and buildout.\n\nWhich step do you think gets rushed?"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "template": "cover",
+      "kicker": "THE JEMAL BLUEPRINT",
+      "headline": "OPENING YOUR NEXT STORE? SAVE THIS 6-STEP CHECKLIST.",
+      "subline": "Location to launch, in one place. Swipe →",
+      "hookAlternatives": [
+        {
+          "text": "Opening your next store? Save this 6-step checklist.",
+          "mechanism": "Identity + promise: speaks to owners, delivers a save-worthy list.",
+          "chosen": true
+        },
+        {
+          "text": "What do new stores forget before opening day?",
+          "mechanism": "Curiosity gap: good for comments."
+        },
+        {
+          "text": "Opening your second store? Don't skip these 6 steps.",
+          "mechanism": "Stakes: narrower audience."
+        }
+      ],
+      "background": "A row of glowing storefront blueprints on a navy grid, one lit and open, with a gold checklist floating above it.",
+      "sourceLine": "General retail guidance",
+      "attachments": [],
+      "altText": "Cover headline 'Opening your next store? Save this 6-step checklist.' over glowing storefront blueprints with a gold checklist."
+    },
+    {
+      "n": 2,
+      "template": "cards_stack",
+      "kicker": "BEFORE YOU BUILD",
+      "headline": "LOCATION, LEASE, BUILDOUT",
+      "cards": [
+        {
+          "icon": "map-pin",
+          "title": "LOCATION",
+          "checklist": [
+            "Who lives and shops nearby",
+            "How customers reach the site",
+            "Who the competitors are"
+          ]
+        },
+        {
+          "icon": "document",
+          "title": "LEASE",
+          "checklist": [
+            "Rent against expected traffic",
+            "Term, renewal and exit options"
+          ]
+        },
+        {
+          "icon": "blueprint",
+          "title": "BUILDOUT",
+          "checklist": [
+            "Design and fixtures",
+            "Construction timed to opening"
+          ]
+        }
+      ],
+      "scene": "map",
+      "sourceLine": "General guidance, not legal advice",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "Three checklist cards for location, lease and buildout."
+    },
+    {
+      "n": 3,
+      "template": "stats_grid",
+      "kicker": "BEFORE YOU OPEN",
+      "headline": "PEOPLE, PRODUCT, PRESENTATION",
+      "cards": [
+        [
+          "TEAM",
+          "Hired early, trained to one standard"
+        ],
+        [
+          "INVENTORY",
+          "Orders placed, deliveries confirmed, a backup ready"
+        ],
+        [
+          "LAYOUT",
+          "Entrance, flow and displays match the brand"
+        ],
+        [
+          "LAUNCH",
+          "One message across every channel"
+        ]
+      ],
+      "scene": "storefront",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A 2x2 grid: team, inventory, layout and launch, each with a short checklist line."
+    },
+    {
+      "n": 4,
+      "template": "flow_steps",
+      "kicker": "AFTER YOU OPEN",
+      "headline": "OPEN, THEN REVIEW",
+      "flow": [
+        [
+          "PREPARE",
+          "clipboard"
+        ],
+        [
+          "OPEN",
+          "storefront"
+        ],
+        [
+          "REVIEW",
+          "magnifying-glass"
+        ]
+      ],
+      "cards": [
+        {
+          "accent": "left-border",
+          "title": "AFTER THE OPENING",
+          "body": "Compare results with the plan, fix what slipped, and update the checklist for the next store."
+        }
+      ],
+      "scene": "clipboard",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A three-step flow from prepare to open to review, with a card on updating the checklist after opening."
+    },
+    {
+      "n": 5,
+      "template": "numbered_cta",
+      "kicker": "SAVE THIS",
+      "headline": "THE 6-STEP OPENING CHECK",
+      "rows": [
+        "Location confirmed",
+        "Lease reviewed by a lawyer",
+        "Buildout on schedule",
+        "Team trained",
+        "Inventory and layout ready",
+        "Launch message set"
+      ],
+      "button": "Comment the step stores forget most",
+      "followLine": "Follow @StephenJemalNY for the next chapter",
+      "sourceLine": "General guidance, not legal advice",
+      "needsApproval": true,
+      "approvalNote": "General guidance framed in Stephen's voice.",
+      "attachments": [
+        "Image 1 as style reference"
+      ],
+      "altText": "A six-step numbered opening checklist with a gold comment button."
+    }
+  ],
+  "captionsNeedApproval": "instagram/linkedin/x/threads: 'the checklist I'd want / I'd use' attributes the checklist to Stephen."
+}
